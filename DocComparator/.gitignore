@@ -1,0 +1,19 @@
+# Generated data directories (recreated at runtime)
+data/index/
+data/trees/
+data/documents/
+# NOTE: data/uploads/ is intentionally tracked — contains demo documents for quickstart
+
+
+# Environment
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+
+# IDE
+.vscode/
+.idea/
