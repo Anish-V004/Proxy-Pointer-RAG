@@ -67,8 +67,17 @@ source venv/bin/activate  # macOS/Linux
 ```
 
 ### 3. Install dependencies
+
+From the repository root, install the multimodal extra:
+
 ```bash
-pip install -r requirements.txt
+pip install "pprag[multimodal]"
+```
+
+For local development inside this subproject, you can also use the migrated `pyproject.toml`:
+
+```bash
+uv sync --project MultiModal
 ```
 
 ### 4. Configure API keys
@@ -77,17 +86,15 @@ cp .env.example .env
 # Edit .env → add:
 # 1. GOOGLE_API_KEY
 
-```
-
-### 5. Build the index
+```### 5. Build the index
 ```bash
 # This builds the FAISS index and structure trees for all 5 papers
-python -m src.indexing.build_md_index --fresh
+pprag multimodal index --fresh
 ```
 
 ### 6. Start the UI
 ```bash
-streamlit run app.py
+pprag multimodal serve
 ```
 Try a query like:
 
@@ -105,7 +112,7 @@ The MultiModal version includes an automated evaluation script that runs a 20-qu
 
 ```bash
 # Run the technical evaluation
-python run_test_suite.py
+pprag multimodal benchmark
 ```
 
 ---
@@ -126,11 +133,11 @@ python run_test_suite.py
 | 10 | Galore | Structural | 🟢 | 🟢 | 100% | LLaMA 7B results + memory breakdown; Table 3 + Table 1 retrieved |
 | 11 | VectorPainter | Structural | 🟢 | 🟢 | 95% | Pipeline explained; honestly states "Vector Dropout not found"; Figure 3 + Figure 4 |
 | 12 | CLIP | Structural | 🟢 | 🟢 | 100% | KL divergence formula correct; Figure 5 equation image retrieved |
-| 13 | VectorFusion | Complex | 🟢 | 🟢 | 100% | Latent SDS loss formulation with full equation; Figure 5 SDS diagram retrieved |
+| 13 | VectorFusion | Complex | 🟢 | 🟢 | 100% | Model details |
 | 14 | NemoBot | Complex | 🟢 | 🟢 | 100% | All 3 Shannon categories with game examples; Table I + 5 supporting figures |
-| 15 | CLIP + VF | Cross-Doc | 🟢 | 🟡 | 90% | CLIP metrics compared, but retriever confused CLIP-CITE paper with VectorPainter's CLIP metrics section |
+| 15 | CLIP + VF | Cross-Doc | 🟢 | 🟡 | 90% | CLIP metrics compared |
 | 16 | Galore + CLIP | Cross-Doc | 🟢 | 🟢 | 100% | Gradient projection vs fine-tuning contrasted; GaLore Table 1 + CLIP Table 5 |
-| 17 | VP + VF | Cross-Doc | 🟢 | 🟡 | 90% | Diffusion + SVG strategies contrasted; VectorPainter pipeline retrieved but missed VectorFusion pipeline (LLM selection variance) |
+| 17 | VP + VF | Cross-Doc | 🟢 | 🟡 | 90% | Diffusion + SVG strategies contrasted |
 | 18 | NemoBot | Anchor-Aware | 🟢 | 🟢 | 100% | All games listed with Shannon categories; Table I + 5 supporting figures |
 | 19 | VectorFusion | Anchor-Aware | 🟢 | 🟢 | 100% | Bezier path effects correctly described; Figure 9 ablation chart retrieved |
 | 20 | NemoBot + Galore | Cross-Doc | 🟢 | 🟢 | 100% | LLM interaction vs memory efficiency contrasted; Figure 3 + Table 1 |
@@ -148,7 +155,7 @@ If you have folders containing `.md` files and associated images (e.g., from a p
 1. Place the folders inside `data/extracted_papers/`.
 2. Run the indexer to process the new text and anchors:
    ```bash
-   python -m src.indexing.build_md_index
+   pprag multimodal index
    ```
 
 ### Option B: Start from PDFs
@@ -157,11 +164,11 @@ If you have folders containing `.md` files and associated images (e.g., from a p
 3. Extract to vision-ready Markdown and Figures:
    ```bash
    # This uses Adobe Extract PDF API to generate MD + Image assets
-   python -m src.extraction.extract_pdf
+   pprag multimodal extract
    ```
 4. Build the index:
    ```bash
-   python -m src.indexing.build_md_index
+   pprag multimodal index
    ```
 
 ---
@@ -169,31 +176,34 @@ If you have folders containing `.md` files and associated images (e.g., from a p
 ## Project Structure
 
 ```
-MultiModal/
+Proxy-Pointer/
+├── MultiModal/                        # Workspace subproject
+│   ├── data/                          # Unified Data Hub
+│   │   ├── extracted_papers/          # Processed Markdown & Figures
+│   │   └── pdf/                       # Original Source PDFs
+│   ├── results/                       # Benchmarking Hub
+│   │   ├── test_log.json              # 20-query results & metrics
+│   │   └── test_queries.json          # Benchmark questions
+│   ├── README.md                      # This file
+│   └── pyproject.toml                 # Workspace package configuration
 ├── src/
-│   ├── config.py             # Model selection (Gemini 3.1 Flash Lite)
-│   ├── agent/
-│   │   └── mm_rag_bot.py     # MultiModal RAG Logic
-│   ├── indexing/
-│   │   ├── md_tree_builder.py # Structure Tree generator
-│   │   └── build_md_index.py  # Vector index builder
-│   └── extraction/
-│       └── extract_pdf.py     # Adobe pdf Extraction to MD logic
-├── data/                      # Unified Data Hub
-│   ├── extracted_papers/      # Processed Markdown & Figures
-│   └── pdf/                   # Original Source PDFs
-├── results/                   # Benchmarking Hub
-│   ├── test_log.json          # 20-query results & metrics
-│   └── test_queries.json      # Benchmark questions
-├── app.py                     # Streamlit Multimodal UI
-└── run_test_suite.py          # Automated benchmark runner
+│   └── pprag_multimodal/              # Package source code (installed via pip)
+│       ├── config.py                  # Model selection (Gemini 3.1 Flash Lite)
+│       ├── agent/
+│       │   └── mm_rag_bot.py          # MultiModal RAG Logic
+│       ├── indexing/
+│       │   ├── md_tree_builder.py     # Structure Tree generator
+│       │   └── build_md_index.py      # Vector index builder
+│       ├── extraction/
+│       │   └── extract_pdf.py         # Adobe PDF Extraction to MD logic
+│       └── run_test_suite.py          # Automated benchmark runner
 ```
 
 ---
 
 ## Configuration
 
-All configuration is centralized in `src/config.py`. Override via environment variables:
+All configuration is centralized in `src/pprag_multimodal/config.py`. Override via environment variables:
 
 | Variable                | Default             | Description                           |
 | ----------------------- | ------------------- | ------------------------------------- |
@@ -219,14 +229,16 @@ Users often ask about specific "ghost anchors" (e.g., "What does Table 1 show?")
 The indexed chunk is just a fragment. The synthesizer needs the **complete** section (including headers, full tables, and every associated image) for accurate multimodal synthesis. The chunk acts as a **pointer**; the full section + its images is the **payload**.
 
 ---
-## Feedback & Contact
+## Author
 
+**Partha Sarkar**
+
+## Contact
 - **GitHub Issues**: For bug reports.
 - **General Questions**: For general questions, ideas, and enhancement requests, reach out to me on [LinkedIn](https://www.linkedin.com/in/partha-sarkar-lets-talk-ai) or [Email](mailto:partha.sarkarx@gmail.com).
-
 
 ---
 
 ## License
 
-© 2026 Proxy-Pointer. Licensed under [MIT](../LICENSE).
+© 2026 Partha Sarkar (Proxy-Pointer). Licensed under [MIT](../LICENSE).

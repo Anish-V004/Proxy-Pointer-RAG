@@ -8,6 +8,7 @@ __pycache__/
 venv/
 .venv/
 env/
+KGIngestion/ 
 
 # ── Generated Data (each sub-project gitignores its own specifics) ──────
 # Text-Only: data/index/, data/trees/
@@ -16,3 +17,6 @@ env/
 # ── OS ───────────────────────────────────────────────────────────────────
 .DS_Store
 Thumbs.db
+desktop.ini
+Desktop.ini
+

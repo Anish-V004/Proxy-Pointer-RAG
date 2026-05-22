@@ -83,8 +83,17 @@ source venv/bin/activate  # macOS/Linux
 ```
 
 ### 3. Install dependencies
+
+From the repository root, install the comparison extra:
+
 ```bash
-pip install -r requirements.txt
+pip install "pprag[compare]"
+```
+
+For local development inside this subproject, you can also use the migrated `pyproject.toml`:
+
+```bash
+uv sync --project DocComparator
 ```
 
 ### 4. Configure API keys
@@ -97,7 +106,7 @@ cp .env.example .env
 
 ### 5. Start the UI
 ```bash
-streamlit run app.py
+pprag compare serve
 ```
 
 ### 6. Test with pre-loaded documents
@@ -118,32 +127,36 @@ You can upload and compare your own documents! However, please note:
 ## Project Structure
 
 ```text
-DocComparator/
+Proxy-Pointer/
+├── DocComparator/                     # Workspace subproject
+│   ├── data/                          # Unified Data Hub
+│   │   └── uploads/                   # Raw PDFs and test documents
+│   ├── results/                       # Artifact reports for the test cases tried
+│   ├── README.md                      # This file
+│   └── pyproject.toml                 # Workspace package configuration
 ├── src/
-│   ├── comparison/
-│   │   ├── cross_retriever.py    # Stage 2 PP Retrieval (Doc 2)
-│   │   ├── section_comparator.py # Pairwise LLM evaluation engine
-│   │   └── section_selector.py   # Stage 1 PP Retrieval (Doc 1)
-│   ├── extraction/
-│   │   └── extract_pdf_to_md.py  # LlamaParse PDF ingestion & formatting
-│   ├── indexing/
-│   │   └── build_doc_index.py    # Skeleton tree & FAISS vector builder
-│   ├── report/
-│   │   └── report_builder.py     # Markdown report generation logic
-│   ├── validation/
-│   │   └── criteria_validator.py # Persona injection & criteria feasibility
-│   └── config.py                 # Core configurations and model definitions
-├── data/                         # Unified Data Hub
-│   └── uploads/                  # Raw PDFs and test documents
-├── results/                      # Artifact reports for the test cases tried
-└── app.py                        # Streamlit Comparator UI
+│   └── pprag_doc_comparator/          # Package source code (installed via pip)
+│       ├── comparison/
+│       │   ├── cross_retriever.py     # Stage 2 PP Retrieval (Doc 2)
+│       │   ├── section_comparator.py  # Pairwise LLM evaluation engine
+│       │   └── section_selector.py    # Stage 1 PP Retrieval (Doc 1)
+│       ├── extraction/
+│       │   └── extract_pdf_to_md.py   # LlamaParse PDF ingestion & formatting
+│       ├── indexing/
+│       │   └── build_doc_index.py     # Skeleton tree & FAISS vector builder
+│       ├── report/
+│       │   └── report_builder.py      # Markdown report generation logic
+│       ├── validation/
+│       │   └── criteria_validator.py  # Persona injection & criteria feasibility
+│       ├── config.py                  # Core configurations and model definitions
+│       └── app.py                     # Streamlit app code
 ```
 
 ---
 
 ## Configuration
 
-All configuration is centralized in `src/config.py`. Override via environment variables:
+All configuration is centralized in `src/pprag_doc_comparator/config.py`. Override via environment variables:
 
 | Variable                | Default             | Description                           |
 | ----------------------- | ------------------- | ------------------------------------- |
@@ -169,8 +182,10 @@ The engine uses an LLM to evaluate the criteria and the document text. It dynami
 
 ---
 
-## Feedback & Contact
+## Author
+**Partha Sarkar**
 
+## Contact
 - **GitHub Issues**: For bug reports.
 - **General Questions**: For general questions, ideas, and enhancement requests, reach out to me on [LinkedIn](https://www.linkedin.com/in/partha-sarkar-lets-talk-ai) or [Email](mailto:partha.sarkarx@gmail.com).
 
@@ -178,4 +193,4 @@ The engine uses an LLM to evaluate the criteria and the document text. It dynami
 
 ## License
 
-© 2026 Proxy-Pointer. Licensed under [MIT](../LICENSE).
+© 2026 Partha Sarkar (Proxy-Pointer). Licensed under [MIT](../LICENSE).

@@ -12,18 +12,18 @@
 
 ## Three Implementations, One Architecture
 
-| Feature | [Text-Only](./Text-Only) | [MultiModal](./MultiModal) | [DocComparator](./DocComparator) |
-| :--- | :--- | :--- | :--- |
-| **Core Goal** | Maximum precision for text-based RAG | Unified reasoning across text & visuals | Agentic Cross-Document Comparison |
-| **Input** | Structured Markdown (LlamaParse) | Markdown + Figures/Tables (Adobe Extract) | PDF or MD (Mixed format supported) |
-| **Output** | Text-based answers | Text + $\color{#15803d}{\textsf{\textbf{AI-Verified Visual Evidence}}}$ 🖼️ | Side-by-side analytical reports |
-| **LLM** | Gemini 3.1 Flash-Lite | Gemini 3.1 Flash-Lite | Gemini 3 Flash |
-| **Embeddings** | gemini-embedding-001 (1536d) | gemini-embedding-001 (1536d) | gemini-embedding-001 (1536d) |
-| **Vision** | — | ✅ Gemini 3.1 Flash-Lite | — |
-| **Retrieval** | Structural re-ranking (k=5) | Anchor-aware re-ranking + image selection | Multi-Stage Proxy-Pointer retrieval |
-| **Benchmark** | 100% on FinanceBench | 96% across 20-query, 5-paper suite | N/A (Dynamic Agentic Evaluation) |
-| **Use Case** | 10-K Financials, Legal, Documentation | Anything with Images, Diagrams, Charts | Credit Agreements, Contracts, Research Papers |
-| **Interface** | CLI / Python API | Streamlit UI with visual citations | Streamlit UI with markdown export |
+| Feature              | [Text-Only](./Text-Only)                 | [MultiModal](./MultiModal)                                                       | [DocComparator](./DocComparator)                 |
+| :------------------- | :------------------------------------ | :---------------------------------------------------------------------------- | :-------------------------------------------- |
+| **Core Goal**  | Maximum precision for text-based RAG  | Unified reasoning across text & visuals                                       | Agentic Cross-Document Comparison             |
+| **Input**      | Structured Markdown (LlamaParse)      | Markdown + Figures/Tables (Adobe Extract)                                     | PDF or MD (Mixed format supported)            |
+| **Output**     | Text-based answers                    | Text +$\color{#15803d}{\textsf{\textbf{AI-Verified Visual Evidence}}}$ 🖼️ | Side-by-side analytical reports               |
+| **LLM**        | Gemini 3.1 Flash-Lite                 | Gemini 3.1 Flash-Lite                                                         | Gemini 3 Flash                                |
+| **Embeddings** | gemini-embedding-001 (1536d)          | gemini-embedding-001 (1536d)                                                  | gemini-embedding-001 (1536d)                  |
+| **Vision**     | —                                    | ✅ Gemini 3.1 Flash-Lite                                                      | —                                            |
+| **Retrieval**  | Structural re-ranking (k=5)           | Anchor-aware re-ranking + image selection                                     | Multi-Stage Proxy-Pointer retrieval           |
+| **Benchmark**  | 100% on FinanceBench                  | 96% across 20-query, 5-paper suite                                            | N/A (Dynamic Agentic Evaluation)              |
+| **Use Case**   | 10-K Financials, Legal, Documentation | Anything with Images, Diagrams, Charts                                        | Credit Agreements, Contracts, Research Papers |
+| **Interface**  | CLI / Python API                      | Streamlit UI with visual citations                                            | Streamlit UI with markdown export             |
 
 ---
 
@@ -70,17 +70,44 @@ For the full technical story behind the architecture:
 
 ## Quick Start
 
-Each implementation has its own self-contained README with a 5-minute quickstart:
+Install only the modality you need:
+
+```bash
+pip install pprag                 # minimal CLI shell
+pip install "pprag[text]"         # text-only structural RAG
+pip install "pprag[multimodal]"   # multimodal RAG with visual citations
+pip install "pprag[compare]"      # cross-document comparison
+pip install "pprag[full]"         # all modalities
+```
+
+Then choose the workflow from the `pprag` CLI:
+
+```bash
+pprag text index --fresh
+pprag text ask
+
+pprag multimodal index --fresh
+pprag multimodal serve
+
+pprag compare serve
+```
+
+The default install intentionally stays lightweight. If you run a modality without its optional dependencies, the CLI prints the exact extra to install, for example `pip install "pprag[multimodal]"`.
+
+Each implementation also has its own self-contained README with a 5-minute quickstart:
 
 - **[Text-Only → Get Started](./Text-Only/README.md)**
 - **[MultiModal → Get Started](./MultiModal/README.md)**
 - **[DocComparator → Get Started](./DocComparator/README.md)**
 
-All include sample data so you can clone, build the index, and start exploring immediately.
+All include sample data so you can clone, build the index, an start exploring immediately.
 
 ---
 
-## Feedback & Contact
+## Author
+**Partha Sarkar**
+
+## Contact
 
 - **GitHub Issues**: For bug reports
 - **General Questions**: Reach out on [LinkedIn](https://www.linkedin.com/in/partha-sarkar-lets-talk-ai) or [Email](mailto:partha.sarkarx@gmail.com)
@@ -89,4 +116,4 @@ All include sample data so you can clone, build the index, and start exploring i
 
 ## License
 
-© 2026 Proxy-Pointer. Licensed under [MIT](LICENSE).
+© 2026 Partha Sarkar (Proxy-Pointer). Licensed under [MIT](LICENSE).

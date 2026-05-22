@@ -89,8 +89,17 @@ source venv/bin/activate
 
 ### 3. Install dependencies
 
+From the repository root, install the text-only extra:
+
 ```bash
-pip install -r requirements.txt
+pip install "pprag[text]"
+```
+
+For local development, `uv sync --project Text-Only` targets the directory that contains this subproject's `pyproject.toml`. When you mean the workspace member by package name, prefer `uv sync --package pprag-text` (`[project].name` in `Text-Only/pyproject.toml`):
+
+```bash
+uv sync --project Text-Only
+uv sync --package pprag-text
 ```
 
 ### 4. Configure API keys
@@ -104,15 +113,15 @@ cp .env.example .env
 
 To build the FAISS index from scratch for the first time:
 ```bash
-python -m src.indexing.build_pp_index --fresh
+pprag text index --fresh
 ```
 
-*(Note: If you add more documents later, simply run `python -m src.indexing.build_pp_index` without the `--fresh` flag to incrementally append only the new files!)*
+*(Note: If you add more documents later, simply run `pprag text index` without the `--fresh` flag to incrementally append only the new files!)*
 
 ### 6. Start querying
 
 ```bash
-python -m src.agent.pp_rag_bot
+pprag text ask
 ```
 
 Try a query like:
@@ -134,11 +143,11 @@ We provide a robust Comprehensive benchmark that evaluates the bot across all fo
 1. **Copy the remaining documents:** Move all `.md` files from `data/documents/md_files/` into the main `data/documents/` directory.
 2. **Rebuild the index:** Run the indexer from scratch to ensure the bot has the data required to answer questions for the other companies:
    ```bash
-   python -m src.indexing.build_pp_index --fresh
+   pprag text index --fresh
    ```
 3. **Execute the benchmark:** Run the evaluation script against the provided Comprehensive dataset (or replace the path with your own Excel file):
    ```bash
-   python -m src.agent.benchmark "data/Benchmark/Comprehensive k=5/Test_Questions.xlsx"
+   pprag text benchmark "data/Benchmark/Comprehensive k=5/Test_Questions.xlsx"
    ```
 
 ## Adding Your Own Documents
@@ -148,7 +157,7 @@ We provide a robust Comprehensive benchmark that evaluates the bot across all fo
 1. Place `.md` files in `data/documents/`
 2. Run the indexer (uses incremental indexing to only process new files):
    ```bash
-   python -m src.indexing.build_pp_index
+   pprag text index
    ```
    *(Add `--fresh` if you want to completely erase the existing index and rebuild from scratch).*
 
@@ -158,11 +167,11 @@ We provide a robust Comprehensive benchmark that evaluates the bot across all fo
 2. Place PDFs in `data/pdf/`
 3. Extract to markdown:
    ```bash
-   python -m src.extraction.extract_pdf_to_md
+   pprag text extract
    ```
 4. Build the index (incrementally adds the newly extracted PDFs):
    ```bash
-   python -m src.indexing.build_pp_index
+   pprag text index
    ```
 
 ---
@@ -171,36 +180,40 @@ We provide a robust Comprehensive benchmark that evaluates the bot across all fo
 
 ```
 Proxy-Pointer/
+├── Text-Only/                         # Workspace subproject
+│   ├── data/
+│   │   ├── pdf/                       # Source PDFs (4 FinanceBench 10-Ks included)
+│   │   ├── documents/
+│   │   │   ├── AMD.md                 # Pre-extracted — ready for quickstart
+│   │   │   └── md_files/              # Additional Markdown files (AMEX, Boeing, PepsiCo)
+│   │   ├── trees/                     # Structure tree JSONs (auto-generated)
+│   │   ├── index/                     # Generated FAISS index (gitignored)
+│   │   └── Benchmark/                 # Benchmark results and scorecards
+│   │       ├── FinanceBench/          # FinanceBench scorecards (k=3 and k=5)
+│   │       ├── Comprehensive k=5/     # 40-question evaluation logs and scorecards
+│   │       └── Comprehensive k=3/     # 40-question evaluation logs and scorecards
+│   ├── examples/
+│   │   └── sample_queries.md          # Example queries to try
+│   ├── README.md                      # This file
+│   └── pyproject.toml                 # Workspace package configuration
 ├── src/
-│   ├── config.py                      # Centralized configuration
-│   ├── extraction/
-│   │   └── extract_pdf_to_md.py       # PDF → Markdown (LlamaParse)
-│   ├── indexing/
-│   │   ├── build_skeleton_trees.py    # Markdown → structural tree (pure Python)
-│   │   └── build_pp_index.py          # Noise filter + chunking + FAISS indexing
-│   └── agent/
-│       ├── pp_rag_bot.py              # Interactive RAG bot
-│       └── benchmark.py               # Automated benchmarking with LLM-as-a-judge
-├── data/
-│   ├── pdf/                           # Source PDFs (4 FinanceBench 10-Ks included)
-│   ├── documents/
-│   │   ├── AMD.md                     # Pre-extracted — ready for quickstart
-│   │   └── md_files/                  # Additional Markdown files (AMEX, Boeing, PepsiCo)
-│   ├── trees/                         # Structure tree JSONs (auto-generated)
-│   ├── index/                         # Generated FAISS index (gitignored)
-│   └── Benchmark/                     # Benchmark results and scorecards
-│       ├── FinanceBench/              # FinanceBench scorecards (k=3 and k=5)
-│       ├── Comprehensive k=5/         # 40-question evaluation logs and scorecards
-│       └── Comprehensive k=3/         # 40-question evaluation logs and scorecards
-└── examples/
-    └── sample_queries.md              # Example queries to try
+│   └── pprag_text_only/               # Package source code (installed via pip)
+│       ├── config.py                  # Centralized configuration
+│       ├── extraction/
+│       │   └── extract_pdf_to_md.py   # PDF → Markdown (LlamaParse)
+│       ├── indexing/
+│       │   ├── build_skeleton_trees.py# Markdown → structural tree (pure Python)
+│       │   └── build_pp_index.py      # Noise filter + chunking + FAISS indexing
+│       └── agent/
+│           ├── pp_rag_bot.py          # Interactive RAG bot
+│           └── benchmark.py           # Automated benchmarking with LLM-as-a-judge
 ```
 
 ---
 
 ## Configuration
 
-All configuration is centralized in `src/config.py`. Override via environment variables:
+All configuration is centralized in `src/pprag_text_only/config.py`. Override via environment variables:
 
 | Variable                | Default             | Description                           |
 | ----------------------- | ------------------- | ------------------------------------- |
@@ -322,7 +335,10 @@ You can replace each of the following with your preferred tools:
 
 ---
 
-## Feedback & Contact
+## Author
+**Partha Sarkar**
+
+## Contact
 
 For questions, feedback, or to report a bug, please use the following channels:
 
@@ -333,4 +349,4 @@ For questions, feedback, or to report a bug, please use the following channels:
 
 ## License
 
-© 2026 Proxy-Pointer. Licensed under [MIT](../LICENSE).
+© 2026 Partha Sarkar (Proxy-Pointer). Licensed under [MIT](../LICENSE).
