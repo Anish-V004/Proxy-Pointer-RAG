@@ -19,7 +19,8 @@ import json
 import logging
 from collections.abc import Sequence as SequenceABC
 from pathlib import Path
-import PIL.Image as Image
+# pyrefly: ignore [missing-import]
+from PIL import Image
 
 
 import google.generativeai as genai
@@ -166,13 +167,14 @@ CANDIDATES (INDEX | Path | Snippet):
 {candidates_text}
 
 RANKING RULES:
+0. DOCUMENT MATCHING: If the User Query explicitly names a specific document (e.g. 'Paper 1', 'Company A'), absolutely exclude or heavily penalize candidates from other documents.
 1. ANCHOR AWARENESS: If the query mentions a specific anchor like 'Figure 5' or 'Table I', prioritize sections that physically contain that reference.
 2. TECHNICAL SPECIFICITY: Prioritize technical deep-dives (e.g. 'Methodology', 'Experiments') over generic introductions.
 3. CONTEXTUAL RELEVANCE: Match the query's technical terms to the content snippets.
 4. Each INDEX must appear ONLY ONCE.
-5. Output ONLY a comma-separated list of the Top {k_final} unique numeric indices. No text.
+5. Output ONLY a comma-separated list of up to {k_final} unique numeric indices that are actually relevant. If fewer are relevant, output fewer. No text.
 
-Output Example: 4, 12, 0, 9, 2
+Output Example: 4, 12, 0
 """
         try:
             response = self._generate_content(prompt).text.strip()
@@ -266,19 +268,20 @@ Output Example: 4, 12, 0, 9, 2
                             "exists": os.path.exists(full_img_path)
                         })
 
-        # 3. Vision-Aware Synthesis
+        context_str = "\n".join(context_blocks)
         synth_prompt = f"""You are an advanced Multimodal RAG Assistant.
 
 Query: "{query}"
 
 Context:
-{chr(10).join(context_blocks)}
+{context_str}
 
 INSTRUCTIONAL RULES:
 1. Answer the query concisely using ONLY the provided context.
-2. If the context contains a table or figure anchor that answers the query, explicitly mention its ID (e.g. Figure 5).
-3. Do NOT reference internal node IDs (e.g. 'node: 0045') or breadcrumb segments in the body of the answer.
-4. IMAGE SELECTION: If a figure or table mentioned in the context is highly relevant, list its doc-qualified relative path (`doc_id/filename`) and a SHORT caption (including Figure/Table number) in brackets: [SHOW: doc_id/filename | short caption]. Provide ONE image per bracket. Limit to TOP 6 most relevant.
+2. If the query asks about a specific document (e.g. Paper 1), ONLY use context and images from that specific document, ignoring the others.
+3. If the context contains a table or figure anchor that answers the query, explicitly mention its ID (e.g. Figure 5).
+4. Do NOT reference internal node IDs (e.g. 'node: 0045') or breadcrumb segments in the body of the answer.
+5. IMAGE SELECTION: If a figure or table mentioned in the context is relevant to the asked query, list its doc-qualified relative path (`doc_id/filename`) and a SHORT caption (including Figure/Table number) in brackets: [SHOW: doc_id/filename | short caption]. Provide ONE image per bracket. Limit to TOP 6 most relevant.
 
 Output format:
 [Answer Text]

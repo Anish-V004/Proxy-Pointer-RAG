@@ -176,14 +176,15 @@ CANDIDATE HIERARCHIES (INDEX | Full Path):
 {candidates_text}
 
 RANKING RULES:
+0. DOCUMENT MATCHING: If the User Query explicitly names a specific document (e.g. 'Paper 1', 'Company A'), absolutely exclude or heavily penalize candidates from other documents.
 1. Highly Specific Matches (e.g. if query is about 'Chapter 2 questions', a path like 'Chapter 2 > Intro > Questions' is Rank 1).
 2. If specific matches are not found, include similar, partial matches.
-3. If the query is not pointing to any specific chapter or section, look for the most relevant Contextual Matches (e.g. if query is about 'India growth', a path like 'Chapter 1 > Outlook > Country outlooks' is very strong).
+3. If the query is not pointing to any specific chapter or section, look for the most relevant Contextual Matches (e.g. if query is about 'Industry growth', a path like 'Chapter 1 > Outlook > Industry outlook' is very strong).
 4. Structural Priority: Prioritize exact structural anchors (Box 1.1, Figure B1.1) if the query mentions them.
 5. Each INDEX must appear ONLY ONCE. Do not repeat any index.
-6. Output ONLY a comma-separated list of the Top {k_final} unique numeric indices. No text, no explanation.
+6. Output ONLY a comma-separated list of up to {k_final} unique numeric indices that are actually relevant. If fewer are relevant, output fewer. No text, no explanation.
 
-Output Example: 3, 7, 12, 0, 25
+Output Example: 3, 7, 12
 """
         try:
             response = self._generate_content(prompt).text.strip()
@@ -243,11 +244,12 @@ Output Example: 3, 7, 12, 0, 25
             + "\n\n"
             "INSTRUCTIONS:\n"
             "1. Answer the query concisely using ONLY the context above.\n"
-            "2. Do NOT reference any IDs (e.g. 'ID: 0114' or 'node: 0085') anywhere in your answer.\n"
-            "3. At the END of your answer, add a 'Sources:' section listing the breadcrumb paths you used, e.g.:\n"
+            "2. If the query asks about a specific document (e.g. Paper 1), ONLY use context from that specific document, ignoring the others.\n"
+            "3. Do NOT reference any IDs (e.g. 'ID: 0114' or 'node: 0085') anywhere in your answer.\n"
+            "4. At the END of your answer, add a 'Sources:' section listing the breadcrumb paths you used, e.g.:\n"
             "   Sources:\n"
-            "   - AMD > Results of Operations > Data Center\n"
-            "   - AMD > Consolidated Statements of Operations\n"
+            "   - Document 1 > Results of Operations > Data Center\n"
+            "   - Document 1 > Consolidated Statements of Operations\n"
         )
         try:
             response = self._generate_content(synth_prompt)
