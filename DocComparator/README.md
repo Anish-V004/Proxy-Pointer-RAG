@@ -75,28 +75,30 @@ cd Proxy-Pointer-RAG
 cd DocComparator
 ```
 
-### 2. Create virtual environment
+### 2. Install Dependencies
+
+You can install dependencies using standard `pip` or using `uv` (recommended for developers).
+
+#### Option A: Standard pip
+Create a virtual environment first, then install the package:
+
 ```bash
 python -m venv venv
-venv\Scripts\activate  # Windows
-source venv/bin/activate  # macOS/Linux
-```
+# Windows: venv\Scripts\activate | macOS/Linux: source venv/bin/activate
 
-### 3. Install dependencies
-
-From the repository root, install the comparison extra:
-
-```bash
 pip install "pprag[compare]"
 ```
 
-For local development inside this subproject, you can also use the migrated `pyproject.toml`:
+#### Option B: For Developers (using uv)
+If you want to tinker with the code, this project uses [`uv`](https://docs.astral.sh/uv/) for lightning-fast dependency management (`pip install uv`). It handles the virtual environment automatically:
 
 ```bash
 uv sync --project DocComparator
+
+# Remember to prefix commands with `uv run` if you use this method!
 ```
 
-### 4. Configure API keys
+### 3. Configure API keys
 ```bash
 cp .env.example .env
 # Edit .env → add:
@@ -104,20 +106,21 @@ cp .env.example .env
 # 2. LLAMA_CLOUD_API_KEY (For PDF extraction)
 ```
 
-### 5. Start the UI
+### 4. Start the UI
 ```bash
+# Prefix with `uv run` if you installed via Option B
 pprag compare serve
 ```
 
-### 6. Test with pre-loaded documents
+### 5. Test with pre-loaded documents
 Simply upload the `.md` or `.pdf` files from the `data/uploads/` directory directly into the UI. The system will automatically build the necessary indexes, trees, and markdown files on the first run. 
 *   **Legal comparison**: Compare the `Emerson` and `TRoadhouse` credit agreements on criteria like "dispositions" or "representations and warranties".
 *   **Academic comparison**: Compare `VectorFusion` and `VectorPainter` on criteria like "pipeline architecture" or "canvas initialization strategies".
 
-### 7. Test Results
+### 6. Test Results
 If you want to view the output reports without running the system yourself, you can look into the `results/` folder, which contains pre-generated artifact reports for the test cases mentioned above.
 
-### 8. Bring Your Own Documents
+### 7. Bring Your Own Documents
 You can upload and compare your own documents! However, please note:
 *   **Upstream Adjustments**: The extraction script (`extract_pdf_to_md.py`) may need to be adjusted so that the generated markdown captures the proper section heading hierarchy of your specific documents. This is critical for accurate skeleton tree generation and downstream processing.
 *   **Downstream Adjustments**: If your documents are not Legal Contracts or Academic Papers, the `build_comparison_prompt` function and `report_builder.py` may need adjustment to inject the proper persona, logic dampeners, and reporting format for your domain.

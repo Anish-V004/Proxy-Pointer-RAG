@@ -59,41 +59,47 @@ cd Proxy-Pointer-RAG
 cd MultiModal
 ```
 
-### 2. Create virtual environment
+### 2. Install Dependencies
+
+You can install dependencies using standard `pip` or using `uv` (recommended for developers).
+
+#### Option A: Standard pip
+Create a virtual environment first, then install the package:
+
 ```bash
 python -m venv venv
-venv\Scripts\activate  # Windows
-source venv/bin/activate  # macOS/Linux
-```
+# Windows: venv\Scripts\activate | macOS/Linux: source venv/bin/activate
 
-### 3. Install dependencies
-
-From the repository root, install the multimodal extra:
-
-```bash
 pip install "pprag[multimodal]"
 ```
 
-For local development inside this subproject, you can also use the migrated `pyproject.toml`:
+#### Option B: For Developers (using uv)
+If you want to tinker with the code, this project uses [`uv`](https://docs.astral.sh/uv/) for lightning-fast dependency management (`pip install uv`). It handles the virtual environment automatically:
 
 ```bash
 uv sync --project MultiModal
+
+# Remember to prefix commands with `uv run` if you use this method!
 ```
 
-### 4. Configure API keys
+### 3. Configure API keys
 ```bash
 cp .env.example .env
 # Edit .env → add:
 # 1. GOOGLE_API_KEY
 
-```### 5. Build the index
+```
+
+### 4. Build the index
 ```bash
 # This builds the FAISS index and structure trees for all 5 papers
+# (Prefix with `uv run` if you installed via Option B)
 pprag multimodal index --fresh
 ```
 
-### 6. Start the UI
+### 5. Start the UI
 ```bash
+# Prefix with `uv run` if you installed via Option B
 pprag multimodal serve
 ```
 Try a query like:
@@ -112,6 +118,7 @@ The MultiModal version includes an automated evaluation script that runs a 20-qu
 
 ```bash
 # Run the technical evaluation
+# (Prefix with `uv run` if you installed via Option B)
 pprag multimodal benchmark
 ```
 
@@ -155,6 +162,7 @@ If you have folders containing `.md` files and associated images (e.g., from a p
 1. Place the folders inside `data/extracted_papers/`.
 2. Run the indexer to process the new text and anchors:
    ```bash
+   # Prefix with `uv run` if you installed via Option B
    pprag multimodal index
    ```
 
@@ -164,10 +172,12 @@ If you have folders containing `.md` files and associated images (e.g., from a p
 3. Extract to vision-ready Markdown and Figures:
    ```bash
    # This uses Adobe Extract PDF API to generate MD + Image assets
+   # (Prefix with `uv run` if you installed via Option B)
    pprag multimodal extract
    ```
 4. Build the index:
    ```bash
+   # Prefix with `uv run` if you installed via Option B
    pprag multimodal index
    ```
 

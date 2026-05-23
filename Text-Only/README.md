@@ -75,52 +75,51 @@ cd Proxy-Pointer-RAG
 cd Text-Only
 ```
 
-### 2. Create virtual environment (recommended)
+### 2. Install Dependencies
+
+You can install dependencies using standard `pip` or using `uv` (recommended for developers).
+
+#### Option A: Standard pip
+Create a virtual environment first, then install the package:
 
 ```bash
 python -m venv venv
+# Windows: venv\Scripts\activate | macOS/Linux: source venv/bin/activate
 
-# Windows
-venv\Scripts\activate
-
-# macOS / Linux
-source venv/bin/activate
-```
-
-### 3. Install dependencies
-
-From the repository root, install the text-only extra:
-
-```bash
 pip install "pprag[text]"
 ```
 
-For local development, `uv sync --project Text-Only` targets the directory that contains this subproject's `pyproject.toml`. When you mean the workspace member by package name, prefer `uv sync --package pprag-text` (`[project].name` in `Text-Only/pyproject.toml`):
+#### Option B: For Developers (using uv)
+If you want to tinker with the code, this project uses [`uv`](https://docs.astral.sh/uv/) for lightning-fast dependency management (`pip install uv`). It handles the virtual environment automatically:
 
 ```bash
 uv sync --project Text-Only
-uv sync --package pprag-text
+# Or by package name: uv sync --package pprag-text
+
+# Remember to prefix commands with `uv run` if you use this method!
 ```
 
-### 4. Configure API keys
+### 3. Configure API keys
 
 ```bash
 cp .env.example .env
 # Edit .env → add your GOOGLE_API_KEY
 ```
 
-### 5. Build the index
+### 4. Build the index
 
 To build the FAISS index from scratch for the first time:
 ```bash
+# Prefix with `uv run` if you installed via Option B
 pprag text index --fresh
 ```
 
 *(Note: If you add more documents later, simply run `pprag text index` without the `--fresh` flag to incrementally append only the new files!)*
 
-### 6. Start querying
+### 5. Start querying
 
 ```bash
+# Prefix with `uv run` if you installed via Option B
 pprag text ask
 ```
 
@@ -143,10 +142,12 @@ We provide a robust Comprehensive benchmark that evaluates the bot across all fo
 1. **Copy the remaining documents:** Move all `.md` files from `data/documents/md_files/` into the main `data/documents/` directory.
 2. **Rebuild the index:** Run the indexer from scratch to ensure the bot has the data required to answer questions for the other companies:
    ```bash
+   # Prefix with `uv run` if you installed via Option B
    pprag text index --fresh
    ```
 3. **Execute the benchmark:** Run the evaluation script against the provided Comprehensive dataset (or replace the path with your own Excel file):
    ```bash
+   # Prefix with `uv run` if you installed via Option B
    pprag text benchmark "data/Benchmark/Comprehensive k=5/Test_Questions.xlsx"
    ```
 
@@ -157,6 +158,7 @@ We provide a robust Comprehensive benchmark that evaluates the bot across all fo
 1. Place `.md` files in `data/documents/`
 2. Run the indexer (uses incremental indexing to only process new files):
    ```bash
+   # Prefix with `uv run` if you installed via Option B
    pprag text index
    ```
    *(Add `--fresh` if you want to completely erase the existing index and rebuild from scratch).*
@@ -167,10 +169,12 @@ We provide a robust Comprehensive benchmark that evaluates the bot across all fo
 2. Place PDFs in `data/pdf/`
 3. Extract to markdown:
    ```bash
+   # Prefix with `uv run` if you installed via Option B
    pprag text extract
    ```
 4. Build the index (incrementally adds the newly extracted PDFs):
    ```bash
+   # Prefix with `uv run` if you installed via Option B
    pprag text index
    ```
 

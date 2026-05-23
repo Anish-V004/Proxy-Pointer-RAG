@@ -15,7 +15,7 @@ import sys
 import shutil
 import logging
 
-PARSE_VERSION = "v2"
+PARSE_VERSION = "2026-04-09"
 
 from pprag_doc_comparator.config import LLAMA_PARSE_TIER
 
@@ -317,6 +317,11 @@ def _promote_headings(md_path):
         clean_plain = _strip_markup(clean)
         clean_norm = _normalize(clean_plain)
 
+        # Global Length Filter: Ignore paragraphs erroneously marked as headings
+        if len(clean) > 150:
+            new_lines.append(clean)
+            continue
+
         matched = False
 
         # Try full TOC title match
@@ -350,8 +355,19 @@ def _promote_headings(md_path):
                 matched = True
 
         if not matched:
-            # Demote false LlamaParse headings like "# (a)" or "### (i) Title"
-            if re.match(r'^#{1,6}\s*\([a-zA-Z0-9ivxlc]+\)', stripped, re.IGNORECASE):
+            if re.match(r'^ARTICLE\s+([IVXLCDM]+|\d+)\.?\s*$', clean, re.IGNORECASE):
+                new_lines.append(f'# {clean}')
+                promoted += 1
+            elif re.match(r'^SECTION\s+\d+[\./\d]*\.?\s+\S', clean, re.IGNORECASE):
+                new_lines.append(f'## {clean}')
+                promoted += 1
+            elif re.match(r'^\d+\.\d+[\./\d]*\.?\s+\S', clean):
+                new_lines.append(f'## {clean}')
+                promoted += 1
+            # Demote false LlamaParse headings like "# (a)", "### (i)", or excessively long headings (paragraphs)
+            elif re.match(r'^#{1,6}\s*\([a-zA-Z0-9ivxlc]+\)', stripped, re.IGNORECASE):
+                new_lines.append(clean)
+            elif len(clean) > 150 and re.match(r'^#{1,6}\s+', stripped):
                 new_lines.append(clean)
             else:
                 new_lines.append(line)
@@ -371,6 +387,11 @@ def _promote_headings_basic(md_path, lines):
         stripped = line.strip()
         clean = re.sub(r'^#{1,6}\s+', '', stripped)
 
+        # Global Length Filter: Ignore paragraphs erroneously marked as headings
+        if len(clean) > 150:
+            new_lines.append(clean)
+            continue
+
         if re.match(r'^ARTICLE\s+([IVXLCDM]+|\d+)\.?\s*$', clean, re.IGNORECASE):
             new_lines.append(f'# {clean}')
             promoted += 1
@@ -382,8 +403,10 @@ def _promote_headings_basic(md_path, lines):
             new_lines.append(f'## {clean}')
             promoted += 1
         else:
-            # Demote false LlamaParse headings like "# (a)" or "### (i) Title"
+            # Demote false LlamaParse headings like "# (a)", "### (i)", or excessively long headings (paragraphs)
             if re.match(r'^#{1,6}\s*\([a-zA-Z0-9ivxlc]+\)', stripped, re.IGNORECASE):
+                new_lines.append(clean)
+            elif len(clean) > 150 and re.match(r'^#{1,6}\s+', stripped):
                 new_lines.append(clean)
             else:
                 new_lines.append(line)

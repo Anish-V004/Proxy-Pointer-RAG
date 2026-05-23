@@ -14,7 +14,7 @@ import sys
 import logging
 import argparse
 
-PARSE_VERSION = "v2"
+PARSE_VERSION = "2026-04-09"
 
 from pprag_text_only.config import PDF_DIR, DATA_DIR, LLAMA_PARSE_TIER
 

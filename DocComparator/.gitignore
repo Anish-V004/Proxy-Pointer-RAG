@@ -2,6 +2,7 @@
 data/index/
 data/trees/
 data/documents/
+data/output/
 # NOTE: data/uploads/ is intentionally tracked — contains demo documents for quickstart
 
 

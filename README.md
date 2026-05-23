@@ -70,9 +70,13 @@ For the full technical story behind the architecture:
 
 ## Quick Start
 
-Install only the modality you need:
+### For Users (Via PyPI)
+We recommend creating a virtual environment first. Install only the modality you need:
 
 ```bash
+python -m venv venv
+# Windows: .\venv\Scripts\activate | Mac/Linux: source venv/bin/activate
+
 pip install pprag                 # minimal CLI shell
 pip install "pprag[text]"         # text-only structural RAG
 pip install "pprag[multimodal]"   # multimodal RAG with visual citations
@@ -93,6 +97,21 @@ pprag compare serve
 ```
 
 The default install intentionally stays lightweight. If you run a modality without its optional dependencies, the CLI prints the exact extra to install, for example `pip install "pprag[multimodal]"`.
+
+### For Developers (Local Repository)
+If you want to tinker with the code, view the raw prompts, or use the sample data, we recommend cloning the repository. This project uses [`uv`](https://docs.astral.sh/uv/) for lightning-fast dependency management (you can install it via `pip install uv`).
+
+```bash
+git clone https://github.com/partha-sarkar/proxy-pointer.git
+cd proxy-pointer
+
+# Sync the isolated environment with all dependencies (uv creates the venv automatically)
+uv sync --all-extras
+
+# Prefix commands with `uv run` to execute them inside the automatic environment
+uv run pprag text index --fresh
+uv run pprag text ask
+```
 
 Each implementation also has its own self-contained README with a 5-minute quickstart:
 
