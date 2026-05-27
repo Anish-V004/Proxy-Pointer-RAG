@@ -13,8 +13,9 @@ import sys
 import re
 import logging
 import time
+from concurrent.futures import ThreadPoolExecutor
 
-from pprag_doc_comparator.config import LLM_MODEL
+from pprag_doc_comparator.config import COMPARE_CONCURRENCY, LLM_MODEL
 
 import google.generativeai as genai
 
@@ -128,6 +129,54 @@ ANALYSIS: [2-3 sentence explanation focused on PRACTICAL IMPLICATIONS: missing p
         }
 
 
+def compare_section_matches(
+    comparison_prompt,
+    doc1_section,
+    doc2_matches,
+    doc1_name="Doc 1",
+    doc2_name="Doc 2",
+    doc_type="document",
+    max_workers=None,
+):
+    """Compare one Doc 1 section against Doc 2 matches with bounded parallelism.
+
+    Results preserve the input order so report rendering remains deterministic.
+    """
+    if not doc2_matches:
+        return []
+
+    worker_count = max(1, int(max_workers or COMPARE_CONCURRENCY))
+    worker_count = min(worker_count, len(doc2_matches))
+
+    if worker_count == 1:
+        return [
+            compare_sections(
+                comparison_prompt,
+                doc1_section,
+                doc2_match,
+                doc1_name=doc1_name,
+                doc2_name=doc2_name,
+                doc_type=doc_type,
+            )
+            for doc2_match in doc2_matches
+        ]
+
+    with ThreadPoolExecutor(max_workers=worker_count) as executor:
+        futures = [
+            executor.submit(
+                compare_sections,
+                comparison_prompt,
+                doc1_section,
+                doc2_match,
+                doc1_name,
+                doc2_name,
+                doc_type,
+            )
+            for doc2_match in doc2_matches
+        ]
+        return [future.result() for future in futures]
+
+
 def _parse_tagged_response(raw):
     """Parse RATING/EXCERPT/ANALYSIS from tagged text output.
     Handles variations like **RATING:**, bold markers, markdown formatting."""
@@ -167,8 +216,8 @@ def _parse_tagged_response(raw):
     risk_m = re.search(r'RISK\s*:\s*(.*?)(?=ANALYSIS\s*:)', clean, re.DOTALL | re.IGNORECASE)
     risk = risk_m.group(1).strip() if risk_m else ""
 
-    # Extract ANALYSIS (everything after ANALYSIS:)
-    analysis_m = re.search(r'ANALYSIS\s*:\s*(.*)', clean, re.DOTALL | re.IGNORECASE)
+    # Extract ANALYSIS (stop if the LLM hallucinated a second RATING block)
+    analysis_m = re.search(r'ANALYSIS\s*:\s*(.*?)(?=\n\s*RATING\s*:|\n\s*SHARED\s*:|$)', clean, re.DOTALL | re.IGNORECASE)
     analysis = analysis_m.group(1).strip() if analysis_m else ""
 
     # Suppress analysis for aligned sections

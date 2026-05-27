@@ -47,6 +47,7 @@ def build_executive_summary(criteria, doc1_name, doc2_name, doc_type,
     unknown = ratings.get("UNKNOWN", 0)
 
     total = red + yellow + green + unrelated + unknown
+    displayed_comparisons = red + yellow + green
     alignment = (green / total * 100) if total > 0 else 0
 
     return f"""# {doc_type.capitalize()} comparison report
@@ -75,8 +76,8 @@ def build_executive_summary(criteria, doc1_name, doc2_name, doc_type,
       <td style="border: 1px solid #cbd5e1; padding: 12px;">{total_sections}</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #cbd5e1; padding: 12px;">Comparisons Performed</td>
-      <td style="border: 1px solid #cbd5e1; padding: 12px;">{total_comparisons}</td>
+      <td style="border: 1px solid #cbd5e1; padding: 12px;">Relevant Comparisons</td>
+      <td style="border: 1px solid #cbd5e1; padding: 12px;">{displayed_comparisons}</td>
     </tr>
     <tr>
       <td style="border: 1px solid #cbd5e1; padding: 12px;">🔴 Significant Discrepancies</td>

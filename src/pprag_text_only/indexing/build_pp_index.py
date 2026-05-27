@@ -16,37 +16,25 @@ import sys
 import json
 import logging
 import argparse
-from collections.abc import Sequence as SequenceABC
 
 from pprag_text_only.config import (
     DATA_DIR, TREES_DIR, INDEX_DIR,
-    EMBEDDING_MODEL, EMBEDDING_DIMS, NOISE_FILTER_MODEL
+    EMBEDDING_MODEL, EMBEDDING_DIMS, NOISE_FILTER_MODEL,
+    EMBEDDING_BATCH_SIZE, EMBEDDING_BATCH_DELAY,
 )
 from pprag_text_only.indexing.build_skeleton_trees import build_skeleton_trees
 from pprag.faiss_security import require_trusted_faiss_deserialization
+from pprag.gemini_embeddings import (
+    embed_content_with_retry,
+    embed_texts_batched,
+    normalize_embedding_response,
+)
 
 import google.generativeai as genai
 from langchain_community.vectorstores import FAISS
 from langchain_core.embeddings import Embeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_core.documents import Document
-
-
-def _normalize_embeddings(result, expected_count):
-    if not isinstance(result, dict):
-        raise ValueError(f"Unexpected embedding response type: {type(result).__name__}")
-    embeddings = result.get("embeddings", result.get("embedding"))
-    if embeddings is None:
-        raise ValueError(f"Embedding response missing embedding data: {result!r}")
-    if expected_count == 1 and embeddings and isinstance(embeddings[0], (int, float)):
-        return [embeddings]
-    if not isinstance(embeddings, SequenceABC):
-        raise ValueError(f"Embedding response is not a sequence: {result!r}")
-    vectors = list(embeddings)
-    if len(vectors) != expected_count:
-        raise ValueError(f"Expected {expected_count} embedding(s), received {len(vectors)}")
-    return vectors
-
 
 def _node_line_index(node, md_lines, doc_id, node_id):
     try:
@@ -83,21 +71,24 @@ class GeminiEmbeddings(Embeddings):
 
     def embed_documents(self, texts):
         """Embed a list of documents."""
-        result = genai.embed_content(
+        return embed_texts_batched(
+            genai,
+            texts,
             model=self.model,
-            content=texts,
-            output_dimensionality=self.dimensionality
+            output_dimensionality=self.dimensionality,
+            batch_size=EMBEDDING_BATCH_SIZE,
+            batch_delay=EMBEDDING_BATCH_DELAY,
         )
-        return _normalize_embeddings(result, len(texts))
 
     def embed_query(self, text):
         """Embed a single query."""
-        result = genai.embed_content(
+        result = embed_content_with_retry(
+            genai,
             model=self.model,
             content=text,
-            output_dimensionality=self.dimensionality
+            output_dimensionality=self.dimensionality,
         )
-        return _normalize_embeddings(result, 1)[0]
+        return normalize_embedding_response(result, 1)[0]
 
 
 # ── Noise Filter ────────────────────────────────────────────────────────

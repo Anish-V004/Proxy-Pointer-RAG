@@ -75,24 +75,29 @@ cd Proxy-Pointer-RAG
 cd Text-Only
 ```
 
-### 2. Install Dependencies
+### 2. Create Virtual Environment & Install Dependencies
 
-You can install dependencies using standard `pip` or using `uv` (recommended for developers).
-
-#### Option A: Standard pip
-Create a virtual environment first, then install the package:
+We strongly recommend creating a virtual environment first:
 
 ```bash
 python -m venv venv
 # Windows: venv\Scripts\activate | macOS/Linux: source venv/bin/activate
+```
 
+You can then install dependencies using standard `pip` or using `uv` (recommended for developers).
+
+#### Option A: Standard pip
+Install the package:
+
+```bash
 pip install "pprag[text]"
 ```
 
 #### Option B: For Developers (using uv)
-If you want to tinker with the code, this project uses [`uv`](https://docs.astral.sh/uv/) for lightning-fast dependency management (`pip install uv`). It handles the virtual environment automatically:
+If you want to tinker with the code, this project uses [`uv`](https://docs.astral.sh/uv/) for lightning-fast dependency management.
 
 ```bash
+pip install uv
 uv sync --project Text-Only
 # Or by package name: uv sync --package pprag-text
 
@@ -104,6 +109,7 @@ uv sync --project Text-Only
 ```bash
 cp .env.example .env
 # Edit .env → add your GOOGLE_API_KEY
+# Note: Also review other commented variables, especially the FAISS trust settings required for local index loading!
 ```
 
 ### 4. Build the index
@@ -227,6 +233,16 @@ All configuration is centralized in `src/pprag_text_only/config.py`. Override vi
 | `PP_TREES_DIR`        | `data/trees/`     | Structure tree directory              |
 | `PP_INDEX_DIR`        | `data/index/`     | FAISS index directory                 |
 | `PP_RESULTS_DIR`      | `data/results/`   | Benchmark results directory           |
+| `PP_EMBEDDING_BATCH_SIZE` | `20`          | Number of chunks embedded per Gemini request during indexing |
+| `PP_EMBEDDING_BATCH_DELAY` | `1`          | Seconds to wait between embedding batches during indexing |
+
+### Indexing Throughput
+
+The index builder embeds chunks in configurable Gemini batches. Increase
+`PP_EMBEDDING_BATCH_SIZE` to improve indexing throughput on higher quota
+projects. If you see 429 or quota errors, lower the batch size or increase
+`PP_EMBEDDING_BATCH_DELAY`; embedding calls automatically retry transient
+rate-limit failures with exponential backoff.
 
 ---
 

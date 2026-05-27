@@ -37,7 +37,7 @@ RESULTS_DIR = os.getenv("PP_RESULTS_DIR", os.path.join(BASE_DIR, "results"))
 # ── Model Config ────────────────────────────────────────────────────────
 EMBEDDING_MODEL    = "models/gemini-embedding-001"
 EMBEDDING_DIMS     = 1536
-NOISE_FILTER_MODEL = "gemini-3.1-flash-lite-preview"
+NOISE_FILTER_MODEL = "gemini-3.1-flash-lite"
 SYNTH_MODEL        = "gemini-3.5-flash"
 VISION_FILTER      = False # Set to True for high-fidelity image verification (adds ~30s latency)
 EMBEDDING_BATCH_SIZE = int(os.getenv("PP_EMBEDDING_BATCH_SIZE", "20"))

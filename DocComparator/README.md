@@ -75,24 +75,29 @@ cd Proxy-Pointer-RAG
 cd DocComparator
 ```
 
-### 2. Install Dependencies
+### 2. Create Virtual Environment & Install Dependencies
 
-You can install dependencies using standard `pip` or using `uv` (recommended for developers).
-
-#### Option A: Standard pip
-Create a virtual environment first, then install the package:
+We strongly recommend creating a virtual environment first:
 
 ```bash
 python -m venv venv
 # Windows: venv\Scripts\activate | macOS/Linux: source venv/bin/activate
+```
 
+You can then install dependencies using standard `pip` or using `uv` (recommended for developers).
+
+#### Option A: Standard pip
+Install the package:
+
+```bash
 pip install "pprag[compare]"
 ```
 
 #### Option B: For Developers (using uv)
-If you want to tinker with the code, this project uses [`uv`](https://docs.astral.sh/uv/) for lightning-fast dependency management (`pip install uv`). It handles the virtual environment automatically:
+If you want to tinker with the code, this project uses [`uv`](https://docs.astral.sh/uv/) for lightning-fast dependency management.
 
 ```bash
+pip install uv
 uv sync --project DocComparator
 
 # Remember to prefix commands with `uv run` if you use this method!
@@ -104,6 +109,7 @@ cp .env.example .env
 # Edit .env → add:
 # 1. GOOGLE_API_KEY
 # 2. LLAMA_CLOUD_API_KEY (For PDF extraction)
+# Note: Also review other commented variables, especially the FAISS trust settings required for local index loading!
 ```
 
 ### 4. Start the UI
@@ -169,6 +175,25 @@ All configuration is centralized in `src/pprag_doc_comparator/config.py`. Overri
 | `DC_DOCUMENTS_DIR`    | `data/documents/`   | Processed Markdown source directory   |
 | `DC_TREES_DIR`        | `data/trees/`       | Structure tree directory              |
 | `DC_INDEX_DIR`        | `data/index/`       | FAISS index directory                 |
+| `DC_EMBEDDING_BATCH_SIZE` | `20`            | Number of chunks embedded per Gemini request during indexing |
+| `DC_EMBEDDING_BATCH_DELAY` | `1`            | Seconds to wait between embedding batches during indexing |
+| `DC_COMPARE_CONCURRENCY` | `3`              | Maximum parallel LLM section comparisons per selected Doc 1 section |
+
+### Indexing Throughput
+
+DocComparator builds a shared FAISS index for the uploaded documents. Embedding
+requests are batched and retried on transient quota errors. Increase
+`DC_EMBEDDING_BATCH_SIZE` for faster indexing when quota allows it; lower the
+batch size or increase `DC_EMBEDDING_BATCH_DELAY` if Gemini returns 429 or
+resource-exhausted responses.
+
+### Comparison Latency
+
+DocComparator compares each selected Doc 1 section against up to
+`MAX_DOC2_MATCHES` retrieved Doc 2 sections. These comparison calls now run with
+bounded concurrency controlled by `DC_COMPARE_CONCURRENCY`, while preserving
+input order in the final report. Lower the value if you hit LLM rate limits;
+increase it if your quota allows more parallel requests.
 
 ---
 

@@ -188,6 +188,22 @@ def resolve_md_path_for_doc_id(doc_id, data_dir=None):
     return None
 
 
+@lru_cache(maxsize=128)
+def _read_md_lines_cached(md_path, mtime_ns, size):
+    with open(md_path, "r", encoding="utf-8") as fh:
+        return tuple(fh.readlines())
+
+
+def read_md_lines_cached(md_path):
+    """Read Markdown lines with an mtime/size-aware cache."""
+    try:
+        stat = os.stat(md_path)
+        return list(_read_md_lines_cached(md_path, stat.st_mtime_ns, stat.st_size))
+    except OSError as exc:
+        logging.warning("Unable to read markdown file %s: %s", md_path, exc)
+        return None
+
+
 def load_full_section_text(doc_id, start_line, end_line, data_dir=None, md_path=None):
     """Load the full section text from the .md file using line ranges."""
     if data_dir is None:
@@ -197,11 +213,8 @@ def load_full_section_text(doc_id, start_line, end_line, data_dir=None, md_path=
     if md_path is None:
         return None
 
-    try:
-        with open(md_path, "r", encoding="utf-8") as fh:
-            lines = fh.readlines()
-    except OSError as exc:
-        logging.warning("Unable to read markdown file %s: %s", md_path, exc)
+    lines = read_md_lines_cached(md_path)
+    if lines is None:
         return None
 
     try:

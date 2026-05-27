@@ -23,10 +23,16 @@ from pathlib import Path
 from pprag_doc_comparator.config import (
     DOCUMENTS_DIR, TREES_DIR, INDEX_DIR,
     EMBEDDING_MODEL, EMBEDDING_DIMS, LLM_MODEL,
-    CHUNK_SIZE, CHUNK_OVERLAP
+    CHUNK_SIZE, CHUNK_OVERLAP,
+    EMBEDDING_BATCH_SIZE, EMBEDDING_BATCH_DELAY,
 )
 from pprag_doc_comparator.indexing.build_skeleton_trees import build_skeleton_trees
 from pprag.faiss_security import require_trusted_faiss_deserialization
+from pprag.gemini_embeddings import (
+    embed_content_with_retry,
+    embed_texts_batched,
+    normalize_embedding_response,
+)
 
 import google.generativeai as genai
 from langchain_community.vectorstores import FAISS
@@ -52,41 +58,26 @@ class GeminiEmbeddings(Embeddings):
         self.model = model
         self.dimensionality = dimensionality
 
-    def _embed_with_retry(self, **kwargs):
-        """Helper to retry API calls on 429 Resource Exhausted."""
-        max_retries = 5
-        base_delay = 2.0
-
-        for attempt in range(max_retries):
-            try:
-                return genai.embed_content(**kwargs)
-            except Exception as e:
-                if "429" in str(e) or "Resource exhausted" in str(e):
-                    if attempt == max_retries - 1:
-                        raise e
-                    delay = base_delay * (2 ** attempt)
-                    logging.warning(f"Rate limit hit during embedding. Retrying in {delay}s...")
-                    time.sleep(delay)
-                else:
-                    raise e
-
     def embed_documents(self, texts):
         """Embed a list of documents."""
-        result = self._embed_with_retry(
+        return embed_texts_batched(
+            genai,
+            texts,
             model=self.model,
-            content=texts,
-            output_dimensionality=self.dimensionality
+            output_dimensionality=self.dimensionality,
+            batch_size=EMBEDDING_BATCH_SIZE,
+            batch_delay=EMBEDDING_BATCH_DELAY,
         )
-        return result['embedding']
 
     def embed_query(self, text):
         """Embed a single query."""
-        result = self._embed_with_retry(
+        result = embed_content_with_retry(
+            genai,
             model=self.model,
             content=text,
-            output_dimensionality=self.dimensionality
+            output_dimensionality=self.dimensionality,
         )
-        return result['embedding']
+        return normalize_embedding_response(result, 1)[0]
 
 
 # ── Noise Filter ────────────────────────────────────────────────────────

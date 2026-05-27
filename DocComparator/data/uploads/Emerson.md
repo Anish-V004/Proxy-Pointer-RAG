@@ -1196,7 +1196,7 @@ EX-10.1
 
 2.19.11 <u>Facility LC Collateral Account</u>. Each Borrower agrees that it will, upon the request of the Agent or the Required Lenders made during the existence of an Event of Default and until the earlier of (a) the date on which such Event of Default shall have been waived or cured and (b) the date on which all LC Obligations shall have been paid in full, maintain a special collateral account pursuant to arrangements satisfactory to the Agent (the “<u>Facility LC Collateral Account</u>”) at the Agent’s office at the address specified pursuant to <u>Section 9.01</u>, in the name of such Borrower but under the sole dominion and control of the Agent, for the benefit of the Lenders and the LC Issuers and in which such Borrower shall have no interest other than as set forth in <u>Section 6.03</u>. Each Borrower hereby pledges, assigns and grants to the Agent, on behalf of and for the ratable benefit of the Lenders and the LC Issuers, a security interest in all of such Borrower’s right, title and interest in and to all funds which may from time to time be on deposit in the Facility LC Collateral Account (if any) to secure the prompt and complete payment and performance of the Obligations. The Agent will invest any funds on deposit from time to time in the Facility LC Collateral Account (if any) in certificates of deposit of JPMCB having a maturity not exceeding 30 days. Nothing in this <u>Section 2.19.11</u> shall either obligate the Agent to require any Borrower to deposit any funds in the Facility LC Collateral Account (if any) or limit the right of the Agent to release any funds held in the Facility LC Collateral Account (if any) in each case other than as required by <u>Section 6.03</u>.
 
-2.19.12 <u>Rights as a Lender</u>. In its capacity as a Lender, each LC Issuer shall have the same rights and obligations as any other Lender.
+## 2.19.12 <u>Rights as a Lender</u>. In its capacity as a Lender, each LC Issuer shall have the same rights and obligations as any other Lender.
 
 2.19.13 <u>Applicability of ISP and UCP</u>. Unless otherwise expressly agreed by the applicable LC Issuer and the applicable Borrower when a Facility LC is issued the rules of the ISP shall apply to each standby Facility LC and the rules of the UCP shall apply to each commercial Facility LC.
 
@@ -1670,7 +1670,7 @@ None of the Lenders, if any, identified on the facing page of this Agreement as 
 
 ## Section 8.01 Basis for Determining Interest Rate Inadequate or Unfair; Alternate Rate of Interest
 
-8.01.1 If on or prior to the first day of any Interest Period for any Eurocurrency Loan in any Agreed Currency:
+## 8.01.1 If on or prior to the first day of any Interest Period for any Eurocurrency Loan in any Agreed Currency:
 
 (a) the Agent is advised by Lenders having 50% or more of the aggregate amount of the Commitments that deposits in such Agreed Currency (in the applicable amounts) are not being offered to such Lenders in the relevant market for such Interest Period, or
 

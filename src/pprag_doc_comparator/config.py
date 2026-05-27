@@ -45,7 +45,11 @@ LLAMA_PARSE_TIER = os.getenv("LLAMA_PARSE_TIER", "cost_effective")
 # ── Models ──────────────────────────────────────────────────────────────
 EMBEDDING_MODEL    = "models/gemini-embedding-001"
 EMBEDDING_DIMS     = 1536
-LLM_MODEL          = os.getenv("DC_LLM_MODEL", "gemini-3.1-flash-lite-preview")
+LLM_MODEL          = os.getenv("DC_LLM_MODEL", "gemini-3.1-flash-lite")
+
+# ── Embedding Throughput ────────────────────────────────────────────────
+EMBEDDING_BATCH_SIZE = int(os.getenv("DC_EMBEDDING_BATCH_SIZE", "20"))
+EMBEDDING_BATCH_DELAY = float(os.getenv("DC_EMBEDDING_BATCH_DELAY", "1"))
 
 # ── Chunking ────────────────────────────────────────────────────────────
 CHUNK_SIZE    = 2000
@@ -54,3 +58,4 @@ CHUNK_OVERLAP = 200
 # ── Comparison Limits ──────────────────────────────────────────────────
 MAX_DOC1_SECTIONS = 10
 MAX_DOC2_MATCHES  = 3
+COMPARE_CONCURRENCY = max(1, int(os.getenv("DC_COMPARE_CONCURRENCY", "3")))

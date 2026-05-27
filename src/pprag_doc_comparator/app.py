@@ -38,7 +38,7 @@ from pprag_doc_comparator.comparison.section_selector import (
 )
 from pprag_doc_comparator.comparison.cross_retriever import retrieve_matching_sections
 from pprag_doc_comparator.comparison.section_comparator import (
-    compare_sections, extract_rating
+    compare_section_matches, extract_rating
 )
 from pprag_doc_comparator.report.report_builder import (
     build_executive_summary, build_section_block,
@@ -510,24 +510,25 @@ if st.session_state.get("is_running", False) and doc1_file and doc2_file and st.
             logging.info(f"  [SKIP] No Doc 2 equivalents found for: {doc1_sec.get('title')}")
             continue
 
-        # Compare each Doc 2 match
+        # Compare Doc 2 matches concurrently with bounded workers. The helper
+        # preserves input order so report rendering stays deterministic.
+        update_progress(
+            sec_pct + int(comparison_range_pct / num_sections),
+            f"📋 Comparing {len(doc2_matches)} match(es) for {doc1_sec.get('title', '')}..."
+        )
+        raw_results = compare_section_matches(
+            comparison_prompt,
+            doc1_sec,
+            doc2_matches,
+            doc1_name=doc1_name,
+            doc2_name=doc2_name,
+            doc_type=doc_type,
+        )
+
         comparison_results = []
-        for match_idx, doc2_match in enumerate(doc2_matches):
-            update_progress(
-                sec_pct + int(
-                    ((match_idx + 1) / len(doc2_matches)) *
-                    (comparison_range_pct / num_sections)
-                ),
-                f"📋 {doc1_sec.get('title', '')} vs {doc2_match.get('title', '')}..."
-            )
-
-            result = compare_sections(comparison_prompt, doc1_sec, doc2_match, doc1_name=doc1_name, doc2_name=doc2_name, doc_type=doc_type)
+        for result, doc2_match in zip(raw_results, doc2_matches):
             rating = extract_rating(result)
-
-            # Keep both the result and the matched doc2 section aligned
             comparison_results.append((result, doc2_match))
-
-            # Track ratings
             all_ratings[rating] = all_ratings.get(rating, 0) + 1
             total_comparisons += 1
 

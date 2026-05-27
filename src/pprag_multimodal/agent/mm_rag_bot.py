@@ -115,6 +115,9 @@ class MultimodalProxyPointerRAG:
         # 3. Initialize models
         self.llm = genai.GenerativeModel(SYNTH_MODEL)
         self.llm_timeout = float(os.getenv("PPRAG_LLM_TIMEOUT", "120"))
+        self._md_path_cache = {}
+        self._md_lines_cache = {}
+        self._tree_node_cache = {}
 
     def _generate_content(self, *args, **kwargs):
         try:
@@ -127,6 +130,55 @@ class MultimodalProxyPointerRAG:
 
     # ── RAG Pipeline Features ────────────────────────────────────────────────
     VISION_FILTER = VISION_FILTER  # Controlled from config.py
+
+    @staticmethod
+    def _index_tree_nodes(node_list):
+        node_map = {}
+        for node in node_list:
+            node_id = node.get("node_id")
+            if node_id:
+                node_map[node_id] = node
+            if node.get("nodes"):
+                node_map.update(MultimodalProxyPointerRAG._index_tree_nodes(node["nodes"]))
+        return node_map
+
+    def _get_md_path(self, doc_id):
+        if doc_id not in self._md_path_cache:
+            self._md_path_cache[doc_id] = get_md_path_for_doc(self.dataset_dir, doc_id)
+        return self._md_path_cache[doc_id]
+
+    def _get_md_lines(self, doc_id):
+        if doc_id in self._md_lines_cache:
+            return self._md_lines_cache[doc_id]
+
+        md_path = self._get_md_path(doc_id)
+        if not md_path:
+            self._md_lines_cache[doc_id] = None
+            return None
+
+        try:
+            with open(md_path, "r", encoding="utf-8") as f:
+                lines = f.readlines()
+        except (OSError, UnicodeDecodeError) as exc:
+            logging.warning("Unable to load markdown context for %s: %s", doc_id, exc)
+            lines = None
+        self._md_lines_cache[doc_id] = lines
+        return lines
+
+    def _get_tree_node_map(self, doc_id):
+        if doc_id in self._tree_node_cache:
+            return self._tree_node_cache[doc_id]
+
+        tree_path = os.path.join(self.trees_dir, f"{doc_id}_structure.json")
+        try:
+            with open(tree_path, "r", encoding="utf-8") as f:
+                tree_data = json.load(f)
+            node_map = self._index_tree_nodes(tree_data.get("structure", []))
+        except (OSError, json.JSONDecodeError) as exc:
+            logging.warning("Unable to load tree context for %s: %s", doc_id, exc)
+            node_map = {}
+        self._tree_node_cache[doc_id] = node_map
+        return node_map
 
     def retrieve_unique_nodes(self, query, k_search=200, k_final=5):
         """Stage 1: Broad vector recall → Stage 2: LLM structural re-ranking."""
@@ -206,67 +258,42 @@ Output Example: 4, 12, 0
 
         for p in pointers:
             # 1. Load full markdown text
-            md_path = get_md_path_for_doc(self.dataset_dir, p['doc_id'])
-            if md_path:
-                try:
-                    with open(md_path, "r", encoding="utf-8") as f:
-                        lines = f.readlines()
-                    start = _parse_non_negative_int(p['full_metadata'].get("start_line", 0))
-                    end = _parse_non_negative_int(p['full_metadata'].get("end_line", start))
-                    safe_start = max(0, min(len(lines), start))
-                    safe_end = max(safe_start, min(len(lines), end))
-                    section_text = "".join(lines[safe_start:safe_end]) or p['snippet']
-                except (OSError, UnicodeDecodeError) as exc:
-                    logging.warning("Unable to load markdown context for %s: %s", p['doc_id'], exc)
-                    section_text = f"(Full text unavailable) {p['snippet']}"
+            lines = self._get_md_lines(p['doc_id'])
+            if lines:
+                start = _parse_non_negative_int(p['full_metadata'].get("start_line", 0))
+                end = _parse_non_negative_int(p['full_metadata'].get("end_line", start))
+                safe_start = max(0, min(len(lines), start))
+                safe_end = max(safe_start, min(len(lines), end))
+                section_text = "".join(lines[safe_start:safe_end]) or p['snippet']
             else:
                 section_text = f"(Full text missing) {p['snippet']}"
 
             context_blocks.append(f"### REFERENCE: {p['doc_id']} > {p['breadcrumb']}\n{section_text}")
 
             # 2. Extract specific image anchors from tree JSON
-            tree_path = os.path.join(self.trees_dir, f"{p['doc_id']}_structure.json")
-            if os.path.exists(tree_path):
-                try:
-                    with open(tree_path, "r", encoding="utf-8") as f:
-                        tree_data = json.load(f)
-                except (OSError, json.JSONDecodeError) as exc:
-                    logging.warning("Unable to load tree context for %s: %s", p['doc_id'], exc)
-                    tree_data = {}
+            target_node = self._get_tree_node_map(p['doc_id']).get(p['node_id'])
+            if target_node and target_node.get("figures"):
+                doc_folder = os.path.join(self.dataset_dir, p['doc_id'])
+                for fig in target_node["figures"]:
+                    safe_img_path = _safe_join_under(doc_folder, fig.get("filename"))
+                    if safe_img_path is None:
+                        logging.warning("Skipping unsafe figure path for %s: %r", p['doc_id'], fig.get("filename"))
+                        continue
+                    try:
+                        rel_path = os.path.join(p['doc_id'], os.path.relpath(safe_img_path, doc_folder)).replace("\\", "/")
+                    except ValueError:
+                        rel_path = os.path.join(p['doc_id'], os.path.basename(safe_img_path)).replace("\\", "/")
+                    full_img_path = safe_img_path.replace("\\", "/")
 
-                def _find_node(node_list, target_id):
-                    for node in node_list:
-                        if node.get("node_id") == target_id:
-                            return node
-                        if node.get("nodes"):
-                            found = _find_node(node["nodes"], target_id)
-                            if found:
-                                return found
-                    return None
+                    clean_doc_id = str(p['doc_id']).strip()
+                    clean_fig_label = str(fig.get('label', 'Figure')).strip()
 
-                target_node = _find_node(tree_data.get("structure", []), p['node_id'])
-                if target_node and target_node.get("figures"):
-                    doc_folder = os.path.join(self.dataset_dir, p['doc_id'])
-                    for fig in target_node["figures"]:
-                        safe_img_path = _safe_join_under(doc_folder, fig.get("filename"))
-                        if safe_img_path is None:
-                            logging.warning("Skipping unsafe figure path for %s: %r", p['doc_id'], fig.get("filename"))
-                            continue
-                        try:
-                            rel_path = os.path.join(p['doc_id'], os.path.relpath(safe_img_path, doc_folder)).replace("\\", "/")
-                        except ValueError:
-                            rel_path = os.path.join(p['doc_id'], os.path.basename(safe_img_path)).replace("\\", "/")
-                        full_img_path = safe_img_path.replace("\\", "/")
-
-                        clean_doc_id = str(p['doc_id']).strip()
-                        clean_fig_label = str(fig.get('label', 'Figure')).strip()
-
-                        found_images.append({
-                            "label": f"{clean_doc_id} - {clean_fig_label}",
-                            "relative_path": rel_path,
-                            "full_path": full_img_path,
-                            "exists": os.path.exists(full_img_path)
-                        })
+                    found_images.append({
+                        "label": f"{clean_doc_id} - {clean_fig_label}",
+                        "relative_path": rel_path,
+                        "full_path": full_img_path,
+                        "exists": os.path.exists(full_img_path)
+                    })
 
         context_str = "\n".join(context_blocks)
         synth_prompt = f"""You are an advanced Multimodal RAG Assistant.

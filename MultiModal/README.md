@@ -59,24 +59,29 @@ cd Proxy-Pointer-RAG
 cd MultiModal
 ```
 
-### 2. Install Dependencies
+### 2. Create Virtual Environment & Install Dependencies
 
-You can install dependencies using standard `pip` or using `uv` (recommended for developers).
-
-#### Option A: Standard pip
-Create a virtual environment first, then install the package:
+We strongly recommend creating a virtual environment first:
 
 ```bash
 python -m venv venv
 # Windows: venv\Scripts\activate | macOS/Linux: source venv/bin/activate
+```
 
+You can then install dependencies using standard `pip` or using `uv` (recommended for developers).
+
+#### Option A: Standard pip
+Install the package:
+
+```bash
 pip install "pprag[multimodal]"
 ```
 
 #### Option B: For Developers (using uv)
-If you want to tinker with the code, this project uses [`uv`](https://docs.astral.sh/uv/) for lightning-fast dependency management (`pip install uv`). It handles the virtual environment automatically:
+If you want to tinker with the code, this project uses [`uv`](https://docs.astral.sh/uv/) for lightning-fast dependency management.
 
 ```bash
+pip install uv
 uv sync --project MultiModal
 
 # Remember to prefix commands with `uv run` if you use this method!
@@ -87,7 +92,7 @@ uv sync --project MultiModal
 cp .env.example .env
 # Edit .env → add:
 # 1. GOOGLE_API_KEY
-
+# Note: Also review other commented variables, especially the FAISS trust settings required for local index loading!
 ```
 
 ### 4. Build the index

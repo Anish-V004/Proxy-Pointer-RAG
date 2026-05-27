@@ -68,15 +68,32 @@ For the full technical story behind the architecture:
 
 ---
 
-## Quick Start
+## 5-Minute Quickstart
 
-### For Users (Via PyPI)
-We recommend creating a virtual environment first. Install only the modality you need:
+> **Important Note for PyPI Users:** While installing via PyPI (`pip install pprag`) gives you the CLI and code, the application relies on specific local folder structures (like `data/`) and environment variable templates. We strongly recommend cloning the repository first to get the necessary `.env.example` templates and sample data folders for each workflow.
+
+### 1. Clone
+
+```bash
+git clone https://github.com/Proxy-Pointer/Proxy-Pointer-RAG.git
+cd Proxy-Pointer-RAG
+```
+
+### 2. Create Virtual Environment & Install Dependencies
+
+We strongly recommend creating a virtual environment first:
 
 ```bash
 python -m venv venv
-# Windows: .\venv\Scripts\activate | Mac/Linux: source venv/bin/activate
+# Windows: venv\Scripts\activate | macOS/Linux: source venv/bin/activate
+```
 
+You can then install dependencies using standard `pip` or using `uv` (recommended for developers).
+
+#### Option A: Standard pip
+Install the package and your desired modality:
+
+```bash
 pip install pprag                 # minimal CLI shell
 pip install "pprag[text]"         # text-only structural RAG
 pip install "pprag[multimodal]"   # multimodal RAG with visual citations
@@ -84,42 +101,54 @@ pip install "pprag[compare]"      # cross-document comparison
 pip install "pprag[full]"         # all modalities
 ```
 
-Then choose the workflow from the `pprag` CLI:
+#### Option B: For Developers (using uv)
+If you want to tinker with the code, this project uses [`uv`](https://docs.astral.sh/uv/) for lightning-fast dependency management.
 
 ```bash
-pprag text index --fresh
-pprag text ask
-
-pprag multimodal index --fresh
-pprag multimodal serve
-
-pprag compare serve
-```
-
-The default install intentionally stays lightweight. If you run a modality without its optional dependencies, the CLI prints the exact extra to install, for example `pip install "pprag[multimodal]"`.
-
-### For Developers (Local Repository)
-If you want to tinker with the code, view the raw prompts, or use the sample data, we recommend cloning the repository. This project uses [`uv`](https://docs.astral.sh/uv/) for lightning-fast dependency management (you can install it via `pip install uv`).
-
-```bash
-git clone https://github.com/partha-sarkar/proxy-pointer.git
-cd proxy-pointer
-
-# Sync the isolated environment with all dependencies (uv creates the venv automatically)
+pip install uv
 uv sync --all-extras
-
-# Prefix commands with `uv run` to execute them inside the automatic environment
-uv run pprag text index --fresh
-uv run pprag text ask
+# Remember to prefix commands with `uv run` if you use this method!
 ```
 
-Each implementation also has its own self-contained README with a 5-minute quickstart:
+### 3. Configure API keys
+
+Navigate into the folder for the modality you want to run (e.g., `Text-Only`, `MultiModal`, or `DocComparator`), copy the template, and add your API keys:
+
+```bash
+cd Text-Only
+cp .env.example .env
+# Edit .env → add your GOOGLE_API_KEY
+# Note: Also review other commented variables, especially the FAISS trust settings required for local index loading!
+```
+
+### 4. Build the index
+
+Build the FAISS index from scratch for your chosen modality:
+
+```bash
+# Prefix with `uv run` if you installed via Option B
+pprag text index --fresh
+# or `pprag multimodal index --fresh`
+```
+
+### 5. Start querying / Serve
+
+Launch the CLI or Web UI:
+
+```bash
+# Prefix with `uv run` if you installed via Option B
+pprag text ask
+# or `pprag multimodal serve`
+# or `pprag compare serve`
+```
+
+Each implementation also has its own self-contained README with a detailed quickstart:
 
 - **[Text-Only → Get Started](./Text-Only/README.md)**
 - **[MultiModal → Get Started](./MultiModal/README.md)**
 - **[DocComparator → Get Started](./DocComparator/README.md)**
 
-All include sample data so you can clone, build the index, an start exploring immediately.
+All include sample data so you can clone, build the index, and start exploring immediately.
 
 ---
 

@@ -338,17 +338,17 @@ SCHEDULES
 
 2.01A Commitments and Applicable Percentages
 2.01B Letter of Credit Commitments
-2.03 Existing Letters of Credit
-5.01 Jurisdictions of Organization and Qualification
+## 2.03 Existing Letters of Credit
+## 5.01 Jurisdictions of Organization and Qualification
 ## 5.06 Litigation
-5.09 Environmental Matters
+## 5.09 Environmental Matters
 ## 5.13 Subsidiaries
 
 and Other Equity Investments
-5.18 Intellectual Property
-7.01 Existing Liens
-7.02 Existing Investments
-10.02 Administrative Agent’s Office, Certain Addresses for Notices
+## 5.18 Intellectual Property
+## 7.01 Existing Liens
+## 7.02 Existing Investments
+## 10.02 Administrative Agent’s Office, Certain Addresses for Notices
 
 EXHIBITS
 
@@ -2427,7 +2427,7 @@ Any agreement or instrument pursuant to which a Lender sells such a participatio
 
 sec.gov/Archives/edgar/data/1289460/000110465925039415/tm2512408d1_ex10-1.htm
 
-# 10.06 Resignation as L/C Issuer or Swing Line Lender after Assignment
+## 10.06 Resignation as L/C Issuer or Swing Line Lender after Assignment
 
 Notwithstanding anything to the contrary contained herein, if at any time JPMCB assigns all of its Commitment and Loans pursuant to subsection (b) above, JPMCB may, (i) upon thirty (30) days’ notice to the Borrower and the Lenders, resign as L/C Issuer and/or (ii) upon thirty (30) days’ notice to the Borrower, resign as Swing Line Lender. In the event of any such resignation as L/C Issuer or Swing Line Lender, the Borrower shall be entitled to appoint from among the Lenders a successor L/C Issuer or Swing Line Lender hereunder; provided, however, that no failure by the Borrower to appoint any such successor shall affect the resignation of JPMCB as L/C Issuer or Swing Line Lender, as the case may be. If JPMCB resigns as L/C Issuer, it shall retain all the rights and obligations of the L/C Issuer hereunder with respect to all Letters of Credit outstanding as of the effective date of its resignation as L/C Issuer and all L/C Obligations with respect thereto (including the right to require the Lenders to make ABR Committed Loans or fund risk participations in Unreimbursed Amounts pursuant to Section 2.03(c)). If JPMCB resigns as Swing Line Lender, it shall retain all the rights of the Swing Line Lender provided for hereunder with respect to Swing Line Loans made by it and outstanding as of the effective date of such resignation, including the right to require the Lenders to make ABR Committed Loans or fund risk participations in outstanding Swing Line Loans pursuant to Section 2.04(c).
 

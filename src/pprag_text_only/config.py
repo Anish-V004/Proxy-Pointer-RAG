@@ -50,5 +50,9 @@ LLAMA_PARSE_TIER = os.getenv("LLAMA_PARSE_TIER", "cost_effective")
 # ── Models ──────────────────────────────────────────────────────────────
 EMBEDDING_MODEL    = "models/gemini-embedding-001"
 EMBEDDING_DIMS     = 1536
-NOISE_FILTER_MODEL = "gemini-3.1-flash-lite-preview"
-SYNTH_MODEL        = "gemini-3.1-flash-lite-preview"
+NOISE_FILTER_MODEL = "gemini-3.1-flash-lite"
+SYNTH_MODEL        = "gemini-3.1-flash-lite"
+
+# ── Embedding Throughput ────────────────────────────────────────────────
+EMBEDDING_BATCH_SIZE = int(os.getenv("PP_EMBEDDING_BATCH_SIZE", "20"))
+EMBEDDING_BATCH_DELAY = float(os.getenv("PP_EMBEDDING_BATCH_DELAY", "1"))

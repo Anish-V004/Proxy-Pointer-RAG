@@ -24,7 +24,10 @@ import time
 
 from pprag_doc_comparator.config import DOCUMENTS_DIR, LLM_MODEL
 from pprag_doc_comparator.validation.criteria_validator import build_cross_reranker_prompt
-from pprag_doc_comparator.comparison.section_selector import resolve_md_path_for_doc_id
+from pprag_doc_comparator.comparison.section_selector import (
+    load_full_section_text,
+    resolve_md_path_for_doc_id,
+)
 
 import google.generativeai as genai
 import typing
@@ -101,21 +104,19 @@ def retrieve_matching_sections(vector_db, doc2_id, cross_query,
         # ── Stage 2: LLM Re-Ranker ──
         selected = _rerank_candidates(candidates, doc1_breadcrumb, criteria, doc_type, k_final)
 
-    # Load full section text for selected candidates
+    # Load full section text for selected candidates. Markdown lines are cached
+    # by path/mtime so repeated cross-retrievals do not reread the same file.
     doc2_md_path = _find_md_path_for_doc_id(doc2_id, data_dir)
-    doc2_lines = None
-    if doc2_md_path:
-        with open(doc2_md_path, "r", encoding="utf-8") as f:
-            doc2_lines = f.readlines()
 
     results = []
     for section in selected:
-        full_text = ""
-        if doc2_lines:
-            full_text = "".join(
-                doc2_lines[section["start_line"]:section["end_line"]]
-            ).strip()
-
+        full_text = load_full_section_text(
+            doc2_id,
+            section["start_line"],
+            section["end_line"],
+            data_dir=data_dir,
+            md_path=doc2_md_path,
+        )
         if not full_text:
             full_text = section["content"]
 
