@@ -16,6 +16,8 @@ import sys
 import json
 import logging
 import argparse
+import time
+import hashlib
 
 from pprag_text_only.config import (
     DATA_DIR, TREES_DIR, INDEX_DIR,
@@ -59,6 +61,46 @@ def _existing_doc_ids(vector_db):
         if isinstance(metadata, dict) and "doc_id" in metadata:
             existing.add(metadata["doc_id"])
     return existing
+
+
+def get_doc_id(md_file_path: str) -> str:
+    """Stable content-based document ID: '<basename>_<sha256[:12]>'.
+
+    The hash is computed from raw file bytes, so it is identical across runs
+    as long as the file is unchanged. Any edit to the file produces a new
+    hash, which invalidates the state entry and triggers a full re-index.
+    """
+    with open(md_file_path, "rb") as f:
+        content_hash = hashlib.sha256(f.read()).hexdigest()[:12]
+    base_name = os.path.splitext(os.path.basename(md_file_path))[0]
+    return f"{base_name}_{content_hash}"
+
+
+def _remove_stale_doc_chunks(vector_db, doc_name: str, current_doc_id: str) -> int:
+    """Delete FAISS chunks that belong to an older version of doc_name.
+
+    A chunk is stale when its metadata['doc_id'] starts with '<doc_name>_'
+    but does not match current_doc_id (same filename, different content hash).
+    Returns the number of stale chunk vectors removed.
+    """
+    if vector_db is None:
+        return 0
+    docstore_dict = getattr(getattr(vector_db, "docstore", None), "_dict", None)
+    if docstore_dict is None:
+        return 0
+
+    prefix = f"{doc_name}_"
+    stale_ids = [
+        docstore_id
+        for docstore_id, doc in docstore_dict.items()
+        if getattr(doc, "metadata", {}).get("doc_id", "").startswith(prefix)
+        and getattr(doc, "metadata", {}).get("doc_id") != current_doc_id
+    ]
+
+    if stale_ids:
+        vector_db.delete(stale_ids)
+
+    return len(stale_ids)
 
 
 # ── Custom Embedding Wrapper ────────────────────────────────────────────
@@ -166,6 +208,48 @@ No markdown fencing, no extra text.
     return noise_ids
 
 
+def load_indexing_state(index_dir: str, fresh: bool) -> dict:
+    state_path = os.path.join(index_dir, "indexing_state.json")
+    if fresh or not os.path.exists(state_path):
+        return {}
+    try:
+        with open(state_path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return {}
+
+
+def save_indexing_state(index_dir: str, state: dict):
+    state_path = os.path.join(index_dir, "indexing_state.json")
+    tmp_path = os.path.join(index_dir, "indexing_state.json.tmp")
+    try:
+        os.makedirs(index_dir, exist_ok=True)
+        with open(tmp_path, "w", encoding="utf-8") as f:
+            json.dump(state, f, indent=2, ensure_ascii=False)
+        os.replace(tmp_path, state_path)
+    except Exception as e:
+        logging.warning(f"Failed to save indexing state: {e}")
+        if os.path.exists(tmp_path):
+            try:
+                os.remove(tmp_path)
+            except Exception:
+                pass
+
+
+def _count_indexed_chunks(vector_db, doc_id: str) -> int:
+    if vector_db is None:
+        return 0
+    docs = getattr(getattr(vector_db, "docstore", None), "_dict", None)
+    if docs is None:
+        return 0
+    
+    count = 0
+    for doc in docs.values():
+        if getattr(doc, "metadata", {}).get("doc_id") == doc_id:
+            count += 1
+    return count
+
+
 # ── Main Build Pipeline ────────────────────────────────────────────────
 def build_proxy_index(incremental=True):
     trees_dir = str(TREES_DIR)
@@ -207,7 +291,25 @@ def build_proxy_index(incremental=True):
             logging.warning(f"Could not load existing index: {e}. Building fresh.")
             vector_db = None
 
-    all_chunks = []
+    state = load_indexing_state(save_path, fresh=not incremental)
+
+    # Sync state completed_chunks with actual FAISS chunk count if needed
+    if vector_db is not None and state:
+        for doc_id, doc_state in list(state.items()):
+            if doc_state.get("status") == "in_progress":
+                actual_count = _count_indexed_chunks(vector_db, doc_id)
+                saved_count = doc_state.get("completed_chunks", 0)
+                if actual_count > saved_count:
+                    logging.info(
+                        f"State sync: {doc_id} has {actual_count} chunks in FAISS but "
+                        f"state showed {saved_count}. Syncing state to {actual_count}."
+                    )
+                    doc_state["completed_chunks"] = actual_count
+                    if actual_count >= doc_state.get("total_chunks", 0):
+                        doc_state["status"] = "completed"
+        save_indexing_state(save_path, state)
+
+    new_chunks_added = 0
 
     # Process all tree files in the trees folder
     tree_files = sorted([
@@ -216,7 +318,8 @@ def build_proxy_index(incremental=True):
     ])
     logging.info(f"Found {len(tree_files)} tree(s): {', '.join(tree_files)}")
 
-    for file in tree_files:
+    total_files = len(tree_files)
+    for idx, file in enumerate(tree_files, 1):
         tree_path = os.path.join(trees_dir, file)
         if not os.path.exists(tree_path):
             logging.error(f"Tree file {tree_path} not found.")
@@ -225,15 +328,35 @@ def build_proxy_index(incremental=True):
         with open(tree_path, "r", encoding="utf-8") as f:
             tree_data = json.load(f)
 
-        doc_id = tree_data.get("doc_name", file.replace("_structure.json", ""))
-        md_file = os.path.join(data_dir, f"{doc_id}.md")
+        doc_name = tree_data.get("doc_name", file.replace("_structure.json", ""))
+        md_file = os.path.join(data_dir, f"{doc_name}.md")
 
         if not os.path.exists(md_file):
             logging.error(f"Markdown file {md_file} not found.")
             continue
 
-        if doc_id in existing_docs:
-            logging.info(f"  [SKIP] {doc_id}: Already completely indexed in FAISS.")
+        # Content-hash based ID: changes whenever the file is modified,
+        # which invalidates the state entry and forces a fresh re-index.
+        doc_id = get_doc_id(md_file)
+
+        # If the file was modified, its hash has changed. Remove any FAISS chunks
+        # from the previous version before starting a fresh ingestion.
+        stale_removed = _remove_stale_doc_chunks(vector_db, doc_name, doc_id)
+        if stale_removed > 0:
+            logging.info(
+                f"  [STALE] Removed {stale_removed} outdated chunk(s) for '{doc_name}' "
+                f"(file was modified). Re-indexing from scratch."
+            )
+            # Prune old hash-based state entries for this doc_name
+            for old_key in [k for k in state if k.startswith(f"{doc_name}_") and k != doc_id]:
+                del state[old_key]
+            os.makedirs(save_path, exist_ok=True)
+            vector_db.save_local(save_path)
+            save_indexing_state(save_path, state)
+
+        doc_state = state.get(doc_id, {})
+        if doc_state.get("status") == "completed" and doc_id in existing_docs:
+            logging.info(f"[{idx}/{total_files}] [SKIP] {doc_id}: Already completely indexed in FAISS.")
             continue
 
         with open(md_file, "r", encoding="utf-8") as f:
@@ -241,15 +364,17 @@ def build_proxy_index(incremental=True):
 
         if not tree_data.get("structure"):
             logging.warning(
-                f"  [SKIP] {doc_id}: No structure found (headerless document)."
+                f"[{idx}/{total_files}] [SKIP] {doc_id}: No structure found (headerless document)."
             )
             continue
 
-        logging.info(f"Processing: {doc_id}...")
+        logging.info(f"[{idx}/{total_files}] Processing: {doc_id}...")
 
         # LLM-based noise filter
         noise_node_ids = get_noise_node_ids(doc_id, tree_data["structure"])
         logging.info(f"  Noise nodes excluded: {len(noise_node_ids)}")
+
+        doc_chunks = []
 
         def process_node(node_list, parent_end=None, breadcrumb=""):
             if parent_end is None:
@@ -299,7 +424,7 @@ def build_proxy_index(incremental=True):
                                 "end_line": node_end,
                             },
                         )
-                        all_chunks.append(doc)
+                        doc_chunks.append(doc)
 
                 if "nodes" in node and node["nodes"]:
                     process_node(node["nodes"], node_end, current_crumb)
@@ -307,20 +432,57 @@ def build_proxy_index(incremental=True):
         if "structure" in tree_data:
             process_node(tree_data["structure"])
 
-    if not all_chunks:
+        # Determine remaining chunks using the state file
+        completed_chunks = doc_state.get("completed_chunks", 0)
+        # If total_chunks is different from current chunks, reset progress to be safe
+        if doc_state.get("total_chunks") != len(doc_chunks):
+            completed_chunks = 0
+
+        remaining_chunks = doc_chunks[completed_chunks:]
+
+        if remaining_chunks:
+            from tqdm import tqdm
+            pbar = tqdm(
+                initial=completed_chunks,
+                total=len(doc_chunks),
+                desc=f"Embedding {doc_id}",
+                unit="chunk",
+            )
+
+            batch_size = EMBEDDING_BATCH_SIZE
+            for i in range(0, len(remaining_chunks), batch_size):
+                chunk_batch = remaining_chunks[i : i + batch_size]
+
+                if vector_db is not None:
+                    vector_db.add_documents(chunk_batch)
+                else:
+                    vector_db = FAISS.from_documents(chunk_batch, embeddings)
+
+                os.makedirs(save_path, exist_ok=True)
+                vector_db.save_local(save_path)
+
+                completed_chunks += len(chunk_batch)
+                state[doc_id] = {
+                    "status": "in_progress" if completed_chunks < len(doc_chunks) else "completed",
+                    "completed_chunks": completed_chunks,
+                    "total_chunks": len(doc_chunks),
+                }
+                save_indexing_state(save_path, state)
+                pbar.update(len(chunk_batch))
+
+                has_more = i + batch_size < len(remaining_chunks)
+                if has_more and EMBEDDING_BATCH_DELAY > 0:
+                    time.sleep(EMBEDDING_BATCH_DELAY)
+
+            pbar.close()
+            new_chunks_added += len(remaining_chunks)
+        else:
+            logging.info(f"No new chunks to embed for {doc_id}.")
+
+    if new_chunks_added == 0:
         logging.warning("No new chunks generated.")
-        return
-
-    logging.info(f"\nAdding {len(all_chunks)} chunks to index...")
-
-    if vector_db is not None:
-        vector_db.add_documents(all_chunks)
     else:
-        vector_db = FAISS.from_documents(all_chunks, embeddings)
-
-    os.makedirs(save_path, exist_ok=True)
-    vector_db.save_local(save_path)
-    logging.info(f"Index successfully saved to: {save_path}")
+        logging.info(f"Successfully processed and saved a total of {new_chunks_added} new chunks.")
 
 
 if __name__ == "__main__":

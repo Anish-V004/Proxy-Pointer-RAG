@@ -76,11 +76,11 @@ def test_multimodal_bot_reuses_markdown_and_tree_caches(monkeypatch, tmp_path):
     bot._md_lines_cache = {}
     bot._tree_node_cache = {}
 
-    open_counts = {str(md_path): 0, str(tree_path): 0}
+    open_counts = {md_path.resolve(): 0, tree_path.resolve(): 0}
     real_open = builtins.open
 
     def counting_open(*args, **kwargs):
-        path = str(args[0])
+        path = Path(args[0]).resolve()
         if path in open_counts:
             open_counts[path] += 1
         return real_open(*args, **kwargs)
@@ -91,4 +91,4 @@ def test_multimodal_bot_reuses_markdown_and_tree_caches(monkeypatch, tmp_path):
     assert bot._get_md_lines("Paper") == ["# Paper\n", "section text\n"]
     assert "0001" in bot._get_tree_node_map("Paper")
     assert "0001" in bot._get_tree_node_map("Paper")
-    assert open_counts == {str(md_path): 1, str(tree_path): 1}
+    assert open_counts == {md_path.resolve(): 1, tree_path.resolve(): 1}

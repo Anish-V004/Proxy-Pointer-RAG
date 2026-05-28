@@ -48,6 +48,27 @@ def is_rate_limit_error(exc: Exception) -> bool:
     )
 
 
+def extract_retry_delay(exc: Exception) -> float | None:
+    """Attempt to parse a retry delay from a Google API exception string."""
+    exc_str = str(exc)
+    import re
+    # 1. Check for "Please retry in X.XXs"
+    match = re.search(r"please retry in\s+(\d+(?:\.\d+)?)\s*s", exc_str, re.IGNORECASE)
+    if match:
+        try:
+            return float(match.group(1))
+        except ValueError:
+            pass
+    # 2. Check for "retry_delay { seconds: X }"
+    match_sec = re.search(r"retry_delay\s*\{\s*seconds:\s*(\d+)", exc_str, re.IGNORECASE)
+    if match_sec:
+        try:
+            return float(match_sec.group(1))
+        except ValueError:
+            pass
+    return None
+
+
 def embed_content_with_retry(
     genai_module,
     *,
@@ -58,7 +79,7 @@ def embed_content_with_retry(
     base_delay: float = 2.0,
     sleep: Callable[[float], None] = time.sleep,
 ):
-    """Call Gemini embeddings with exponential backoff for rate-limit errors."""
+    """Call Gemini embeddings with exponential backoff/extracted delay for rate-limit errors."""
     for attempt in range(max_retries):
         try:
             return genai_module.embed_content(
@@ -69,8 +90,19 @@ def embed_content_with_retry(
         except Exception as exc:
             if not is_rate_limit_error(exc) or attempt == max_retries - 1:
                 raise
-            delay = base_delay * (2 ** attempt)
-            logging.warning("Rate limit hit during embedding. Retrying in %ss...", delay)
+            
+            retry_delay = extract_retry_delay(exc)
+            if retry_delay is not None:
+                delay = retry_delay + 5.0
+                logging.warning(
+                    "Rate limit hit during embedding. Found retry delay of %ss from error. Retrying in %ss (delay + 5s)...",
+                    retry_delay,
+                    delay,
+                )
+            else:
+                delay = base_delay * (2 ** attempt)
+                logging.warning("Rate limit hit during embedding. Retrying in %ss...", delay)
+            
             sleep(delay)
 
     raise RuntimeError("Embedding request failed without returning or raising")
