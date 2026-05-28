@@ -1,0 +1,3165 @@
+{
+  "doc_name": "PEPSICO_2022_10K",
+  "line_count": 21303,
+  "structure": [
+    {
+      "title": "UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549",
+      "node_id": "0001",
+      "line_num": 2
+    },
+    {
+      "title": "FORM 10-K",
+      "node_id": "0002",
+      "line_num": 4,
+      "nodes": [
+        {
+          "title": "Forward-Looking Statements",
+          "node_id": "0003",
+          "line_num": 220
+        },
+        {
+          "title": "PART I",
+          "node_id": "0004",
+          "line_num": 222,
+          "nodes": [
+            {
+              "title": "Item 1. Business",
+              "node_id": "0005",
+              "line_num": 224
+            },
+            {
+              "title": "Company Overview",
+              "node_id": "0006",
+              "line_num": 228
+            },
+            {
+              "title": "Our Operations",
+              "node_id": "0007",
+              "line_num": 232
+            },
+            {
+              "title": "Frito-Lay North America",
+              "node_id": "0008",
+              "line_num": 250
+            },
+            {
+              "title": "Quaker Foods North America",
+              "node_id": "0009",
+              "line_num": 254
+            },
+            {
+              "title": "PepsiCo Beverages North America",
+              "node_id": "0010",
+              "line_num": 258
+            },
+            {
+              "title": "Latin America",
+              "node_id": "0011",
+              "line_num": 260
+            },
+            {
+              "title": "Europe",
+              "node_id": "0012",
+              "line_num": 266
+            },
+            {
+              "title": "Africa, Middle East and South Asia",
+              "node_id": "0013",
+              "line_num": 270
+            },
+            {
+              "title": "Asia Pacific, Australia and New Zealand and China Region",
+              "node_id": "0014",
+              "line_num": 274
+            },
+            {
+              "title": "Our Distribution Network",
+              "node_id": "0015",
+              "line_num": 278
+            },
+            {
+              "title": "Direct-Store-Delivery",
+              "node_id": "0016",
+              "line_num": 284
+            },
+            {
+              "title": "Customer Warehouse",
+              "node_id": "0017",
+              "line_num": 288
+            },
+            {
+              "title": "Distributor Networks",
+              "node_id": "0018",
+              "line_num": 292
+            },
+            {
+              "title": "E-commerce",
+              "node_id": "0019",
+              "line_num": 296
+            },
+            {
+              "title": "Ingredients and Other Supplies",
+              "node_id": "0020",
+              "line_num": 300
+            },
+            {
+              "title": "Our Brands and Intellectual Property Rights",
+              "node_id": "0021",
+              "line_num": 308
+            },
+            {
+              "title": "Seasonality",
+              "node_id": "0022",
+              "line_num": 314
+            },
+            {
+              "title": "Our Customers",
+              "node_id": "0023",
+              "line_num": 320
+            },
+            {
+              "title": "Our Competition",
+              "node_id": "0024",
+              "line_num": 328
+            },
+            {
+              "title": "Research and Development",
+              "node_id": "0025",
+              "line_num": 338
+            },
+            {
+              "title": "Regulatory Matters",
+              "node_id": "0026",
+              "line_num": 344
+            },
+            {
+              "title": "Human Capital",
+              "node_id": "0027",
+              "line_num": 364
+            },
+            {
+              "title": "Available Information",
+              "node_id": "0028",
+              "line_num": 376
+            }
+          ]
+        },
+        {
+          "title": "Item 1A. Risk Factors",
+          "node_id": "0029",
+          "line_num": 384,
+          "nodes": [
+            {
+              "title": "Business Risks",
+              "node_id": "0030",
+              "line_num": 388
+            },
+            {
+              "title": "Risks associated with the deadly conflict in Ukraine",
+              "node_id": "0031",
+              "line_num": 390
+            },
+            {
+              "title": "Reduction in future demand for our products would adversely affect our business",
+              "node_id": "0032",
+              "line_num": 394
+            },
+            {
+              "title": "Damage to our reputation or brand image can adversely affect our business",
+              "node_id": "0033",
+              "line_num": 398
+            },
+            {
+              "title": "Product recalls or other issues or concerns with respect to product quality and safety can adversely affect our business",
+              "node_id": "0034",
+              "line_num": 404
+            },
+            {
+              "title": "Any inability to compete effectively can adversely affect our business",
+              "node_id": "0035",
+              "line_num": 408
+            },
+            {
+              "title": "Failure to attract, develop and maintain a highly skilled and diverse workforce or effectively manage changes in our workforce can have an adverse effect on our business",
+              "node_id": "0036",
+              "line_num": 414
+            },
+            {
+              "title": "Water scarcity can adversely affect our business",
+              "node_id": "0037",
+              "line_num": 418
+            },
+            {
+              "title": "Changes in the retail landscape or in sales to any key customer can adversely affect our business",
+              "node_id": "0038",
+              "line_num": 422
+            },
+            {
+              "title": "Disruption of our manufacturing operations or supply chain, including continued increased commodity, packaging, transportation, labor and other input costs, can adversely affect our business",
+              "node_id": "0039",
+              "line_num": 428
+            },
+            {
+              "title": "Political and social conditions can adversely affect our business",
+              "node_id": "0040",
+              "line_num": 434
+            },
+            {
+              "title": "Our business can be adversely affected if we are unable to grow in developing and emerging markets",
+              "node_id": "0041",
+              "line_num": 440
+            },
+            {
+              "title": "Changes in economic conditions can adversely impact our business",
+              "node_id": "0042",
+              "line_num": 444
+            },
+            {
+              "title": "Future cyber incidents and other disruptions to our information systems can adversely affect our business",
+              "node_id": "0043",
+              "line_num": 448
+            },
+            {
+              "title": "Failure to successfully complete or manage strategic transactions can adversely affect our business",
+              "node_id": "0044",
+              "line_num": 460
+            },
+            {
+              "title": "Our reliance on third-party service providers and enterprise-wide systems can have an adverse effect on our business",
+              "node_id": "0045",
+              "line_num": 464
+            },
+            {
+              "title": "Climate change or measures to address climate change can negatively affect our business or damage our reputation",
+              "node_id": "0046",
+              "line_num": 470
+            },
+            {
+              "title": "Strikes or work stoppages can cause our business to suffer",
+              "node_id": "0047",
+              "line_num": 474
+            },
+            {
+              "title": "Financial Risks",
+              "node_id": "0048",
+              "line_num": 478
+            },
+            {
+              "title": "Failure to realize benefits from our productivity initiatives can adversely affect our financial performance",
+              "node_id": "0049",
+              "line_num": 480
+            },
+            {
+              "title": "A deterioration in our estimates and underlying assumptions regarding the future performance of our business can result in an impairment charge that can adversely affect our results of operations",
+              "node_id": "0050",
+              "line_num": 484
+            },
+            {
+              "title": "Fluctuations in exchange rates impact our financial performance",
+              "node_id": "0051",
+              "line_num": 490
+            },
+            {
+              "title": "Our borrowing costs and access to capital and credit markets can be adversely affected by a downgrade or potential downgrade of our credit ratings",
+              "node_id": "0052",
+              "line_num": 494
+            },
+            {
+              "title": "Legal, Tax and Regulatory Risks",
+              "node_id": "0053",
+              "line_num": 498
+            },
+            {
+              "title": "Taxes aimed at our products can adversely affect our business or financial performance",
+              "node_id": "0054",
+              "line_num": 500
+            },
+            {
+              "title": "Limitations on the marketing or sale of our products can adversely affect our business and financial performance",
+              "node_id": "0055",
+              "line_num": 506
+            },
+            {
+              "title": "Laws and regulations related to the use or disposal of plastics or other packaging materials can adversely affect our business and financial performance",
+              "node_id": "0056",
+              "line_num": 510
+            },
+            {
+              "title": "Failure to comply with personal data protection and privacy laws can adversely affect our business",
+              "node_id": "0057",
+              "line_num": 514
+            },
+            {
+              "title": "Increases in income tax rates, changes in income tax laws or disagreements with tax authorities can adversely affect our financial performance",
+              "node_id": "0058",
+              "line_num": 520
+            },
+            {
+              "title": "If we are unable to adequately protect our intellectual property rights, or if we are found to infringe on the intellectual property rights of others, our business can be adversely affected",
+              "node_id": "0059",
+              "line_num": 524
+            },
+            {
+              "title": "Failure to comply with laws and regulations applicable to our business can adversely affect our business",
+              "node_id": "0060",
+              "line_num": 528
+            },
+            {
+              "title": "Potential liabilities and costs from litigation, claims, legal or regulatory proceedings, inquiries or investigations can have an adverse impact on our business",
+              "node_id": "0061",
+              "line_num": 534
+            },
+            {
+              "title": "Item 1B. Unresolved Staff Comments",
+              "node_id": "0062",
+              "line_num": 538
+            },
+            {
+              "title": "Item 2. Properties",
+              "node_id": "0063",
+              "line_num": 544
+            },
+            {
+              "title": "Item 3. Legal Proceedings",
+              "node_id": "0064",
+              "line_num": 677
+            },
+            {
+              "title": "Item 4. Mine Safety Disclosures",
+              "node_id": "0065",
+              "line_num": 681
+            },
+            {
+              "title": "Information About Our Executive Officers",
+              "node_id": "0066",
+              "line_num": 685
+            }
+          ]
+        },
+        {
+          "title": "PART II",
+          "node_id": "0067",
+          "line_num": 784,
+          "nodes": [
+            {
+              "title": "Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities",
+              "node_id": "0068",
+              "line_num": 786
+            },
+            {
+              "title": "Issuer Purchases of Common Stock",
+              "node_id": "0069",
+              "line_num": 800
+            },
+            {
+              "title": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+              "node_id": "0070",
+              "line_num": 911
+            },
+            {
+              "title": "OUR BUSINESS",
+              "node_id": "0071",
+              "line_num": 1112
+            },
+            {
+              "title": "Executive Overview",
+              "node_id": "0072",
+              "line_num": 1114
+            },
+            {
+              "title": "Our Operations",
+              "node_id": "0073",
+              "line_num": 1134
+            },
+            {
+              "title": "Other Relationships",
+              "node_id": "0074",
+              "line_num": 1138
+            },
+            {
+              "title": "Our Business Risks",
+              "node_id": "0075",
+              "line_num": 1142
+            },
+            {
+              "title": "Risks Associated with Commodities and Our Supply Chain",
+              "node_id": "0076",
+              "line_num": 1144
+            },
+            {
+              "title": "Risks Associated with Climate Change",
+              "node_id": "0077",
+              "line_num": 1152
+            },
+            {
+              "title": "Risks Associated with International Operations",
+              "node_id": "0078",
+              "line_num": 1156
+            },
+            {
+              "title": "Risks Associated with the Deadly Conflict in Ukraine",
+              "node_id": "0079",
+              "line_num": 1162
+            },
+            {
+              "title": "Imposition of Taxes and Regulations on our Products",
+              "node_id": "0080",
+              "line_num": 1170
+            },
+            {
+              "title": "Retail Landscape",
+              "node_id": "0081",
+              "line_num": 1176
+            },
+            {
+              "title": "Risk Management Framework",
+              "node_id": "0082",
+              "line_num": 1184
+            },
+            {
+              "title": "Market Risks",
+              "node_id": "0083",
+              "line_num": 1214
+            },
+            {
+              "title": "Commodity Prices",
+              "node_id": "0084",
+              "line_num": 1228
+            },
+            {
+              "title": "Foreign Exchange",
+              "node_id": "0085",
+              "line_num": 1232
+            },
+            {
+              "title": "Interest Rates",
+              "node_id": "0086",
+              "line_num": 1242
+            },
+            {
+              "title": "OUR FINANCIAL RESULTS",
+              "node_id": "0087",
+              "line_num": 1246
+            },
+            {
+              "title": "Results of Operations — Consolidated Review",
+              "node_id": "0088",
+              "line_num": 1248
+            },
+            {
+              "title": "Volume",
+              "node_id": "0089",
+              "line_num": 1250
+            },
+            {
+              "title": "Consolidated Net Revenue and Operating Profit",
+              "node_id": "0090",
+              "line_num": 1260
+            },
+            {
+              "title": "Juice Transaction",
+              "node_id": "0091",
+              "line_num": 1307
+            },
+            {
+              "title": "Other Consolidated Results",
+              "node_id": "0092",
+              "line_num": 1311
+            },
+            {
+              "title": "Results of Operations — Division Review",
+              "node_id": "0093",
+              "line_num": 1368
+            },
+            {
+              "title": "Net Revenue and Organic Revenue Growth",
+              "node_id": "0094",
+              "line_num": 1374
+            },
+            {
+              "title": "Operating Profit/(Loss), Operating Profit/(Loss) Adjusted for Items Affecting Comparability and Operating Profit/(Loss) Performance Adjusted for Items Affecting Comparability on a Constant Currency Basis",
+              "node_id": "0095",
+              "line_num": 1545
+            },
+            {
+              "title": "FLNA",
+              "node_id": "0096",
+              "line_num": 2102
+            },
+            {
+              "title": "QFNA",
+              "node_id": "0097",
+              "line_num": 2110
+            },
+            {
+              "title": "PBNA",
+              "node_id": "0098",
+              "line_num": 2120
+            },
+            {
+              "title": "LatAm",
+              "node_id": "0099",
+              "line_num": 2130
+            },
+            {
+              "title": "Europe",
+              "node_id": "0100",
+              "line_num": 2140
+            },
+            {
+              "title": "AMESA",
+              "node_id": "0101",
+              "line_num": 2152
+            },
+            {
+              "title": "APAC",
+              "node_id": "0102",
+              "line_num": 2162
+            },
+            {
+              "title": "Non-GAAP Measures",
+              "node_id": "0103",
+              "line_num": 2174
+            },
+            {
+              "title": "Organic revenue growth",
+              "node_id": "0104",
+              "line_num": 2190
+            },
+            {
+              "title": "See “Net Revenue and Organic Revenue Growth” in “Results of Operations **–** Division Review” for further information.",
+              "node_id": "0105",
+              "line_num": 2194
+            },
+            {
+              "title": "Free cash flow",
+              "node_id": "0106",
+              "line_num": 2196
+            },
+            {
+              "title": "Return on invested capital (ROIC) and net ROIC, excluding items affecting comparability",
+              "node_id": "0107",
+              "line_num": 2202
+            },
+            {
+              "title": "Items Affecting Comparability",
+              "node_id": "0108",
+              "line_num": 2212
+            },
+            {
+              "title": "Mark-to-Market Net Impact",
+              "node_id": "0109",
+              "line_num": 2845
+            },
+            {
+              "title": "Restructuring and Impairment Charges",
+              "node_id": "0110",
+              "line_num": 2849
+            },
+            {
+              "title": "2019 Multi-Year Productivity Plan",
+              "node_id": "0111",
+              "line_num": 2851
+            },
+            {
+              "title": "Acquisition and Divestiture-Related Charges",
+              "node_id": "0112",
+              "line_num": 2859
+            },
+            {
+              "title": "Gain Associated with the Juice Transaction",
+              "node_id": "0113",
+              "line_num": 2865
+            },
+            {
+              "title": "Impairment and Other Charges",
+              "node_id": "0114",
+              "line_num": 2871
+            },
+            {
+              "title": "Russia-Ukraine Conflict Charges",
+              "node_id": "0115",
+              "line_num": 2875
+            },
+            {
+              "title": "Brand Portfolio Impairment Charges",
+              "node_id": "0116",
+              "line_num": 2881
+            },
+            {
+              "title": "Other Impairment Charges",
+              "node_id": "0117",
+              "line_num": 2889
+            },
+            {
+              "title": "Pension and Retiree Medical-Related Impact",
+              "node_id": "0118",
+              "line_num": 2895
+            },
+            {
+              "title": "Charge Related to Cash Tender Offers",
+              "node_id": "0119",
+              "line_num": 2901
+            },
+            {
+              "title": "Tax Benefit Related to the IRS Audit",
+              "node_id": "0120",
+              "line_num": 2907
+            },
+            {
+              "title": "Tax Expense Related to the TCJ Act",
+              "node_id": "0121",
+              "line_num": 2913
+            },
+            {
+              "title": "Our Liquidity and Capital Resources",
+              "node_id": "0122",
+              "line_num": 2919
+            },
+            {
+              "title": "Operating Activities",
+              "node_id": "0123",
+              "line_num": 2974
+            },
+            {
+              "title": "Investing Activities",
+              "node_id": "0124",
+              "line_num": 2978
+            },
+            {
+              "title": "Financing Activities",
+              "node_id": "0125",
+              "line_num": 2988
+            },
+            {
+              "title": "Free Cash Flow",
+              "node_id": "0126",
+              "line_num": 2996
+            },
+            {
+              "title": "Material Changes in Line Items in Our Consolidated Financial Statements",
+              "node_id": "0127",
+              "line_num": 3051
+            },
+            {
+              "title": "Return on Invested Capital",
+              "node_id": "0128",
+              "line_num": 3156
+            },
+            {
+              "title": "OUR CRITICAL ACCOUNTING POLICIES AND ESTIMATES",
+              "node_id": "0129",
+              "line_num": 3369
+            },
+            {
+              "title": "Revenue Recognition",
+              "node_id": "0130",
+              "line_num": 3383
+            },
+            {
+              "title": "Goodwill and Other Intangible Assets",
+              "node_id": "0131",
+              "line_num": 3401
+            },
+            {
+              "title": "Income Tax Expense and Accruals",
+              "node_id": "0132",
+              "line_num": 3421
+            },
+            {
+              "title": "Pension and Retiree Medical Plans",
+              "node_id": "0133",
+              "line_num": 3435
+            },
+            {
+              "title": "Our Assumptions",
+              "node_id": "0134",
+              "line_num": 3441
+            },
+            {
+              "title": "Sensitivity of Assumptions",
+              "node_id": "0135",
+              "line_num": 3546
+            },
+            {
+              "title": "Funding",
+              "node_id": "0136",
+              "line_num": 3573
+            },
+            {
+              "title": "Consolidated Statement of Income",
+              "node_id": "0137",
+              "line_num": 3583
+            },
+            {
+              "title": "Consolidated Statement of Comprehensive Income",
+              "node_id": "0138",
+              "line_num": 3768
+            },
+            {
+              "title": "Consolidated Statement of Cash Flows",
+              "node_id": "0139",
+              "line_num": 3881
+            },
+            {
+              "title": "Consolidated Statement of Cash Flows (continued)",
+              "node_id": "0140",
+              "line_num": 4208
+            },
+            {
+              "title": "Consolidated Balance Sheet",
+              "node_id": "0141",
+              "line_num": 4393
+            },
+            {
+              "title": "Consolidated Statement of Equity",
+              "node_id": "0142",
+              "line_num": 4654
+            },
+            {
+              "title": "PepsiCo, Inc. and Subsidiaries",
+              "node_id": "0143",
+              "line_num": 4656
+            },
+            {
+              "title": "Notes to Consolidated Financial Statements",
+              "node_id": "0144",
+              "line_num": 5219
+            },
+            {
+              "title": "Note 1 — Basis of Presentation and Our Divisions",
+              "node_id": "0145",
+              "line_num": 5221
+            },
+            {
+              "title": "Basis of Presentation",
+              "node_id": "0146",
+              "line_num": 5223
+            },
+            {
+              "title": "Our Divisions",
+              "node_id": "0147",
+              "line_num": 5269
+            },
+            {
+              "title": "Share-Based Compensation Expense",
+              "node_id": "0148",
+              "line_num": 5297
+            },
+            {
+              "title": "Pension and Retiree Medical Expense",
+              "node_id": "0149",
+              "line_num": 5368
+            },
+            {
+              "title": "Derivatives",
+              "node_id": "0150",
+              "line_num": 5372
+            },
+            {
+              "title": "Net Revenue and Operating Profit/(Loss)",
+              "node_id": "0151",
+              "line_num": 5376
+            },
+            {
+              "title": "Disaggregation of Net Revenue",
+              "node_id": "0152",
+              "line_num": 5563
+            },
+            {
+              "title": "COVID-19 Charges",
+              "node_id": "0153",
+              "line_num": 5999
+            },
+            {
+              "title": "Corporate Unallocated Expenses",
+              "node_id": "0154",
+              "line_num": 6092
+            },
+            {
+              "title": "Other Division Information",
+              "node_id": "0155",
+              "line_num": 6096
+            },
+            {
+              "title": "Note 2 — Our Significant Accounting Policies",
+              "node_id": "0156",
+              "line_num": 6517
+            },
+            {
+              "title": "Revenue Recognition",
+              "node_id": "0157",
+              "line_num": 6519
+            },
+            {
+              "title": "Total Marketplace Spending",
+              "node_id": "0158",
+              "line_num": 6533
+            },
+            {
+              "title": "Distribution Costs",
+              "node_id": "0159",
+              "line_num": 6555
+            },
+            {
+              "title": "Software Costs",
+              "node_id": "0160",
+              "line_num": 6559
+            },
+            {
+              "title": "Commitments and Contingencies",
+              "node_id": "0161",
+              "line_num": 6563
+            },
+            {
+              "title": "Research and Development",
+              "node_id": "0162",
+              "line_num": 6567
+            },
+            {
+              "title": "Goodwill and Other Intangible Assets",
+              "node_id": "0163",
+              "line_num": 6571
+            },
+            {
+              "title": "Other Significant Accounting Policies",
+              "node_id": "0164",
+              "line_num": 6583
+            },
+            {
+              "title": "Recently Issued Accounting Pronouncements - Not Yet Adopted",
+              "node_id": "0165",
+              "line_num": 6607
+            },
+            {
+              "title": "Note 3 — Restructuring and Impairment Charges",
+              "node_id": "0166",
+              "line_num": 6611
+            },
+            {
+              "title": "2019 Multi-Year Productivity Plan",
+              "node_id": "0167",
+              "line_num": 6613
+            },
+            {
+              "title": "Other Productivity Initiatives",
+              "node_id": "0168",
+              "line_num": 7105
+            },
+            {
+              "title": "Note 4 — Intangible Assets",
+              "node_id": "0169",
+              "line_num": 7115
+            },
+            {
+              "title": "Indefinite-Lived Intangible Assets",
+              "node_id": "0170",
+              "line_num": 7311
+            },
+            {
+              "title": "Note 5 — Income Taxes",
+              "node_id": "0171",
+              "line_num": 8023
+            },
+            {
+              "title": "Tax Cuts and Jobs Act",
+              "node_id": "0172",
+              "line_num": 8199
+            },
+            {
+              "title": "Other Tax Matters",
+              "node_id": "0173",
+              "line_num": 8207
+            },
+            {
+              "title": "Reserves",
+              "node_id": "0174",
+              "line_num": 8397
+            },
+            {
+              "title": "Carryforwards and Allowances",
+              "node_id": "0175",
+              "line_num": 8519
+            },
+            {
+              "title": "Undistributed International Earnings",
+              "node_id": "0176",
+              "line_num": 8523
+            },
+            {
+              "title": "Note 6 — Share-Based Compensation",
+              "node_id": "0177",
+              "line_num": 8525
+            },
+            {
+              "title": "Method of Accounting and Our Assumptions",
+              "node_id": "0178",
+              "line_num": 8616
+            },
+            {
+              "title": "Stock Options",
+              "node_id": "0179",
+              "line_num": 8624
+            },
+            {
+              "title": "Restricted Stock Units and Performance Stock Units",
+              "node_id": "0180",
+              "line_num": 8756
+            },
+            {
+              "title": "Long-Term Cash",
+              "node_id": "0181",
+              "line_num": 8840
+            },
+            {
+              "title": "Other Share-Based Compensation Data",
+              "node_id": "0182",
+              "line_num": 8919
+            },
+            {
+              "title": "Note 7 — Pension, Retiree Medical and Savings Plans",
+              "node_id": "0183",
+              "line_num": 9030
+            },
+            {
+              "title": "Future Benefit Payments",
+              "node_id": "0184",
+              "line_num": 10278
+            },
+            {
+              "title": "Funding",
+              "node_id": "0185",
+              "line_num": 10334
+            },
+            {
+              "title": "Plan Assets",
+              "node_id": "0186",
+              "line_num": 10421
+            },
+            {
+              "title": "Retiree Medical Cost Trend Rates",
+              "node_id": "0187",
+              "line_num": 10651
+            },
+            {
+              "title": "Savings Plan",
+              "node_id": "0188",
+              "line_num": 10684
+            },
+            {
+              "title": "Note 8 — Debt Obligations",
+              "node_id": "0189",
+              "line_num": 10692
+            },
+            {
+              "title": "Note 9 — Financial Instruments",
+              "node_id": "0190",
+              "line_num": 10882
+            },
+            {
+              "title": "Derivatives and Hedging",
+              "node_id": "0191",
+              "line_num": 10884
+            },
+            {
+              "title": "Credit Risk",
+              "node_id": "0192",
+              "line_num": 10900
+            },
+            {
+              "title": "Commodity Prices",
+              "node_id": "0193",
+              "line_num": 10906
+            },
+            {
+              "title": "Foreign Exchange",
+              "node_id": "0194",
+              "line_num": 10912
+            },
+            {
+              "title": "Interest Rates",
+              "node_id": "0195",
+              "line_num": 10920
+            },
+            {
+              "title": "Debt Securities",
+              "node_id": "0196",
+              "line_num": 10928
+            },
+            {
+              "title": "Held-to-Maturity",
+              "node_id": "0197",
+              "line_num": 10930
+            },
+            {
+              "title": "Available-for-Sale",
+              "node_id": "0198",
+              "line_num": 10934
+            },
+            {
+              "title": "Fair Value Measurements",
+              "node_id": "0199",
+              "line_num": 10942
+            },
+            {
+              "title": "Note 10 — Net Income Attributable to PepsiCo per Common Share",
+              "node_id": "0200",
+              "line_num": 11287
+            },
+            {
+              "title": "Note 11 — Accumulated Other Comprehensive Loss Attributable to PepsiCo",
+              "node_id": "0201",
+              "line_num": 11418
+            },
+            {
+              "title": "Note 12 — Leases",
+              "node_id": "0202",
+              "line_num": 11892
+            },
+            {
+              "title": "Lessee",
+              "node_id": "0203",
+              "line_num": 11894
+            },
+            {
+              "title": "Lessor",
+              "node_id": "0204",
+              "line_num": 12120
+            },
+            {
+              "title": "Note 13 — Acquisitions and Divestitures",
+              "node_id": "0205",
+              "line_num": 12126
+            },
+            {
+              "title": "Juice Transaction",
+              "node_id": "0206",
+              "line_num": 12128
+            },
+            {
+              "title": "2020 Acquisitions",
+              "node_id": "0207",
+              "line_num": 12249
+            },
+            {
+              "title": "Acquisition and Divestiture-Related Charges",
+              "node_id": "0208",
+              "line_num": 12354
+            },
+            {
+              "title": "Note 14 — Supplemental Financial Information",
+              "node_id": "0209",
+              "line_num": 12531
+            },
+            {
+              "title": "Balance Sheet",
+              "node_id": "0210",
+              "line_num": 12533
+            },
+            {
+              "title": "Statement of Cash Flows",
+              "node_id": "0211",
+              "line_num": 12987
+            },
+            {
+              "title": "Report of Independent Registered Public Accounting Firm",
+              "node_id": "0212",
+              "line_num": 13075
+            },
+            {
+              "title": "Opinions on the Consolidated Financial Statements and Internal Control Over Financial Reporting",
+              "node_id": "0213",
+              "line_num": 13079
+            },
+            {
+              "title": "Basis for Opinions",
+              "node_id": "0214",
+              "line_num": 13085
+            },
+            {
+              "title": "Definition and Limitations of Internal Control Over Financial Reporting",
+              "node_id": "0215",
+              "line_num": 13095
+            },
+            {
+              "title": "Critical Audit Matters",
+              "node_id": "0216",
+              "line_num": 13101
+            },
+            {
+              "title": "Sales incentive accruals",
+              "node_id": "0217",
+              "line_num": 13105
+            },
+            {
+              "title": "Carrying value of certain reacquired and acquired franchise rights and SodaStream brand",
+              "node_id": "0218",
+              "line_num": 13115
+            },
+            {
+              "title": "Unrecognized tax benefits",
+              "node_id": "0219",
+              "line_num": 13123
+            },
+            {
+              "title": "GLOSSARY",
+              "node_id": "0220",
+              "line_num": 13137
+            },
+            {
+              "title": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+              "node_id": "0221",
+              "line_num": 13177
+            },
+            {
+              "title": "Item 8. Financial Statements and Supplementary Data",
+              "node_id": "0222",
+              "line_num": 13181
+            },
+            {
+              "title": "Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure",
+              "node_id": "0223",
+              "line_num": 13185
+            },
+            {
+              "title": "Item 9A. Controls and Procedures",
+              "node_id": "0224",
+              "line_num": 13189
+            },
+            {
+              "title": "Item 9B. Other Information",
+              "node_id": "0225",
+              "line_num": 13201
+            },
+            {
+              "title": "Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections",
+              "node_id": "0226",
+              "line_num": 13205
+            }
+          ]
+        },
+        {
+          "title": "PART III",
+          "node_id": "0227",
+          "line_num": 13209,
+          "nodes": [
+            {
+              "title": "Item 11. Executive Compensation",
+              "node_id": "0228",
+              "line_num": 13223
+            },
+            {
+              "title": "Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters",
+              "node_id": "0229",
+              "line_num": 13229
+            },
+            {
+              "title": "Item 13. Certain Relationships and Related Transactions, and Director Independence",
+              "node_id": "0230",
+              "line_num": 13235
+            },
+            {
+              "title": "Item 14. Principal Accounting Fees and Services",
+              "node_id": "0231",
+              "line_num": 13239
+            }
+          ]
+        },
+        {
+          "title": "PART IV",
+          "node_id": "0232",
+          "line_num": 13245,
+          "nodes": [
+            {
+              "title": "Item 16. Form 10-K Summary",
+              "node_id": "0233",
+              "line_num": 13269
+            },
+            {
+              "title": "INDEX TO EXHIBITS ITEM 15(a)(3)",
+              "node_id": "0234",
+              "line_num": 13275
+            },
+            {
+              "title": "SIGNATURES",
+              "node_id": "0235",
+              "line_num": 14412
+            },
+            {
+              "title": "Exhibit 4.65",
+              "node_id": "0236",
+              "line_num": 14434
+            },
+            {
+              "title": "Description of Securities",
+              "node_id": "0237",
+              "line_num": 14436
+            },
+            {
+              "title": "Registered Pursuant to Section 12 of the Securities Exchange Act of 1934",
+              "node_id": "0238",
+              "line_num": 14438
+            },
+            {
+              "title": "DESCRIPTION OF COMMON STOCK",
+              "node_id": "0239",
+              "line_num": 14440
+            },
+            {
+              "title": "General",
+              "node_id": "0240",
+              "line_num": 14444
+            },
+            {
+              "title": "Transfer Agent and Registrar",
+              "node_id": "0241",
+              "line_num": 14456
+            },
+            {
+              "title": "Stock Exchange Listing",
+              "node_id": "0242",
+              "line_num": 14462
+            },
+            {
+              "title": "Certain Provisions of PepsiCo’s Articles of Incorporation and By Laws; Director Indemnification Agreements",
+              "node_id": "0243",
+              "line_num": 14466
+            },
+            {
+              "title": "Certain Anti",
+              "node_id": "0244",
+              "line_num": 14482
+            },
+            {
+              "title": "DESCRIPTION OF NOTES",
+              "node_id": "0245",
+              "line_num": 14496
+            },
+            {
+              "title": "General",
+              "node_id": "0246",
+              "line_num": 14498
+            },
+            {
+              "title": "Optional Redemption",
+              "node_id": "0247",
+              "line_num": 14552
+            },
+            {
+              "title": "Sterling Notes",
+              "node_id": "0248",
+              "line_num": 14554
+            },
+            {
+              "title": "Definitions",
+              "node_id": "0249",
+              "line_num": 14562
+            },
+            {
+              "title": "Euro Notes",
+              "node_id": "0250",
+              "line_num": 14572
+            },
+            {
+              "title": "Definitions",
+              "node_id": "0251",
+              "line_num": 14600
+            },
+            {
+              "title": "General",
+              "node_id": "0252",
+              "line_num": 14608
+            },
+            {
+              "title": "Payment of Additional Amounts",
+              "node_id": "0253",
+              "line_num": 14616
+            },
+            {
+              "title": "Sterling Notes",
+              "node_id": "0254",
+              "line_num": 14620
+            },
+            {
+              "title": "2026 Notes and July 2028 Notes",
+              "node_id": "0255",
+              "line_num": 14658
+            },
+            {
+              "title": "2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes",
+              "node_id": "0256",
+              "line_num": 14700
+            },
+            {
+              "title": "Redemption for Tax Reasons",
+              "node_id": "0257",
+              "line_num": 14742
+            },
+            {
+              "title": "Certain Covenants",
+              "node_id": "0258",
+              "line_num": 14746
+            },
+            {
+              "title": "Limitation of Liens",
+              "node_id": "0259",
+              "line_num": 14748
+            },
+            {
+              "title": "Consolidation, Merger or Sale of Assets",
+              "node_id": "0260",
+              "line_num": 14772
+            },
+            {
+              "title": "Definitions",
+              "node_id": "0261",
+              "line_num": 14786
+            },
+            {
+              "title": "Events of Default",
+              "node_id": "0262",
+              "line_num": 14806
+            },
+            {
+              "title": "Modification and Waiver",
+              "node_id": "0263",
+              "line_num": 14834
+            },
+            {
+              "title": "Satisfaction, Discharge and Covenant Defeasance",
+              "node_id": "0264",
+              "line_num": 14880
+            },
+            {
+              "title": "Book-Entry, Delivery and Settlement",
+              "node_id": "0265",
+              "line_num": 14934
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED BENEFIT PROGRAM",
+      "node_id": "0266",
+      "line_num": 14966,
+      "nodes": [
+        {
+          "title": "ARTICLE I - HISTORY AND GENERAL INFORMATION",
+          "node_id": "0267",
+          "line_num": 15209
+        },
+        {
+          "title": "ARTICLE II - DEFINITIONS AND CONSTRUCTION",
+          "node_id": "0268",
+          "line_num": 15225
+        },
+        {
+          "title": "ARTICLE III - MEMBERSHIP",
+          "node_id": "0269",
+          "line_num": 15329
+        },
+        {
+          "title": "3. 01    Eligibility for Membership",
+          "node_id": "0270",
+          "line_num": 15331
+        },
+        {
+          "title": "3. 02    Admission to Membership",
+          "node_id": "0271",
+          "line_num": 15335
+        },
+        {
+          "title": "ARTICLE IV - REQUIREMENTS FOR BENEFITS",
+          "node_id": "0272",
+          "line_num": 15341
+        },
+        {
+          "title": "4. 02    Early Retirement Pension",
+          "node_id": "0273",
+          "line_num": 15343
+        },
+        {
+          "title": "4. 03    Special Early Retirement Pension",
+          "node_id": "0274",
+          "line_num": 15347
+        },
+        {
+          "title": "4. 04    Deferred Vested Pension",
+          "node_id": "0275",
+          "line_num": 15351
+        },
+        {
+          "title": "4. 05    Late Retirement Pension",
+          "node_id": "0276",
+          "line_num": 15359
+        },
+        {
+          "title": "4. 06    Vesting",
+          "node_id": "0277",
+          "line_num": 15363
+        },
+        {
+          "title": "4. 07    Special Vesting for Approved Transfers and Status Changes",
+          "node_id": "0278",
+          "line_num": 15367
+        },
+        {
+          "title": "4. 08    Accruals After Benefit Commencement",
+          "node_id": "0279",
+          "line_num": 15375
+        },
+        {
+          "title": "ARTICLE V - DISTRIBUTION OPTIONS",
+          "node_id": "0280",
+          "line_num": 15379
+        },
+        {
+          "title": "5. 01    Distribution Options",
+          "node_id": "0281",
+          "line_num": 15381
+        },
+        {
+          "title": "5. 02    Normal Forms of Payment",
+          "node_id": "0282",
+          "line_num": 15389
+        },
+        {
+          "title": "5. 03    Optional Forms of Payment",
+          "node_id": "0283",
+          "line_num": 15393
+        },
+        {
+          "title": "5. 04    Applicability of Certain Options",
+          "node_id": "0284",
+          "line_num": 15423
+        },
+        {
+          "title": "5. 05    Cashout of Certain Benefits",
+          "node_id": "0285",
+          "line_num": 15435
+        },
+        {
+          "title": "5. 06    Designation of Dependant",
+          "node_id": "0286",
+          "line_num": 15441
+        },
+        {
+          "title": "ARTICLE VI - DEATH BENEFITS",
+          "node_id": "0287",
+          "line_num": 15445
+        },
+        {
+          "title": "6. 01    Active and Retirement-Eligible Members",
+          "node_id": "0288",
+          "line_num": 15449
+        },
+        {
+          "title": "6. 02    Vested Members",
+          "node_id": "0289",
+          "line_num": 15453
+        },
+        {
+          "title": "6. 03    Form and Time of Payment of Death Benefits",
+          "node_id": "0290",
+          "line_num": 15459
+        },
+        {
+          "title": "6. 04    Disposition of Death Benefits",
+          "node_id": "0291",
+          "line_num": 15465
+        },
+        {
+          "title": "ARTICLE VII - ADMINISTRATION",
+          "node_id": "0292",
+          "line_num": 15471
+        },
+        {
+          "title": "7. 01    Authority to Administer Plan",
+          "node_id": "0293",
+          "line_num": 15473
+        },
+        {
+          "title": "7. 02    Facility of Payment",
+          "node_id": "0294",
+          "line_num": 15479
+        },
+        {
+          "title": "7. 03    Claims Procedure",
+          "node_id": "0295",
+          "line_num": 15483
+        },
+        {
+          "title": "7. 04    Limitations on Actions",
+          "node_id": "0296",
+          "line_num": 15503
+        },
+        {
+          "title": "7. 05    Restriction of Venue",
+          "node_id": "0297",
+          "line_num": 15509
+        },
+        {
+          "title": "7. 06    Effect of Specific References",
+          "node_id": "0298",
+          "line_num": 15513
+        },
+        {
+          "title": "7. 07    Claimant Must Exhaust the Plan’s Claims Procedures Before Filing in Court",
+          "node_id": "0299",
+          "line_num": 15517
+        },
+        {
+          "title": "ARTICLE VIII - AMENDMENT AND TERMINATION",
+          "node_id": "0300",
+          "line_num": 15557
+        },
+        {
+          "title": "8. 01    Continuation of the Plan",
+          "node_id": "0301",
+          "line_num": 15559
+        },
+        {
+          "title": "8. 02    Amendment",
+          "node_id": "0302",
+          "line_num": 15563
+        },
+        {
+          "title": "8. 03    Termination",
+          "node_id": "0303",
+          "line_num": 15567
+        },
+        {
+          "title": "ARTICLE IX - MISCELLANEOUS",
+          "node_id": "0304",
+          "line_num": 15571
+        },
+        {
+          "title": "9. 01    Unfunded Plan",
+          "node_id": "0305",
+          "line_num": 15573
+        },
+        {
+          "title": "9. 02    Costs of the Plan",
+          "node_id": "0306",
+          "line_num": 15577
+        },
+        {
+          "title": "9. 03    Temporary Absence of Member",
+          "node_id": "0307",
+          "line_num": 15581
+        },
+        {
+          "title": "9. 04    Taxes, Etc",
+          "node_id": "0308",
+          "line_num": 15585
+        },
+        {
+          "title": "9. 05    Nonguarantee of Employment",
+          "node_id": "0309",
+          "line_num": 15589
+        },
+        {
+          "title": "9. 06    No Right to Benefits",
+          "node_id": "0310",
+          "line_num": 15593
+        },
+        {
+          "title": "9. 07    Charges on Benefits and Recovery of Excess Payments",
+          "node_id": "0311",
+          "line_num": 15597
+        },
+        {
+          "title": "9. 08    Termination for Cause; Prohibited Misconduct",
+          "node_id": "0312",
+          "line_num": 15611
+        },
+        {
+          "title": "9. 09    Notices",
+          "node_id": "0313",
+          "line_num": 15633
+        },
+        {
+          "title": "9. 10    Plan Documentation",
+          "node_id": "0314",
+          "line_num": 15637
+        },
+        {
+          "title": "9. 11    Currency of Payment",
+          "node_id": "0315",
+          "line_num": 15641
+        },
+        {
+          "title": "9. 12    Governing Law",
+          "node_id": "0316",
+          "line_num": 15647
+        },
+        {
+          "title": "9. 13    Exemption from ERISA",
+          "node_id": "0317",
+          "line_num": 15651
+        },
+        {
+          "title": "9. 14    Exemption from Section 409A",
+          "node_id": "0318",
+          "line_num": 15655
+        },
+        {
+          "title": "ARTICLE X - SIGNATURE",
+          "node_id": "0319",
+          "line_num": 15659
+        },
+        {
+          "title": "By:_/s/ Ronald Schellekens___________________ Ronald Schellekens Executive Vice President and Chief Human Resources Officer Date: December 19, 2022",
+          "node_id": "0320",
+          "line_num": 15665
+        },
+        {
+          "title": "TABLE A - CALCULATION OF PENSIONS",
+          "node_id": "0321",
+          "line_num": 15671
+        },
+        {
+          "title": "(I)    Member’s Pension",
+          "node_id": "0322",
+          "line_num": 15675
+        },
+        {
+          "title": "(2)    The aggregate of:",
+          "node_id": "0323",
+          "line_num": 15715
+        },
+        {
+          "title": "(II)    Pre-Retirement Spouse’s Pension or Pre-Retirement Domestic Partner’s Pension",
+          "node_id": "0324",
+          "line_num": 15727,
+          "nodes": [
+            {
+              "title": "APPENDIX ERW - EARLY RETIREMENT WINDOWS",
+              "node_id": "0325",
+              "line_num": 15729
+            },
+            {
+              "title": "ERW.1    Scope",
+              "node_id": "0326",
+              "line_num": 15731
+            },
+            {
+              "title": "ERW.2    Definitions and Program Specific Rules",
+              "node_id": "0327",
+              "line_num": 15735
+            },
+            {
+              "title": "## (a) Appendix ERW:",
+              "node_id": "0328",
+              "line_num": 15739
+            },
+            {
+              "title": "## (b) Covered Employee:",
+              "node_id": "0329",
+              "line_num": 15743
+            },
+            {
+              "title": "(c) Reorganization:",
+              "node_id": "0330",
+              "line_num": 15763
+            },
+            {
+              "title": "(e) Severance Program and Effective Date:",
+              "node_id": "0331",
+              "line_num": 15770
+            },
+            {
+              "title": "ERW.3     Special Early Retirement",
+              "node_id": "0332",
+              "line_num": 15776
+            },
+            {
+              "title": "Exhibit 10.7",
+              "node_id": "0333",
+              "line_num": 15808
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM",
+      "node_id": "0334",
+      "line_num": 15810,
+      "nodes": [
+        {
+          "title": "ARTICLE I – HISTORY AND GENERAL INFORMATION",
+          "node_id": "0335",
+          "line_num": 16029
+        },
+        {
+          "title": "ARTICLE II – DEFINITIONS AND CONSTRUCTION",
+          "node_id": "0336",
+          "line_num": 16053
+        },
+        {
+          "title": "2. 01    Definitions",
+          "node_id": "0337",
+          "line_num": 16055
+        },
+        {
+          "title": "2. 02    Construction",
+          "node_id": "0338",
+          "line_num": 16143
+        },
+        {
+          "title": "ARTICLE III – MEMBERSHIP",
+          "node_id": "0339",
+          "line_num": 16159
+        },
+        {
+          "title": "3. 01    Eligibility for Membership",
+          "node_id": "0340",
+          "line_num": 16161
+        },
+        {
+          "title": "3. 02    Admission to Membership",
+          "node_id": "0341",
+          "line_num": 16165
+        },
+        {
+          "title": "3. 03    Active and Inactive Membership",
+          "node_id": "0342",
+          "line_num": 16169
+        },
+        {
+          "title": "ARTICLE IV – CONTRIBUTIONS",
+          "node_id": "0343",
+          "line_num": 16175
+        },
+        {
+          "title": "4. 01    Contributions",
+          "node_id": "0344",
+          "line_num": 16177
+        },
+        {
+          "title": "4. 02    Offsets",
+          "node_id": "0345",
+          "line_num": 16210
+        },
+        {
+          "title": "ARTICLE V – MEMBER ACCOUNTS",
+          "node_id": "0346",
+          "line_num": 16220
+        },
+        {
+          "title": "5. 02    Vesting",
+          "node_id": "0347",
+          "line_num": 16224
+        },
+        {
+          "title": "5. 03    Special Vesting for Approved Transfers and Status Changes",
+          "node_id": "0348",
+          "line_num": 16228
+        },
+        {
+          "title": "ARTICLE VI – DISTRIBUTION OF BENEFITS",
+          "node_id": "0349",
+          "line_num": 16236
+        },
+        {
+          "title": "6. 01    Distribution Rules Generally",
+          "node_id": "0350",
+          "line_num": 16238
+        },
+        {
+          "title": "6. 02    Distributions Upon Termination of Employment",
+          "node_id": "0351",
+          "line_num": 16242
+        },
+        {
+          "title": "6. 03    Distributions Upon Death",
+          "node_id": "0352",
+          "line_num": 16246
+        },
+        {
+          "title": "6. 04    Valuation",
+          "node_id": "0353",
+          "line_num": 16250
+        },
+        {
+          "title": "6. 05    Designation of Dependant",
+          "node_id": "0354",
+          "line_num": 16254
+        },
+        {
+          "title": "ARTICLE VII – ADMINISTRATION",
+          "node_id": "0355",
+          "line_num": 16258
+        },
+        {
+          "title": "7. 01    Authority to Administer Plan",
+          "node_id": "0356",
+          "line_num": 16260
+        },
+        {
+          "title": "7. 02    Facility of Payment",
+          "node_id": "0357",
+          "line_num": 16266
+        },
+        {
+          "title": "7. 03    Claims Procedure",
+          "node_id": "0358",
+          "line_num": 16270
+        },
+        {
+          "title": "7. 04    Limitations on Actions",
+          "node_id": "0359",
+          "line_num": 16290
+        },
+        {
+          "title": "7. 05    Restriction of Venue",
+          "node_id": "0360",
+          "line_num": 16296
+        },
+        {
+          "title": "7. 06    Effect of Specific References",
+          "node_id": "0361",
+          "line_num": 16300
+        },
+        {
+          "title": "7. 07    Claimant Must Exhaust the Plan’s Claims Procedures Before Filing in Court",
+          "node_id": "0362",
+          "line_num": 16304
+        },
+        {
+          "title": "ARTICLE VIII – AMENDMENT AND TERMINATION",
+          "node_id": "0363",
+          "line_num": 16344
+        },
+        {
+          "title": "8. 01    Continuation of the Plan",
+          "node_id": "0364",
+          "line_num": 16346
+        },
+        {
+          "title": "8. 02    Amendment",
+          "node_id": "0365",
+          "line_num": 16350
+        },
+        {
+          "title": "8. 03    Termination",
+          "node_id": "0366",
+          "line_num": 16354
+        },
+        {
+          "title": "ARTICLE IX – MISCELLANEOUS",
+          "node_id": "0367",
+          "line_num": 16358
+        },
+        {
+          "title": "9. 01    Unfunded Plan",
+          "node_id": "0368",
+          "line_num": 16360
+        },
+        {
+          "title": "9. 02    Costs of the Plan",
+          "node_id": "0369",
+          "line_num": 16364
+        },
+        {
+          "title": "9. 03    Temporary Absence of Member",
+          "node_id": "0370",
+          "line_num": 16368
+        },
+        {
+          "title": "9. 04    Taxes, Etc",
+          "node_id": "0371",
+          "line_num": 16372
+        },
+        {
+          "title": "9. 05    Nonguarantee of Employment",
+          "node_id": "0372",
+          "line_num": 16376
+        },
+        {
+          "title": "9. 06    No Right to Benefits",
+          "node_id": "0373",
+          "line_num": 16380
+        },
+        {
+          "title": "9. 07    Charges on Benefits and Recovery of Excess Payments",
+          "node_id": "0374",
+          "line_num": 16386
+        },
+        {
+          "title": "9. 08    Prohibited Misconduct",
+          "node_id": "0375",
+          "line_num": 16400
+        },
+        {
+          "title": "9. 09    Notices",
+          "node_id": "0376",
+          "line_num": 16424
+        },
+        {
+          "title": "9. 10    Plan Documentation",
+          "node_id": "0377",
+          "line_num": 16428
+        },
+        {
+          "title": "9. 11    Currency of Payment",
+          "node_id": "0378",
+          "line_num": 16432
+        },
+        {
+          "title": "9. 12    Governing Law",
+          "node_id": "0379",
+          "line_num": 16438
+        },
+        {
+          "title": "9. 13    Exemption from ERISA",
+          "node_id": "0380",
+          "line_num": 16442
+        },
+        {
+          "title": "9. 14    Exemption from Section 409A",
+          "node_id": "0381",
+          "line_num": 16446
+        },
+        {
+          "title": "9. 15     Electronic Signatures",
+          "node_id": "0382",
+          "line_num": 16450
+        },
+        {
+          "title": "ARTICLE X – SIGNATURE",
+          "node_id": "0383",
+          "line_num": 16456
+        },
+        {
+          "title": "By:_/s/ Ronald Schellekens___________________ Ronald Schellekens Executive Vice President and Chief Human Resources Officer Date: December 19, 2022",
+          "node_id": "0384",
+          "line_num": 16462
+        },
+        {
+          "title": "By:    _/s/ Jeffrey A. Arnold______________ Jeffrey A. Arnold Legal Director, Employee Benefits Counsel",
+          "node_id": "0385",
+          "line_num": 16466
+        },
+        {
+          "title": "APPENDIX",
+          "node_id": "0386",
+          "line_num": 16470
+        },
+        {
+          "title": "Exhibit 10.10",
+          "node_id": "0387",
+          "line_num": 16474
+        },
+        {
+          "title": "ARTICLE II",
+          "node_id": "0388",
+          "line_num": 16925
+        },
+        {
+          "title": "Definitions and Construction",
+          "node_id": "0389",
+          "line_num": 16927
+        },
+        {
+          "title": "SCHEDULE 1",
+          "node_id": "0390",
+          "line_num": 16941
+        },
+        {
+          "title": "409A Program",
+          "node_id": "0391",
+          "line_num": 17070
+        },
+        {
+          "title": "Guiding Principles Regarding Benefit Plan Committee Appointments",
+          "node_id": "0392",
+          "line_num": 17074
+        },
+        {
+          "title": "Highest Average Monthly Earnings",
+          "node_id": "0393",
+          "line_num": 17080
+        },
+        {
+          "title": "Key Employee :",
+          "node_id": "0394",
+          "line_num": 17084
+        },
+        {
+          "title": "(5) Identification of Key Employees from April 1, 2010 to March 31, 2018.",
+          "node_id": "0395",
+          "line_num": 17112
+        },
+        {
+          "title": "Participation and Service",
+          "node_id": "0396",
+          "line_num": 17256
+        },
+        {
+          "title": "3. 1 Participation: An Employee shall be a Participant in the Plan during the period:",
+          "node_id": "0397",
+          "line_num": 17258
+        },
+        {
+          "title": "ARTICLE IV",
+          "node_id": "0398",
+          "line_num": 17280
+        },
+        {
+          "title": "Requirements for Benefits",
+          "node_id": "0399",
+          "line_num": 17282
+        },
+        {
+          "title": "4. 1 Normal 409A Retirement Pension: A Participant shall be eligible for a Normal 409A Retirement",
+          "node_id": "0400",
+          "line_num": 17286
+        },
+        {
+          "title": "Amount of Retirement Pension",
+          "node_id": "0401",
+          "line_num": 17423
+        },
+        {
+          "title": "5. 3 Amount of Pre-Retirement Spouse’s 409A Pension: The monthly amount of the Pre-Retirement",
+          "node_id": "0402",
+          "line_num": 17529
+        },
+        {
+          "title": "ARTICLE VI",
+          "node_id": "0403",
+          "line_num": 17654
+        },
+        {
+          "title": "Distribution of Benefits",
+          "node_id": "0404",
+          "line_num": 17656
+        },
+        {
+          "title": "ARTICLE VII",
+          "node_id": "0405",
+          "line_num": 17768,
+          "nodes": [
+            {
+              "title": "Administration",
+              "node_id": "0406",
+              "line_num": 17770
+            },
+            {
+              "title": "ARTICLE VIII",
+              "node_id": "0407",
+              "line_num": 17856
+            },
+            {
+              "title": "Miscellaneous",
+              "node_id": "0408",
+              "line_num": 17858,
+              "nodes": [
+                {
+                  "title": "8. 6 Compliance with Section 409A:",
+                  "node_id": "0409",
+                  "line_num": 17874
+                }
+              ]
+            },
+            {
+              "title": "ARTICLE IX",
+              "node_id": "0410",
+              "line_num": 17910
+            },
+            {
+              "title": "Amendment and Termination",
+              "node_id": "0411",
+              "line_num": 17912
+            },
+            {
+              "title": "ARTICLE X",
+              "node_id": "0412",
+              "line_num": 17926
+            },
+            {
+              "title": "ERISA Plan Structure",
+              "node_id": "0413",
+              "line_num": 17928
+            },
+            {
+              "title": "Applicable Law",
+              "node_id": "0414",
+              "line_num": 17944
+            },
+            {
+              "title": "ARTICLE XII",
+              "node_id": "0415",
+              "line_num": 17954
+            },
+            {
+              "title": "Signature",
+              "node_id": "0416",
+              "line_num": 17956,
+              "nodes": [
+                {
+                  "title": "APPROVED",
+                  "node_id": "0417",
+                  "line_num": 17964
+                }
+              ]
+            },
+            {
+              "title": "APPENDIX",
+              "node_id": "0418",
+              "line_num": 17972
+            },
+            {
+              "title": "APPENDIX ARTICLE A",
+              "node_id": "0419",
+              "line_num": 17978
+            },
+            {
+              "title": "Transition Provisions",
+              "node_id": "0420",
+              "line_num": 17980,
+              "nodes": [
+                {
+                  "title": "A.1 Scope.",
+                  "node_id": "0421",
+                  "line_num": 17982
+                }
+              ]
+            },
+            {
+              "title": "A.3 Transition Rules for Article VI (Distributions):",
+              "node_id": "0422",
+              "line_num": 18008
+            },
+            {
+              "title": "A.4 Transition Rules for Article VII (Administration):",
+              "node_id": "0423",
+              "line_num": 18014,
+              "nodes": [
+                {
+                  "title": "“8.6(a) Compliance with Section 409A:",
+                  "node_id": "0424",
+                  "line_num": 18018
+                }
+              ]
+            },
+            {
+              "title": "A.5 Transition Rules for Severance Benefits.",
+              "node_id": "0425",
+              "line_num": 18024,
+              "nodes": [
+                {
+                  "title": "(a) Definitions:",
+                  "node_id": "0426",
+                  "line_num": 18028
+                },
+                {
+                  "title": "## (b) 2005 Severance:",
+                  "node_id": "0427",
+                  "line_num": 18036
+                },
+                {
+                  "title": "(5) Employees Who Become Special Retirement Eligible:",
+                  "node_id": "0428",
+                  "line_num": 18074
+                }
+              ]
+            },
+            {
+              "title": "A.6 Certain Participants",
+              "node_id": "0429",
+              "line_num": 18108
+            },
+            {
+              "title": "A.7 Transition Rules for Article VI (409A Disability Pension Pre-Separation Accruals):",
+              "node_id": "0430",
+              "line_num": 18122
+            },
+            {
+              "title": "APPENDIX ARTICLE B",
+              "node_id": "0431",
+              "line_num": 18132
+            },
+            {
+              "title": "Computation of Earnings and Service During Certain Severance Windows",
+              "node_id": "0432",
+              "line_num": 18134,
+              "nodes": [
+                {
+                  "title": "B.1 Definitions:",
+                  "node_id": "0433",
+                  "line_num": 18136
+                },
+                {
+                  "title": "B.2 Inclusion of Salary and Eligible Bonus:",
+                  "node_id": "0434",
+                  "line_num": 18144
+                }
+              ]
+            },
+            {
+              "title": "B.3 Inclusion of Credited Service:",
+              "node_id": "0435",
+              "line_num": 18150
+            },
+            {
+              "title": "B.4 Inclusion of Service:",
+              "node_id": "0436",
+              "line_num": 18154
+            },
+            {
+              "title": "B.5 Reduction to Reflect Early Payment:",
+              "node_id": "0437",
+              "line_num": 18160
+            },
+            {
+              "title": "APPENDIX ARTICLE C",
+              "node_id": "0438",
+              "line_num": 18166
+            },
+            {
+              "title": "International and PIRP Transfer Participants",
+              "node_id": "0439",
+              "line_num": 18168,
+              "nodes": [
+                {
+                  "title": "C.1 Scope:",
+                  "node_id": "0440",
+                  "line_num": 18170
+                }
+              ]
+            },
+            {
+              "title": "C.2 International Transfer Participants:",
+              "node_id": "0441",
+              "line_num": 18174,
+              "nodes": [
+                {
+                  "title": "(b) Special Rule for Certain Permanent Assignments to Mexico: Notwithstanding subsection (a)",
+                  "node_id": "0442",
+                  "line_num": 18182
+                }
+              ]
+            },
+            {
+              "title": "APPENDIX ARTICLE D",
+              "node_id": "0443",
+              "line_num": 18268
+            },
+            {
+              "title": "Band 4 or Higher Rehired Yum Participants",
+              "node_id": "0444",
+              "line_num": 18270,
+              "nodes": [
+                {
+                  "title": "D.1 Scope:",
+                  "node_id": "0445",
+                  "line_num": 18272
+                }
+              ]
+            },
+            {
+              "title": "APPENDIX ARTICLE E",
+              "node_id": "0446",
+              "line_num": 18278
+            },
+            {
+              "title": "Time and Form of Payment for Benefits Paid During Severance Windows",
+              "node_id": "0447",
+              "line_num": 18280,
+              "nodes": [
+                {
+                  "title": "E.1 Scope.",
+                  "node_id": "0448",
+                  "line_num": 18282
+                }
+              ]
+            },
+            {
+              "title": "E.2 Definitions:",
+              "node_id": "0449",
+              "line_num": 18286,
+              "nodes": [
+                {
+                  "title": "(b) Retirement Eligible Participants:",
+                  "node_id": "0450",
+                  "line_num": 18320
+                },
+                {
+                  "title": "==> picture [32 x 9] intentionally omitted <==",
+                  "node_id": "0451",
+                  "line_num": 18348
+                }
+              ]
+            },
+            {
+              "title": "APPENDIX ARTICLE F",
+              "node_id": "0452",
+              "line_num": 18350
+            },
+            {
+              "title": "U.K. Supplementary Appendix Participants with U.S. Service",
+              "node_id": "0453",
+              "line_num": 18352,
+              "nodes": [
+                {
+                  "title": "F.1    Scope:",
+                  "node_id": "0454",
+                  "line_num": 18354
+                }
+              ]
+            },
+            {
+              "title": "F.4 Operating Rules:",
+              "node_id": "0455",
+              "line_num": 18376
+            },
+            {
+              "title": "F.5 No Other Benefits:",
+              "node_id": "0456",
+              "line_num": 18396
+            },
+            {
+              "title": "APPENDIX ARTICLE G",
+              "node_id": "0457",
+              "line_num": 18402
+            },
+            {
+              "title": "Delay Election For Certain Pre-2018 Terminees",
+              "node_id": "0458",
+              "line_num": 18404,
+              "nodes": [
+                {
+                  "title": "G.1 Scope:",
+                  "node_id": "0459",
+                  "line_num": 18406
+                }
+              ]
+            },
+            {
+              "title": "G.2 Eligibility for Making a Delay Election.",
+              "node_id": "0460",
+              "line_num": 18412
+            },
+            {
+              "title": "G.3 Requirements for Making a Delay Election",
+              "node_id": "0461",
+              "line_num": 18424
+            },
+            {
+              "title": "G.4 No Change in Form",
+              "node_id": "0462",
+              "line_num": 18434
+            },
+            {
+              "title": "G.5 Cashout Provisions Not Superseded.",
+              "node_id": "0463",
+              "line_num": 18445
+            },
+            {
+              "title": "APPENDIX ARTICLE H",
+              "node_id": "0464",
+              "line_num": 18451
+            },
+            {
+              "title": "Definitions of Eligible Domestic Partner Applicable Prior to January 1, 2019",
+              "node_id": "0465",
+              "line_num": 18453,
+              "nodes": [
+                {
+                  "title": "H.1 Scope.",
+                  "node_id": "0466",
+                  "line_num": 18455
+                }
+              ]
+            },
+            {
+              "title": "H.2 Definition of Eligible Domestic Partner.",
+              "node_id": "0467",
+              "line_num": 18459,
+              "nodes": [
+                {
+                  "title": "b) June 26, 2013 through December 31, 2015 Provisions.",
+                  "node_id": "0468",
+                  "line_num": 18469
+                }
+              ]
+            },
+            {
+              "title": "APPENDIX ARTICLE I",
+              "node_id": "0469",
+              "line_num": 18493
+            },
+            {
+              "title": "409A PEP Makeup for Certain Pre-409A Benefits",
+              "node_id": "0470",
+              "line_num": 18495,
+              "nodes": [
+                {
+                  "title": "I.1 Scope:",
+                  "node_id": "0471",
+                  "line_num": 18497
+                }
+              ]
+            },
+            {
+              "title": "I.2 Eligibility Under This Article:",
+              "node_id": "0472",
+              "line_num": 18501
+            },
+            {
+              "title": "I.3 Benefit Amount Under This Article:",
+              "node_id": "0473",
+              "line_num": 18519
+            },
+            {
+              "title": "I.4 Time of Payment Under This Article:",
+              "node_id": "0474",
+              "line_num": 18533
+            },
+            {
+              "title": "I.5 Non-Duplication of Benefits:",
+              "node_id": "0475",
+              "line_num": 18545
+            },
+            {
+              "title": "- 142 -<br>**----- End of picture text -----**<br>",
+              "node_id": "0476",
+              "line_num": 18554
+            },
+            {
+              "title": "APPENDIX ARTICLE J",
+              "node_id": "0477",
+              "line_num": 18556,
+              "nodes": [
+                {
+                  "title": "Certain International Employees Who Are U.S. Persons",
+                  "node_id": "0478",
+                  "line_num": 18558
+                }
+              ]
+            },
+            {
+              "title": "J.1 Scope:",
+              "node_id": "0479",
+              "line_num": 18560
+            },
+            {
+              "title": "J.2 Definitions:",
+              "node_id": "0480",
+              "line_num": 18564
+            },
+            {
+              "title": "J.3 Benefit for Covered International Employees:",
+              "node_id": "0481",
+              "line_num": 18600
+            },
+            {
+              "title": "Benefit Information Table",
+              "node_id": "0482",
+              "line_num": 18618
+            },
+            {
+              "title": "J.4 Time and Form of Distributions:",
+              "node_id": "0483",
+              "line_num": 18648
+            },
+            {
+              "title": "J.5 Operating Rules:",
+              "node_id": "0484",
+              "line_num": 18656
+            },
+            {
+              "title": "J.6 No Other Benefits:",
+              "node_id": "0485",
+              "line_num": 18664
+            },
+            {
+              "title": "APPENDIX ARTICLE K",
+              "node_id": "0486",
+              "line_num": 18670
+            },
+            {
+              "title": "Termination of 409A Program with Respect to Participants Affected by the Tiger Transaction",
+              "node_id": "0487",
+              "line_num": 18672,
+              "nodes": [
+                {
+                  "title": "K.1 Scope.",
+                  "node_id": "0488",
+                  "line_num": 18674
+                }
+              ]
+            },
+            {
+              "title": "K.3 The Termination.",
+              "node_id": "0489",
+              "line_num": 18692
+            },
+            {
+              "title": "APPENDIX ARTICLE PBG",
+              "node_id": "0490",
+              "line_num": 18702
+            },
+            {
+              "title": "ARTICLE I TO APPENDIX ARTICLE PBG - HISTORY AND PURPOSE",
+              "node_id": "0491",
+              "line_num": 18706
+            },
+            {
+              "title": "1. 1 History of Plan",
+              "node_id": "0492",
+              "line_num": 18708
+            },
+            {
+              "title": "ARTICLE II TO APPENDIX ARTICLE PBG - DEFINITIONS AND CONSTRUCTION",
+              "node_id": "0493",
+              "line_num": 18720
+            },
+            {
+              "title": "2. 1 Definitions",
+              "node_id": "0494",
+              "line_num": 18722
+            },
+            {
+              "title": "ARTICLE I – INTRODUCTION",
+              "node_id": "0495",
+              "line_num": 19539
+            },
+            {
+              "title": "ARTICLE II – DEFINITIONS",
+              "node_id": "0496",
+              "line_num": 19551
+            },
+            {
+              "title": "2. 01 Account:",
+              "node_id": "0497",
+              "line_num": 19555
+            },
+            {
+              "title": "2. 02 Act:",
+              "node_id": "0498",
+              "line_num": 19559
+            },
+            {
+              "title": "2. 03 Base Compensation:",
+              "node_id": "0499",
+              "line_num": 19563
+            },
+            {
+              "title": "2. 04 Beneficiary:",
+              "node_id": "0500",
+              "line_num": 19567
+            },
+            {
+              "title": "2. 05 Bonus Compensation:",
+              "node_id": "0501",
+              "line_num": 19571
+            },
+            {
+              "title": "2. 06 Code:",
+              "node_id": "0502",
+              "line_num": 19577
+            },
+            {
+              "title": "2. 07 Company:",
+              "node_id": "0503",
+              "line_num": 19581
+            },
+            {
+              "title": "2. 08 Deferral Subaccount:",
+              "node_id": "0504",
+              "line_num": 19585
+            },
+            {
+              "title": "2. 09 Disability:",
+              "node_id": "0505",
+              "line_num": 19589
+            },
+            {
+              "title": "2. 10 Distribution Valuation Date:",
+              "node_id": "0506",
+              "line_num": 19593
+            },
+            {
+              "title": "2. 11 Election Form:",
+              "node_id": "0507",
+              "line_num": 19597
+            },
+            {
+              "title": "2. 12 Eligible Executive:",
+              "node_id": "0508",
+              "line_num": 19601
+            },
+            {
+              "title": "2. 13 Employer:",
+              "node_id": "0509",
+              "line_num": 19607
+            },
+            {
+              "title": "2. 14 ERISA:",
+              "node_id": "0510",
+              "line_num": 19611
+            },
+            {
+              "title": "2. 15 Executive:",
+              "node_id": "0511",
+              "line_num": 19615
+            },
+            {
+              "title": "2. 16 409A Program:",
+              "node_id": "0512",
+              "line_num": 19619
+            },
+            {
+              "title": "2. 17 Key Employee:",
+              "node_id": "0513",
+              "line_num": 19623
+            },
+            {
+              "title": "2. 18 NAV:",
+              "node_id": "0514",
+              "line_num": 19643
+            },
+            {
+              "title": "2. 19 Participant:",
+              "node_id": "0515",
+              "line_num": 19647
+            },
+            {
+              "title": "2. 20 PepsiCo Organization:",
+              "node_id": "0516",
+              "line_num": 19651
+            },
+            {
+              "title": "2. 21 Performance Period:",
+              "node_id": "0517",
+              "line_num": 19655
+            },
+            {
+              "title": "2. 22 Plan:",
+              "node_id": "0518",
+              "line_num": 19659
+            },
+            {
+              "title": "2. 23 Plan Administrator:",
+              "node_id": "0519",
+              "line_num": 19665
+            },
+            {
+              "title": "2. 24 Plan Year:",
+              "node_id": "0520",
+              "line_num": 19669
+            },
+            {
+              "title": "2. 25 Pre-409A Program:",
+              "node_id": "0521",
+              "line_num": 19673
+            },
+            {
+              "title": "2. 26 Prohibited Misconduct:",
+              "node_id": "0522",
+              "line_num": 19677,
+              "nodes": [
+                {
+                  "title": "(e)     The Participant engaging in any activity that constitutes fraud.",
+                  "node_id": "0523",
+                  "line_num": 19691
+                }
+              ]
+            },
+            {
+              "title": "2. 27 Recordkeeper:",
+              "node_id": "0524",
+              "line_num": 19697
+            },
+            {
+              "title": "2. 28 Retirement:",
+              "node_id": "0525",
+              "line_num": 19703
+            },
+            {
+              "title": "2. 29 Second Look Election:",
+              "node_id": "0526",
+              "line_num": 19707
+            },
+            {
+              "title": "2. 30 Section 409A:",
+              "node_id": "0527",
+              "line_num": 19711
+            },
+            {
+              "title": "2. 31 Separation from Service:",
+              "node_id": "0528",
+              "line_num": 19715
+            },
+            {
+              "title": "2. 32 Specific Payment Date:",
+              "node_id": "0529",
+              "line_num": 19719
+            },
+            {
+              "title": "2. 33 Unforeseeable Emergency:",
+              "node_id": "0530",
+              "line_num": 19723
+            },
+            {
+              "title": "2. 34 U.S.:",
+              "node_id": "0531",
+              "line_num": 19729
+            },
+            {
+              "title": "2. 35 Valuation Date:",
+              "node_id": "0532",
+              "line_num": 19733
+            },
+            {
+              "title": "ARTICLE III – ELIGIBILITY AND PARTICIPATION",
+              "node_id": "0533",
+              "line_num": 19739
+            },
+            {
+              "title": "3. 01 Eligibility to Participate:",
+              "node_id": "0534",
+              "line_num": 19741,
+              "nodes": [
+                {
+                  "title": "(a) In General.",
+                  "node_id": "0535",
+                  "line_num": 19743
+                }
+              ]
+            },
+            {
+              "title": "3. 02 Termination of Eligibility to Defer:",
+              "node_id": "0536",
+              "line_num": 19755
+            },
+            {
+              "title": "3. 03 Termination of Participation:",
+              "node_id": "0537",
+              "line_num": 19765
+            },
+            {
+              "title": "3. 04 Acquisitions and Divestitures:",
+              "node_id": "0538",
+              "line_num": 19769
+            },
+            {
+              "title": "3. 05 Special Rules for Certain Executives:",
+              "node_id": "0539",
+              "line_num": 19779
+            },
+            {
+              "title": "ARTICLE IV – DEFERRAL OF COMPENSATION",
+              "node_id": "0540",
+              "line_num": 19783
+            },
+            {
+              "title": "4. 01 Deferral Election:",
+              "node_id": "0541",
+              "line_num": 19785,
+              "nodes": [
+                {
+                  "title": "(b)    Deferrals of Bonus Compensation.",
+                  "node_id": "0542",
+                  "line_num": 19789
+                }
+              ]
+            },
+            {
+              "title": "4. 02 Time and Manner of Deferral Election:",
+              "node_id": "0543",
+              "line_num": 19801,
+              "nodes": [
+                {
+                  "title": "(a) Deferrals of Base Compensation.",
+                  "node_id": "0544",
+                  "line_num": 19803
+                },
+                {
+                  "title": "(b)    Deferrals of Bonus Compensation.",
+                  "node_id": "0545",
+                  "line_num": 19809
+                },
+                {
+                  "title": "(d)    Beneficiaries.",
+                  "node_id": "0546",
+                  "line_num": 19821
+                }
+              ]
+            },
+            {
+              "title": "4. 03 Period of Deferral:",
+              "node_id": "0547",
+              "line_num": 19829
+            },
+            {
+              "title": "4. 04 Form of Deferral Payout:",
+              "node_id": "0548",
+              "line_num": 19839
+            },
+            {
+              "title": "4. 05 Second Look Elections:",
+              "node_id": "0549",
+              "line_num": 19845
+            },
+            {
+              "title": "ARTICLE V – INTERESTS OF PARTICIPANTS",
+              "node_id": "0550",
+              "line_num": 19875
+            },
+            {
+              "title": "5. 01 Accounting for Participants’ Interests:",
+              "node_id": "0551",
+              "line_num": 19877
+            },
+            {
+              "title": "5. 02 Investment Options:",
+              "node_id": "0552",
+              "line_num": 19883
+            },
+            {
+              "title": "5. 03 Method of Allocation:",
+              "node_id": "0553",
+              "line_num": 19897
+            },
+            {
+              "title": "5. 04 Vesting of a Participant’s Account:",
+              "node_id": "0554",
+              "line_num": 19907
+            },
+            {
+              "title": "5. 05 Forfeiture of Earnings for Prohibited Misconduct:",
+              "node_id": "0555",
+              "line_num": 19911
+            },
+            {
+              "title": "ARTICLE VI – DISTRIBUTIONS",
+              "node_id": "0556",
+              "line_num": 19917
+            },
+            {
+              "title": "6. 01 General:",
+              "node_id": "0557",
+              "line_num": 19919
+            },
+            {
+              "title": "6. 02 Distributions Based on a Specific Payment Date:",
+              "node_id": "0558",
+              "line_num": 19939
+            },
+            {
+              "title": "6. 03 Distributions on Account of a Separation from Service:",
+              "node_id": "0559",
+              "line_num": 19947
+            },
+            {
+              "title": "6. 04 Distributions on Account of Death:",
+              "node_id": "0560",
+              "line_num": 19965
+            },
+            {
+              "title": "6. 05 Distributions on Account of Retirement:",
+              "node_id": "0561",
+              "line_num": 19985
+            },
+            {
+              "title": "6. 06 Distributions on Account of Disability:",
+              "node_id": "0562",
+              "line_num": 19997
+            },
+            {
+              "title": "6. 07 Distributions on Account of Unforeseeable Emergency:",
+              "node_id": "0563",
+              "line_num": 20005
+            },
+            {
+              "title": "6. 08 Valuation:",
+              "node_id": "0564",
+              "line_num": 20011
+            },
+            {
+              "title": "6. 09 Section 162(m) Compliance:",
+              "node_id": "0565",
+              "line_num": 20015
+            },
+            {
+              "title": "6. 10 Impact of Section 16 of the Act on Distributions:",
+              "node_id": "0566",
+              "line_num": 20025
+            },
+            {
+              "title": "6. 11 Actual Payment Date:",
+              "node_id": "0567",
+              "line_num": 20029
+            },
+            {
+              "title": "ARTICLE VII – PLAN ADMINISTRATION",
+              "node_id": "0568",
+              "line_num": 20033
+            },
+            {
+              "title": "7. 01 Plan Administrator:",
+              "node_id": "0569",
+              "line_num": 20035
+            },
+            {
+              "title": "7. 02 Action:",
+              "node_id": "0570",
+              "line_num": 20039
+            },
+            {
+              "title": "7. 03 Powers of the Plan Administrator:",
+              "node_id": "0571",
+              "line_num": 20043
+            },
+            {
+              "title": "7. 04 Compensation, Indemnity and Liability:",
+              "node_id": "0572",
+              "line_num": 20071
+            },
+            {
+              "title": "7. 05 Withholding:",
+              "node_id": "0573",
+              "line_num": 20075
+            },
+            {
+              "title": "7. 06 Section 16 Compliance:",
+              "node_id": "0574",
+              "line_num": 20079
+            },
+            {
+              "title": "7. 07 Conformance with Section 409A:",
+              "node_id": "0575",
+              "line_num": 20089
+            },
+            {
+              "title": "ARTICLE VIII– CLAIMS PROCEDURE",
+              "node_id": "0576",
+              "line_num": 20093
+            },
+            {
+              "title": "8. 01 Claims for Benefits:",
+              "node_id": "0577",
+              "line_num": 20095
+            },
+            {
+              "title": "8. 02 Appeals of Denied Claims:",
+              "node_id": "0578",
+              "line_num": 20099
+            },
+            {
+              "title": "8. 03 Special Claims Procedures for Disability Determinations:",
+              "node_id": "0579",
+              "line_num": 20109
+            },
+            {
+              "title": "8. 04 Effect of Specific References:",
+              "node_id": "0580",
+              "line_num": 20113
+            },
+            {
+              "title": "8. 05 Claimant Must Exhaust the Plan’s Claims Procedures Before Filing in Court:",
+              "node_id": "0581",
+              "line_num": 20117
+            },
+            {
+              "title": "8. 06 Limitations on Actions:",
+              "node_id": "0582",
+              "line_num": 20157
+            },
+            {
+              "title": "8. 07 Restriction on Venue:",
+              "node_id": "0583",
+              "line_num": 20161
+            },
+            {
+              "title": "ARTICLE IX – AMENDMENT AND TERMINATION",
+              "node_id": "0584",
+              "line_num": 20165
+            },
+            {
+              "title": "9. 01 Amendment of Plan:",
+              "node_id": "0585",
+              "line_num": 20167
+            },
+            {
+              "title": "9. 02 Termination of Plan:",
+              "node_id": "0586",
+              "line_num": 20171
+            },
+            {
+              "title": "ARTICLE X – MISCELLANEOUS",
+              "node_id": "0587",
+              "line_num": 20179
+            },
+            {
+              "title": "10. 01 Limitation on Participant’s Rights:",
+              "node_id": "0588",
+              "line_num": 20181
+            },
+            {
+              "title": "10. 02 Unfunded Obligation of Individual Employer:",
+              "node_id": "0589",
+              "line_num": 20185
+            },
+            {
+              "title": "10. 03 Other Plans:",
+              "node_id": "0590",
+              "line_num": 20191
+            },
+            {
+              "title": "10. 04 Receipt or Release:",
+              "node_id": "0591",
+              "line_num": 20195
+            },
+            {
+              "title": "10. 05 Governing Law:",
+              "node_id": "0592",
+              "line_num": 20199
+            },
+            {
+              "title": "10. 06 Adoption of Plan by Related Employers:",
+              "node_id": "0593",
+              "line_num": 20205
+            },
+            {
+              "title": "10. 07 Gender, Tense and Examples:",
+              "node_id": "0594",
+              "line_num": 20209
+            },
+            {
+              "title": "10. 08 Successors and Assigns; Nonalienation of Benefits:",
+              "node_id": "0595",
+              "line_num": 20213
+            },
+            {
+              "title": "10. 09 Facility of Payment:",
+              "node_id": "0596",
+              "line_num": 20217
+            },
+            {
+              "title": "ARTICLE XI – SIGNATURE/AUTHENTICATION",
+              "node_id": "0597",
+              "line_num": 20223
+            },
+            {
+              "title": "PEPSICO, INC.",
+              "node_id": "0598",
+              "line_num": 20227
+            },
+            {
+              "title": "LAW AND TAX DEPARTMENT APPROVAL:",
+              "node_id": "0599",
+              "line_num": 20231
+            },
+            {
+              "title": "APPENDIX",
+              "node_id": "0600",
+              "line_num": 20239
+            },
+            {
+              "title": "APPENDIX ARTICLE A - PARTICIPATING EMPLOYERS",
+              "node_id": "0601",
+              "line_num": 20245
+            },
+            {
+              "title": "APPENDIX ARTICLE B – PBG AND PAS EXECUTIVES",
+              "node_id": "0602",
+              "line_num": 20253
+            },
+            {
+              "title": "APPENDIX ARTICLE C – PARTICIPANTS AFFECTED BY JANUARY 20, 2022 TRANSACTION",
+              "node_id": "0603",
+              "line_num": 20293
+            },
+            {
+              "title": "EXHIBIT 21",
+              "node_id": "0604",
+              "line_num": 20313
+            },
+            {
+              "title": "PEPSICO, INC. SUBSIDIARIES (as of December 31, 2022)",
+              "node_id": "0605",
+              "line_num": 20315
+            },
+            {
+              "title": "Consent of Independent Registered Public Accounting Firm",
+              "node_id": "0606",
+              "line_num": 20906
+            },
+            {
+              "title": "Description, Registration Statement Number",
+              "node_id": "0607",
+              "line_num": 20912
+            },
+            {
+              "title": "Form S-3",
+              "node_id": "0608",
+              "line_num": 20914
+            },
+            {
+              "title": "Form S-8",
+              "node_id": "0609",
+              "line_num": 20934
+            },
+            {
+              "title": "POWER OF ATTORNEY",
+              "node_id": "0610",
+              "line_num": 20968
+            },
+            {
+              "title": "KNOW ALL BY THESE PRESENTS",
+              "node_id": "0611",
+              "line_num": 20970
+            },
+            {
+              "title": "[REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]",
+              "node_id": "0612",
+              "line_num": 21018
+            },
+            {
+              "title": "IN WITNESS WHEREOF",
+              "node_id": "0613",
+              "line_num": 21020
+            },
+            {
+              "title": "CERTIFICATION",
+              "node_id": "0614",
+              "line_num": 21221
+            },
+            {
+              "title": "I, **Ramon L. Laguarta,** certify that:",
+              "node_id": "0615",
+              "line_num": 21223
+            },
+            {
+              "title": "CERTIFICATION",
+              "node_id": "0616",
+              "line_num": 21251
+            },
+            {
+              "title": "I, **Hugh F. Johnston,** certify that:",
+              "node_id": "0617",
+              "line_num": 21253
+            },
+            {
+              "title": "CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002",
+              "node_id": "0618",
+              "line_num": 21281
+            },
+            {
+              "title": "CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002",
+              "node_id": "0619",
+              "line_num": 21293
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

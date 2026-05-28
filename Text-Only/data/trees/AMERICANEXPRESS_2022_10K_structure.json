@@ -1,0 +1,2372 @@
+{
+  "doc_name": "AMERICANEXPRESS_2022_10K",
+  "line_count": 22182,
+  "structure": [
+    {
+      "title": "UNITED STATES SECURITIES AND EXCHANGE COMMISSION",
+      "node_id": "0001",
+      "line_num": 1,
+      "nodes": [
+        {
+          "title": "Form 10-K",
+          "node_id": "0002",
+          "line_num": 5
+        },
+        {
+          "title": "PART I",
+          "node_id": "0003",
+          "line_num": 408
+        },
+        {
+          "title": "ITEM 1.    BUSINESS",
+          "node_id": "0004",
+          "line_num": 410
+        },
+        {
+          "title": "Overview",
+          "node_id": "0005",
+          "line_num": 412
+        },
+        {
+          "title": "Our Integrated Payments Platform",
+          "node_id": "0006",
+          "line_num": 422,
+          "nodes": [
+            {
+              "title": "Card Issuing Businesses",
+              "node_id": "0007",
+              "line_num": 428
+            },
+            {
+              "title": "Merchant Acquiring Business",
+              "node_id": "0008",
+              "line_num": 444
+            },
+            {
+              "title": "Card Network Business",
+              "node_id": "0009",
+              "line_num": 450
+            }
+          ]
+        },
+        {
+          "title": "Diverse Customer Base and Global Footprint",
+          "node_id": "0010",
+          "line_num": 454
+        },
+        {
+          "title": "Partners and Relationships",
+          "node_id": "0011",
+          "line_num": 460
+        },
+        {
+          "title": "Our Spend-Centric Model and Revenue Mix",
+          "node_id": "0012",
+          "line_num": 470
+        },
+        {
+          "title": "The American Express Brand and Service Excellence",
+          "node_id": "0013",
+          "line_num": 476
+        },
+        {
+          "title": "Our Business Strategies",
+          "node_id": "0014",
+          "line_num": 482
+        },
+        {
+          "title": "Our Colleagues",
+          "node_id": "0015",
+          "line_num": 498
+        },
+        {
+          "title": "Information About Our Executive Officers",
+          "node_id": "0016",
+          "line_num": 508
+        },
+        {
+          "title": "COMPETITION",
+          "node_id": "0017",
+          "line_num": 594
+        },
+        {
+          "title": "SUPERVISION AND REGULATION",
+          "node_id": "0018",
+          "line_num": 626
+        },
+        {
+          "title": "Overview",
+          "node_id": "0019",
+          "line_num": 628
+        },
+        {
+          "title": "Banking Regulation",
+          "node_id": "0020",
+          "line_num": 638,
+          "nodes": [
+            {
+              "title": "Activities",
+              "node_id": "0021",
+              "line_num": 642
+            },
+            {
+              "title": "Acquisitions and Investments",
+              "node_id": "0022",
+              "line_num": 648
+            }
+          ]
+        },
+        {
+          "title": "Financial Regulatory Reform",
+          "node_id": "0023",
+          "line_num": 652
+        },
+        {
+          "title": "Capital and Liquidity Regulation",
+          "node_id": "0024",
+          "line_num": 660,
+          "nodes": [
+            {
+              "title": "Capital Rules",
+              "node_id": "0025",
+              "line_num": 662
+            }
+          ]
+        },
+        {
+          "title": "Stress Testing and Capital Planning",
+          "node_id": "0026",
+          "line_num": 684
+        },
+        {
+          "title": "Dividends and Other Capital Distributions",
+          "node_id": "0027",
+          "line_num": 694
+        },
+        {
+          "title": "Prompt Corrective Action",
+          "node_id": "0028",
+          "line_num": 702
+        },
+        {
+          "title": "Resolution Planning",
+          "node_id": "0029",
+          "line_num": 708
+        },
+        {
+          "title": "Orderly Liquidation Authority",
+          "node_id": "0030",
+          "line_num": 714
+        },
+        {
+          "title": "FDIC Powers upon Insolvency of AENB",
+          "node_id": "0031",
+          "line_num": 720
+        },
+        {
+          "title": "Other Banking Regulations",
+          "node_id": "0032",
+          "line_num": 724,
+          "nodes": [
+            {
+              "title": "Source of Strength",
+              "node_id": "0033",
+              "line_num": 726
+            },
+            {
+              "title": "Community Reinvestment Act",
+              "node_id": "0034",
+              "line_num": 738
+            }
+          ]
+        },
+        {
+          "title": "Consumer Financial Products Regulation",
+          "node_id": "0035",
+          "line_num": 746
+        },
+        {
+          "title": "Payments Regulation",
+          "node_id": "0036",
+          "line_num": 756
+        },
+        {
+          "title": "Privacy, Data Protection, Data Governance, Information and Cyber Security",
+          "node_id": "0037",
+          "line_num": 766
+        },
+        {
+          "title": "Anti-Money Laundering, Countering the Financing of Terrorism, Economic Sanctions and Anti-Corruption Compliance",
+          "node_id": "0038",
+          "line_num": 778,
+          "nodes": [
+            {
+              "title": "Economic Sanctions",
+              "node_id": "0039",
+              "line_num": 792
+            },
+            {
+              "title": "Anti-Corruption",
+              "node_id": "0040",
+              "line_num": 800
+            }
+          ]
+        },
+        {
+          "title": "Compensation Practices",
+          "node_id": "0041",
+          "line_num": 804
+        },
+        {
+          "title": "ADDITIONAL INFORMATION",
+          "node_id": "0042",
+          "line_num": 812
+        },
+        {
+          "title": "Strategic, Business and Competitive Risks",
+          "node_id": "0043",
+          "line_num": 828
+        },
+        {
+          "title": "Legal, Regulatory and Compliance Risks",
+          "node_id": "0044",
+          "line_num": 976
+        },
+        {
+          "title": "Credit, Liquidity and Market Risks",
+          "node_id": "0045",
+          "line_num": 1056
+        },
+        {
+          "title": "Our risk management policies and procedures may not be effective",
+          "node_id": "0046",
+          "line_num": 1058
+        },
+        {
+          "title": "An inability to accept or maintain deposits due to market demand or regulatory constraints could materially adversely affect our liquidity position and our ability to fund our business",
+          "node_id": "0047",
+          "line_num": 1096
+        },
+        {
+          "title": "ITEM 1B. UNRESOLVED STAFF COMMENTS",
+          "node_id": "0048",
+          "line_num": 1106
+        },
+        {
+          "title": "ITEM 2.    PROPERTIES",
+          "node_id": "0049",
+          "line_num": 1110
+        },
+        {
+          "title": "ITEM 3.    LEGAL PROCEEDINGS",
+          "node_id": "0050",
+          "line_num": 1116
+        },
+        {
+          "title": "ITEM 4.    MINE SAFETY DISCLOSURES",
+          "node_id": "0051",
+          "line_num": 1120
+        },
+        {
+          "title": "PART II",
+          "node_id": "0052",
+          "line_num": 1124
+        },
+        {
+          "title": "ITEM 5.    MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES",
+          "node_id": "0053",
+          "line_num": 1126
+        },
+        {
+          "title": "Stock Performance Graph",
+          "node_id": "0054",
+          "line_num": 1130
+        },
+        {
+          "title": "ITEM 6.    [RESERVED]",
+          "node_id": "0055",
+          "line_num": 1360
+        },
+        {
+          "title": "ITEM 7.    MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (MD&A)",
+          "node_id": "0056",
+          "line_num": 1362
+        },
+        {
+          "title": "EXECUTIVE OVERVIEW",
+          "node_id": "0057",
+          "line_num": 1364
+        },
+        {
+          "title": "BUSINESS INTRODUCTION",
+          "node_id": "0058",
+          "line_num": 1366
+        },
+        {
+          "title": "NON-GAAP MEASURES",
+          "node_id": "0059",
+          "line_num": 1396
+        },
+        {
+          "title": "TABLE 1: SUMMARY OF FINANCIAL PERFORMANCE",
+          "node_id": "0060",
+          "line_num": 1400
+        },
+        {
+          "title": "BUSINESS ENVIRONMENT",
+          "node_id": "0061",
+          "line_num": 1719
+        },
+        {
+          "title": "CONSOLIDATED RESULTS OF OPERATIONS",
+          "node_id": "0062",
+          "line_num": 1741
+        },
+        {
+          "title": "TABLE 2: TOTAL REVENUES NET OF INTEREST EXPENSE SUMMARY",
+          "node_id": "0063",
+          "line_num": 1747
+        },
+        {
+          "title": "TOTAL REVENUES NET OF INTEREST EXPENSE",
+          "node_id": "0064",
+          "line_num": 1908
+        },
+        {
+          "title": "TABLE 3: PROVISIONS FOR CREDIT LOSSES SUMMARY",
+          "node_id": "0065",
+          "line_num": 1922
+        },
+        {
+          "title": "PROVISIONS FOR CREDIT LOSSES",
+          "node_id": "0066",
+          "line_num": 2179
+        },
+        {
+          "title": "TABLE 4: EXPENSES SUMMARY",
+          "node_id": "0067",
+          "line_num": 2187
+        },
+        {
+          "title": "EXPENSES",
+          "node_id": "0068",
+          "line_num": 2331
+        },
+        {
+          "title": "INCOME TAXES",
+          "node_id": "0069",
+          "line_num": 2347
+        },
+        {
+          "title": "TABLE 5: SELECTED CARD-RELATED STATISTICAL INFORMATION",
+          "node_id": "0070",
+          "line_num": 2351
+        },
+        {
+          "title": "TABLE 6: NETWORK VOLUMES-RELATED STATISTICAL INFORMATION",
+          "node_id": "0071",
+          "line_num": 2450
+        },
+        {
+          "title": "TABLE 7: SELECTED CREDIT-RELATED STATISTICAL INFORMATION",
+          "node_id": "0072",
+          "line_num": 2552
+        },
+        {
+          "title": "TABLE 8: NET INTEREST YIELD ON AVERAGE CARD MEMBER LOANS",
+          "node_id": "0073",
+          "line_num": 2787
+        },
+        {
+          "title": "BUSINESS SEGMENT RESULTS OF OPERATIONS",
+          "node_id": "0074",
+          "line_num": 2862
+        },
+        {
+          "title": "TOTAL REVENUES NET OF INTEREST EXPENSE",
+          "node_id": "0075",
+          "line_num": 2870
+        },
+        {
+          "title": "PROVISIONS FOR CREDIT LOSSES",
+          "node_id": "0076",
+          "line_num": 2878
+        },
+        {
+          "title": "EXPENSES",
+          "node_id": "0077",
+          "line_num": 2882
+        },
+        {
+          "title": "U.S. CONSUMER SERVICES",
+          "node_id": "0078",
+          "line_num": 2888
+        },
+        {
+          "title": "TABLE 9: USCS SELECTED INCOME STATEMENT DATA",
+          "node_id": "0079",
+          "line_num": 2890
+        },
+        {
+          "title": "TOTAL REVENUES NET OF INTEREST EXPENSE",
+          "node_id": "0080",
+          "line_num": 3068
+        },
+        {
+          "title": "PROVISIONS FOR CREDIT LOSSES",
+          "node_id": "0081",
+          "line_num": 3082
+        },
+        {
+          "title": "EXPENSES",
+          "node_id": "0082",
+          "line_num": 3088
+        },
+        {
+          "title": "TABLE 10: USCS SELECTED STATISTICAL INFORMATION",
+          "node_id": "0083",
+          "line_num": 3104
+        },
+        {
+          "title": "COMMERCIAL SERVICES",
+          "node_id": "0084",
+          "line_num": 3418
+        },
+        {
+          "title": "TABLE 11: CS SELECTED INCOME STATEMENT DATA",
+          "node_id": "0085",
+          "line_num": 3420
+        },
+        {
+          "title": "TOTAL REVENUES NET OF INTEREST EXPENSE",
+          "node_id": "0086",
+          "line_num": 3576
+        },
+        {
+          "title": "PROVISIONS FOR CREDIT LOSSES",
+          "node_id": "0087",
+          "line_num": 3592
+        },
+        {
+          "title": "EXPENSES",
+          "node_id": "0088",
+          "line_num": 3600
+        },
+        {
+          "title": "TABLE 12: CS SELECTED STATISTICAL INFORMATION",
+          "node_id": "0089",
+          "line_num": 3616
+        },
+        {
+          "title": "INTERNATIONAL CARD SERVICES",
+          "node_id": "0090",
+          "line_num": 3851
+        },
+        {
+          "title": "TABLE 13: ICS SELECTED INCOME STATEMENT DATA",
+          "node_id": "0091",
+          "line_num": 3853
+        },
+        {
+          "title": "TOTAL REVENUES NET OF INTEREST EXPENSE",
+          "node_id": "0092",
+          "line_num": 4009
+        },
+        {
+          "title": "PROVISIONS FOR CREDIT LOSSES",
+          "node_id": "0093",
+          "line_num": 4027
+        },
+        {
+          "title": "EXPENSES",
+          "node_id": "0094",
+          "line_num": 4033
+        },
+        {
+          "title": "TABLE 14: ICS SELECTED STATISTICAL INFORMATION",
+          "node_id": "0095",
+          "line_num": 4049
+        },
+        {
+          "title": "GLOBAL MERCHANT AND NETWORK SERVICES",
+          "node_id": "0096",
+          "line_num": 4378
+        },
+        {
+          "title": "TABLE 15: GMNS SELECTED INCOME STATEMENT AND OTHER DATA",
+          "node_id": "0097",
+          "line_num": 4380
+        },
+        {
+          "title": "TOTAL REVENUES NET OF INTEREST EXPENSE",
+          "node_id": "0098",
+          "line_num": 4562
+        },
+        {
+          "title": "EXPENSES",
+          "node_id": "0099",
+          "line_num": 4576
+        },
+        {
+          "title": "CORPORATE & OTHER",
+          "node_id": "0100",
+          "line_num": 4582
+        },
+        {
+          "title": "CONSOLIDATED CAPITAL RESOURCES AND LIQUIDITY",
+          "node_id": "0101",
+          "line_num": 4588
+        },
+        {
+          "title": "CAPITAL STRATEGY",
+          "node_id": "0102",
+          "line_num": 4600
+        },
+        {
+          "title": "TABLE 16: REGULATORY RISK-BASED CAPITAL AND LEVERAGE RATIOS",
+          "node_id": "0103",
+          "line_num": 4614
+        },
+        {
+          "title": "TABLE 17: REGULATORY RISK-BASED CAPITAL COMPONENTS AND RISK-WEIGHTED ASSETS",
+          "node_id": "0104",
+          "line_num": 4697
+        },
+        {
+          "title": "DIVIDENDS AND SHARE REPURCHASES",
+          "node_id": "0105",
+          "line_num": 4762
+        },
+        {
+          "title": "FUNDING STRATEGY",
+          "node_id": "0106",
+          "line_num": 4774
+        },
+        {
+          "title": "FUNDING PROGRAMS AND ACTIVITIES",
+          "node_id": "0107",
+          "line_num": 4784
+        },
+        {
+          "title": "We had the following customer deposits and consolidated debt outstanding as of December 31:",
+          "node_id": "0108",
+          "line_num": 4786
+        },
+        {
+          "title": "TABLE 18: SUMMARY OF CUSTOMER DEPOSITS AND CONSOLIDATED DEBT",
+          "node_id": "0109",
+          "line_num": 4788
+        },
+        {
+          "title": "TABLE 19: UNSECURED DEBT RATINGS",
+          "node_id": "0110",
+          "line_num": 4839
+        },
+        {
+          "title": "DEPOSIT PROGRAMS",
+          "node_id": "0111",
+          "line_num": 4950
+        },
+        {
+          "title": "SHORT-TERM FUNDING PROGRAMS",
+          "node_id": "0112",
+          "line_num": 4954
+        },
+        {
+          "title": "LONG-TERM DEBT AND ASSET SECURITIZATION PROGRAMS",
+          "node_id": "0113",
+          "line_num": 4958
+        },
+        {
+          "title": "TABLE 20: DEBT ISSUANCES",
+          "node_id": "0114",
+          "line_num": 4964
+        },
+        {
+          "title": "LIQUIDITY MANAGEMENT",
+          "node_id": "0115",
+          "line_num": 5015,
+          "nodes": [
+            {
+              "title": "Securitized Borrowing Capacity",
+              "node_id": "0116",
+              "line_num": 5035
+            },
+            {
+              "title": "Federal Reserve Discount Window",
+              "node_id": "0117",
+              "line_num": 5039
+            },
+            {
+              "title": "Committed Bank Credit Facility",
+              "node_id": "0118",
+              "line_num": 5045
+            },
+            {
+              "title": "Off-balance Sheet Arrangements",
+              "node_id": "0119",
+              "line_num": 5049
+            }
+          ]
+        },
+        {
+          "title": "CASH FLOWS",
+          "node_id": "0120",
+          "line_num": 5053
+        },
+        {
+          "title": "TABLE 21: CASH FLOWS",
+          "node_id": "0121",
+          "line_num": 5057,
+          "nodes": [
+            {
+              "title": "Cash Flows from Operating Activities",
+              "node_id": "0122",
+              "line_num": 5130
+            },
+            {
+              "title": "Cash Flows from Investing Activities",
+              "node_id": "0123",
+              "line_num": 5138
+            },
+            {
+              "title": "Cash Flows from Financing Activities",
+              "node_id": "0124",
+              "line_num": 5146
+            }
+          ]
+        },
+        {
+          "title": "RISK MANAGEMENT",
+          "node_id": "0125",
+          "line_num": 5154,
+          "nodes": [
+            {
+              "title": "GOVERNANCE",
+              "node_id": "0126",
+              "line_num": 5156
+            }
+          ]
+        },
+        {
+          "title": "CREDIT RISK MANAGEMENT PROCESS",
+          "node_id": "0127",
+          "line_num": 5180,
+          "nodes": [
+            {
+              "title": "Individual Credit Risk",
+              "node_id": "0128",
+              "line_num": 5184
+            },
+            {
+              "title": "Institutional Credit Risk",
+              "node_id": "0129",
+              "line_num": 5192
+            },
+            {
+              "title": "Exposure to the Airline and Travel Industry",
+              "node_id": "0130",
+              "line_num": 5198
+            },
+            {
+              "title": "Debt Exposure",
+              "node_id": "0131",
+              "line_num": 5202
+            }
+          ]
+        },
+        {
+          "title": "OPERATIONAL RISK MANAGEMENT PROCESS",
+          "node_id": "0132",
+          "line_num": 5206,
+          "nodes": [
+            {
+              "title": "Information and Cyber Security",
+              "node_id": "0133",
+              "line_num": 5216
+            },
+            {
+              "title": "Information Technology",
+              "node_id": "0134",
+              "line_num": 5226
+            },
+            {
+              "title": "Privacy",
+              "node_id": "0135",
+              "line_num": 5236
+            },
+            {
+              "title": "Data Management and Governance",
+              "node_id": "0136",
+              "line_num": 5242
+            },
+            {
+              "title": "Third Party Risk",
+              "node_id": "0137",
+              "line_num": 5250
+            },
+            {
+              "title": "Conduct Risk",
+              "node_id": "0138",
+              "line_num": 5254
+            }
+          ]
+        },
+        {
+          "title": "COMPLIANCE RISK MANAGEMENT PROCESS",
+          "node_id": "0139",
+          "line_num": 5260
+        },
+        {
+          "title": "REPUTATIONAL RISK MANAGEMENT PROCESS",
+          "node_id": "0140",
+          "line_num": 5268
+        },
+        {
+          "title": "MARKET RISK MANAGEMENT PROCESS",
+          "node_id": "0141",
+          "line_num": 5276,
+          "nodes": [
+            {
+              "title": "Interest Rate Risk",
+              "node_id": "0142",
+              "line_num": 5284
+            },
+            {
+              "title": "Foreign Exchange Risk",
+              "node_id": "0143",
+              "line_num": 5290
+            }
+          ]
+        },
+        {
+          "title": "FUNDING & LIQUIDITY RISK MANAGEMENT PROCESS",
+          "node_id": "0144",
+          "line_num": 5302
+        },
+        {
+          "title": "MODEL RISK MANAGEMENT PROCESS",
+          "node_id": "0145",
+          "line_num": 5312
+        },
+        {
+          "title": "STRATEGIC AND BUSINESS RISK MANAGEMENT PROCESS",
+          "node_id": "0146",
+          "line_num": 5318
+        },
+        {
+          "title": "COUNTRY RISK MANAGEMENT PROCESS",
+          "node_id": "0147",
+          "line_num": 5324
+        },
+        {
+          "title": "ENVIRONMENTAL, SOCIAL AND GOVERNANCE (ESG) AND CLIMATE-RELATED RISK",
+          "node_id": "0148",
+          "line_num": 5330
+        },
+        {
+          "title": "CRITICAL ACCOUNTING ESTIMATES",
+          "node_id": "0149",
+          "line_num": 5336
+        },
+        {
+          "title": "RESERVES FOR CARD MEMBER CREDIT LOSSES",
+          "node_id": "0150",
+          "line_num": 5340
+        },
+        {
+          "title": "LIABILITY FOR MEMBERSHIP REWARDS",
+          "node_id": "0151",
+          "line_num": 5364
+        },
+        {
+          "title": "GOODWILL RECOVERABILITY",
+          "node_id": "0152",
+          "line_num": 5378
+        },
+        {
+          "title": "INCOME TAXES",
+          "node_id": "0153",
+          "line_num": 5390
+        },
+        {
+          "title": "OTHER MATTERS",
+          "node_id": "0154",
+          "line_num": 5410
+        },
+        {
+          "title": "RECENTLY ISSUED AND ADOPTED ACCOUNTING STANDARDS",
+          "node_id": "0155",
+          "line_num": 5414
+        },
+        {
+          "title": "GLOSSARY OF SELECTED TERMINOLOGY",
+          "node_id": "0156",
+          "line_num": 5418
+        },
+        {
+          "title": "T&E-related volume",
+          "node_id": "0157",
+          "line_num": 5480
+        },
+        {
+          "title": "CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS",
+          "node_id": "0158",
+          "line_num": 5484
+        },
+        {
+          "title": "ITEM 7A.    QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK",
+          "node_id": "0159",
+          "line_num": 5540
+        },
+        {
+          "title": "ITEM 8.    FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA",
+          "node_id": "0160",
+          "line_num": 5544
+        },
+        {
+          "title": "MANAGEMENT’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING",
+          "node_id": "0161",
+          "line_num": 5546
+        },
+        {
+          "title": "REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM",
+          "node_id": "0162",
+          "line_num": 5566
+        },
+        {
+          "title": "To the Board of Directors and Shareholders of American Express Company",
+          "node_id": "0163",
+          "line_num": 5568,
+          "nodes": [
+            {
+              "title": "Opinions on the Financial Statements and Internal Control over Financial Reporting",
+              "node_id": "0164",
+              "line_num": 5570
+            },
+            {
+              "title": "Basis for Opinions",
+              "node_id": "0165",
+              "line_num": 5580
+            },
+            {
+              "title": "Definition and Limitations of Internal Control over Financial Reporting",
+              "node_id": "0166",
+              "line_num": 5588
+            },
+            {
+              "title": "Critical Audit Matters",
+              "node_id": "0167",
+              "line_num": 5594
+            },
+            {
+              "title": "Membership Rewards Liability",
+              "node_id": "0168",
+              "line_num": 5606
+            }
+          ]
+        },
+        {
+          "title": "INDEX TO CONSOLIDATED FINANCIAL STATEMENTS",
+          "node_id": "0169",
+          "line_num": 5618
+        },
+        {
+          "title": "CONSOLIDATED STATEMENTS OF INCOME",
+          "node_id": "0170",
+          "line_num": 6747
+        },
+        {
+          "title": "CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME",
+          "node_id": "0171",
+          "line_num": 7220
+        },
+        {
+          "title": "CONSOLIDATED BALANCE SHEETS",
+          "node_id": "0172",
+          "line_num": 7295
+        },
+        {
+          "title": "CONSOLIDATED STATEMENTS OF CASH FLOWS",
+          "node_id": "0173",
+          "line_num": 7498
+        },
+        {
+          "title": "CONSOLIDATED STATEMENTS OF SHAREHOLDERS’ EQUITY",
+          "node_id": "0174",
+          "line_num": 7861
+        },
+        {
+          "title": "NOTES TO CONSOLIDATED FINANCIAL STATEMENTS",
+          "node_id": "0175",
+          "line_num": 8278
+        },
+        {
+          "title": "NOTE 1",
+          "node_id": "0176",
+          "line_num": 8280
+        },
+        {
+          "title": "SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES",
+          "node_id": "0177",
+          "line_num": 8282
+        },
+        {
+          "title": "THE COMPANY",
+          "node_id": "0178",
+          "line_num": 8284
+        },
+        {
+          "title": "PRINCIPLES OF CONSOLIDATION",
+          "node_id": "0179",
+          "line_num": 8288
+        },
+        {
+          "title": "FOREIGN CURRENCY",
+          "node_id": "0180",
+          "line_num": 8296
+        },
+        {
+          "title": "AMOUNTS BASED ON ESTIMATES AND ASSUMPTIONS",
+          "node_id": "0181",
+          "line_num": 8302
+        },
+        {
+          "title": "INCOME STATEMENT",
+          "node_id": "0182",
+          "line_num": 8306,
+          "nodes": [
+            {
+              "title": "Discount Revenue",
+              "node_id": "0183",
+              "line_num": 8310
+            }
+          ]
+        },
+        {
+          "title": "Net Card Fees",
+          "node_id": "0184",
+          "line_num": 8318
+        },
+        {
+          "title": "Service Fees and Other Revenue",
+          "node_id": "0185",
+          "line_num": 8322
+        },
+        {
+          "title": "Processed Revenue",
+          "node_id": "0186",
+          "line_num": 8326
+        },
+        {
+          "title": "Contra-revenue",
+          "node_id": "0187",
+          "line_num": 8330
+        },
+        {
+          "title": "Interest Income",
+          "node_id": "0188",
+          "line_num": 8334
+        },
+        {
+          "title": "Interest Expense",
+          "node_id": "0189",
+          "line_num": 8342
+        },
+        {
+          "title": "Card Member Rewards",
+          "node_id": "0190",
+          "line_num": 8346
+        },
+        {
+          "title": "Business Development",
+          "node_id": "0191",
+          "line_num": 8350
+        },
+        {
+          "title": "Card Member Services",
+          "node_id": "0192",
+          "line_num": 8354
+        },
+        {
+          "title": "Marketing",
+          "node_id": "0193",
+          "line_num": 8358
+        },
+        {
+          "title": "BALANCE SHEET",
+          "node_id": "0194",
+          "line_num": 8362
+        },
+        {
+          "title": "Cash and Cash Equivalents",
+          "node_id": "0195",
+          "line_num": 8364
+        },
+        {
+          "title": "Goodwill",
+          "node_id": "0196",
+          "line_num": 8368
+        },
+        {
+          "title": "Premises and Equipment",
+          "node_id": "0197",
+          "line_num": 8382
+        },
+        {
+          "title": "Leases",
+          "node_id": "0198",
+          "line_num": 8388
+        },
+        {
+          "title": "OTHER SIGNIFICANT ACCOUNTING POLICIES",
+          "node_id": "0199",
+          "line_num": 8392
+        },
+        {
+          "title": "CLASSIFICATION OF VARIOUS ITEMS",
+          "node_id": "0200",
+          "line_num": 8453
+        },
+        {
+          "title": "RECENTLY ISSUED AND ADOPTED ACCOUNTING STANDARDS",
+          "node_id": "0201",
+          "line_num": 8457
+        },
+        {
+          "title": "NOTE 2",
+          "node_id": "0202",
+          "line_num": 8461
+        },
+        {
+          "title": "LOANS AND CARD MEMBER RECEIVABLES",
+          "node_id": "0203",
+          "line_num": 8463
+        },
+        {
+          "title": "CARD MEMBER AND OTHER LOANS",
+          "node_id": "0204",
+          "line_num": 8467
+        },
+        {
+          "title": "CARD MEMBER RECEIVABLES",
+          "node_id": "0205",
+          "line_num": 8540
+        },
+        {
+          "title": "CARD MEMBER LOANS AND RECEIVABLES AGING",
+          "node_id": "0206",
+          "line_num": 8605
+        },
+        {
+          "title": "CREDIT QUALITY INDICATORS FOR CARD MEMBER LOANS AND RECEIVABLES",
+          "node_id": "0207",
+          "line_num": 8884
+        },
+        {
+          "title": "IMPAIRED LOANS AND RECEIVABLES",
+          "node_id": "0208",
+          "line_num": 8993,
+          "nodes": [
+            {
+              "title": "LOANS AND RECEIVABLES MODIFIED AS TDRs",
+              "node_id": "0209",
+              "line_num": 9536
+            },
+            {
+              "title": "NOTE 3",
+              "node_id": "0210",
+              "line_num": 9828
+            },
+            {
+              "title": "RESERVES FOR CREDIT LOSSES",
+              "node_id": "0211",
+              "line_num": 9830
+            },
+            {
+              "title": "CHANGES IN CARD MEMBER LOANS RESERVE FOR CREDIT LOSSES",
+              "node_id": "0212",
+              "line_num": 9893
+            },
+            {
+              "title": "CHANGES IN CARD MEMBER RECEIVABLES RESERVE FOR CREDIT LOSSES",
+              "node_id": "0213",
+              "line_num": 9976
+            },
+            {
+              "title": "NOTE 4",
+              "node_id": "0214",
+              "line_num": 10033
+            },
+            {
+              "title": "INVESTMENT SECURITIES",
+              "node_id": "0215",
+              "line_num": 10035
+            },
+            {
+              "title": "NOTE 5",
+              "node_id": "0216",
+              "line_num": 10667
+            },
+            {
+              "title": "ASSET SECURITIZATIONS",
+              "node_id": "0217",
+              "line_num": 10669
+            },
+            {
+              "title": "NOTE 6",
+              "node_id": "0218",
+              "line_num": 10681
+            },
+            {
+              "title": "OTHER ASSETS",
+              "node_id": "0219",
+              "line_num": 10683
+            },
+            {
+              "title": "GOODWILL",
+              "node_id": "0220",
+              "line_num": 10732
+            },
+            {
+              "title": "OTHER INTANGIBLE ASSETS",
+              "node_id": "0221",
+              "line_num": 10857
+            },
+            {
+              "title": "TAX CREDIT INVESTMENTS",
+              "node_id": "0222",
+              "line_num": 10865
+            },
+            {
+              "title": "NOTE 7",
+              "node_id": "0223",
+              "line_num": 10875
+            },
+            {
+              "title": "CUSTOMER DEPOSITS",
+              "node_id": "0224",
+              "line_num": 10877
+            }
+          ]
+        },
+        {
+          "title": "NOTE 8",
+          "node_id": "0225",
+          "line_num": 11074,
+          "nodes": [
+            {
+              "title": "DEBT",
+              "node_id": "0226",
+              "line_num": 11076
+            },
+            {
+              "title": "SHORT-TERM BORROWINGS",
+              "node_id": "0227",
+              "line_num": 11078
+            },
+            {
+              "title": "LONG-TERM DEBT",
+              "node_id": "0228",
+              "line_num": 11138
+            },
+            {
+              "title": "NOTE 9",
+              "node_id": "0229",
+              "line_num": 11646
+            },
+            {
+              "title": "OTHER LIABILITIES",
+              "node_id": "0230",
+              "line_num": 11648
+            },
+            {
+              "title": "MEMBERSHIP REWARDS",
+              "node_id": "0231",
+              "line_num": 11721
+            },
+            {
+              "title": "DEFERRED CARD AND OTHER FEES, NET",
+              "node_id": "0232",
+              "line_num": 11727
+            },
+            {
+              "title": "NOTE 10",
+              "node_id": "0233",
+              "line_num": 11770
+            },
+            {
+              "title": "STOCK-BASED COMPENSATION",
+              "node_id": "0234",
+              "line_num": 11772
+            },
+            {
+              "title": "STOCK OPTION AND AWARD PROGRAMS",
+              "node_id": "0235",
+              "line_num": 11774
+            },
+            {
+              "title": "STOCK OPTIONS",
+              "node_id": "0236",
+              "line_num": 11933
+            },
+            {
+              "title": "RESTRICTED STOCK UNITS/AWARDS",
+              "node_id": "0237",
+              "line_num": 12027
+            },
+            {
+              "title": "LIABILITY-BASED AWARDS",
+              "node_id": "0238",
+              "line_num": 12076
+            },
+            {
+              "title": "NOTE 11",
+              "node_id": "0239",
+              "line_num": 12080
+            },
+            {
+              "title": "RETIREMENT PLANS",
+              "node_id": "0240",
+              "line_num": 12082
+            },
+            {
+              "title": "DEFINED CONTRIBUTION RETIREMENT PLANS",
+              "node_id": "0241",
+              "line_num": 12084
+            },
+            {
+              "title": "DEFINED BENEFIT PENSION AND OTHER POSTRETIREMENT BENEFIT PLANS",
+              "node_id": "0242",
+              "line_num": 12088
+            },
+            {
+              "title": "NOTE 12",
+              "node_id": "0243",
+              "line_num": 12094
+            },
+            {
+              "title": "CONTINGENCIES AND COMMITMENTS",
+              "node_id": "0244",
+              "line_num": 12096
+            },
+            {
+              "title": "CONTINGENCIES",
+              "node_id": "0245",
+              "line_num": 12098
+            },
+            {
+              "title": "COMMITMENTS",
+              "node_id": "0246",
+              "line_num": 12120
+            },
+            {
+              "title": "NOTE 13",
+              "node_id": "0247",
+              "line_num": 12179
+            },
+            {
+              "title": "DERIVATIVES AND HEDGING ACTIVITIES",
+              "node_id": "0248",
+              "line_num": 12181
+            },
+            {
+              "title": "DERIVATIVE FINANCIAL INSTRUMENTS THAT QUALIFY FOR HEDGE ACCOUNTING",
+              "node_id": "0249",
+              "line_num": 12342
+            },
+            {
+              "title": "FAIR VALUE HEDGES",
+              "node_id": "0250",
+              "line_num": 12346
+            },
+            {
+              "title": "Interest Rate Contracts",
+              "node_id": "0251",
+              "line_num": 12350
+            },
+            {
+              "title": "NET INVESTMENT HEDGES",
+              "node_id": "0252",
+              "line_num": 12411
+            },
+            {
+              "title": "DERIVATIVES NOT DESIGNATED AS HEDGES",
+              "node_id": "0253",
+              "line_num": 12415
+            },
+            {
+              "title": "NOTE 14",
+              "node_id": "0254",
+              "line_num": 12423
+            },
+            {
+              "title": "FAIR VALUES",
+              "node_id": "0255",
+              "line_num": 12425
+            },
+            {
+              "title": "FINANCIAL ASSETS AND FINANCIAL LIABILITIES CARRIED AT FAIR VALUE",
+              "node_id": "0256",
+              "line_num": 12447
+            },
+            {
+              "title": "VALUATION TECHNIQUES USED IN THE FAIR VALUE MEASUREMENT OF FINANCIAL ASSETS AND FINANCIAL LIABILITIES CARRIED AT FAIR VALUE",
+              "node_id": "0257",
+              "line_num": 12660
+            },
+            {
+              "title": "Investment Securities",
+              "node_id": "0258",
+              "line_num": 12664
+            },
+            {
+              "title": "Derivative Financial Instruments",
+              "node_id": "0259",
+              "line_num": 12674
+            },
+            {
+              "title": "FINANCIAL ASSETS AND FINANCIAL LIABILITIES CARRIED AT OTHER THAN FAIR VALUE",
+              "node_id": "0260",
+              "line_num": 12686
+            },
+            {
+              "title": "VALUATION TECHNIQUES USED IN THE FAIR VALUE MEASUREMENT OF FINANCIAL ASSETS AND FINANCIAL LIABILITIES CARRIED AT OTHER THAN FAIR VALUE",
+              "node_id": "0261",
+              "line_num": 13002
+            },
+            {
+              "title": "Financial Assets For Which Carrying Values Equal Or Approximate Fair Value",
+              "node_id": "0262",
+              "line_num": 13006
+            },
+            {
+              "title": "Financial Assets Carried At Other Than Fair Value",
+              "node_id": "0263",
+              "line_num": 13010
+            },
+            {
+              "title": "Card Member and Other loans, less reserves",
+              "node_id": "0264",
+              "line_num": 13012
+            },
+            {
+              "title": "Financial Liabilities For Which Carrying Values Equal Or Approximate Fair Value",
+              "node_id": "0265",
+              "line_num": 13016
+            },
+            {
+              "title": "Financial Liabilities Carried At Other Than Fair Value",
+              "node_id": "0266",
+              "line_num": 13020
+            },
+            {
+              "title": "Certificates of Deposit",
+              "node_id": "0267",
+              "line_num": 13022
+            },
+            {
+              "title": "Long-term Debt",
+              "node_id": "0268",
+              "line_num": 13026
+            },
+            {
+              "title": "NONRECURRING FAIR VALUE MEASUREMENTS",
+              "node_id": "0269",
+              "line_num": 13030
+            },
+            {
+              "title": "NOTE 15",
+              "node_id": "0270",
+              "line_num": 13036
+            },
+            {
+              "title": "GUARANTEES",
+              "node_id": "0271",
+              "line_num": 13038
+            }
+          ]
+        },
+        {
+          "title": "NOTE 16",
+          "node_id": "0272",
+          "line_num": 13044
+        },
+        {
+          "title": "COMMON AND PREFERRED SHARES",
+          "node_id": "0273",
+          "line_num": 13046
+        },
+        {
+          "title": "PREFERRED SHARES",
+          "node_id": "0274",
+          "line_num": 13111
+        },
+        {
+          "title": "NOTE 17",
+          "node_id": "0275",
+          "line_num": 13162
+        },
+        {
+          "title": "CHANGES IN ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)",
+          "node_id": "0276",
+          "line_num": 13164
+        },
+        {
+          "title": "NOTE 18",
+          "node_id": "0277",
+          "line_num": 13288
+        },
+        {
+          "title": "SERVICE FEES AND OTHER REVENUE AND OTHER EXPENSES",
+          "node_id": "0278",
+          "line_num": 13290
+        },
+        {
+          "title": "NOTE 19",
+          "node_id": "0279",
+          "line_num": 13399
+        },
+        {
+          "title": "RESTRUCTURING",
+          "node_id": "0280",
+          "line_num": 13401
+        },
+        {
+          "title": "NOTE 20",
+          "node_id": "0281",
+          "line_num": 13405
+        },
+        {
+          "title": "INCOME TAXES",
+          "node_id": "0282",
+          "line_num": 13407
+        },
+        {
+          "title": "NOTE 21",
+          "node_id": "0283",
+          "line_num": 13795
+        },
+        {
+          "title": "EARNINGS PER COMMON SHARE (EPS)",
+          "node_id": "0284",
+          "line_num": 13797
+        },
+        {
+          "title": "NOTE 22",
+          "node_id": "0285",
+          "line_num": 13990
+        },
+        {
+          "title": "REGULATORY MATTERS AND CAPITAL ADEQUACY",
+          "node_id": "0286",
+          "line_num": 13992
+        },
+        {
+          "title": "RESTRICTED NET ASSETS OF SUBSIDIARIES",
+          "node_id": "0287",
+          "line_num": 14201
+        },
+        {
+          "title": "BANK HOLDING COMPANY DIVIDEND RESTRICTIONS",
+          "node_id": "0288",
+          "line_num": 14205
+        },
+        {
+          "title": "BANK DIVIDEND RESTRICTIONS",
+          "node_id": "0289",
+          "line_num": 14209
+        },
+        {
+          "title": "NOTE 23",
+          "node_id": "0290",
+          "line_num": 14213
+        },
+        {
+          "title": "SIGNIFICANT CREDIT CONCENTRATIONS",
+          "node_id": "0291",
+          "line_num": 14215
+        },
+        {
+          "title": "NOTE 24",
+          "node_id": "0292",
+          "line_num": 14302
+        },
+        {
+          "title": "REPORTABLE OPERATING SEGMENTS AND GEOGRAPHIC OPERATIONS",
+          "node_id": "0293",
+          "line_num": 14304
+        },
+        {
+          "title": "REPORTABLE OPERATING SEGMENTS",
+          "node_id": "0294",
+          "line_num": 14306
+        },
+        {
+          "title": "Total Revenues Net of Interest Expense",
+          "node_id": "0295",
+          "line_num": 14625
+        },
+        {
+          "title": "Provisions for Credit Losses",
+          "node_id": "0296",
+          "line_num": 14633
+        },
+        {
+          "title": "Expenses",
+          "node_id": "0297",
+          "line_num": 14637
+        },
+        {
+          "title": "GEOGRAPHIC OPERATIONS",
+          "node_id": "0298",
+          "line_num": 14643
+        },
+        {
+          "title": "NOTE 25",
+          "node_id": "0299",
+          "line_num": 14760
+        },
+        {
+          "title": "PARENT COMPANY",
+          "node_id": "0300",
+          "line_num": 14762
+        },
+        {
+          "title": "PARENT COMPANY – CONDENSED STATEMENTS OF INCOME AND COMPREHENSIVE INCOME",
+          "node_id": "0301",
+          "line_num": 14764
+        },
+        {
+          "title": "PARENT COMPANY – CONDENSED BALANCE SHEETS",
+          "node_id": "0302",
+          "line_num": 14953
+        },
+        {
+          "title": "PARENT COMPANY – CONDENSED STATEMENTS OF CASH FLOWS",
+          "node_id": "0303",
+          "line_num": 15052
+        },
+        {
+          "title": "ITEM 9.    CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE",
+          "node_id": "0304",
+          "line_num": 15435
+        },
+        {
+          "title": "ITEM 9A.    CONTROLS AND PROCEDURES",
+          "node_id": "0305",
+          "line_num": 15439
+        },
+        {
+          "title": "ITEM 9B.    OTHER INFORMATION",
+          "node_id": "0306",
+          "line_num": 15447
+        },
+        {
+          "title": "ITEM 9C.    DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS",
+          "node_id": "0307",
+          "line_num": 15451
+        },
+        {
+          "title": "PART III",
+          "node_id": "0308",
+          "line_num": 15455
+        },
+        {
+          "title": "ITEMS 10, 11, 12 and 13. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE; EXECUTIVE COMPENSATION; SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS; CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE",
+          "node_id": "0309",
+          "line_num": 15457
+        },
+        {
+          "title": "ITEM 14.    PRINCIPAL ACCOUNTANT FEES AND SERVICES",
+          "node_id": "0310",
+          "line_num": 15481
+        },
+        {
+          "title": "PART IV",
+          "node_id": "0311",
+          "line_num": 15485
+        },
+        {
+          "title": "ITEM 15.    EXHIBIT AND FINANCIAL STATEMENT SCHEDULES",
+          "node_id": "0312",
+          "line_num": 15487,
+          "nodes": [
+            {
+              "title": "(a)",
+              "node_id": "0313",
+              "line_num": 15489
+            },
+            {
+              "title": "## 1. Financial Statements :",
+              "node_id": "0314",
+              "line_num": 15491
+            },
+            {
+              "title": "## 2. Financial Statement Schedules :",
+              "node_id": "0315",
+              "line_num": 15495
+            },
+            {
+              "title": "## 3. Exhibits :",
+              "node_id": "0316",
+              "line_num": 15499
+            }
+          ]
+        },
+        {
+          "title": "ITEM 16.    FORM 10-K SUMMARY",
+          "node_id": "0317",
+          "line_num": 16130
+        },
+        {
+          "title": "SIGNATURES",
+          "node_id": "0318",
+          "line_num": 16134
+        },
+        {
+          "title": "AMERICAN EXPRESS COMPANY",
+          "node_id": "0319",
+          "line_num": 16138
+        },
+        {
+          "title": "Appendix",
+          "node_id": "0320",
+          "line_num": 16144
+        },
+        {
+          "title": "STATISTICAL DISCLOSURE BY BANK HOLDING COMPANIES",
+          "node_id": "0321",
+          "line_num": 16146
+        },
+        {
+          "title": "Distribution of Assets, Liabilities, and Shareholders’ Equity; Interest Rates and Interest Differential",
+          "node_id": "0322",
+          "line_num": 16150,
+          "nodes": [
+            {
+              "title": "(a)",
+              "node_id": "0323",
+              "line_num": 17451
+            }
+          ]
+        },
+        {
+          "title": "Changes in Net Interest Income − Volume and Rate Analysis",
+          "node_id": "0324",
+          "line_num": 17453
+        },
+        {
+          "title": "Weighted average yields and contractual maturities for available-for-sale debt securities with stated maturities",
+          "node_id": "0325",
+          "line_num": 17998
+        },
+        {
+          "title": "Maturities and Sensitivities to Changes in Interest Rates",
+          "node_id": "0326",
+          "line_num": 18075
+        },
+        {
+          "title": "Credit Quality Indicators for Loans and Card Member Receivables",
+          "node_id": "0327",
+          "line_num": 18400
+        },
+        {
+          "title": "Allocation of Reserve for Credit Losses",
+          "node_id": "0328",
+          "line_num": 19077
+        },
+        {
+          "title": "Uninsured Time Certificates of Deposit",
+          "node_id": "0329",
+          "line_num": 19144
+        },
+        {
+          "title": "EXHIBIT 10.1",
+          "node_id": "0330",
+          "line_num": 19207
+        },
+        {
+          "title": "AMERICAN EXPRESS COMPANY AMERICAN EXPRESS NATIONAL BANK",
+          "node_id": "0331",
+          "line_num": 19209
+        },
+        {
+          "title": "DEFERRED COMPENSATION PLAN FOR DIRECTORS AND ADVISORS",
+          "node_id": "0332",
+          "line_num": 19211
+        },
+        {
+          "title": "(As amended and restated effec�ve January 1, 2023)",
+          "node_id": "0333",
+          "line_num": 19213
+        },
+        {
+          "title": "Sec�on 1. Efec�ve Date",
+          "node_id": "0334",
+          "line_num": 19215
+        },
+        {
+          "title": "Sec�on 2. Eligibility",
+          "node_id": "0335",
+          "line_num": 19219
+        },
+        {
+          "title": "Sec�on 3. Administra�on",
+          "node_id": "0336",
+          "line_num": 19223
+        },
+        {
+          "title": "Sec�on 4. Deferral Elec�ons",
+          "node_id": "0337",
+          "line_num": 19227
+        },
+        {
+          "title": "Sec�on 5. Director Class Year Accounts",
+          "node_id": "0338",
+          "line_num": 19237
+        },
+        {
+          "title": "Sec�on 6. Investment Op�ons",
+          "node_id": "0339",
+          "line_num": 19243
+        },
+        {
+          "title": "Sec�on 7. Credits to Class Year SEU Award Accounts for SEU Plan Awards",
+          "node_id": "0340",
+          "line_num": 19271
+        },
+        {
+          "title": "Sec�on 8. Payment Elec�ons",
+          "node_id": "0341",
+          "line_num": 19281
+        },
+        {
+          "title": "Sec�on 9. Death Prior to Receipt",
+          "node_id": "0342",
+          "line_num": 19325
+        },
+        {
+          "title": "Sec�on 10. Time and Amount of Payment",
+          "node_id": "0343",
+          "line_num": 19333
+        },
+        {
+          "title": "Sec�on 11. Director’s Rights Unsecured",
+          "node_id": "0344",
+          "line_num": 19353
+        },
+        {
+          "title": "Sec�on 12. Statement of Account",
+          "node_id": "0345",
+          "line_num": 19359
+        },
+        {
+          "title": "Sec�on 13. Amendment",
+          "node_id": "0346",
+          "line_num": 19363
+        },
+        {
+          "title": "Sec�on 14. Termina�on",
+          "node_id": "0347",
+          "line_num": 19367
+        },
+        {
+          "title": "Sec�on 15. Sec�on 409A",
+          "node_id": "0348",
+          "line_num": 19371
+        },
+        {
+          "title": "TWELFTH AMENDMENT AND RESTATEMENT OF THE AMERICAN EXPRESS RETIREMENT RESTORATION PLAN",
+          "node_id": "0349",
+          "line_num": 19379
+        },
+        {
+          "title": "TWELFTH AMENDMENT AND RESTATEMENT OF THE AMERICAN EXPRESS RETIREMENT RESTORATION PLAN",
+          "node_id": "0350",
+          "line_num": 19729
+        },
+        {
+          "title": "(As amended and restated effective as of January 1, 2023)",
+          "node_id": "0351",
+          "line_num": 19733,
+          "nodes": [
+            {
+              "title": "ARTICLE 1 HISTORY AND EFFECTIVE DATES",
+              "node_id": "0352",
+              "line_num": 19735
+            },
+            {
+              "title": "Section 1.2    Effective Date",
+              "node_id": "0353",
+              "line_num": 19803
+            },
+            {
+              "title": "Section 1.3    Transition Rules",
+              "node_id": "0354",
+              "line_num": 19807
+            },
+            {
+              "title": "Section 1.4    Modification of Certain Grandfathered Benefits",
+              "node_id": "0355",
+              "line_num": 19815
+            }
+          ]
+        },
+        {
+          "title": "ARTICLE 2 DEFINITIONS",
+          "node_id": "0356",
+          "line_num": 19823,
+          "nodes": [
+            {
+              "title": "Section 2.1    Definitions",
+              "node_id": "0357",
+              "line_num": 19825,
+              "nodes": [
+                {
+                  "title": "(q)     “Deferral Plan” means:",
+                  "node_id": "0358",
+                  "line_num": 19869
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "ARTICLE 3 ADMINISTRATION",
+          "node_id": "0359",
+          "line_num": 19971,
+          "nodes": [
+            {
+              "title": "Section 3.1    Administrator",
+              "node_id": "0360",
+              "line_num": 19973
+            }
+          ]
+        },
+        {
+          "title": "ARTICLE 4 ELIGIBILITY",
+          "node_id": "0361",
+          "line_num": 19979
+        },
+        {
+          "title": "ARTICLE 5 SUPPLEMENTAL BENEFITS",
+          "node_id": "0362",
+          "line_num": 19997,
+          "nodes": [
+            {
+              "title": "Section 5.3    Crediting of Account",
+              "node_id": "0363",
+              "line_num": 20057
+            }
+          ]
+        },
+        {
+          "title": "ARTICLE 6 ELECTIVE DEFERRALS",
+          "node_id": "0364",
+          "line_num": 20119,
+          "nodes": [
+            {
+              "title": "Section 6.4    Deferrable Compensation",
+              "node_id": "0365",
+              "line_num": 20147
+            },
+            {
+              "title": "Section 6.5    Deferral Benefits Election",
+              "node_id": "0366",
+              "line_num": 20177
+            },
+            {
+              "title": "Section 6.6    Crediting of Deferred Amounts",
+              "node_id": "0367",
+              "line_num": 20201
+            }
+          ]
+        },
+        {
+          "title": "ARTICLE 7 EARNINGS",
+          "node_id": "0368",
+          "line_num": 20205,
+          "nodes": [
+            {
+              "title": "Section 7.2    RSP-Related Account",
+              "node_id": "0369",
+              "line_num": 20211
+            },
+            {
+              "title": "Section 7.3    Deferral Accounts",
+              "node_id": "0370",
+              "line_num": 20215
+            },
+            {
+              "title": "Section 7.4    Hypothetical Investment Method",
+              "node_id": "0371",
+              "line_num": 20225
+            },
+            {
+              "title": "Section 7.5    Interest Method",
+              "node_id": "0372",
+              "line_num": 20239
+            },
+            {
+              "title": "Section 7.6    Special Restrictions",
+              "node_id": "0373",
+              "line_num": 20251
+            }
+          ]
+        },
+        {
+          "title": "ARTICLE 8 PAYMENT OF BENEFITS",
+          "node_id": "0374",
+          "line_num": 20261,
+          "nodes": [
+            {
+              "title": "Section 8.1    Supplemental Account Payments (Other than Payments Due to Death or Disability)",
+              "node_id": "0375",
+              "line_num": 20263
+            },
+            {
+              "title": "Section 8.2    Deferral Account Payments (Other than Payments Due to Death or Disability)",
+              "node_id": "0376",
+              "line_num": 20275,
+              "nodes": [
+                {
+                  "title": "(i)    In the case of Pre-2011 Deferral Benefits:",
+                  "node_id": "0377",
+                  "line_num": 20289
+                }
+              ]
+            },
+            {
+              "title": "Section 8.3    Designation of Beneficiaries",
+              "node_id": "0378",
+              "line_num": 20303
+            },
+            {
+              "title": "Section 8.4    Death",
+              "node_id": "0379",
+              "line_num": 20311
+            },
+            {
+              "title": "Section 8.5    Disability",
+              "node_id": "0380",
+              "line_num": 20323
+            },
+            {
+              "title": "Section 8.7    Company Offset",
+              "node_id": "0381",
+              "line_num": 20337
+            }
+          ]
+        },
+        {
+          "title": "ARTICLE 9 CHANGE IN CONTROL",
+          "node_id": "0382",
+          "line_num": 20347,
+          "nodes": [
+            {
+              "title": "Section 9.1    Change in Control",
+              "node_id": "0383",
+              "line_num": 20349
+            },
+            {
+              "title": "Section 9.2    Effect of Change in Control",
+              "node_id": "0384",
+              "line_num": 20367,
+              "nodes": [
+                {
+                  "title": "## (i) RSP-Related Account",
+                  "node_id": "0385",
+                  "line_num": 20375
+                },
+                {
+                  "title": "## (ii) Deferral Accounts",
+                  "node_id": "0386",
+                  "line_num": 20383
+                },
+                {
+                  "title": "(c)    Golden Parachute Excise Taxes.",
+                  "node_id": "0387",
+                  "line_num": 20391
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "ARTICLE 10 CLAIMS PROCEDURES",
+          "node_id": "0388",
+          "line_num": 20401,
+          "nodes": [
+            {
+              "title": "Section 10.1    Claim",
+              "node_id": "0389",
+              "line_num": 20403
+            },
+            {
+              "title": "Section 10.2    Claim Decision",
+              "node_id": "0390",
+              "line_num": 20413
+            },
+            {
+              "title": "Section 10.4    Review of Decision",
+              "node_id": "0391",
+              "line_num": 20441
+            }
+          ]
+        },
+        {
+          "title": "ARTICLE 11 AMENDMENT & TERMINATION",
+          "node_id": "0392",
+          "line_num": 20471
+        },
+        {
+          "title": "ARTICLE 12 GENERAL PROVISIONS",
+          "node_id": "0393",
+          "line_num": 20477,
+          "nodes": [
+            {
+              "title": "Section 12.6    No Guarantee of Tax Consequences",
+              "node_id": "0394",
+              "line_num": 20491
+            }
+          ]
+        },
+        {
+          "title": "SCHEDULE A",
+          "node_id": "0395",
+          "line_num": 20511,
+          "nodes": [
+            {
+              "title": "DEFERRAL ACCOUNT SCHEDULE RATE",
+              "node_id": "0396",
+              "line_num": 20513
+            }
+          ]
+        },
+        {
+          "title": "SCHEDULE B RESERVED",
+          "node_id": "0397",
+          "line_num": 20548
+        },
+        {
+          "title": "SCHEDULE C",
+          "node_id": "0398",
+          "line_num": 20552,
+          "nodes": [
+            {
+              "title": "Prior Deferral Plan Benefit Payment Appendix",
+              "node_id": "0399",
+              "line_num": 20554
+            },
+            {
+              "title": "Pre-2008 Deferral Plans",
+              "node_id": "0400",
+              "line_num": 20562,
+              "nodes": [
+                {
+                  "title": "delay start of any payments based on termination of employment/retirement for GRANDFATHERED amounts based on termination of employment, since it may delay deemed termination of employment",
+                  "node_id": "0401",
+                  "line_num": 20620
+                },
+                {
+                  "title": "## n If the Participant leaves the Company as a result of Disability",
+                  "node_id": "0402",
+                  "line_num": 20622
+                },
+                {
+                  "title": "- date of disability; subsequent installments will be paid on each March 15.",
+                  "node_id": "0403",
+                  "line_num": 20630
+                },
+                {
+                  "title": "## n If the Participant dies before payments begin or before receiving all installments",
+                  "node_id": "0404",
+                  "line_num": 20632
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "2008-2010 Plans",
+          "node_id": "0405",
+          "line_num": 20638,
+          "nodes": [
+            {
+              "title": "## n If the Participant elected to be paid on a specified date",
+              "node_id": "0406",
+              "line_num": 20642
+            },
+            {
+              "title": "## n Note that payment will NOT be delayed until the specified date, in contrast to the pre-2008 rule",
+              "node_id": "0407",
+              "line_num": 20662
+            },
+            {
+              "title": "## n If the Participant elected to be paid at retirement",
+              "node_id": "0408",
+              "line_num": 20672
+            },
+            {
+              "title": "## n If the Participant dies or is Disabled, the usual death/Disability benefit rules for Pre-2011 Deferral Benefits apply",
+              "node_id": "0409",
+              "line_num": 20688
+            }
+          ]
+        },
+        {
+          "title": "Special Rule for Degrandfathered Participants’ Degrandfathered Benefits Under Section 1.3 of the Plan",
+          "node_id": "0410",
+          "line_num": 20692,
+          "nodes": [
+            {
+              "title": "## n If the Participant did NOT Make an election regarding degrandfathered benefits",
+              "node_id": "0411",
+              "line_num": 20696
+            },
+            {
+              "title": "## n If the Participant elected a specified date and that specified date occurs prior to Participant’s Separation from Service",
+              "node_id": "0412",
+              "line_num": 20700
+            },
+            {
+              "title": "- n If the Participant elected a specified date but separates from service prior to that date OR if the Participant elected to be paid at retirement",
+              "node_id": "0413",
+              "line_num": 20712
+            },
+            {
+              "title": "- n If the Participant dies, the usual death benefit rules for Post-2010 Deferral Benefits apply",
+              "node_id": "0414",
+              "line_num": 20722
+            }
+          ]
+        },
+        {
+          "title": "SCHEDULE D",
+          "node_id": "0415",
+          "line_num": 20726
+        },
+        {
+          "title": "SCHEDULE E",
+          "node_id": "0416",
+          "line_num": 20732
+        },
+        {
+          "title": "American Express Global Business Travel Divestiture",
+          "node_id": "0417",
+          "line_num": 20734
+        },
+        {
+          "title": "ARTICLE 1 CONTINUED PARTICIPATION",
+          "node_id": "0418",
+          "line_num": 20738,
+          "nodes": [
+            {
+              "title": "Section 1.1    Eligibility to Participate",
+              "node_id": "0419",
+              "line_num": 20740
+            },
+            {
+              "title": "Section 1.2    Termination of Participation",
+              "node_id": "0420",
+              "line_num": 20750
+            },
+            {
+              "title": "Section 1.3    Change of Status",
+              "node_id": "0421",
+              "line_num": 20764
+            }
+          ]
+        },
+        {
+          "title": "ARTICLE 2 CONTRIBUTIONS",
+          "node_id": "0422",
+          "line_num": 20768,
+          "nodes": [
+            {
+              "title": "Section 2.1    Deferral Benefits",
+              "node_id": "0423",
+              "line_num": 20770
+            },
+            {
+              "title": "Section 2.2    Supplemental Benefits",
+              "node_id": "0424",
+              "line_num": 20782
+            },
+            {
+              "title": "Section 2.3 No Duplication",
+              "node_id": "0425",
+              "line_num": 20786
+            },
+            {
+              "title": "Section 2.4    Funding of Benefits",
+              "node_id": "0426",
+              "line_num": 20792
+            }
+          ]
+        },
+        {
+          "title": "ARTICLE 3 VESTING",
+          "node_id": "0427",
+          "line_num": 20796
+        },
+        {
+          "title": "ARTICLE 4 EARNINGS",
+          "node_id": "0428",
+          "line_num": 20800
+        },
+        {
+          "title": "ARTICLE 5 PAYMENT OF BENEFITS",
+          "node_id": "0429",
+          "line_num": 20804,
+          "nodes": [
+            {
+              "title": "Section 5.1    Normal Time and Form of Payment",
+              "node_id": "0430",
+              "line_num": 20806
+            },
+            {
+              "title": "Section 5.2 Separation from Service",
+              "node_id": "0431",
+              "line_num": 20810
+            },
+            {
+              "title": "Section 5.3 Beneficiaries",
+              "node_id": "0432",
+              "line_num": 20816
+            }
+          ]
+        },
+        {
+          "title": "ARTICLE 6 MISCELLANEOUS",
+          "node_id": "0433",
+          "line_num": 20820,
+          "nodes": [
+            {
+              "title": "Section 6.1    Reservation of Rights",
+              "node_id": "0434",
+              "line_num": 20822
+            },
+            {
+              "title": "Section 6.2    Scope of Schedule",
+              "node_id": "0435",
+              "line_num": 20826
+            },
+            {
+              "title": "Section 6.3    Construction",
+              "node_id": "0436",
+              "line_num": 20830
+            }
+          ]
+        },
+        {
+          "title": "EXHIBIT 10.22",
+          "node_id": "0437",
+          "line_num": 20836
+        },
+        {
+          "title": "DESCRIPTION OF COMPENSATION PAYABLE TO NON-MANAGEMENT DIRECTORS",
+          "node_id": "0438",
+          "line_num": 20838
+        },
+        {
+          "title": "AMENDMENT TO RESTRICTED STOCK UNIT AWARD AGREEMENT (BAND 99) AND NONQUALIFIED STOCK OPTION AWARD AGREEMENT (BAND 99)",
+          "node_id": "0439",
+          "line_num": 20856
+        },
+        {
+          "title": "I.    Amendment to Restricted Stock Unit Award Agreement (Band 99)",
+          "node_id": "0440",
+          "line_num": 20858,
+          "nodes": [
+            {
+              "title": "Sec�on 2. Death or Disability",
+              "node_id": "0441",
+              "line_num": 20862
+            },
+            {
+              "title": "Sec�on 3. Re�rement",
+              "node_id": "0442",
+              "line_num": 20868
+            },
+            {
+              "title": "Sec�on 6. Payment",
+              "node_id": "0443",
+              "line_num": 20874
+            }
+          ]
+        },
+        {
+          "title": "II.    Amendment to Nonqualifed Stock Op�on Award Agreement (Band 99)",
+          "node_id": "0444",
+          "line_num": 20878,
+          "nodes": [
+            {
+              "title": "Sec�on 3. Death or Disability",
+              "node_id": "0445",
+              "line_num": 20882
+            },
+            {
+              "title": "Sec�on 4. Re�rement",
+              "node_id": "0446",
+              "line_num": 20892,
+              "nodes": [
+                {
+                  "title": "(a) Ves�ng.",
+                  "node_id": "0447",
+                  "line_num": 20894
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "EXHIBIT 21",
+          "node_id": "0448",
+          "line_num": 20904
+        },
+        {
+          "title": "SUBSIDIARIES OF AMERICAN EXPRESS COMPANY as of December 31, 2022",
+          "node_id": "0449",
+          "line_num": 20906
+        },
+        {
+          "title": "CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM",
+          "node_id": "0450",
+          "line_num": 22084
+        },
+        {
+          "title": "CERTIFICATION",
+          "node_id": "0451",
+          "line_num": 22090
+        },
+        {
+          "title": "CERTIFICATION",
+          "node_id": "0452",
+          "line_num": 22120
+        },
+        {
+          "title": "EXHIBIT 32.1",
+          "node_id": "0453",
+          "line_num": 22150
+        },
+        {
+          "title": "Certification Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002",
+          "node_id": "0454",
+          "line_num": 22152
+        },
+        {
+          "title": "EXHIBIT 32.2",
+          "node_id": "0455",
+          "line_num": 22166
+        },
+        {
+          "title": "Certification Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002",
+          "node_id": "0456",
+          "line_num": 22168
+        }
+      ]
+    }
+  ]
+}
