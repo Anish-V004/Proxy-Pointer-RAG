@@ -48,20 +48,6 @@ def is_rate_limit_error(exc: Exception) -> bool:
     )
 
 
-def is_daily_quota_error(exc: Exception) -> bool:
-    """Return True when the quota error is a daily (not per-minute) exhaustion.
-
-    Daily quota errors cannot be resolved by retrying after a short delay —
-    the quota only resets at the start of the next day. Retrying wastes time
-    and burns the last remaining quota slots on other documents.
-
-    Detection: only 'PerDay' is unique to daily quota IDs. 'FreeTier' appears
-    in both daily AND per-minute quota IDs so must NOT be used as a signal.
-    """
-    exc_str = str(exc)
-    return "PerDay" in exc_str or "per_day" in exc_str.lower()
-
-
 def extract_retry_delay(exc: Exception) -> float | None:
     """Attempt to parse a retry delay from a Google API exception string."""
     exc_str = str(exc)
@@ -93,14 +79,13 @@ def embed_content_with_retry(
     base_delay: float = 2.0,
     sleep: Callable[[float], None] = time.sleep,
 ):
-    """Call Gemini embeddings with exponential backoff/extracted delay for rate-limit errors.
+    """Call Gemini embeddings with retry logic for rate-limit errors.
 
-    Distinguishes between:
-    - Transient rate limits (per-minute/second): retried with appropriate delay.
-    - Daily quota exhaustion: fails immediately with a clear message — retrying
-      cannot help since the daily limit only resets the next day.
+    If the error includes a retry delay, waits exactly that long (up to max_retries attempts).
+    If no delay is provided, uses exponential backoff capped at 60s, followed by one additional 60s wait.
     """
-    for attempt in range(max_retries):
+    attempt = 0
+    while True:
         try:
             return genai_module.embed_content(
                 model=model,
@@ -111,41 +96,42 @@ def embed_content_with_retry(
             if not is_rate_limit_error(exc):
                 raise
 
-            # Daily quota exhaustion cannot be resolved by waiting a few seconds.
-            # Fail immediately with a clear, actionable message.
-            if is_daily_quota_error(exc):
-                logging.error(
-                    "Daily embedding quota exhausted (free tier limit reached). "
-                    "Retrying will not help — the quota resets at the start of the next UTC day. "
-                    "Options: wait until tomorrow, or upgrade your Google AI plan."
-                )
-                raise
-
-            if attempt == max_retries - 1:
-                raise
-
             retry_delay = extract_retry_delay(exc)
             if retry_delay is not None:
-                delay = retry_delay + 5.0
+                if attempt >= max_retries - 1:
+                    raise
+                delay = retry_delay
                 logging.warning(
-                    "Rate limit hit during embedding. Found retry delay of %ss from error. Retrying in %ss (delay + 5s)...",
+                    "Rate limit hit during embedding. Found retry delay of %ss from error. Retrying in %ss (attempt %s/%s)...",
                     retry_delay,
                     delay,
+                    attempt + 1,
+                    max_retries,
                 )
             else:
-                # No retry delay provided in the error — use a conservative
-                # flat default. Short exponential waits (2s, 4s, 8s...) are
-                # insufficient for most Google API rate limit windows.
-                delay = 60.0
+                # Exponential backoff sequence: base_delay -> double -> cap at 60 -> another 60.
+                backoff_delays = []
+                current_delay = base_delay
+                while current_delay < 60.0:
+                    backoff_delays.append(current_delay)
+                    current_delay *= 2.0
+                backoff_delays.append(60.0)
+                backoff_delays.append(60.0)
+
+                if attempt >= len(backoff_delays):
+                    raise
+
+                delay = backoff_delays[attempt]
                 logging.warning(
                     "Rate limit hit during embedding (no retry delay in error). "
                     "Waiting %ss before retry (attempt %s/%s)...",
-                    delay, attempt + 1, max_retries,
+                    delay,
+                    attempt + 1,
+                    len(backoff_delays) + 1,
                 )
 
+            attempt += 1
             sleep(delay)
-
-    raise RuntimeError("Embedding request failed without returning or raising")
 
 
 def embed_texts_batched(
@@ -156,7 +142,7 @@ def embed_texts_batched(
     output_dimensionality: int,
     batch_size: int,
     batch_delay: float,
-    max_retries: int = 5,
+    max_retries: int = 3,
     base_delay: float = 2.0,
     sleep: Callable[[float], None] = time.sleep,
 ):

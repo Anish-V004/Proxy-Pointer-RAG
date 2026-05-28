@@ -188,19 +188,6 @@ class GeminiEmbeddings(Embeddings):
                         pbar.close()
                         raise
 
-                    # Daily quota exhaustion cannot be resolved by retrying.
-                    # Only "PerDay" is unique to daily quota IDs; "FreeTier"
-                    # also appears in per-minute limits so must NOT be checked.
-                    exc_str = str(e)
-                    if "PerDay" in exc_str or "per_day" in exc_str.lower():
-                        logging.error(
-                            "Daily embedding quota exhausted (free tier limit reached). "
-                            "Retrying will not help — the quota resets at the start of the next UTC day. "
-                            "Options: wait until tomorrow, or upgrade your Google AI plan."
-                        )
-                        pbar.close()
-                        raise
-
                     if attempt < 2:
                         retry_delay = _extract_retry_delay(e)
                         if retry_delay is not None:
