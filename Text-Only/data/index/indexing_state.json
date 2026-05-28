@@ -1,0 +1,22 @@
+{
+  "AMD_2022_10K_16a71fd3e7d1": {
+    "status": "completed",
+    "completed_chunks": 431,
+    "total_chunks": 431
+  },
+  "AMERICANEXPRESS_2022_10K_c3079af3608f": {
+    "status": "completed",
+    "completed_chunks": 876,
+    "total_chunks": 876
+  },
+  "BOEING_2022_10K_0a19fe24d498": {
+    "status": "completed",
+    "completed_chunks": 517,
+    "total_chunks": 517
+  },
+  "PEPSICO_2022_10K_4c8c4ff66da9": {
+    "status": "completed",
+    "completed_chunks": 1106,
+    "total_chunks": 1106
+  }
+}
