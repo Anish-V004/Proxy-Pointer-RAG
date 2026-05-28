@@ -173,7 +173,7 @@ class GeminiEmbeddings(Embeddings):
         for i in range(0, len(texts), batch_size):
             batch = texts[i:i + batch_size]
 
-            for attempt in range(5):
+            for attempt in range(3):
                 try:
                     result = genai.embed_content(
                         model=self.model,
@@ -183,17 +183,39 @@ class GeminiEmbeddings(Embeddings):
                     all_embeddings.extend(_normalize_embeddings(result, len(batch)))
                     break
                 except Exception as e:
-                    if _is_rate_limit_error(e) and attempt < 4:
+                    if not _is_rate_limit_error(e):
+                        logging.exception("Embedding request failed")
+                        pbar.close()
+                        raise
+
+                    # Daily quota exhaustion cannot be resolved by retrying.
+                    # Only "PerDay" is unique to daily quota IDs; "FreeTier"
+                    # also appears in per-minute limits so must NOT be checked.
+                    exc_str = str(e)
+                    if "PerDay" in exc_str or "per_day" in exc_str.lower():
+                        logging.error(
+                            "Daily embedding quota exhausted (free tier limit reached). "
+                            "Retrying will not help — the quota resets at the start of the next UTC day. "
+                            "Options: wait until tomorrow, or upgrade your Google AI plan."
+                        )
+                        pbar.close()
+                        raise
+
+                    if attempt < 2:
                         retry_delay = _extract_retry_delay(e)
                         if retry_delay is not None:
                             wait = retry_delay + 5.0
                             logging.info(
                                 f"  Rate limited. Found retry delay of {retry_delay}s. "
-                                f"Waiting {wait}s (delay + 5s) (attempt {attempt+1}/5): {e}"
+                                f"Waiting {wait}s (delay + 5s) (attempt {attempt+1}/3): {e}"
                             )
                         else:
-                            wait = 2 ** attempt
-                            logging.info(f"  Rate limited, waiting {wait}s (attempt {attempt+1}/5): {e}")
+                            # No retry delay in error — use a conservative flat default.
+                            wait = 60.0
+                            logging.info(
+                                f"  Rate limited (no retry delay in error). "
+                                f"Waiting {wait}s (attempt {attempt+1}/3)."
+                            )
                         time.sleep(wait)
                     else:
                         logging.exception("Embedding request failed")
