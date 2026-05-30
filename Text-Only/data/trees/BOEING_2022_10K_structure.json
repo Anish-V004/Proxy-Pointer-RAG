@@ -1,0 +1,2374 @@
+{
+  "doc_name": "BOEING_2022_10K",
+  "line_count": 13689,
+  "structure": [
+    {
+      "title": "UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549",
+      "node_id": "0001",
+      "line_num": 3
+    },
+    {
+      "title": "FORM 10-K",
+      "node_id": "0002",
+      "line_num": 5
+    },
+    {
+      "title": "THE BOEING COMPANY",
+      "node_id": "0003",
+      "line_num": 17,
+      "nodes": [
+        {
+          "title": "PART I",
+          "node_id": "0004",
+          "line_num": 236,
+          "nodes": [
+            {
+              "title": "Item 1. Business",
+              "node_id": "0005",
+              "line_num": 238
+            },
+            {
+              "title": "Commercial Airplanes Segment",
+              "node_id": "0006",
+              "line_num": 252
+            },
+            {
+              "title": "Defense, Space & Security Segment",
+              "node_id": "0007",
+              "line_num": 256
+            },
+            {
+              "title": "Global Services Segment",
+              "node_id": "0008",
+              "line_num": 260
+            },
+            {
+              "title": "Boeing Capital Segment",
+              "node_id": "0009",
+              "line_num": 264
+            },
+            {
+              "title": "Intellectual Property",
+              "node_id": "0010",
+              "line_num": 268
+            },
+            {
+              "title": "Human Capital",
+              "node_id": "0011",
+              "line_num": 272
+            },
+            {
+              "title": "Competition",
+              "node_id": "0012",
+              "line_num": 340
+            },
+            {
+              "title": "Regulatory Matters",
+              "node_id": "0013",
+              "line_num": 348
+            },
+            {
+              "title": "Raw Materials, Parts and Subassemblies",
+              "node_id": "0014",
+              "line_num": 362
+            },
+            {
+              "title": "Suppliers",
+              "node_id": "0015",
+              "line_num": 368
+            },
+            {
+              "title": "Seasonality",
+              "node_id": "0016",
+              "line_num": 372
+            },
+            {
+              "title": "Executive Officers of the Registrant",
+              "node_id": "0017",
+              "line_num": 376
+            },
+            {
+              "title": "Other Information",
+              "node_id": "0018",
+              "line_num": 380
+            },
+            {
+              "title": "Forward-Looking Statements",
+              "node_id": "0019",
+              "line_num": 386
+            }
+          ]
+        },
+        {
+          "title": "Item 1A. Risk Factors",
+          "node_id": "0020",
+          "line_num": 392
+        },
+        {
+          "title": "Risks Related to Our Business and Operations",
+          "node_id": "0021",
+          "line_num": 396,
+          "nodes": [
+            {
+              "title": "We depend heavily on commercial airlines, subjecting us to unique risks",
+              "node_id": "0022",
+              "line_num": 398
+            },
+            {
+              "title": "Our Commercial Airplanes business depends on our ability to maintain a healthy production system, ensure every airplane in our production system conforms to our exacting specifications, achieve planned production rate targets, successfully develop and certify new aircraft or new derivative aircraft, and meet or exceed stringent performance and reliability standards",
+              "node_id": "0023",
+              "line_num": 408
+            },
+            {
+              "title": "Changes in levels of U.S. government defense spending or acquisition priorities could negatively impact our financial position and results of operations",
+              "node_id": "0024",
+              "line_num": 422
+            },
+            {
+              "title": "Our ability to deliver products and services that satisfy customer requirements is heavily dependent on the performance and financial stability of our subcontractors and suppliers, as well as on the availability of highly skilled labor, raw materials and other components",
+              "node_id": "0025",
+              "line_num": 432
+            },
+            {
+              "title": "Competition within our markets and with respect to the products we sell may reduce our future contracts and sales",
+              "node_id": "0026",
+              "line_num": 436
+            },
+            {
+              "title": "We derive a significant portion of our revenues from non-U.S. sales and are subject to the risks of doing business in other countries",
+              "node_id": "0027",
+              "line_num": 440
+            },
+            {
+              "title": "We use estimates and make assumptions in accounting for contracts and programs. Changes in our estimates and/or assumptions could adversely affect our future financial results",
+              "node_id": "0028",
+              "line_num": 470
+            },
+            {
+              "title": "We may not realize the anticipated benefits of mergers, acquisitions, joint ventures/strategic alliances or divestitures",
+              "node_id": "0029",
+              "line_num": 478
+            }
+          ]
+        },
+        {
+          "title": "Risks Related to Our Contracts",
+          "node_id": "0030",
+          "line_num": 484,
+          "nodes": [
+            {
+              "title": "We conduct a significant portion of our business pursuant to U.S. government contracts, which are subject to unique risks",
+              "node_id": "0031",
+              "line_num": 486
+            },
+            {
+              "title": "We enter into fixed-price contracts which could subject us to losses if we have cost overruns",
+              "node_id": "0032",
+              "line_num": 498
+            },
+            {
+              "title": "We enter into cost-type contracts, which also carry risks",
+              "node_id": "0033",
+              "line_num": 504
+            },
+            {
+              "title": "We enter into contracts that include in-orbit incentive payments that subject us to risks",
+              "node_id": "0034",
+              "line_num": 508
+            }
+          ]
+        },
+        {
+          "title": "Risks Related to Cybersecurity and Business Disruptions",
+          "node_id": "0035",
+          "line_num": 512,
+          "nodes": [
+            {
+              "title": "Unauthorized access to our, our customers’ and/or our suppliers’ information and systems could negatively impact our business",
+              "node_id": "0036",
+              "line_num": 514
+            },
+            {
+              "title": "Business disruptions could seriously affect our future sales and financial condition or increase our costs and expenses",
+              "node_id": "0037",
+              "line_num": 522
+            }
+          ]
+        },
+        {
+          "title": "Risks Related to Legal and Regulatory Matters",
+          "node_id": "0038",
+          "line_num": 526,
+          "nodes": [
+            {
+              "title": "The outcome of litigation and of government inquiries and investigations involving our business is unpredictable and an adverse decision in any such matter could have a material effect on our financial position and results of operations",
+              "node_id": "0039",
+              "line_num": 528
+            },
+            {
+              "title": "Our operations expose us to the risk of material environmental liabilities",
+              "node_id": "0040",
+              "line_num": 534
+            },
+            {
+              "title": "We may be adversely affected by global climate change or by legal, regulatory or market responses to such change",
+              "node_id": "0041",
+              "line_num": 538
+            }
+          ]
+        },
+        {
+          "title": "Risks Related to Financing and Liquidity",
+          "node_id": "0042",
+          "line_num": 544,
+          "nodes": [
+            {
+              "title": "We may be unable to obtain debt to fund our operations and contractual commitments at competitive rates, on commercially reasonable terms or in sufficient amounts",
+              "node_id": "0043",
+              "line_num": 546
+            },
+            {
+              "title": "Substantial pension and other postretirement benefit obligations have a material impact on our earnings, shareholders’ equity and cash flows from operations, and could have significant adverse impacts in future periods",
+              "node_id": "0044",
+              "line_num": 550
+            },
+            {
+              "title": "Our insurance coverage may be inadequate to cover all significant risk exposures",
+              "node_id": "0045",
+              "line_num": 554
+            },
+            {
+              "title": "A significant portion of our customer financing portfolio is concentrated among certain customers and in certain types of Boeing aircraft, which exposes us to concentration risks",
+              "node_id": "0046",
+              "line_num": 560
+            }
+          ]
+        },
+        {
+          "title": "Risks Related to Labor",
+          "node_id": "0047",
+          "line_num": 564,
+          "nodes": [
+            {
+              "title": "Some of our and our suppliers’ workforces are represented by labor unions, which may lead to work stoppages",
+              "node_id": "0048",
+              "line_num": 566
+            }
+          ]
+        },
+        {
+          "title": "Item 1B. Unresolved Staff Comments",
+          "node_id": "0049",
+          "line_num": 570
+        },
+        {
+          "title": "Item 2. Properties",
+          "node_id": "0050",
+          "line_num": 574
+        },
+        {
+          "title": "Item 3. Legal Proceedings",
+          "node_id": "0051",
+          "line_num": 659
+        },
+        {
+          "title": "Item 4. Mine Safety Disclosures",
+          "node_id": "0052",
+          "line_num": 663
+        },
+        {
+          "title": "PART II",
+          "node_id": "0053",
+          "line_num": 667
+        },
+        {
+          "title": "Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities",
+          "node_id": "0054",
+          "line_num": 669
+        },
+        {
+          "title": "Issuer Purchases of Equity Securities",
+          "node_id": "0055",
+          "line_num": 673
+        },
+        {
+          "title": "Item 6. [Reserved]",
+          "node_id": "0056",
+          "line_num": 738
+        },
+        {
+          "title": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+          "node_id": "0057",
+          "line_num": 740
+        },
+        {
+          "title": "Consolidated Results of Operations and Financial Condition",
+          "node_id": "0058",
+          "line_num": 742
+        },
+        {
+          "title": "Overview",
+          "node_id": "0059",
+          "line_num": 744
+        },
+        {
+          "title": "Business Environment and Trends",
+          "node_id": "0060",
+          "line_num": 750
+        },
+        {
+          "title": "Consolidated Results of Operations",
+          "node_id": "0061",
+          "line_num": 766
+        },
+        {
+          "title": "Revenues",
+          "node_id": "0062",
+          "line_num": 871
+        },
+        {
+          "title": "Loss From Operations",
+          "node_id": "0063",
+          "line_num": 946,
+          "nodes": [
+            {
+              "title": "Unallocated Items, Eliminations and Other",
+              "node_id": "0064",
+              "line_num": 1071
+            },
+            {
+              "title": "Other Earnings Items",
+              "node_id": "0065",
+              "line_num": 1197
+            },
+            {
+              "title": "Total Costs and Expenses (‘Cost of Sales’)",
+              "node_id": "0066",
+              "line_num": 1288
+            },
+            {
+              "title": "Research and Development",
+              "node_id": "0067",
+              "line_num": 1326
+            }
+          ]
+        },
+        {
+          "title": "Backlog",
+          "node_id": "0068",
+          "line_num": 1392,
+          "nodes": [
+            {
+              "title": "Additional Considerations",
+              "node_id": "0069",
+              "line_num": 1473
+            },
+            {
+              "title": "Global Trade",
+              "node_id": "0070",
+              "line_num": 1475
+            },
+            {
+              "title": "Segment Results of Operations and Financial Condition",
+              "node_id": "0071",
+              "line_num": 1487
+            },
+            {
+              "title": "Commercial Airplanes",
+              "node_id": "0072",
+              "line_num": 1489,
+              "nodes": [
+                {
+                  "title": "Business Environment and Trends",
+                  "node_id": "0073",
+                  "line_num": 1491
+                },
+                {
+                  "title": "Airline Industry Environment",
+                  "node_id": "0074",
+                  "line_num": 1493
+                },
+                {
+                  "title": "Industry Competitiveness",
+                  "node_id": "0075",
+                  "line_num": 1497
+                }
+              ]
+            },
+            {
+              "title": "Results of Operations",
+              "node_id": "0076",
+              "line_num": 1505,
+              "nodes": [
+                {
+                  "title": "Revenues",
+                  "node_id": "0077",
+                  "line_num": 1556
+                },
+                {
+                  "title": "Loss From Operations",
+                  "node_id": "0078",
+                  "line_num": 1683
+                },
+                {
+                  "title": "Backlog",
+                  "node_id": "0079",
+                  "line_num": 1691
+                },
+                {
+                  "title": "Accounting Quantity",
+                  "node_id": "0080",
+                  "line_num": 1697
+                },
+                {
+                  "title": "Program Highlights",
+                  "node_id": "0081",
+                  "line_num": 1864
+                },
+                {
+                  "title": "737 Program",
+                  "node_id": "0082",
+                  "line_num": 1866
+                },
+                {
+                  "title": "747 Program",
+                  "node_id": "0083",
+                  "line_num": 1882
+                },
+                {
+                  "title": "767 Program",
+                  "node_id": "0084",
+                  "line_num": 1886
+                },
+                {
+                  "title": "777 and 777X Programs",
+                  "node_id": "0085",
+                  "line_num": 1890
+                },
+                {
+                  "title": "787 Program",
+                  "node_id": "0086",
+                  "line_num": 1900
+                },
+                {
+                  "title": "Fleet Support",
+                  "node_id": "0087",
+                  "line_num": 1910
+                },
+                {
+                  "title": "Program Development",
+                  "node_id": "0088",
+                  "line_num": 1914
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Additional Considerations",
+          "node_id": "0089",
+          "line_num": 1933,
+          "nodes": [
+            {
+              "title": "Defense, Space & Security",
+              "node_id": "0090",
+              "line_num": 1937
+            }
+          ]
+        },
+        {
+          "title": "Business Environment and Trends",
+          "node_id": "0091",
+          "line_num": 1939,
+          "nodes": [
+            {
+              "title": "United States Government Defense Environment Overview",
+              "node_id": "0092",
+              "line_num": 1941
+            },
+            {
+              "title": "Non-U.S. Defense Environment Overview",
+              "node_id": "0093",
+              "line_num": 1947
+            },
+            {
+              "title": "Results of Operations",
+              "node_id": "0094",
+              "line_num": 1951
+            },
+            {
+              "title": "Revenues",
+              "node_id": "0095",
+              "line_num": 2113
+            },
+            {
+              "title": "(Loss)/earnings From Operations",
+              "node_id": "0096",
+              "line_num": 2119
+            },
+            {
+              "title": "Backlog",
+              "node_id": "0097",
+              "line_num": 2127
+            },
+            {
+              "title": "Additional Considerations",
+              "node_id": "0098",
+              "line_num": 2131
+            },
+            {
+              "title": "Global Services",
+              "node_id": "0099",
+              "line_num": 2137,
+              "nodes": [
+                {
+                  "title": "Business Environment and Trends",
+                  "node_id": "0100",
+                  "line_num": 2139
+                },
+                {
+                  "title": "Industry Competitiveness",
+                  "node_id": "0101",
+                  "line_num": 2151
+                },
+                {
+                  "title": "Results of Operations",
+                  "node_id": "0102",
+                  "line_num": 2155
+                },
+                {
+                  "title": "Revenues",
+                  "node_id": "0103",
+                  "line_num": 2202
+                },
+                {
+                  "title": "Earnings From Operations",
+                  "node_id": "0104",
+                  "line_num": 2208
+                },
+                {
+                  "title": "Backlog",
+                  "node_id": "0105",
+                  "line_num": 2214
+                }
+              ]
+            },
+            {
+              "title": "Boeing Capital",
+              "node_id": "0106",
+              "line_num": 2218,
+              "nodes": [
+                {
+                  "title": "Business Environment and Trends",
+                  "node_id": "0107",
+                  "line_num": 2220
+                },
+                {
+                  "title": "Results of Operations",
+                  "node_id": "0108",
+                  "line_num": 2228
+                },
+                {
+                  "title": "Revenues",
+                  "node_id": "0109",
+                  "line_num": 2261
+                },
+                {
+                  "title": "Earnings From Operations",
+                  "node_id": "0110",
+                  "line_num": 2265
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Financial Position",
+          "node_id": "0111",
+          "line_num": 2269,
+          "nodes": [
+            {
+              "title": "Liquidity and Capital Resources",
+              "node_id": "0112",
+              "line_num": 2344,
+              "nodes": [
+                {
+                  "title": "Cash Flow Summary",
+                  "node_id": "0113",
+                  "line_num": 2346
+                },
+                {
+                  "title": "Operating Activities",
+                  "node_id": "0114",
+                  "line_num": 2443
+                },
+                {
+                  "title": "Investing Activities",
+                  "node_id": "0115",
+                  "line_num": 2453
+                },
+                {
+                  "title": "Financing Activities",
+                  "node_id": "0116",
+                  "line_num": 2457
+                },
+                {
+                  "title": "Capital Resources",
+                  "node_id": "0117",
+                  "line_num": 2465
+                }
+              ]
+            },
+            {
+              "title": "Pension and Other Postretirement Benefits",
+              "node_id": "0118",
+              "line_num": 2519
+            },
+            {
+              "title": "Purchase Obligations",
+              "node_id": "0119",
+              "line_num": 2527
+            },
+            {
+              "title": "Off-Balance Sheet Arrangements",
+              "node_id": "0120",
+              "line_num": 2539
+            },
+            {
+              "title": "Commercial Commitments",
+              "node_id": "0121",
+              "line_num": 2543
+            },
+            {
+              "title": "Contingent Obligations",
+              "node_id": "0122",
+              "line_num": 2604,
+              "nodes": [
+                {
+                  "title": "Legal",
+                  "node_id": "0123",
+                  "line_num": 2608
+                },
+                {
+                  "title": "Environmental Remediation",
+                  "node_id": "0124",
+                  "line_num": 2612
+                }
+              ]
+            },
+            {
+              "title": "Non-GAAP Measures",
+              "node_id": "0125",
+              "line_num": 2616,
+              "nodes": [
+                {
+                  "title": "Core Operating Loss, Core Operating Margin and Core Loss Per Share",
+                  "node_id": "0126",
+                  "line_num": 2618
+                },
+                {
+                  "title": "Reconciliation of Non-GAAP Measures to GAAP Measures",
+                  "node_id": "0127",
+                  "line_num": 2628
+                }
+              ]
+            },
+            {
+              "title": "Critical Accounting Policies & Estimates",
+              "node_id": "0128",
+              "line_num": 2773,
+              "nodes": [
+                {
+                  "title": "Accounting for Long-term Contracts",
+                  "node_id": "0129",
+                  "line_num": 2775
+                },
+                {
+                  "title": "Program Accounting",
+                  "node_id": "0130",
+                  "line_num": 2787
+                },
+                {
+                  "title": "777X Program",
+                  "node_id": "0131",
+                  "line_num": 2799
+                },
+                {
+                  "title": "787 Program",
+                  "node_id": "0132",
+                  "line_num": 2803
+                },
+                {
+                  "title": "Pension Plans",
+                  "node_id": "0133",
+                  "line_num": 2809
+                },
+                {
+                  "title": "Deferred Income Taxes – Valuation Allowance",
+                  "node_id": "0134",
+                  "line_num": 2815
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk",
+          "node_id": "0135",
+          "line_num": 2829
+        },
+        {
+          "title": "Interest Rate Risk",
+          "node_id": "0136",
+          "line_num": 2831
+        },
+        {
+          "title": "Foreign Currency Exchange Rate Risk",
+          "node_id": "0137",
+          "line_num": 2835
+        },
+        {
+          "title": "Commodity Price Risk",
+          "node_id": "0138",
+          "line_num": 2839
+        },
+        {
+          "title": "Item 8. Financial Statements and Supplementary Data",
+          "node_id": "0139",
+          "line_num": 2843
+        },
+        {
+          "title": "Index to the Consolidated Financial Statements",
+          "node_id": "0140",
+          "line_num": 2845
+        },
+        {
+          "title": "The Boeing Company and Subsidiaries Consolidated Statements of Operations",
+          "node_id": "0141",
+          "line_num": 2974
+        },
+        {
+          "title": "The Boeing Company and Subsidiaries Consolidated Statements of Comprehensive Income",
+          "node_id": "0142",
+          "line_num": 3193
+        },
+        {
+          "title": "The Boeing Company and Subsidiaries Consolidated Statements of Financial Position",
+          "node_id": "0143",
+          "line_num": 3372
+        },
+        {
+          "title": "The Boeing Company and Subsidiaries Consolidated Statements of Cash Flows",
+          "node_id": "0144",
+          "line_num": 3631
+        },
+        {
+          "title": "The Boeing Company and Subsidiaries Consolidated Statements of Equity",
+          "node_id": "0145",
+          "line_num": 4034
+        },
+        {
+          "title": "The Boeing Company and Subsidiaries Notes to the Consolidated Financial Statements Summary of Business Segment Data",
+          "node_id": "0146",
+          "line_num": 4305
+        },
+        {
+          "title": "The Boeing Company and Subsidiaries Notes to the Consolidated Financial Statements Years ended December 31, 2022, 2021 and 2020",
+          "node_id": "0147",
+          "line_num": 4508
+        },
+        {
+          "title": "Note 1 – Summary of Significant Accounting Policies",
+          "node_id": "0148",
+          "line_num": 4512
+        },
+        {
+          "title": "Principles of Consolidation and Basis of Presentation",
+          "node_id": "0149",
+          "line_num": 4514
+        },
+        {
+          "title": "Use of Estimates",
+          "node_id": "0150",
+          "line_num": 4518
+        },
+        {
+          "title": "Operating Cycle",
+          "node_id": "0151",
+          "line_num": 4522
+        },
+        {
+          "title": "Revenue and Related Cost Recognition",
+          "node_id": "0152",
+          "line_num": 4526
+        },
+        {
+          "title": "Commercial aircraft contracts",
+          "node_id": "0153",
+          "line_num": 4528
+        },
+        {
+          "title": "Long-term contracts",
+          "node_id": "0154",
+          "line_num": 4534
+        },
+        {
+          "title": "Commercial spare parts contracts",
+          "node_id": "0155",
+          "line_num": 4601
+        },
+        {
+          "title": "Other service revenue contracts",
+          "node_id": "0156",
+          "line_num": 4605
+        },
+        {
+          "title": "Concession sharing arrangements",
+          "node_id": "0157",
+          "line_num": 4609
+        },
+        {
+          "title": "Unbilled receivables and advances and progress billings",
+          "node_id": "0158",
+          "line_num": 4613
+        },
+        {
+          "title": "Financial services revenue",
+          "node_id": "0159",
+          "line_num": 4617
+        },
+        {
+          "title": "Reinsurance revenue",
+          "node_id": "0160",
+          "line_num": 4629
+        },
+        {
+          "title": "Research and Development",
+          "node_id": "0161",
+          "line_num": 4633
+        },
+        {
+          "title": "Share-Based Compensation",
+          "node_id": "0162",
+          "line_num": 4637
+        },
+        {
+          "title": "Income Taxes",
+          "node_id": "0163",
+          "line_num": 4641
+        },
+        {
+          "title": "Postretirement Plans",
+          "node_id": "0164",
+          "line_num": 4649
+        },
+        {
+          "title": "Postemployment Plans",
+          "node_id": "0165",
+          "line_num": 4653
+        },
+        {
+          "title": "Environmental Remediation",
+          "node_id": "0166",
+          "line_num": 4657
+        },
+        {
+          "title": "Cash and Cash Equivalents",
+          "node_id": "0167",
+          "line_num": 4661
+        },
+        {
+          "title": "Inventories",
+          "node_id": "0168",
+          "line_num": 4665
+        },
+        {
+          "title": "Precontract Costs",
+          "node_id": "0169",
+          "line_num": 4679
+        },
+        {
+          "title": "Property, Plant and Equipment",
+          "node_id": "0170",
+          "line_num": 4683
+        },
+        {
+          "title": "Leases",
+          "node_id": "0171",
+          "line_num": 4689
+        },
+        {
+          "title": "Asset Retirement Obligations",
+          "node_id": "0172",
+          "line_num": 4699
+        },
+        {
+          "title": "Goodwill and Other Acquired Intangibles",
+          "node_id": "0173",
+          "line_num": 4705
+        },
+        {
+          "title": "Investments",
+          "node_id": "0174",
+          "line_num": 4715
+        },
+        {
+          "title": "Derivatives",
+          "node_id": "0175",
+          "line_num": 4727
+        },
+        {
+          "title": "Allowances for Losses on Certain Financial Assets",
+          "node_id": "0176",
+          "line_num": 4733
+        },
+        {
+          "title": "Commercial Aircraft Trade-in Commitments",
+          "node_id": "0177",
+          "line_num": 4741
+        },
+        {
+          "title": "Warranties",
+          "node_id": "0178",
+          "line_num": 4753
+        },
+        {
+          "title": "Supplier Penalties",
+          "node_id": "0179",
+          "line_num": 4759
+        },
+        {
+          "title": "Guarantees",
+          "node_id": "0180",
+          "line_num": 4763
+        },
+        {
+          "title": "Note 2 – Goodwill and Acquired Intangibles",
+          "node_id": "0181",
+          "line_num": 4767
+        },
+        {
+          "title": "Note 3 – Earnings Per Share",
+          "node_id": "0182",
+          "line_num": 4971
+        },
+        {
+          "title": "Note 4 – Income Taxes",
+          "node_id": "0183",
+          "line_num": 5156
+        },
+        {
+          "title": "Note 5 – Accounts Receivable, net",
+          "node_id": "0184",
+          "line_num": 5649
+        },
+        {
+          "title": "Note 6 – Allowances for Losses on Financial Assets",
+          "node_id": "0185",
+          "line_num": 5716
+        },
+        {
+          "title": "Note 7 – Inventories",
+          "node_id": "0186",
+          "line_num": 5835
+        },
+        {
+          "title": "Commercial Aircraft Programs",
+          "node_id": "0187",
+          "line_num": 5884
+        },
+        {
+          "title": "Note 8 – Contracts with Customers",
+          "node_id": "0188",
+          "line_num": 5898
+        },
+        {
+          "title": "Note 9 – Customer Financing",
+          "node_id": "0189",
+          "line_num": 5987
+        },
+        {
+          "title": "Customer Financing Exposure",
+          "node_id": "0190",
+          "line_num": 6174
+        },
+        {
+          "title": "Note 10 – Property, Plant and Equipment",
+          "node_id": "0191",
+          "line_num": 6365
+        },
+        {
+          "title": "Note 11 – Investments",
+          "node_id": "0192",
+          "line_num": 6434
+        },
+        {
+          "title": "Equity Method Investments",
+          "node_id": "0193",
+          "line_num": 6486
+        },
+        {
+          "title": "Note 12 – Leases",
+          "node_id": "0194",
+          "line_num": 6539
+        },
+        {
+          "title": "Note 13 – Liabilities, Commitments and Contingencies",
+          "node_id": "0195",
+          "line_num": 6659
+        },
+        {
+          "title": "Accrued Liabilities",
+          "node_id": "0196",
+          "line_num": 6661
+        },
+        {
+          "title": "737 MAX Grounding",
+          "node_id": "0197",
+          "line_num": 6750
+        },
+        {
+          "title": "Environmental",
+          "node_id": "0198",
+          "line_num": 6793
+        },
+        {
+          "title": "Product Warranties",
+          "node_id": "0199",
+          "line_num": 6836
+        },
+        {
+          "title": "Commercial Aircraft Trade-In Commitments",
+          "node_id": "0200",
+          "line_num": 6882
+        },
+        {
+          "title": "Financing Commitments",
+          "node_id": "0201",
+          "line_num": 6888
+        },
+        {
+          "title": "Other Financial Commitments",
+          "node_id": "0202",
+          "line_num": 6937
+        },
+        {
+          "title": "Standby Letters of Credit and Surety Bonds",
+          "node_id": "0203",
+          "line_num": 6941
+        },
+        {
+          "title": "Company Owned Life Insurance",
+          "node_id": "0204",
+          "line_num": 6945
+        },
+        {
+          "title": "Government Assistance",
+          "node_id": "0205",
+          "line_num": 6949
+        },
+        {
+          "title": "Recoverable Costs on Government Contracts",
+          "node_id": "0206",
+          "line_num": 6963
+        },
+        {
+          "title": "Fixed-Price Contracts",
+          "node_id": "0207",
+          "line_num": 6967
+        },
+        {
+          "title": "VC-25B Presidential Aircraft",
+          "node_id": "0208",
+          "line_num": 6971
+        },
+        {
+          "title": "KC-46A Tanker",
+          "node_id": "0209",
+          "line_num": 6975
+        },
+        {
+          "title": "MQ-25",
+          "node_id": "0210",
+          "line_num": 6981
+        },
+        {
+          "title": "T-7A Red Hawk EMD Contract & Production Options",
+          "node_id": "0211",
+          "line_num": 6985
+        },
+        {
+          "title": "Commercial Crew",
+          "node_id": "0212",
+          "line_num": 6991
+        },
+        {
+          "title": "Note 14 – Arrangements with Off-Balance Sheet Risk",
+          "node_id": "0213",
+          "line_num": 6995
+        },
+        {
+          "title": "Contingent Repurchase Commitments",
+          "node_id": "0214",
+          "line_num": 7048
+        },
+        {
+          "title": "Credit Guarantees",
+          "node_id": "0215",
+          "line_num": 7054
+        },
+        {
+          "title": "Other Indemnifications",
+          "node_id": "0216",
+          "line_num": 7058
+        },
+        {
+          "title": "Note 15 – Debt",
+          "node_id": "0217",
+          "line_num": 7062
+        },
+        {
+          "title": "Note 16 – Postretirement Plans",
+          "node_id": "0218",
+          "line_num": 7236
+        },
+        {
+          "title": "Assumptions",
+          "node_id": "0219",
+          "line_num": 7789
+        },
+        {
+          "title": "Plan Assets",
+          "node_id": "0220",
+          "line_num": 7891
+        },
+        {
+          "title": "Investment Strategy",
+          "node_id": "0221",
+          "line_num": 7893
+        },
+        {
+          "title": "Risk Management",
+          "node_id": "0222",
+          "line_num": 7976
+        },
+        {
+          "title": "Fair Value Measurements",
+          "node_id": "0223",
+          "line_num": 7980
+        },
+        {
+          "title": "OPB Plan Assets",
+          "node_id": "0224",
+          "line_num": 8735
+        },
+        {
+          "title": "Cash Flows",
+          "node_id": "0225",
+          "line_num": 8741
+        },
+        {
+          "title": "Contributions",
+          "node_id": "0226",
+          "line_num": 8743
+        },
+        {
+          "title": "Estimated Future Benefit Payments",
+          "node_id": "0227",
+          "line_num": 8747
+        },
+        {
+          "title": "Termination Provisions",
+          "node_id": "0228",
+          "line_num": 8856
+        },
+        {
+          "title": "Defined Contribution Plans",
+          "node_id": "0229",
+          "line_num": 8862
+        },
+        {
+          "title": "Note 17 – Share-Based Compensation and Other Compensation Arrangements",
+          "node_id": "0230",
+          "line_num": 8866
+        },
+        {
+          "title": "Share-Based Compensation",
+          "node_id": "0231",
+          "line_num": 8868
+        },
+        {
+          "title": "Stock Options",
+          "node_id": "0232",
+          "line_num": 8903
+        },
+        {
+          "title": "Restricted Stock Units",
+          "node_id": "0233",
+          "line_num": 9015
+        },
+        {
+          "title": "Performance-Based Restricted Stock Units",
+          "node_id": "0234",
+          "line_num": 9100
+        },
+        {
+          "title": "Performance Awards",
+          "node_id": "0235",
+          "line_num": 9175
+        },
+        {
+          "title": "Deferred Compensation",
+          "node_id": "0236",
+          "line_num": 9179
+        },
+        {
+          "title": "Note 18 – Shareholders’ Equity",
+          "node_id": "0237",
+          "line_num": 9185
+        },
+        {
+          "title": "Changes in Share Balances",
+          "node_id": "0238",
+          "line_num": 9191
+        },
+        {
+          "title": "Accumulated Other Comprehensive Loss",
+          "node_id": "0239",
+          "line_num": 9274
+        },
+        {
+          "title": "Note 19 – Derivative Financial Instruments",
+          "node_id": "0240",
+          "line_num": 9473
+        },
+        {
+          "title": "Cash Flow Hedges",
+          "node_id": "0241",
+          "line_num": 9475
+        },
+        {
+          "title": "Derivative Instruments Not Receiving Hedge Accounting Treatment",
+          "node_id": "0242",
+          "line_num": 9479
+        },
+        {
+          "title": "Notional Amounts and Fair Values",
+          "node_id": "0243",
+          "line_num": 9483
+        },
+        {
+          "title": "Note 20 – Fair Value Measurements",
+          "node_id": "0244",
+          "line_num": 9687
+        },
+        {
+          "title": "Fair Value Disclosures",
+          "node_id": "0245",
+          "line_num": 10050
+        },
+        {
+          "title": "Note 21 – Legal Proceedings",
+          "node_id": "0246",
+          "line_num": 10195
+        },
+        {
+          "title": "Note 22 – Segment and Revenue Information",
+          "node_id": "0247",
+          "line_num": 10207
+        },
+        {
+          "title": "Earnings in Equity Method Investments",
+          "node_id": "0248",
+          "line_num": 10605
+        },
+        {
+          "title": "Backlog",
+          "node_id": "0249",
+          "line_num": 10609
+        },
+        {
+          "title": "Unallocated Items, Eliminations and other",
+          "node_id": "0250",
+          "line_num": 10615
+        },
+        {
+          "title": "Pension and Other Postretirement Benefit Expense",
+          "node_id": "0251",
+          "line_num": 10722
+        },
+        {
+          "title": "Assets",
+          "node_id": "0252",
+          "line_num": 10726
+        },
+        {
+          "title": "Capital Expenditures",
+          "node_id": "0253",
+          "line_num": 10787
+        },
+        {
+          "title": "Depreciation and Amortization",
+          "node_id": "0254",
+          "line_num": 10854
+        },
+        {
+          "title": "REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM",
+          "node_id": "0255",
+          "line_num": 10921
+        },
+        {
+          "title": "Opinion on the Financial Statements",
+          "node_id": "0256",
+          "line_num": 10925
+        },
+        {
+          "title": "Basis for Opinion",
+          "node_id": "0257",
+          "line_num": 10931
+        },
+        {
+          "title": "Critical Audit Matters",
+          "node_id": "0258",
+          "line_num": 10937
+        },
+        {
+          "title": "Cost Estimates for Fixed-Price Development Contracts — Refer to Notes 1 and 13 to the financial statements",
+          "node_id": "0259",
+          "line_num": 10941,
+          "nodes": [
+            {
+              "title": "Critical Audit Matter Description",
+              "node_id": "0260",
+              "line_num": 10943
+            },
+            {
+              "title": "How the Critical Audit Matter Was Addressed in the Audit",
+              "node_id": "0261",
+              "line_num": 10949
+            }
+          ]
+        },
+        {
+          "title": "Program Accounting Estimates for the 777X Program — Refer to Notes 1, 7, and 22 to the financial statements",
+          "node_id": "0262",
+          "line_num": 10971,
+          "nodes": [
+            {
+              "title": "Critical Audit Matter Description",
+              "node_id": "0263",
+              "line_num": 10973
+            },
+            {
+              "title": "How the Critical Audit Matter Was Addressed in the Audit",
+              "node_id": "0264",
+              "line_num": 10977
+            }
+          ]
+        },
+        {
+          "title": "Program Accounting Revenue Estimates for the 787 Program — Refer to Notes 1, 7, and 22 to the financial statements",
+          "node_id": "0265",
+          "line_num": 10997,
+          "nodes": [
+            {
+              "title": "Critical Audit Matter Description",
+              "node_id": "0266",
+              "line_num": 10999
+            },
+            {
+              "title": "How the Critical Audit Matter Was Addressed in the Audit",
+              "node_id": "0267",
+              "line_num": 11003
+            }
+          ]
+        },
+        {
+          "title": "REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM",
+          "node_id": "0268",
+          "line_num": 11021
+        },
+        {
+          "title": "Opinion on Internal Control over Financial Reporting",
+          "node_id": "0269",
+          "line_num": 11025
+        },
+        {
+          "title": "Basis for Opinion",
+          "node_id": "0270",
+          "line_num": 11031
+        },
+        {
+          "title": "Definition and Limitations of Internal Control over Financial Reporting",
+          "node_id": "0271",
+          "line_num": 11037
+        },
+        {
+          "title": "Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure",
+          "node_id": "0272",
+          "line_num": 11045
+        },
+        {
+          "title": "Item 9A. Controls and Procedures",
+          "node_id": "0273",
+          "line_num": 11049,
+          "nodes": [
+            {
+              "title": "(a) Evaluation of Disclosure Controls and Procedures.",
+              "node_id": "0274",
+              "line_num": 11051
+            },
+            {
+              "title": "(b) Management’s Report on Internal Control Over Financial Reporting.",
+              "node_id": "0275",
+              "line_num": 11055
+            },
+            {
+              "title": "(c) Changes in Internal Controls Over Financial Reporting.",
+              "node_id": "0276",
+              "line_num": 11061
+            }
+          ]
+        },
+        {
+          "title": "Item 9B. Other Information",
+          "node_id": "0277",
+          "line_num": 11065
+        },
+        {
+          "title": "Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections",
+          "node_id": "0278",
+          "line_num": 11069
+        },
+        {
+          "title": "Part III",
+          "node_id": "0279",
+          "line_num": 11073
+        },
+        {
+          "title": "Item 10. Directors, Executive Officers and Corporate Governance",
+          "node_id": "0280",
+          "line_num": 11075
+        },
+        {
+          "title": "Item 11. Executive Compensation",
+          "node_id": "0281",
+          "line_num": 11552
+        },
+        {
+          "title": "Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters",
+          "node_id": "0282",
+          "line_num": 11556,
+          "nodes": [
+            {
+              "title": "Equity Compensation Plan Information",
+              "node_id": "0283",
+              "line_num": 11558
+            }
+          ]
+        },
+        {
+          "title": "Item 13. Certain Relationships and Related Transactions, and Director Independence",
+          "node_id": "0284",
+          "line_num": 11641
+        },
+        {
+          "title": "Item 14. Principal Accountant Fees and Services",
+          "node_id": "0285",
+          "line_num": 11645
+        },
+        {
+          "title": "PART IV",
+          "node_id": "0286",
+          "line_num": 11651
+        },
+        {
+          "title": "Item 15. Exhibits and Financial Statement Schedules",
+          "node_id": "0287",
+          "line_num": 11653,
+          "nodes": [
+            {
+              "title": "1. Financial Statements",
+              "node_id": "0288",
+              "line_num": 11657
+            },
+            {
+              "title": "2. Financial Statement Schedules",
+              "node_id": "0289",
+              "line_num": 11661
+            },
+            {
+              "title": "3. Exhibits",
+              "node_id": "0290",
+              "line_num": 11665
+            }
+          ]
+        },
+        {
+          "title": "Item 16. Form 10-K Summary",
+          "node_id": "0291",
+          "line_num": 12110
+        },
+        {
+          "title": "Signatures",
+          "node_id": "0292",
+          "line_num": 12114
+        },
+        {
+          "title": "THE BOEING COMPANY",
+          "node_id": "0293",
+          "line_num": 12118
+        },
+        {
+          "title": "Exhibit 10.13",
+          "node_id": "0294",
+          "line_num": 12167
+        },
+        {
+          "title": "ARTICLE I Introduction",
+          "node_id": "0295",
+          "line_num": 12580,
+          "nodes": [
+            {
+              "title": "Plan Overview",
+              "node_id": "0296",
+              "line_num": 12582
+            },
+            {
+              "title": "Plan History",
+              "node_id": "0297",
+              "line_num": 12594
+            },
+            {
+              "title": "Plan Status",
+              "node_id": "0298",
+              "line_num": 12602
+            }
+          ]
+        },
+        {
+          "title": "ARTICLE II Definitions",
+          "node_id": "0299",
+          "line_num": 12606,
+          "nodes": [
+            {
+              "title": "2. 1    Account",
+              "node_id": "0300",
+              "line_num": 12608
+            },
+            {
+              "title": "2. 2    Administrator",
+              "node_id": "0301",
+              "line_num": 12620
+            },
+            {
+              "title": "2. 3    Affiliate or Subsidiary",
+              "node_id": "0302",
+              "line_num": 12624
+            },
+            {
+              "title": "2. 4    Authorized Period of Absence",
+              "node_id": "0303",
+              "line_num": 12628
+            },
+            {
+              "title": "2. 5    Base Pay",
+              "node_id": "0304",
+              "line_num": 12632
+            },
+            {
+              "title": "2. 6    Base Pay Deferrals",
+              "node_id": "0305",
+              "line_num": 12638
+            },
+            {
+              "title": "2. 7    Base Pay Rate",
+              "node_id": "0306",
+              "line_num": 12642
+            },
+            {
+              "title": "2. 8    Beneficiary",
+              "node_id": "0307",
+              "line_num": 12646
+            },
+            {
+              "title": "2. 9    Board of Directors",
+              "node_id": "0308",
+              "line_num": 12650
+            },
+            {
+              "title": "2. 10    Boeing 401(k)",
+              "node_id": "0309",
+              "line_num": 12654
+            },
+            {
+              "title": "2. 11    BSS Plan",
+              "node_id": "0310",
+              "line_num": 12658
+            },
+            {
+              "title": "2. 12    Cash Incentive",
+              "node_id": "0311",
+              "line_num": 12662
+            },
+            {
+              "title": "2. 13    Cash Incentive Deferrals",
+              "node_id": "0312",
+              "line_num": 12672
+            },
+            {
+              "title": "2. 14    Code",
+              "node_id": "0313",
+              "line_num": 12676
+            },
+            {
+              "title": "2. 15    Company",
+              "node_id": "0314",
+              "line_num": 12680
+            },
+            {
+              "title": "2. 16    Company Contributions",
+              "node_id": "0315",
+              "line_num": 12684
+            },
+            {
+              "title": "2. 17    Company Non-Elective Contributions",
+              "node_id": "0316",
+              "line_num": 12688
+            },
+            {
+              "title": "2. 18    Compensation",
+              "node_id": "0317",
+              "line_num": 12692
+            },
+            {
+              "title": "2. 19    Compensation Committee",
+              "node_id": "0318",
+              "line_num": 12696
+            },
+            {
+              "title": "2. 20    Contribution Credit",
+              "node_id": "0319",
+              "line_num": 12700
+            },
+            {
+              "title": "2. 21    Controlled Group",
+              "node_id": "0320",
+              "line_num": 12704
+            },
+            {
+              "title": "2. 22    DC SERP Contributions",
+              "node_id": "0321",
+              "line_num": 12708
+            },
+            {
+              "title": "2. 23    Deferral Election",
+              "node_id": "0322",
+              "line_num": 12712
+            },
+            {
+              "title": "2. 24    DCP",
+              "node_id": "0323",
+              "line_num": 12716
+            },
+            {
+              "title": "2. 25    DCP Deferrals",
+              "node_id": "0324",
+              "line_num": 12720
+            },
+            {
+              "title": "2. 26    DCP Matching Contributions",
+              "node_id": "0325",
+              "line_num": 12724
+            },
+            {
+              "title": "2. 27    Earnings Credits",
+              "node_id": "0326",
+              "line_num": 12728
+            },
+            {
+              "title": "2. 28    Election Period",
+              "node_id": "0327",
+              "line_num": 12732
+            },
+            {
+              "title": "2. 29    Eligibility Determination Date",
+              "node_id": "0328",
+              "line_num": 12736
+            },
+            {
+              "title": "2. 30    Eligible Employee",
+              "node_id": "0329",
+              "line_num": 12742
+            },
+            {
+              "title": "2. 31    Employee",
+              "node_id": "0330",
+              "line_num": 12748
+            },
+            {
+              "title": "2. 32    Extra Deferrals",
+              "node_id": "0331",
+              "line_num": 12752
+            },
+            {
+              "title": "2. 33    Executive SSP+ Company Contributions",
+              "node_id": "0332",
+              "line_num": 12756
+            },
+            {
+              "title": "2. 34    Incentive Matching Contributions",
+              "node_id": "0333",
+              "line_num": 12760
+            },
+            {
+              "title": "2. 35    Newly Eligible",
+              "node_id": "0334",
+              "line_num": 12764
+            },
+            {
+              "title": "2. 36    Participant",
+              "node_id": "0335",
+              "line_num": 12770
+            },
+            {
+              "title": "2. 37    Participant Deferrals",
+              "node_id": "0336",
+              "line_num": 12774
+            },
+            {
+              "title": "2. 38    Performance Awards",
+              "node_id": "0337",
+              "line_num": 12778
+            },
+            {
+              "title": "2. 39    Plan",
+              "node_id": "0338",
+              "line_num": 12782
+            },
+            {
+              "title": "2. 40    Plan Year",
+              "node_id": "0339",
+              "line_num": 12786
+            },
+            {
+              "title": "2. 41    PVP",
+              "node_id": "0340",
+              "line_num": 12790
+            },
+            {
+              "title": "2. 42    Restoration Deferrals",
+              "node_id": "0341",
+              "line_num": 12794
+            },
+            {
+              "title": "2. 43    Restoration Matching Contributions",
+              "node_id": "0342",
+              "line_num": 12798
+            },
+            {
+              "title": "2. 44    Restoration SSP+ Company Contributions",
+              "node_id": "0343",
+              "line_num": 12802
+            },
+            {
+              "title": "2. 45    Restoration True-Up Contributions",
+              "node_id": "0344",
+              "line_num": 12806
+            },
+            {
+              "title": "2. 46    Separation from Service",
+              "node_id": "0345",
+              "line_num": 12810
+            },
+            {
+              "title": "2. 47    Service",
+              "node_id": "0346",
+              "line_num": 12816
+            },
+            {
+              "title": "2. 48    Specified Employee",
+              "node_id": "0347",
+              "line_num": 12820
+            },
+            {
+              "title": "2. 49    Unforeseeable Emergency",
+              "node_id": "0348",
+              "line_num": 12824
+            },
+            {
+              "title": "2. 50    US Executive Payroll",
+              "node_id": "0349",
+              "line_num": 12828
+            },
+            {
+              "title": "2. 51    Vested Performance Award Deferrals",
+              "node_id": "0350",
+              "line_num": 12832
+            },
+            {
+              "title": "ARTICLE III Participant Deferrals",
+              "node_id": "0351",
+              "line_num": 12836
+            }
+          ]
+        },
+        {
+          "title": "3. 1    Annual Participation and Deferrals – Eligibility",
+          "node_id": "0352",
+          "line_num": 12838,
+          "nodes": [
+            {
+              "title": "(A)    Extra Deferral Component",
+              "node_id": "0353",
+              "line_num": 12844
+            },
+            {
+              "title": "(B)    Restoration Deferral Component",
+              "node_id": "0354",
+              "line_num": 12852
+            },
+            {
+              "title": "3. 2    Mid-Year Participation– Eligibility",
+              "node_id": "0355",
+              "line_num": 12858
+            },
+            {
+              "title": "3. 3    Deferral Elections",
+              "node_id": "0356",
+              "line_num": 12866,
+              "nodes": [
+                {
+                  "title": "(A)    Deferral Elections",
+                  "node_id": "0357",
+                  "line_num": 12872
+                },
+                {
+                  "title": "(B)    Distribution Elections",
+                  "node_id": "0358",
+                  "line_num": 12880
+                },
+                {
+                  "title": "(C) Timing, Irrevocability and Cancellation of Elections",
+                  "node_id": "0359",
+                  "line_num": 12886
+                },
+                {
+                  "title": "(D)    No Mid-Year Elections",
+                  "node_id": "0360",
+                  "line_num": 12904
+                }
+              ]
+            },
+            {
+              "title": "3. 4    Cancellation of Deferral Election Due to Unforeseeable Emergency",
+              "node_id": "0361",
+              "line_num": 12908
+            },
+            {
+              "title": "3. 5    Crediting of Deferrals to Account",
+              "node_id": "0362",
+              "line_num": 12914
+            }
+          ]
+        },
+        {
+          "title": "ARTICLE IV Company Contributions",
+          "node_id": "0363",
+          "line_num": 12918,
+          "nodes": [
+            {
+              "title": "4. 1    Restoration Matching Contributions",
+              "node_id": "0364",
+              "line_num": 12920
+            },
+            {
+              "title": "4. 2    Restoration True-Up Contributions",
+              "node_id": "0365",
+              "line_num": 12930
+            },
+            {
+              "title": "4. 3    Incentive Matching Contributions",
+              "node_id": "0366",
+              "line_num": 12940
+            },
+            {
+              "title": "4. 4    Company Non-Elective Contributions (Component of the Executive Benefit)",
+              "node_id": "0367",
+              "line_num": 12950
+            },
+            {
+              "title": "4. 5    DC SERP Contributions (Component of the Executive Benefit)",
+              "node_id": "0368",
+              "line_num": 12960
+            },
+            {
+              "title": "(A)    Eligibility",
+              "node_id": "0369",
+              "line_num": 12962,
+              "nodes": [
+                {
+                  "title": "## (ii) Hired Before January 1, 2009",
+                  "node_id": "0370",
+                  "line_num": 12978
+                },
+                {
+                  "title": "(B)    DC SERP Participation",
+                  "node_id": "0371",
+                  "line_num": 13002
+                },
+                {
+                  "title": "(C)    DC SERP Contributions",
+                  "node_id": "0372",
+                  "line_num": 13006
+                },
+                {
+                  "title": "## (i) Payroll Contributions",
+                  "node_id": "0373",
+                  "line_num": 13010
+                },
+                {
+                  "title": "(a)    Hired Between January 1, 2009 and December 31, 2019",
+                  "node_id": "0374",
+                  "line_num": 13014
+                },
+                {
+                  "title": "(b)    Hired Before January 1, 2009",
+                  "node_id": "0375",
+                  "line_num": 13024
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "ARTICLE V Vesting and Forfeiture Rules",
+          "node_id": "0376",
+          "line_num": 13052,
+          "nodes": [
+            {
+              "title": "5. 1    Vesting",
+              "node_id": "0377",
+              "line_num": 13054
+            },
+            {
+              "title": "5. 2    Extra Deferral Vesting",
+              "node_id": "0378",
+              "line_num": 13058
+            },
+            {
+              "title": "5. 3    Restoration Vesting",
+              "node_id": "0379",
+              "line_num": 13062
+            },
+            {
+              "title": "5. 4    Executive Benefit Vesting",
+              "node_id": "0380",
+              "line_num": 13066
+            },
+            {
+              "title": "5. 5    Executive SSP+ Company Contribution Forfeiture Rules",
+              "node_id": "0381",
+              "line_num": 13070
+            },
+            {
+              "title": "5. 6    DC SERP Vesting",
+              "node_id": "0382",
+              "line_num": 13090,
+              "nodes": [
+                {
+                  "title": "(B)    General DC SERP Vesting Rule for Participants Hired Before January 1, 2009",
+                  "node_id": "0383",
+                  "line_num": 13106
+                },
+                {
+                  "title": "(D) Authorized Period of Absence",
+                  "node_id": "0384",
+                  "line_num": 13130
+                },
+                {
+                  "title": "(E) Transfers to and from ULA and USA",
+                  "node_id": "0385",
+                  "line_num": 13136
+                },
+                {
+                  "title": "(F)    Impact of Separation from Service/Transfer",
+                  "node_id": "0386",
+                  "line_num": 13140
+                }
+              ]
+            },
+            {
+              "title": "5. 7    DC SERP Forfeiture Rules",
+              "node_id": "0387",
+              "line_num": 13152
+            }
+          ]
+        },
+        {
+          "title": "ARTICLE VI Distributions",
+          "node_id": "0388",
+          "line_num": 13172,
+          "nodes": [
+            {
+              "title": "6. 1    Form and Timing of Distribution",
+              "node_id": "0389",
+              "line_num": 13174,
+              "nodes": [
+                {
+                  "title": "(A)    Extra Deferral Account",
+                  "node_id": "0390",
+                  "line_num": 13176
+                },
+                {
+                  "title": "(B)    Restoration Account",
+                  "node_id": "0391",
+                  "line_num": 13186
+                },
+                {
+                  "title": "(C)    Executive Benefit Account",
+                  "node_id": "0392",
+                  "line_num": 13194
+                },
+                {
+                  "title": "(D) Timing and Form of Distribution",
+                  "node_id": "0393",
+                  "line_num": 13200
+                },
+                {
+                  "title": "(i)    Lump Sum Distribution",
+                  "node_id": "0394",
+                  "line_num": 13202
+                },
+                {
+                  "title": "(ii) Installment Payment",
+                  "node_id": "0395",
+                  "line_num": 13206
+                },
+                {
+                  "title": "(E)    Cash-outs",
+                  "node_id": "0396",
+                  "line_num": 13214
+                },
+                {
+                  "title": "(F)    Changes to Distribution Election or Deemed Election",
+                  "node_id": "0397",
+                  "line_num": 13218
+                },
+                {
+                  "title": "(G)    Distributions At Age 70½",
+                  "node_id": "0398",
+                  "line_num": 13234
+                },
+                {
+                  "title": "(H)    Specified Employees",
+                  "node_id": "0399",
+                  "line_num": 13240
+                },
+                {
+                  "title": "(I)    Distribution Due to Unforeseeable Emergency",
+                  "node_id": "0400",
+                  "line_num": 13258
+                }
+              ]
+            },
+            {
+              "title": "6. 2    Death Benefits",
+              "node_id": "0401",
+              "line_num": 13264
+            },
+            {
+              "title": "6. 3    Rehires and Authorized Periods of Absence/Reduced Level of Services",
+              "node_id": "0402",
+              "line_num": 13270,
+              "nodes": [
+                {
+                  "title": "(A) After Commencing Benefits",
+                  "node_id": "0403",
+                  "line_num": 13276
+                },
+                {
+                  "title": "(B)    Before Commencing Benefits",
+                  "node_id": "0404",
+                  "line_num": 13286
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "ARTICLE VII Accounts",
+          "node_id": "0405",
+          "line_num": 13298,
+          "nodes": [
+            {
+              "title": "7. 1    Participant Accounts",
+              "node_id": "0406",
+              "line_num": 13300
+            },
+            {
+              "title": "7. 2    Earnings Credits",
+              "node_id": "0407",
+              "line_num": 13308,
+              "nodes": [
+                {
+                  "title": "(A)    Interest Fund Method",
+                  "node_id": "0408",
+                  "line_num": 13312
+                },
+                {
+                  "title": "(B)    Boeing Stock Fund Method",
+                  "node_id": "0409",
+                  "line_num": 13318
+                },
+                {
+                  "title": "(C)    Other Investment Funds Method",
+                  "node_id": "0410",
+                  "line_num": 13324
+                }
+              ]
+            },
+            {
+              "title": "7. 3    Investment Election Changes and Restrictions",
+              "node_id": "0411",
+              "line_num": 13330
+            },
+            {
+              "title": "7. 4    Missing Participants and Improper Credits",
+              "node_id": "0412",
+              "line_num": 13336
+            }
+          ]
+        },
+        {
+          "title": "ARTICLE VIII Administration",
+          "node_id": "0413",
+          "line_num": 13346,
+          "nodes": [
+            {
+              "title": "8. 1    Plan Administration",
+              "node_id": "0414",
+              "line_num": 13348
+            },
+            {
+              "title": "8. 2    Claims Procedure",
+              "node_id": "0415",
+              "line_num": 13352
+            }
+          ]
+        },
+        {
+          "title": "ARTICLE IX Amendment and Termination",
+          "node_id": "0416",
+          "line_num": 13358
+        },
+        {
+          "title": "ARTICLE X Miscellaneous",
+          "node_id": "0417",
+          "line_num": 13366,
+          "nodes": [
+            {
+              "title": "10. 1    No Employment Rights",
+              "node_id": "0418",
+              "line_num": 13368
+            },
+            {
+              "title": "10. 2    Anti-Assignment",
+              "node_id": "0419",
+              "line_num": 13372
+            },
+            {
+              "title": "10. 3    Unfunded Status of Plan",
+              "node_id": "0420",
+              "line_num": 13376
+            },
+            {
+              "title": "10. 4    Delays or Acceleration in Payment",
+              "node_id": "0421",
+              "line_num": 13380
+            },
+            {
+              "title": "10. 5    Involuntary Inclusion in Income",
+              "node_id": "0422",
+              "line_num": 13384
+            },
+            {
+              "title": "10. 6    Compliance with Code Section 409A",
+              "node_id": "0423",
+              "line_num": 13388
+            },
+            {
+              "title": "10. 7    Construction",
+              "node_id": "0424",
+              "line_num": 13392
+            },
+            {
+              "title": "10. 8    Legal Action",
+              "node_id": "0425",
+              "line_num": 13396
+            },
+            {
+              "title": "10. 9    Tax Withholding",
+              "node_id": "0426",
+              "line_num": 13400
+            },
+            {
+              "title": "10. 10    Liability for Benefit Payments",
+              "node_id": "0427",
+              "line_num": 13404
+            },
+            {
+              "title": "10. 11    Recovery of Plan Overpayments",
+              "node_id": "0428",
+              "line_num": 13408
+            },
+            {
+              "title": "10. 12    Notice",
+              "node_id": "0429",
+              "line_num": 13412
+            }
+          ]
+        },
+        {
+          "title": "APPENDIX A List of Excluded Entities",
+          "node_id": "0430",
+          "line_num": 13416
+        },
+        {
+          "title": "APPENDIX B Deferred Compensation Plan for Employees of The Boeing Company",
+          "node_id": "0431",
+          "line_num": 13422,
+          "nodes": [
+            {
+              "title": "1.    Forfeiture and Reinstatement of Matching Contributions",
+              "node_id": "0432",
+              "line_num": 13430
+            },
+            {
+              "title": "2.    DCP Deferrals Eligible for Diversification",
+              "node_id": "0433",
+              "line_num": 13436
+            },
+            {
+              "title": "(G)    Performance Awards.",
+              "node_id": "0434",
+              "line_num": 13452
+            },
+            {
+              "title": "3.    Form and Timing of Distribution.",
+              "node_id": "0435",
+              "line_num": 13456,
+              "nodes": [
+                {
+                  "title": "(A)    General Rule",
+                  "node_id": "0436",
+                  "line_num": 13458
+                },
+                {
+                  "title": "(B)    Changes to Distribution Election",
+                  "node_id": "0437",
+                  "line_num": 13464
+                },
+                {
+                  "title": "(C)    Separate Election for Matching Contributions",
+                  "node_id": "0438",
+                  "line_num": 13468
+                },
+                {
+                  "title": "(D)    Separate Election for Annual Installments",
+                  "node_id": "0439",
+                  "line_num": 13472
+                },
+                {
+                  "title": "(E)    Distributions At Age 70 ½",
+                  "node_id": "0440",
+                  "line_num": 13480
+                },
+                {
+                  "title": "(F)    Specified Employees",
+                  "node_id": "0441",
+                  "line_num": 13484
+                },
+                {
+                  "title": "(G)    Distribution Due to Unforeseeable Emergency",
+                  "node_id": "0442",
+                  "line_num": 13488
+                },
+                {
+                  "title": "(H)    Death Benefits",
+                  "node_id": "0443",
+                  "line_num": 13492
+                },
+                {
+                  "title": "4.    Rehires",
+                  "node_id": "0444",
+                  "line_num": 13496
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "EXHIBIT 21",
+          "node_id": "0445",
+          "line_num": 13500
+        },
+        {
+          "title": "The Boeing Company Subsidiaries",
+          "node_id": "0446",
+          "line_num": 13502
+        },
+        {
+          "title": "EXHIBIT 23",
+          "node_id": "0447",
+          "line_num": 13589
+        },
+        {
+          "title": "CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM",
+          "node_id": "0448",
+          "line_num": 13591
+        },
+        {
+          "title": "EXHIBIT 31.1",
+          "node_id": "0449",
+          "line_num": 13597
+        },
+        {
+          "title": "CERTIFICATION PURSUANT TO RULE 13a-14 OF THE SECURITIES EXCHANGE ACT OF 1934, AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002",
+          "node_id": "0450",
+          "line_num": 13599
+        },
+        {
+          "title": "EXHIBIT 31.2",
+          "node_id": "0451",
+          "line_num": 13629
+        },
+        {
+          "title": "CERTIFICATION PURSUANT TO RULE 13a-14 OF THE SECURITIES EXCHANGE ACT OF 1934, AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002",
+          "node_id": "0452",
+          "line_num": 13631
+        },
+        {
+          "title": "EXHIBIT 32.1",
+          "node_id": "0453",
+          "line_num": 13663
+        },
+        {
+          "title": "CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002",
+          "node_id": "0454",
+          "line_num": 13665
+        },
+        {
+          "title": "EXHIBIT 32.2",
+          "node_id": "0455",
+          "line_num": 13677
+        },
+        {
+          "title": "CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002",
+          "node_id": "0456",
+          "line_num": 13679
+        }
+      ]
+    }
+  ]
+}

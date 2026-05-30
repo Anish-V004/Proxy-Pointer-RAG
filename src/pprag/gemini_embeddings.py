@@ -48,18 +48,44 @@ def is_rate_limit_error(exc: Exception) -> bool:
     )
 
 
+def extract_retry_delay(exc: Exception) -> float | None:
+    """Attempt to parse a retry delay from a Google API exception string."""
+    exc_str = str(exc)
+    import re
+    # 1. Check for "Please retry in X.XXs"
+    match = re.search(r"please retry in\s+(\d+(?:\.\d+)?)\s*s", exc_str, re.IGNORECASE)
+    if match:
+        try:
+            return float(match.group(1))
+        except ValueError:
+            pass
+    # 2. Check for "retry_delay { seconds: X }"
+    match_sec = re.search(r"retry_delay\s*\{\s*seconds:\s*(\d+)", exc_str, re.IGNORECASE)
+    if match_sec:
+        try:
+            return float(match_sec.group(1))
+        except ValueError:
+            pass
+    return None
+
+
 def embed_content_with_retry(
     genai_module,
     *,
     model: str,
     content,
     output_dimensionality: int,
-    max_retries: int = 5,
+    max_retries: int = 3,
     base_delay: float = 2.0,
     sleep: Callable[[float], None] = time.sleep,
 ):
-    """Call Gemini embeddings with exponential backoff for rate-limit errors."""
-    for attempt in range(max_retries):
+    """Call Gemini embeddings with retry logic for rate-limit errors.
+
+    If the error includes a retry delay, waits exactly that long (up to max_retries attempts).
+    If no delay is provided, uses exponential backoff capped at 60s, followed by one additional 60s wait.
+    """
+    attempt = 0
+    while True:
         try:
             return genai_module.embed_content(
                 model=model,
@@ -67,13 +93,45 @@ def embed_content_with_retry(
                 output_dimensionality=output_dimensionality,
             )
         except Exception as exc:
-            if not is_rate_limit_error(exc) or attempt == max_retries - 1:
+            if not is_rate_limit_error(exc):
                 raise
-            delay = base_delay * (2 ** attempt)
-            logging.warning("Rate limit hit during embedding. Retrying in %ss...", delay)
-            sleep(delay)
 
-    raise RuntimeError("Embedding request failed without returning or raising")
+            retry_delay = extract_retry_delay(exc)
+            if retry_delay is not None:
+                if attempt >= max_retries - 1:
+                    raise
+                delay = retry_delay
+                logging.warning(
+                    "Rate limit hit during embedding. Found retry delay of %ss from error. Retrying in %ss (attempt %s/%s)...",
+                    retry_delay,
+                    delay,
+                    attempt + 1,
+                    max_retries,
+                )
+            else:
+                # Exponential backoff sequence: base_delay -> double -> cap at 60 -> another 60.
+                backoff_delays = []
+                current_delay = base_delay
+                while current_delay < 60.0:
+                    backoff_delays.append(current_delay)
+                    current_delay *= 2.0
+                backoff_delays.append(60.0)
+                backoff_delays.append(60.0)
+
+                if attempt >= len(backoff_delays):
+                    raise
+
+                delay = backoff_delays[attempt]
+                logging.warning(
+                    "Rate limit hit during embedding (no retry delay in error). "
+                    "Waiting %ss before retry (attempt %s/%s)...",
+                    delay,
+                    attempt + 1,
+                    len(backoff_delays) + 1,
+                )
+
+            attempt += 1
+            sleep(delay)
 
 
 def embed_texts_batched(
@@ -84,7 +142,7 @@ def embed_texts_batched(
     output_dimensionality: int,
     batch_size: int,
     batch_delay: float,
-    max_retries: int = 5,
+    max_retries: int = 3,
     base_delay: float = 2.0,
     sleep: Callable[[float], None] = time.sleep,
 ):

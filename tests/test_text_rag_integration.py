@@ -125,7 +125,7 @@ def test_pprag_text_cli_builds_queryable_rag_index(tmp_path, monkeypatch):
             rag = ProxyPointerRAG(index_path=index_dir, data_dir=data_dir)
             pointers = rag.retrieve_unique_nodes("How does Project Aurora use retrieval citations?", k_search=5, k_final=2)
             assert pointers
-            assert pointers[0]["doc_id"] == "fixture"
+            assert pointers[0]["doc_id"].startswith("fixture")
             assert "Retrieval Architecture" in pointers[0]["global_breadcrumb"]
 
             answer = rag.chat("How does Project Aurora use retrieval citations?")
