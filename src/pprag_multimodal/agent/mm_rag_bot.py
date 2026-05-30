@@ -28,6 +28,8 @@ from langchain_community.vectorstores import FAISS
 from langchain_core.embeddings import Embeddings
 
 from pprag_multimodal.config import DATASET_DIR, TREES_DIR, INDEX_DIR, EMBEDDING_MODEL, EMBEDDING_DIMS, SYNTH_MODEL, VISION_FILTER
+from pprag.gemini_embeddings import is_rate_limit_error, extract_retry_delay
+import time
 from pprag.faiss_security import require_trusted_faiss_deserialization
 from pprag_multimodal.indexing.md_tree_builder import get_md_path_for_doc
 
@@ -120,13 +122,72 @@ class MultimodalProxyPointerRAG:
         self._tree_node_cache = {}
 
     def _generate_content(self, *args, **kwargs):
-        try:
-            return self.llm.generate_content(
-                *args, request_options={"timeout": self.llm_timeout}, **kwargs
-            )
-        except TypeError:
-            # Test doubles and older SDKs may not accept request_options.
-            return self.llm.generate_content(*args, **kwargs)
+        """Call self.llm.generate_content with retry logic on 429 or empty responses."""
+        attempt = 0
+        max_retries = 3
+        base_delay = 2.0
+
+        while True:
+            try:
+                try:
+                    response = self.llm.generate_content(
+                        *args, request_options={"timeout": self.llm_timeout}, **kwargs
+                    )
+                except TypeError:
+                    response = self.llm.generate_content(*args, **kwargs)
+
+                # Check if the response contains valid text parts
+                # If there are candidates but no parts, raise a transient error to trigger retry
+                if hasattr(response, "candidates") and (
+                    not response.candidates
+                    or not response.candidates[0].content
+                    or not response.candidates[0].content.parts
+                ):
+                    raise RuntimeError("Transient generation failure: Gemini response has no valid content parts.")
+
+                return response
+
+            except Exception as exc:
+                is_transient = "Transient generation failure" in str(exc)
+                if not is_transient and not is_rate_limit_error(exc):
+                    raise
+
+                retry_delay = extract_retry_delay(exc)
+                if retry_delay is not None:
+                    if attempt >= max_retries - 1:
+                        raise
+                    delay = retry_delay
+                    logging.warning(
+                        "Rate limit hit during LLM generation. Found retry delay of %ss from error. Retrying in %ss (attempt %s/%s)...",
+                        retry_delay,
+                        delay,
+                        attempt + 1,
+                        max_retries,
+                    )
+                else:
+                    # Exponential backoff sequence: base_delay -> double -> cap at 60 -> another 60
+                    backoff_delays = []
+                    current_delay = base_delay
+                    while current_delay < 60.0:
+                        backoff_delays.append(current_delay)
+                        current_delay *= 2.0
+                    backoff_delays.append(60.0)
+                    backoff_delays.append(60.0)
+
+                    if attempt >= len(backoff_delays):
+                        raise
+
+                    delay = backoff_delays[attempt]
+                    logging.warning(
+                        "Rate limit or generation failure hit during LLM generation. "
+                        "Waiting %ss before retry (attempt %s/%s)...",
+                        delay,
+                        attempt + 1,
+                        len(backoff_delays) + 1,
+                    )
+
+                attempt += 1
+                time.sleep(delay)
 
     # ── RAG Pipeline Features ────────────────────────────────────────────────
     VISION_FILTER = VISION_FILTER  # Controlled from config.py

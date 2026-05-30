@@ -19,6 +19,8 @@ from collections.abc import Sequence as SequenceABC
 
 from pprag_text_only.config import DATA_DIR, INDEX_DIR, EMBEDDING_MODEL, EMBEDDING_DIMS, SYNTH_MODEL
 from pprag.faiss_security import require_trusted_faiss_deserialization
+from pprag.gemini_embeddings import is_rate_limit_error, extract_retry_delay
+import time
 
 logger = logging.getLogger(__name__)
 
@@ -114,13 +116,72 @@ class ProxyPointerRAG:
         self.llm_timeout = float(os.getenv("PPRAG_LLM_TIMEOUT", "120"))
 
     def _generate_content(self, *args, **kwargs):
-        try:
-            return self.model.generate_content(
-                *args, request_options={"timeout": self.llm_timeout}, **kwargs
-            )
-        except TypeError:
-            # Test doubles and older SDKs may not accept request_options.
-            return self.model.generate_content(*args, **kwargs)
+        """Call self.model.generate_content with retry logic on 429 or empty responses."""
+        attempt = 0
+        max_retries = 3
+        base_delay = 2.0
+
+        while True:
+            try:
+                try:
+                    response = self.model.generate_content(
+                        *args, request_options={"timeout": self.llm_timeout}, **kwargs
+                    )
+                except TypeError:
+                    response = self.model.generate_content(*args, **kwargs)
+
+                # Check if the response contains valid text parts
+                # If there are candidates but no parts, raise a transient error to trigger retry
+                if hasattr(response, "candidates") and (
+                    not response.candidates
+                    or not response.candidates[0].content
+                    or not response.candidates[0].content.parts
+                ):
+                    raise RuntimeError("Transient generation failure: Gemini response has no valid content parts.")
+
+                return response
+
+            except Exception as exc:
+                is_transient = "Transient generation failure" in str(exc)
+                if not is_transient and not is_rate_limit_error(exc):
+                    raise
+
+                retry_delay = extract_retry_delay(exc)
+                if retry_delay is not None:
+                    if attempt >= max_retries - 1:
+                        raise
+                    delay = retry_delay
+                    logger.warning(
+                        "Rate limit hit during LLM generation. Found retry delay of %ss from error. Retrying in %ss (attempt %s/%s)...",
+                        retry_delay,
+                        delay,
+                        attempt + 1,
+                        max_retries,
+                    )
+                else:
+                    # Exponential backoff sequence: base_delay -> double -> cap at 60 -> another 60
+                    backoff_delays = []
+                    current_delay = base_delay
+                    while current_delay < 60.0:
+                        backoff_delays.append(current_delay)
+                        current_delay *= 2.0
+                    backoff_delays.append(60.0)
+                    backoff_delays.append(60.0)
+
+                    if attempt >= len(backoff_delays):
+                        raise
+
+                    delay = backoff_delays[attempt]
+                    logger.warning(
+                        "Rate limit or generation failure hit during LLM generation. "
+                        "Waiting %ss before retry (attempt %s/%s)...",
+                        delay,
+                        attempt + 1,
+                        len(backoff_delays) + 1,
+                    )
+
+                attempt += 1
+                time.sleep(delay)
 
     def retrieve_unique_nodes(self, query, k_search=200, k_final=5):
         """Stage 1: Broad vector recall → Stage 2: LLM re-ranking."""

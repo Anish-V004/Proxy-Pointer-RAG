@@ -41,7 +41,7 @@ _(I.R.S. Employer Identification No.)_ **10285** _(Zip Code)_
   </tbody>
 </table>
 
-Securities registered pursuant to section 12(g) of the Act: None
+## Securities registered pursuant to section 12(g) of the Act: None
 
 Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.    Yes þ No o 
 
@@ -73,7 +73,7 @@ As of June 30, 2022, the aggregate market value of the registrant’s voting sha
 
 As of February 2, 2023, there were 744,192,702 common shares of the registrant outstanding. 
 
-DOCUMENTS INCORPORATED BY REFERENCE
+## DOCUMENTS INCORPORATED BY REFERENCE
 
 Part III: Portions of Registrant’s Proxy Statement to be filed with the Securities and Exchange Commission in connection with the Annual Meeting of Shareholders to be held on May 2, 2023. 
 
@@ -407,25 +407,29 @@ Throughout this report the terms “American Express,” “we,” “our” or 
 
 ## PART I
 
-## ITEM 1.    BUSINESS
+### ITEM 1.    BUSINESS
 
-## Overview
+### Overview
 
 American Express is a globally integrated payments company, providing customers with access to products, insights and experiences that enrich lives and build business success. We are a leader in providing credit and charge cards to consumers, small businesses, mid-sized companies and large corporations around the world. American Express® cards issued by us, as well as by third-party banks and other institutions on the American Express network, can be used by Card Members to charge purchases at the millions of merchants around the world that accept cards bearing our logo. 
 
 Our various products and services are offered globally to diverse customer groups through various channels, including mobile and online applications, affiliate marketing, customer referral programs, third-party service providers and business partners, direct mail, telephone, in-house sales teams and direct response advertising. 
 
+We were founded in 1850 as a joint stock association and were incorporated in 1965 as a New York corporation. American Express Company and its principal operating subsidiary, American Express Travel Related Services Company, Inc. (TRS), are bank holding companies under the Bank Holding Company Act of 1956, as amended (the BHC Act), subject to supervision and examination by the Board of Governors of the Federal Reserve System (the Federal Reserve). 
+
 We principally engage in businesses comprising four reportable operating segments: U.S. Consumer Services (USCS), Commercial Services (CS), International Card Services (ICS) and Global Merchant and Network Services (GMNS). Corporate functions and certain other businesses are included in Corporate & Other. Our businesses function together to form our end-to-end integrated payments platform, which we believe is a differentiator that underpins our business model. For further information about our reportable operating segments, please see “Business Segment Results of Operations” under “MD&A.” 
 
 ==> picture [271 x 189] intentionally omitted <==
 
-## Our Integrated Payments Platform
+### Our Integrated Payments Platform
 
 Through our general-purpose card-issuing, merchant-acquiring and card network businesses, we are able to connect participants and provide differentiated value across the commerce path. We maintain direct relationships with both our Card Members (as a card issuer) and merchants (as an acquirer), and we handle all key aspects of those relationships. These relationships create a “closed loop” in that we have direct access to information at both ends of the card transaction, which distinguishes our integrated payments platform from the bankcard networks. 
 
+1 
+
 Our integrated payments platform allows us to analyze information on Card Member spending and build algorithms and other analytical tools that we use to underwrite risk, reduce fraud and provide targeted marketing and other information services for merchants and partners and special offers and services to Card Members, all while respecting Card Member preferences and protecting Card Member and merchant data in compliance with applicable policies and legal requirements. Through contractual relationships, we also obtain information from third-party card issuers, merchant acquirers, aggregators and processors with whom we do business. 
 
-### Card Issuing Businesses
+#### Card Issuing Businesses
 
 Our global proprietary card-issuing businesses are conducted through our USCS, CS and ICS reportable operating segments. We offer a broad set of card products, rewards and services to a diverse consumer and commercial customer base, in the United States and internationally. We acquire and retain highspending, engaged and creditworthy Card Members by: 
 
@@ -441,23 +445,29 @@ Our global proprietary card-issuing businesses are conducted through our USCS, C
 
 Over the last several years, we have focused on broadening the appeal of our products to attract new customers, particularly Millennial and Gen Z customers, as well as expanding our position with small and mid-sized enterprise (SME) customers by providing more ways to help them manage and grow their businesses. We have also introduced new adjacent products that complement our existing products, such as our business checking and consumer rewards checking account products and new digital capabilities, which in part result from our acquisitions of Kabbage, Resy and acompay. Additionally, we have evolved our card issuing businesses by bringing together our consumer, SME and large commercial issuing activities outside of the United States into a new ICS organization to enable a greater focus on local priorities. Jurisdictions that represent a significant portion of our billed business outside of the United States include the United Kingdom (UK), the European Union (EU), Australia, Japan, Canada and Mexico. 
 
-### Merchant Acquiring Business
+For the year ended December 31, 2022, worldwide billed business (spending on American Express cards issued by us) was $1,338 billion and at December 31, 2022, we had 76.7 million proprietary cards-in-force worldwide. 
+
+#### Merchant Acquiring Business
 
 Our GMNS reportable operating segment builds and manages relationships with millions of merchants around the world that choose to accept American Express cards. This includes signing new merchants to accept our cards, agreeing on the discount rate (a fee charged to the merchant for accepting our cards) and handling servicing for merchants. We also build and maintain relationships with merchant acquirers, aggregators and processors to manage aspects of our merchant services business. For example, through our OptBlue® merchant-acquiring program, third-party acquirers contract directly with small merchants for card acceptance on our network and determine merchant pricing. We continue to grow merchant acceptance of American Express cards around the world and work with merchant partners so that our Card Members are warmly welcomed and encouraged to spend in the millions of places where their American Express cards are accepted. We also seek to drive greater usage of the American Express network by deepening merchant engagement and increasing Card Member awareness through initiatives such as our Shop Small campaigns and deploying new payment options such as debit and B2B capabilities. 
 
 GMNS also provides fraud-prevention tools, marketing solutions, data analytics and other programs and services to merchants and other partners that leverage the capabilities of our integrated payments platform. 
 
-### Card Network Business
+2 
+
+#### Card Network Business
+
+We operate a payments network through which we establish and maintain relationships with third-party banks and other institutions in approximately 103 countries and territories, licensing the American Express brand and extending the reach of our global network. These network partners are licensed to issue local currency American Express-branded cards in their countries and/or serve as the merchant acquirer for local merchants on our network. 
 
 For the year ended December 31, 2022, worldwide network services processed volume (spending on American Express cards issued by third parties) was $214.5 billion and at December 31, 2022, we had 56.5 million cards-in-force issued by third parties worldwide. 
 
-## Diverse Customer Base and Global Footprint
+### Diverse Customer Base and Global Footprint
 
 Our broad and diverse customer base spans consumers, small businesses, mid-sized companies and large corporations around the world. The following chart provides a summary of our diverse set of customers and broad geographic footprint based on worldwide network volumes: 
 
-==> picture [322 x 242] intentionally omitted <==
+**==> picture [322 x 242] intentionally omitted <==** 3
 
-## Partners and Relationships
+### Partners and Relationships
 
 Our integrated payments platform allows us to work with a range of business partners, and our partners in return help drive the scale and relevance of the platform. 
 
@@ -465,21 +475,23 @@ There are many examples of how we connect partners with our integrated payments 
 
 Delta is our largest strategic partner. Our relationships with, and revenues and expenses related to, Delta are significant and represent an important source of value for our Card Members. We issue cards under cobrand arrangements with Delta and the Delta cobrand portfolio represented approximately 10 percent of worldwide network volumes and approximately 21 percent of worldwide Card Member loans as of December 31, 2022. The Delta cobrand portfolio generates fee revenue and interest income from Card Members and discount revenue from Delta and other merchants for spending on Delta cobrand cards. The current Delta cobrand agreement runs through the end of 2029 and we expect to continue to make significant investments in this partnership. Among other things, Delta is also a key participant in our Membership Rewards program, provides travel-related benefits and services, including airport lounge access for certain American Express Card Members, accepts American Express cards as a merchant and is a corporate payments customer. 
 
-Working with all of our partners, we seek to provide value, choice and unique experiences across our customer base.
+Working with all of our partners, we seek to provide value, choice and unique experiences across our customer base. 
 
-## Our Spend-Centric Model and Revenue Mix
+### Our Spend-Centric Model and Revenue Mix
 
 Our “spend-centric” business model focuses on generating revenues primarily by driving spending on our cards and secondarily through finance charges and fees. Spending on our cards, which is higher on average on a per-card basis versus our competitors, offers superior value to merchants in the form of loyal customers and larger transactions. Because of the revenues generated from having high-spending Card Members and the annual card fees we charge on many of our products, we are able to invest in attractive rewards and other benefits for Card Members, as well as targeted marketing and other programs and investments for merchants. This creates incentives for Card Members to spend more on their cards and positively differentiates American Express cards. 
 
-We believe our spend-centric model gives us the ability to provide differentiated value to Card Members, merchants and business partners.
+We believe our spend-centric model gives us the ability to provide differentiated value to Card Members, merchants and business partners. 
 
-## The American Express Brand and Service Excellence
+### The American Express Brand and Service Excellence
 
 Our brand and its attributes—trust, security and service—are key assets. We invest heavily in managing, marketing, promoting and protecting our brand, including through the delivery of our products and services in a manner consistent with our brand promise. The American Express brand is ranked among the most valuable brands in the world. We place significant importance on trademarks, service marks and patents, and seek to secure our intellectual property rights around the world. 
 
 We aim to provide the world’s best customer experience every day and our reputation for world-class service has been recognized by numerous awards over the years. Our customer care professionals, travel consultants and partners treat servicing interactions as an opportunity to bring the brand to life for our customers, add meaningful value and deepen relationships. 
 
-## Our Business Strategies
+4 
+
+### Our Business Strategies
 
 We seek to grow our business by focusing on four strategic imperatives: 
 
@@ -495,7 +507,9 @@ We previously had as a strategic imperative to make American Express an essentia
 
 We also have an Environmental, Social and Governance (ESG) strategy that focuses on three pillars. The Promoting Diversity, Equity and Inclusion (DE&I) pillar supports a diverse, equitable and inclusive workforce, marketplace and society. The Advancing Climate Solutions pillar focuses on enhancing our operations and capabilities to meet customer and community needs in the transition to a low-carbon future. Finally, the Building Financial Confidence pillar seeks to provide responsible, secure and transparent products and services to help people and businesses build financial resilience. 
 
-## Our Colleagues
+5 
+
+### Our Colleagues
 
 We are focused on our culture built on supportive relationships and an inclusive workplace, where colleagues can feel welcome and heard, and are provided with opportunities to grow and thrive. As a result, we believe our colleagues are more engaged, committed, creative and effective in driving results. At the heart of our culture is what we call our Blue Box Values – a set of guiding principles that serve as the foundation for how we operate: 
 
@@ -503,95 +517,111 @@ We are focused on our culture built on supportive relationships and an inclusive
 
 As of December 31, 2022, we employed approximately 77,300 people, whom we refer to as colleagues, with approximately 26,000 colleagues in the United States and approximately 51,300 colleagues outside the United States. We added colleagues in 2022 to support our strong business growth. To attract and retain the best talent, we strive to offer a compelling value proposition to our colleagues, including competitive compensation and leading benefits. We continuously invest in programs, benefits and resources to foster the personal and professional growth of our colleagues. We provide learning opportunities in many forms, including tools and guidance for maximizing learning on the job; cross-border and cross-business unit assignments; career coaching, mentoring and professional networking; rotation opportunities; virtual learning sessions; and formal classroom instruction. The health and wellness of our colleagues continue to be priorities for us and we take a holistic approach to well-being, providing resources that address the physical, financial and mental health of our colleagues. Throughout 2022, we launched Amex Flex across our offices, where, depending on role and business needs, colleagues can work in the office, at home or take a hybrid approach that combines both. This approach is designed to enable us to both broaden the talent pool from which we can attract candidates and increase colleague retention. 
 
+We conduct an annual Colleague Experience Survey to better understand our colleagues’ needs and overall experience at American Express and in 2022, 92 percent of colleagues who participated in the survey said they would recommend American Express as a great place to work. Our 2022 annual company scorecard included talent retention, colleague engagement and diversity representation goals. As of December 31, 2022, women represented 53.7 percent of our global workforce and Asian, Black/African American and Hispanic/Latinx people represented 18.7 percent, 17.9 percent and 14.2 percent, respectively, of our U.S. workforce based on preliminary data for our 2022 U.S. EEO-1 submission. As of December 31, 2022, 52 percent of our Executive Committee were women or from diverse races and ethnic backgrounds (based on self-identified characteristics). 
+
 We regularly review our compensation practices to ensure colleagues in the same job, level and location are compensated fairly regardless of gender globally, and regardless of race and ethnicity in the United States. These reviews consider several factors known to affect compensation, including role, level, tenure, performance and geography. In the instances where a review has found inconsistencies, we have made adjustments. After making these adjustments, we believe we maintained 100 percent pay equity in 2022 for colleagues across genders globally and across races and ethnicities in the United States. 
 
-## Information About Our Executive Officers
+6 
+
+### Information About Our Executive Officers
 
 Set forth below, in alphabetical order, is a list of our executive officers as of February 10, 2023, including each executive officer’s principal occupation and employment during the past five years and reflecting recent organizational changes. None of our executive officers has any family relationship with any other executive officer, and none of our executive officers became an officer pursuant to any arrangement or understanding with any other person. Each executive officer has been elected to serve until the next annual election of officers or until his or her successor is elected and qualified. Each officer’s age is indicated by the number in parentheses next to his or her name. 
 
-DOUGLAS E. BUCKMINSTER —
+#### DOUGLAS E. BUCKMINSTER
 
-Vice Chairman
+#### Vice Chairman
 
    - Mr. Buckminster (62) has been Vice Chairman since April 2021. Prior thereto, he had been Group President, Global Consumer Services Group since February 2018 and President, Global Consumer Services Group from October 2015 to February 2018.
 
-JEFFREY C. CAMPBELL —
+#### JEFFREY C. CAMPBELL
 
-Vice Chairman and Chief Financial Officer
+#### Vice Chairman and Chief Financial Officer
 
-Mr. Campbell (62) has been Vice Chairman since April 2021 and Chief Financial Officer since August 2013.
+   - Mr. Campbell (62) has been Vice Chairman since April 2021 and Chief Financial Officer since August 2013.
 
-HOWARD GROSFIELD —
+#### HOWARD GROSFIELD
 
-President, U.S. Consumer Services
+President, U.S. Consumer Services 
 
    - Mr. Grosfield (54) has been President, U.S. Consumer Services since May 2022. Prior thereto, he had been Executive Vice President and General Manager of U.S. Consumer Marketing and Global Premium Services since February 2021 and Executive Vice President and General Manager of U.S. Consumer Marketing Services from January 2016 to February 2021.
 
-MONIQUE HERENA —
+#### MONIQUE HERENA
 
-Chief Colleague Experience Officer
+#### Chief Colleague Experience Officer
 
    - Ms. Herena (51) has been Chief Colleague Experience Officer since April 2019. Ms. Herena joined American Express from BNY Mellon, where she served as the Chief Human Resources Officer and Senior Executive Vice President, Human Resources, Marketing and Communications since 2014.
 
-RAYMOND JOABAR —
+#### RAYMOND JOABAR
 
-Group President, Global Merchant and Network Services
+Group President, Global Merchant and Network Services 
 
    - Mr. Joabar (57) has been Group President, Global Merchant and Network Services since April 2021. Prior thereto, he had been President, Global Risk and Compliance and Chief Risk Officer since September 2019. He also served as President of International Consumer Services and Global Travel and Lifestyle Services from February 2018 to September 2019 and as Executive Vice President, Global Servicing Network from February 2016 to February 2018.
 
-RAFAEL MARQUEZ—
+#### RAFAEL MARQUEZ
 
-President, International Card Services
+#### President, International Card Services
 
    - Mr. Marquez (51) has been President, International Card Services since May 2022. Prior thereto, he had been President, International Consumer Services and Global Loyalty Coalition since September 2019 and Executive Vice President of International Consumer Services Europe, Joint Ventures EMEA and International Member Engagement from November 2015 to September 2019.
 
-ANNA MARRS —
+#### ANNA MARRS
 
-Group President, Commercial Services and Credit & Fraud Risk
+Group President, Commercial Services and Credit & Fraud Risk 
 
    - Ms. Marrs (49) has been Group President, Commercial Services and Credit & Fraud Risk since April 2021. Prior thereto, she had been President, Commercial Services since September 2018. Ms. Marrs joined American Express from Standard Chartered Bank, where she served as Regional CEO, ASEAN and South Asia since November 2016.
 
-DAVID NIGRO —
+#### DAVID NIGRO
 
-Chief Risk Officer
+#### Chief Risk Officer
 
    - Mr. Nigro (61) has been Chief Risk Officer since April 2021. Prior thereto, he had been Executive Vice President and Chief Credit Officer, Global Consumer Services and Credit and Fraud Risk Capability since April 2018 and Executive Vice President and Chief Credit Officer, U.S. Consumer Card Services since December 2013.
 
-DENISE PICKETT —
+#### DENISE PICKETT
 
-President, Global Services Group
+#### President, Global Services Group
 
    - Ms. Pickett (57) has been President, Global Services Group since September 2019. Prior thereto, she had been Chief Risk Officer and President, Global Risk, Banking & Compliance since February 2018 and President, U.S. Consumer Services from October 2015 to February 2018.
 
-RAVI RADHAKRISHNAN —
+7 
 
-Chief Information Officer
+#### RAVI RADHAKRISHNAN
+
+#### Chief Information Officer
 
    - Mr. Radhakrishnan (51) has been Chief Information Officer since January 2022. Mr. Radhakrishnan joined American Express from Wells Fargo & Company, where he served as Chief Information Officer for the Commercial Banking and Corporate & Investment Banking businesses since May 2020. Prior thereto, he had been Chief Information Officer, Wholesale, Wealth & Investment Management and Innovation from May 2019 to May 2020. He also served as Enterprise Chief Information Officer from March 2017 to May 2019.
 
-ELIZABETH RUTLEDGE —
+#### ELIZABETH RUTLEDGE
 
-Chief Marketing Officer
+#### Chief Marketing Officer
 
-LAUREEN E. SEEGER —
+   - Ms. Rutledge (61) has been Chief Marketing Officer since February 2018. Prior thereto, she had been Executive Vice President, Global Advertising & Media since February 2016.
 
-Chief Legal Officer
+#### LAUREEN E. SEEGER
 
-Ms. Seeger (61) has been Chief Legal Officer since July 2014.
+Chief Legal Officer 
 
-JENNIFER SKYLER —
+   - Ms. Seeger (61) has been Chief Legal Officer since July 2014.
 
-Chief Corporate Affairs Officer
+#### JENNIFER SKYLER
 
-STEPHEN J. SQUERI —
+#### Chief Corporate Affairs Officer
 
-Chairman and Chief Executive Officer
+   - Ms. Skyler (46) has been Chief Corporate Affairs Officer since October 2019. Ms. Skyler joined American Express from WeWork, where she served as Chief Communications Officer from January 2018 to September 2019. Prior thereto, she had been Global Head of Public Affairs from January 2016 to January 2018.
 
-ANRÉ WILLIAMS —
+#### STEPHEN J. SQUERI
 
-Group President, Enterprise Services
+#### Chairman and Chief Executive Officer
 
-## COMPETITION
+   - Mr. Squeri (63) has been Chairman and Chief Executive Officer since February 2018. Prior thereto, he had been Vice Chairman since July 2015.
+
+#### ANRÉ WILLIAMS
+
+#### Group President, Enterprise Services
+
+   - Mr. Williams (57) has been Group President, Enterprise Services since April 2021. Prior thereto, he had been Group President, Global Merchant and Network Services since February 2018 and President of Global Merchant Services and Loyalty since October 2015. Mr. Williams also serves as the Chief Executive Officer of American Express National Bank.
+
+8 
+
+### COMPETITION
 
 We compete in the global payments industry with card networks, issuers and acquirers, paper-based transactions (e.g., cash and checks), bank transfer models (e.g., wire transfers and Automated Clearing House, or ACH), as well as evolving and growing alternative mechanisms, systems and products that leverage new technologies, business models and customer relationships to create payment, financing or banking solutions. The payments industry continues to undergo dynamic changes in response to evolving technologies, consumer habits and merchant needs, some of which have accelerated as a result of the pandemic, such as an increased shift to digital payments. 
 
@@ -621,11 +651,13 @@ The principal competitive factors that affect the card-issuing, merchant and net
 
 Another aspect of competition is the dynamic and rapid growth of alternative payment and financing mechanisms, systems and products, which include payment facilitators and aggregators, digital payment, open banking and electronic wallet platforms, point-of-sale lenders and buy now, pay later products, real-time settlement and processing systems, financial technology companies, digital currencies developed by both central banks and the private sector, blockchain and similar distributed ledger technologies, prepaid systems and gift cards, and systems linked to customer accounts or that provide payment solutions. Various competitors are integrating more financial services into their product offerings and competitors are seeking to attain the benefits of closedloop, loyalty and rewards functionalities, such as ours. 
 
+9 
+
 In addition to the discussion in this section, see “ _Our operating results may materially suffer because of substantial and increasingly intense competition worldwide in the payments industry_ ” in “Risk Factors” for further discussion of the potential impact of competition on our business, and “ _Our business is subject to comprehensive government regulation and supervision, which could materially adversely affect our results of operations and financial condition”_ and “ _Legal proceedings regarding provisions in our merchant contracts, including non-discrimination and honor-all-cards provisions, could have a material adverse effect on our business and result in additional litigation and/or arbitrations, changes to our merchant agreements and/or business practices, substantial monetary damages and damage to our reputation and brand_ ” in “Risk Factors” for a discussion of the potential impact on our ability to compete effectively due to government regulations or if ongoing legal proceedings limit our ability to prevent merchants from engaging in various actions to discriminate against our card products. 
 
 ## SUPERVISION AND REGULATION
 
-## Overview
+### Overview
 
 We are subject to extensive government regulation and supervision in jurisdictions around the world, and the costs of compliance are substantial. The financial services industry is subject to rigorous scrutiny, high regulatory expectations, a range of regulations and a stringent and unpredictable enforcement environment. 
 
@@ -633,23 +665,23 @@ Governmental authorities have focused, and we believe will continue to focus, co
 
 Policymakers around the world continue to propose and adopt new laws and regulations governing a wide variety of issues that may impact our business or change our operating environment in substantial and unpredictable ways. For example, legislators and regulators in various countries in which we operate have focused on the offering of consumer financial products and the operation of payment networks, resulting in changes to certain practices or pricing of card issuers, merchant acquirers and payment networks, and, in some cases, the establishment of broad and ongoing regulatory oversight regimes. 
 
-See “Risk Factors—Legal, Regulatory and Compliance Risks” for a discussion of the potential impact legislative and regulatory changes may have on our results of operations and financial condition.
+See “Risk Factors—Legal, Regulatory and Compliance Risks” for a discussion of the potential impact legislative and regulatory changes may have on our results of operations and financial condition. 
 
-## Banking Regulation
+### Banking Regulation
 
 Federal and state banking laws, regulations and policies extensively regulate the Company, TRS and our U.S. bank subsidiary, American Express National Bank (AENB). For purposes of this Supervision and Regulation section, the “Company” refers only to American Express Company, a bank holding company, and does not include its subsidiaries. Both the Company and TRS are subject to comprehensive consolidated supervision, regulation and examination by the Federal Reserve and AENB is supervised, regulated and examined by the Office of the Comptroller of the Currency (OCC). The Company and its subsidiaries are also subject to the rulemaking, enforcement and examination authority of the Consumer Financial Protection Bureau (CFPB). Banking regulators have broad examination and enforcement power, including the power to impose substantial fines, limit dividends and other capital distributions, restrict operations and acquisitions and require divestitures, any of which could compromise our competitive position. Many aspects of our business also are subject to rigorous regulation by other U.S. federal and state regulatory agencies and by non-U.S. government agencies and regulatory bodies. 
 
-### Activities
+#### Activities
 
 The BHC Act generally limits bank holding companies to activities that are considered to be banking activities and certain closely related activities. As noted above, each of the Company and TRS is a bank holding company and each has elected to become a financial holding company, which is authorized to engage in a broader range of financial and related activities. In order to remain eligible for financial holding company status, we must meet certain eligibility requirements. Those requirements include that each of the Company and AENB must be “well capitalized” and “well managed,” and AENB must have received at least a “satisfactory” rating on its most recent assessment under the Community Reinvestment Act of 1977 (the CRA). The Company and TRS engage in various activities permissible only for financial holding companies, including, in particular, providing travel agency services, acting as a finder and engaging in certain insurance underwriting and agency services. If the Company fails to meet eligibility requirements for financial holding company status, it and its subsidiaries are likely to be barred from engaging in new types of financial activities or making certain types of acquisitions or investments in reliance on its status as a financial holding company, and ultimately could be required to either discontinue the broader range of 
 
 activities permitted to financial holding companies or divest AENB. In addition, the Company and its subsidiaries are prohibited by law from engaging in practices that regulatory authorities deem unsafe or unsound (which such authorities generally interpret broadly) and regulatory authorities have discretion in determining whether new or modified activities can be conducted in a safe and sound manner. 
 
-### Acquisitions and Investments
+#### Acquisitions and Investments
 
 Applicable federal and state laws place limitations on the ability of persons to invest in or acquire control of us without providing notice to or obtaining the approval of one or more of our regulators. In addition, we are subject to banking laws and regulations that limit our investments and acquisitions and, in some cases, subject them to the prior review and approval of our regulators, including the Federal Reserve and the OCC. Federal banking regulators have broad discretion in evaluating proposed acquisitions and investments that are subject to their prior review or approval. 
 
-## Financial Regulatory Reform
+### Financial Regulatory Reform
 
 The Company is subject to the U.S. federal bank regulatory agencies’ rules that tailor the application of enhanced prudential standards to bank holding companies and depository institutions with $100 billion or more in total consolidated assets. Under these rules, each bank holding company, as well as its bank subsidiaries, is assigned to one of four categories based on its status as a U.S. global systemically important banking organization and five other risk-based indicators: (i) total assets, (ii) cross-jurisdictional activity, (iii) non-bank assets, (iv) off-balance sheet exposure, and (v) weighted short-term wholesale funding. 
 
@@ -657,9 +689,9 @@ Under these rules, the Company (and its depository institution subsidiary, AENB)
 
 Because a firm’s categorization is determined by, and can change over time dependent upon, how the firm measures against the risk-based indicator thresholds, we are required to monitor and periodically report these risk-based indicators and there can be no assurance that the Company will continue to be a Category IV firm in the future. 
 
-## Capital and Liquidity Regulation
+### Capital and Liquidity Regulation
 
-### Capital Rules
+#### Capital Rules
 
 The Company and AENB are required to comply with the applicable capital adequacy rules established by federal banking regulators. These rules are intended to ensure that bank holding companies and depository institutions (collectively, banking organizations) have adequate capital given their level of assets and offbalance sheet obligations. The federal banking regulators’ current capital rules (the Capital Rules) implement the Basel Committee on Banking Supervision’s (the Basel Committee) framework for strengthening international capital regulation, known as Basel III. For additional information regarding our capital ratios, see “Consolidated Capital Resources and Liquidity” under “MD&A.” 
 
@@ -675,13 +707,13 @@ On August 4, 2022, the Federal Reserve confirmed the SCB for the Company of 2.5 
 
 We are also required to comply with minimum leverage ratio requirements. The leverage ratio is the ratio of a banking organization’s Tier 1 capital to its average total consolidated assets (as defined for regulatory purposes). All banking organizations are required to maintain a leverage ratio of at least 4.0 percent. 
 
-_Liquidity Regulation_
+#### Liquidity Regulation
 
 The Federal Reserve’s enhanced prudential standards rule includes heightened liquidity and overall risk management requirements. The rule requires the maintenance of a liquidity buffer, consisting of highly liquid assets, that is sufficient to meet projected net outflows for 30 days over a range of liquidity stress scenarios, and a minimum liquidity coverage ratio (LCR) that measures a firm’s high-quality liquid assets to its projected net outflows. Category IV firms with less than $50 billion in weighted short-term wholesale funding, such as the Company, are not subject to a specific LCR requirement. 
 
 A second standard provided for in the Basel III liquidity framework, referred to as the net stable funding ratio (NSFR), requires a minimum amount of longerterm funding based on the assets and activities of banking entities. Under the NSFR rule, Category IV firms with less than $50 billion in weighted short-term wholesale funding, such as the Company, are not subject to a specific NSFR requirement. 
 
-## Stress Testing and Capital Planning
+### Stress Testing and Capital Planning
 
 Under the Federal Reserve’s regulations, the Company is subject to supervisory stress testing requirements that are designed to evaluate whether a bank holding company has sufficient capital on a total consolidated basis to absorb losses and support operations under adverse economic conditions. As part of the Comprehensive Capital Analysis and Review (CCAR), the Federal Reserve uses pro-forma capital positions and ratios under such stress scenarios to determine the size of the SCB for each CCAR participating firm. 
 
@@ -691,7 +723,7 @@ For Category IV firms, such as the Company, the portion of the SCB based on the 
 
 We may be required to revise and resubmit our capital plan following certain events or developments, such as a significant acquisition or an event that could result in a material change in our risk profile or financial condition. If we are required to resubmit our capital plan, we must receive prior approval from the Federal Reserve for any capital distributions (including common stock dividend payments and share repurchases), other than a capital distribution on a newly issued capital instrument. 
 
-## Dividends and Other Capital Distributions
+### Dividends and Other Capital Distributions
 
 The Company and TRS, as well as AENB and the Company’s insurance and other regulated subsidiaries, are limited in their ability to pay dividends by statutes, regulations and supervisory policy. 
 
@@ -699,51 +731,51 @@ Common stock dividend payments and share repurchases by the Company are subject 
 
 In general, federal laws and regulations prohibit, without first obtaining the OCC’s approval, AENB from making dividend distributions to TRS, if such distributions are not paid out of available recent earnings or would cause AENB to fail to meet capital adequacy standards. In addition to specific limitations on the dividends AENB can pay to TRS, federal banking regulators have authority to prohibit or limit the payment of a dividend if, in the banking regulator’s opinion, payment of a dividend would constitute an unsafe or unsound practice in light of the financial condition of the institution. 
 
-## Prompt Corrective Action
+### Prompt Corrective Action
 
 The Federal Deposit Insurance Act (FDIA) requires, among other things, that federal banking regulators take prompt corrective action in respect of depository institutions insured by the FDIC (such as AENB) that do not meet minimum capital requirements. The FDIA establishes five capital categories for FDICinsured banks: well capitalized, adequately capitalized, undercapitalized, significantly undercapitalized and critically undercapitalized. The FDIA imposes progressively more restrictive constraints on operations, management and capital distributions, depending on the capital category in which an institution is classified. In order to be considered “well capitalized,” AENB must maintain CET1 capital, Tier 1 capital, Total capital and Tier 1 leverage ratios of 6.5 percent, 8.0 percent, 10.0 percent and 5.0 percent, respectively. 
 
 Under the FDIA, AENB could be prohibited from accepting brokered deposits (i.e., deposits raised through third-party brokerage networks) or offering interest rates on any deposits significantly higher than the prevailing rate in its normal market area or nationally (depending upon where the deposits are solicited), unless (1) it is well capitalized or (2) it is adequately capitalized and receives a waiver from the FDIC. A portion of our outstanding U.S. retail deposits are considered brokered deposits for bank regulatory purposes. If a federal regulator determines that we are in an unsafe or unsound condition or that we are engaging in unsafe or unsound banking practices, the regulator may reclassify our capital category or otherwise place restrictions on our ability to accept or solicit brokered deposits. 
 
-## Resolution Planning
+### Resolution Planning
 
 Certain bank holding companies are required to submit resolution plans to the Federal Reserve and FDIC providing for the company’s strategy for rapid and orderly resolution in the event of its material financial distress or failure. However, Category IV firms, such as the Company, are not required to submit a holding company resolution plan. 
 
 AENB continues to be required to prepare and provide a separate resolution plan to the FDIC that would enable the FDIC, as receiver, to effectively resolve AENB under the FDIA in the event of failure. Under the FDIC's rule and its accompanying June 2021 statement on resolution plans for insured depository institutions, insured depository institutions with $100 billion or more in assets, such as AENB, are required to submit resolution plans on a three-year cycle. AENB submitted its most recent resolution plan in December 2022, as required. 
 
-## Orderly Liquidation Authority
+### Orderly Liquidation Authority
 
 The Company could become subject to the Orderly Liquidation Authority (OLA), a resolution regime under which the Treasury Secretary may appoint the FDIC as receiver to liquidate a systemically important financial institution, if the Company is in danger of default and is determined to present a systemic risk to U.S. financial stability. As under the FDIC resolution model, under the OLA, the FDIC has broad power as receiver. Substantial differences exist, however, between the OLA and the U.S. Bankruptcy Code, including the right of the FDIC under the OLA to disregard the strict priority of creditor claims in limited circumstances, the use of an administrative claims procedure to determine creditor claims (as opposed to the judicial procedure used in bankruptcy proceedings), and the right of the FDIC to transfer claims to a “bridge” entity. 
 
 The FDIC has developed a strategy under OLA, referred to as the “single point of entry” or “SPOE” strategy, under which the FDIC would resolve a failed financial holding company by transferring its assets (including shares of its operating subsidiaries) and, potentially, very limited liabilities to a “bridge” holding company; utilize the resources of the failed financial holding company to recapitalize the operating subsidiaries; and satisfy the claims of unsecured creditors of the failed financial holding company and other claimants in the receivership by delivering securities of one or more new financial companies that would emerge from the bridge holding company. Under this strategy, management of the failed financial holding company would be replaced and its shareholders and creditors would bear the losses resulting from the failure. 
 
-## FDIC Powers upon Insolvency of AENB
+### FDIC Powers upon Insolvency of AENB
 
 If the FDIC is appointed the conservator or receiver of AENB, the FDIC has the power to: (1) transfer any of AENB’s assets and liabilities to a new obligor without the approval of AENB’s creditors; (2) enforce the terms of AENB’s contracts pursuant to their terms; or (3) repudiate or disaffirm any contract or lease to which AENB is a party, the performance of which is determined by the FDIC to be burdensome and the disaffirmation or repudiation of which is determined by the FDIC to promote the orderly administration of AENB. In addition, the claims of holders of U.S. deposit liabilities and certain claims for administrative expenses of the FDIC against AENB would be afforded priority over other general unsecured claims against AENB, including claims of debt holders and depositors in non-U.S. offices, in the liquidation or other resolution of AENB. As a result, regardless of whether the FDIC ever sought to repudiate any debt obligations of AENB, the debt holders and depositors in non-U.S. offices would be treated differently from, and could receive substantially less, if anything, than the depositors in the U.S. offices of AENB. 
 
-## Other Banking Regulations
+### Other Banking Regulations
 
-### Source of Strength
+#### Source of Strength
 
 The Company is required to act as a source of financial and managerial strength to its U.S. bank subsidiary, AENB, and may be required to commit capital and financial resources to support AENB. Such support may be required at times when, absent this requirement, the Company otherwise might determine not to provide it. Capital loans by the Company to AENB are subordinate in right of payment to deposits and to certain other indebtedness of AENB. In the event of the Company’s bankruptcy, any commitment by the Company to a federal banking regulator to maintain the capital of AENB will be assumed by the bankruptcy trustee and entitled to a priority of payment. 
 
-_Transactions Between AENB and its Affiliates_
+#### Transactions Between AENB and its Affiliates
 
 Certain transactions (including loans and credit extensions from AENB) between AENB and its affiliates (including the Company, TRS and their other subsidiaries) are subject to quantitative and qualitative limitations, collateral requirements and other restrictions imposed by statute and regulation. Transactions subject to these restrictions are generally required to be made on an arm’s-length basis. 
 
-_FDIC Deposit Insurance and Insurance Assessments_
+#### FDIC Deposit Insurance and Insurance Assessments
 
 AENB accepts deposits that are insured by the FDIC up to the applicable limits. Under the FDIA, the FDIC may terminate the insurance of an institution’s deposits upon a finding that the institution has engaged in unsafe or unsound practices; is in an unsafe or unsound condition to continue operations; or has violated any applicable law, regulation, rule, order or condition imposed by the FDIC. We do not know of any practice, condition or violation that would lead to termination of deposit insurance at AENB. The FDIC’s deposit insurance fund is funded by assessments on insured depository institutions, including AENB, which are subject to adjustment by the FDIC. 
 
-### Community Reinvestment Act
+#### Community Reinvestment Act
 
 AENB is subject to the CRA, which imposes affirmative, ongoing obligations on depository institutions to meet the credit needs of their local communities, including low- and moderate-income neighborhoods, consistent with the safe and sound operation of the institution. In May 2022, the federal banking agencies issued a joint notice of proposed rulemaking proposing revisions to the CRA regulations, including with respect to the delineation of assessment areas, the overall evaluation framework and performance standards and metrics, the definition of community development activities and data collection and reporting. 
 
-_Climate Risk Management_
+#### Climate Risk Management
 
 The U.S. banking agencies have recently increased their focus on climate risk-related supervision. For example, on December 16, 2021, the OCC issued for public comment a set of proposed “Principles for Climate-Related Financial Risk Management for Large Banks.” The principles would apply to OCC-regulated institutions with more than $100 billion in total consolidated assets, like AENB, and are broadly designed to provide a high-level framework for the safe and sound management of exposures to climate-related financial risks consistent with existing OCC rules and guidance. The principles outline six key aspects of climate-related financial risk management: governance; policies, procedures and limits; strategic planning; risk management; data, risk measurement and reporting; and scenario analysis. In addition, the principles offer risk assessment guidance for incorporating climate-related financial risks in various traditional risk categories. On March 30, 2022 and December 2, 2022, the FDIC and the Federal Reserve, respectively, also issued for public comment substantially similar sets of draft principles targeted at financial institutions with total consolidated assets of more than $100 billion subject to their respective supervision, including, with respect to the Federal Reserve, the Company. It is too early to determine what regulations and policies may be adopted or apply to the Company and AENB and the effect of any such regulations or policies on the Company and AENB. 
 
-## Consumer Financial Products Regulation
+### Consumer Financial Products Regulation
 
 Our consumer-oriented activities are subject to regulation and supervision in the United States and internationally. In the United States, our marketing, sale and servicing of consumer financial products and our compliance with certain federal consumer financial laws are supervised and examined by the CFPB, which has broad rulemaking and enforcement authority over providers of credit, savings and payment services and products, and authority to prevent “unfair, deceptive or abusive” acts or practices. The CFPB has the authority to write regulations under federal consumer financial protection laws, to enforce those laws and to examine for compliance. It is also authorized to collect fines and require consumer restitution in the event of violations, engage in consumer financial education, track consumer complaints, request data and promote the availability of financial services to underserved consumers and communities. In addition, a number of U.S. states have significant consumer credit protection, disclosure and other laws (in certain cases more stringent than U.S. federal laws). U.S. federal law also regulates abusive debt collection practices, which, along with bankruptcy and debtor relief laws, can affect our ability to collect amounts owed to us or subject us to regulatory scrutiny. 
 
@@ -753,7 +785,7 @@ We are also regulated in the United States under the “money transmitter” or 
 
 In countries outside the United States, regulators continue to focus on a number of key areas impacting our card-issuing businesses, particularly consumer protection (such as in the European Union (EU), the United Kingdom and Canada) and responsible lending (such as in Australia, Mexico, New Zealand and Singapore), with increasing importance on and attention to customers and outcomes rather than just ensuring compliance with local rules and regulations. Regulators’ expectations of firms in relation to their compliance, risk and control frameworks continue to increase and regulators are placing significant emphasis on a firm’s systems and controls relating to the identification and resolution of issues. 
 
-## Payments Regulation
+### Payments Regulation
 
 Legislators and regulators in various countries in which we operate have focused on the operation of card networks, including through enforcement actions, legislation and regulations to change certain practices or pricing of card issuers, merchant acquirers and payment networks, and, in some cases, to establish broad and ongoing regulatory oversight regimes for payment systems. 
 
@@ -763,7 +795,7 @@ In various countries, such as certain Member States in the EU and Australia, mer
 
 In some countries, governments have established regulatory regimes that require international card networks to be locally licensed and/or to localize aspects of their operations. For example, the Reserve Bank of India, which has broad power under the Payment and Settlement Systems Act, 2007 to regulate the membership and operations of card networks, issued a mandate requiring payment systems operators in India to store certain payments data locally. In 2021, it imposed restrictions on American Express Banking Corp. from engaging in certain card issuing activities in India, which were lifted in August 2022 following significant investment in technology, infrastructure and resources to comply with the regulation. The development and enforcement of these and other similar laws, regulations and policies may adversely affect our ability to compete effectively and maintain and extend our global network. 
 
-## Privacy, Data Protection, Data Governance, Information and Cyber Security
+### Privacy, Data Protection, Data Governance, Information and Cyber Security
 
 Regulatory and legislative activity in the areas of privacy, data protection, data governance and information and cyber security continues to increase worldwide. We have established, and continue to maintain, policies and a governance framework to comply with applicable privacy, data protection, data governance and information and cyber security laws and requirements, meet evolving customer and industry expectations and support and enable business innovation and growth. 
 
@@ -775,11 +807,11 @@ We are also subject to certain privacy, data protection, data governance and inf
 
 In Europe, the EU General Data Protection Regulation (GDPR) imposes legal and compliance obligations on companies that process personal data of individuals in the EU, irrespective of the geographical location of the company, with the potential for significant fines for non-compliance (up to 4 percent of total annual worldwide revenue). The GDPR includes, among other things, a requirement for prompt notice of data breaches, in certain circumstances, to affected individuals and supervisory authorities. The UK GDPR mirrors the compliance requirements and fine structure of the GDPR. In October 2022, an Executive Order was signed that, together with regulations issued by the U.S. Department of Justice, would implement a new data privacy framework for cross border transfers of EU personal data to the United States. 
 
-## Anti-Money Laundering, Countering the Financing of Terrorism, Economic Sanctions and Anti-Corruption Compliance
+### Anti-Money Laundering, Countering the Financing of Terrorism, Economic Sanctions and Anti-Corruption Compliance
 
 We are subject to significant supervision and regulation, and an increasingly stringent enforcement environment, with respect to compliance with anti-money laundering (AML), countering the financing of terrorism (CFT), sanctions and anti-corruption laws and regulations. Failure to maintain and implement adequate programs and policies and procedures for AML/CFT, sanctions and anti-corruption compliance could have material financial, legal and reputational consequences. 
 
-_Anti-Money Laundering and Countering the Financing of Terrorism_
+#### Anti-Money Laundering and Countering the Financing of Terrorism
 
 We are subject to a significant number of AML/CFT laws and regulations globally. 
 
@@ -789,19 +821,19 @@ In Europe, AML/CFT requirements are largely the result of countries transposing 
 
 Among other things, these laws and regulations require us to establish AML/CFT programs that meet certain standards, including, in some instances, expanded reporting, particularly in the area of suspicious transactions, and enhanced information gathering and recordkeeping requirements. Our AML/CFT programs have become the subject of heightened scrutiny in some countries, including certain Member States in the EU. Any errors, failures or delays in complying with AML/CFT laws, perceived deficiencies in our AML/CFT programs or association of our business with money laundering, terrorist financing, tax fraud or other illicit activity can give rise to significant supervisory, criminal and civil proceedings and lawsuits, which could result in significant penalties and forfeiture of assets, loss of licenses or restrictions on business activities, or other enforcement actions. 
 
-### Economic Sanctions
+#### Economic Sanctions
 
 National governments and international bodies, such as the United Nations and the EU, have imposed economic sanctions against individuals, entities, vessels, governments and countries that endanger their interests or violate international norms of behavior. Sanctions have been used to advance a range of foreign policy goals, including conflict resolution, counterterrorism, counternarcotics and promotion of democracy and human rights, among other national and international interests. Failure to comply with such requirements could subject us to serious legal and reputational consequences, including criminal penalties. 
 
 The United States has imposed economic sanctions that affect transactions with designated foreign countries, nationals and others. The United States prohibits U.S. persons from engaging with individuals and entities identified as “Specially Designated Nationals,” such as terrorists and narcotics traffickers, without a license or other authorization. These prohibitions are administered by the U.S. Department of the Treasury’s Office of Foreign Assets Control (OFAC). OFAC regulations prohibit U.S. persons from engaging in financial transactions with or relating to a targeted individual, entity, vessel, government or country, require the blocking of assets in which the individual, entity, vessel, government or country has an interest, and prohibit transfers of property subject to U.S. jurisdiction (including property in the possession or control of U.S. persons) to such individual, entity, vessel, government or country. Blocked assets (e.g., property or bank deposits) cannot be paid out, withdrawn, set off or transferred in any manner without a license from OFAC. 
 
-We maintain a global sanctions compliance program designed to meet the requirements of applicable sanctions regimes.
+We maintain a global sanctions compliance program designed to meet the requirements of applicable sanctions regimes. 
 
-### Anti-Corruption
+#### Anti-Corruption
 
 We are subject to complex anti-corruption laws and regulations, including the U.S. Foreign Corrupt Practices Act (the FCPA), the UK Bribery Act and other laws that prohibit the making or offering of improper payments. The FCPA makes it illegal to corruptly offer or provide anything of value to foreign government officials, political parties or political party officials for the purpose of obtaining or retaining business or an improper advantage. The FCPA also requires us to strictly comply with certain accounting and internal controls standards. The UK Bribery Act also prohibits commercial bribery and the receipt of a bribe, and makes it a corporate offense to fail to prevent bribery by an associated person, in addition to prohibiting improper payments to foreign government officials. Failure by us or our colleagues, contractors or agents to comply with the FCPA, the UK Bribery Act and other similar laws can expose us and/or individual colleagues to investigation, prosecution and potentially severe criminal and civil penalties. 
 
-## Compensation Practices
+### Compensation Practices
 
 Our compensation practices are subject to oversight by the Federal Reserve and the OCC. The federal banking regulators’ guidance on sound incentive compensation practices sets forth three key principles for incentive compensation arrangements that are designed to help ensure that incentive compensation plans do not encourage imprudent risk-taking and are consistent with the safety and soundness of banking organizations. The three principles provide that a banking organization’s incentive compensation arrangements should (1) provide incentives that appropriately balance risk and financial results in a manner that does not encourage employees to expose their organizations to imprudent risks, (2) be compatible with effective internal controls and risk management and (3) be supported by strong corporate governance, including active and effective oversight by the organization’s board of directors. Any deficiencies in our compensation practices that are identified by the banking regulators in connection with their review of our compensation practices may be incorporated into our supervisory ratings, which can affect our ability to make acquisitions or perform other actions. Enforcement actions may be taken against us if our incentive compensation arrangements or related risk-management control or governance processes are determined to pose a risk to our safety and soundness, and we have not taken prompt and effective measures to correct the deficiencies. 
 
@@ -809,7 +841,7 @@ The Dodd-Frank Act requires U.S. financial regulators, including the Federal Res
 
 In October 2022, the SEC adopted a new rule directing national securities exchanges to require policies mandating, in the case of a restatement of previously issued financial statements, the recovery of excess incentive-based compensation paid to current or former executive officers and requiring listed issuers to disclose any recovery analysis where recovery is triggered by any such restatement. 
 
-## ADDITIONAL INFORMATION
+### ADDITIONAL INFORMATION
 
 We maintain an Investor Relations website at http://ir.americanexpress.com. We make available free of charge, on or through this website, our annual, quarterly and current reports and any amendments to those reports as soon as reasonably practicable following the time they are electronically filed with or furnished to the SEC. 
 
@@ -821,13 +853,13 @@ You can find certain statistical disclosures required of bank holding companies 
 
 Our business as a whole has not experienced significant seasonal fluctuations, although network volumes tend to be moderately higher in the fourth quarter than in other quarters. As a result, the amount of Card Member loans and receivables outstanding tend to be moderately higher during that quarter. The average discount rate also tends to be slightly lower during the fourth quarter due to a higher level of retail-related billed business. 
 
-**ITEM 1A.    RISK FACTORS**
+## ITEM 1A.    RISK FACTORS
 
 This section highlights certain risks that could affect us and our businesses, broadly categorized as “Strategic, Business and Competitive Risks,” “Legal, Regulatory and Compliance Risks” and “Credit, Liquidity and Market Risks.” You should carefully consider each of the following risks and all of the other information set forth in this Annual Report on Form 10-K, including the “Risk Management” section under “MD&A,” which describes our approach to identifying, monitoring and managing the risks we assume in conducting our businesses and provides certain quantitative and qualitative disclosures about market risks. The risks and uncertainties we face are not limited to those described below. Additional risks and uncertainties not presently known to us or that we currently believe to be immaterial may also adversely affect our business. 
 
-## Strategic, Business and Competitive Risks
+### Strategic, Business and Competitive Risks
 
-Business and economic conditions are a major driver of our results of operations and difficult conditions in the business and economic environment may materially adversely affect our business
+#### Business and economic conditions are a major driver of our results of operations and difficult conditions in the business and economic environment may materially adversely affect our business
 
 We offer a broad array of products and services to consumers, small businesses, mid-sized companies and large corporations and thus are very dependent upon the level of consumer and business activity and the demand for payment and financing products. Slow economic growth, economic contraction or shifts in broader consumer and business trends significantly impact customer behaviors, including spending on our cards, the ability and willingness of Card Members to borrow and pay amounts owed to us, and demand for fee-based products and services. 
 
@@ -835,7 +867,7 @@ Factors such as consumer spending and confidence, household income and housing p
 
 Travel and entertainment (T&E) expenditures, which comprised approximately 25 percent of our worldwide billed business during 2022, for example, are sensitive to business and personal discretionary spending levels and tend to decline during general economic downturns. Likewise, spending by small business and corporate clients, which comprised approximately 45 percent of our worldwide billed business during 2022, depends in part on the economic environment and a favorable climate for continued business investment and new business formation. Increases in delinquencies and write-off rates as a result of increases in bankruptcies, unemployment rates, changes in customer behaviors or otherwise could also have a material adverse effect on our results of operations. The consequences of negative circumstances impacting us or the economic environment generally can be sudden and severe and can impact customer types and geographies in which we operate in very different ways. 
 
-_**Our business is subject to the effects of geopolitical conditions, weather, natural disasters and other catastrophic events.**_
+#### Our business is subject to the effects of geopolitical conditions, weather, natural disasters and other catastrophic events
 
 Geopolitical conditions, terrorist attacks, natural disasters, severe weather, widespread health emergencies or pandemics, information or cyber security incidents (including intrusion into or degradation or unavailability of systems or technology by cyberattacks), operational incidents, and other catastrophic events can have a material adverse effect on our business. Political and social conditions, including actions aimed at upending geopolitical stability, fiscal and monetary policies (including developments related to the U.S. federal debt ceiling), trade wars and tariffs, labor shortages, prolonged or recurring government shutdowns, regional or domestic hostilities, economic sanctions and the prospect or occurrence of more widespread conflicts could also negatively affect our business, operations and partners, consumer and business spending, including travel patterns and business investment, and demand for credit. Because we derive a portion of our revenues from travel-related spending, our business is sensitive to safety concerns related to travel and tourism, limitations on travel and mobility and health-related risks. In addition, disruptions in air travel and other forms of travel can result in the payment of claims under travel protection products we offer. 
 
@@ -845,7 +877,7 @@ Following the Russian invasion of Ukraine, we announced that we suspended all bu
 
 Hurricanes and other natural disasters have impacted spending and credit performance in the areas affected. Other disasters or catastrophic events in the future, and the impact of such events on certain industries or the overall economy, could have a negative effect on our business, results of operations and infrastructure, including our technology and systems. Climate change may exacerbate certain of these threats, including the frequency and severity of weatherrelated events. Card Members in California, New York, Florida, Texas, Georgia and New Jersey account for a significant portion of U.S. consumer and small business billed business and Card Member loans, and our results of operations could be impacted by events or conditions that disproportionately or specifically affect one or more of those states. 
 
-Our operating results may materially suffer because of substantial and increasingly intense competition worldwide in the payments industry
+#### Our operating results may materially suffer because of substantial and increasingly intense competition worldwide in the payments industry
 
 The payments industry is highly competitive, and we compete with card networks, issuers and acquirers, paper-based transactions (e.g., cash and checks), bank transfer models (e.g., wire transfers and ACH), as well as evolving and growing alternative payment and financing providers. If we are not able to differentiate ourselves from our competitors, develop compelling value propositions for our customers and/or effectively grow in areas such as mobile and online payments and emerging technologies, we may not be able to compete effectively. 
 
@@ -861,7 +893,7 @@ To the extent we expand into, or further grow in, new business areas and new geo
 
 Many of our competitors are subject to different, and in some cases, less stringent, legislative and regulatory regimes, and some may have lower cost structures and more agile business models and systems. More restrictive laws and regulations that do not apply to all of our competitors can put us at a disadvantage, including prohibiting us from engaging in certain transactions, regulating our business practices or adversely affecting our cost structure. 
 
-_**We face intense competition for partner relationships, which could result in a loss or renegotiation of these arrangements that could have a material adverse impact on our business and results of operations.**_
+#### We face intense competition for partner relationships, which could result in a loss or renegotiation of these arrangements that could have a material adverse impact on our business and results of operations
 
 In the ordinary course of our business we enter into different types of contractual arrangements with business partners in a variety of industries. For example, we have partnered with Delta, Marriott, Hilton and British Airways, as well as many others globally, to offer cobranded cards for consumers and small businesses, and through our Membership Rewards program we have partnered with businesses in many industries, including Delta and others in the airline industry, to offer benefits to Card Member participants. See “Partners and Relationships” under “Business” for additional information on our business partnerships, including with Delta. 
 
@@ -873,7 +905,7 @@ We regularly seek to extend or renew cobrand arrangements in advance of the end 
 
 The loss of exclusivity arrangements with business partners, the loss of the partner relationship altogether (whether by non-renewal at the end of the contract period, such as the end of our relationship with Costco in the United States in 2016, or as the result of a merger, legal or regulatory action or otherwise, such as the withdrawal of American Airlines in 2014 from our Airport Club Access program for Centurion® and Platinum Card® Members) or the renegotiation of existing partnerships with terms that are significantly worse for us could have a material adverse impact on our business and results of operations. See “ _Our business is subject to comprehensive government regulation and supervision, which could materially adversely affect our results of operations and financial condition”_ for information on the uncertainty regarding our cobrand and agent relationships in the EU. In addition, any publicity associated with the loss of any of our key business partners could harm our reputation, making it more difficult to attract and retain Card Members and merchants, and could weaken our negotiating position with our remaining and prospective business partners. 
 
-Arrangements with our business partners represent a significant portion of our business. We are exposed to risks associated with our business partners, including reputational issues, business slowdowns, bankruptcies, liquidations, restructurings and consolidations, and the possible obligation to make payments to our partners
+#### Arrangements with our business partners represent a significant portion of our business. We are exposed to risks associated with our business partners, including reputational issues, business slowdowns, bankruptcies, liquidations, restructurings and consolidations, and the possible obligation to make payments to our partners
 
 Our success is, in many ways, dependent on the success of our partners. From customer acquisition to cobranding arrangements, from participation in our rewards programs to facilitating B2B supplier payments for our corporate clients, we rely on our business partners across many aspects of our company and our arrangements with business partners represent a significant portion of our business. Some of our partners manage certain aspects of our customer relationships, such as our OptBlue partners. To the extent any of our partners fail to effectively promote and support our products, experience a slowdown in their business, operational disruptions, reputational issues or loss of consumer confidence, or are otherwise unable to meet our expectations or those of their other stakeholders, our business may be materially negatively impacted. We face the risk that existing relationships will be renegotiated with less favorable terms for us or that we may be unable to renegotiate on terms that are acceptable to us. In addition, we may be obligated to make or accelerate payments to certain business partners such as 
 
@@ -883,7 +915,7 @@ Similarly, we are exposed to risk from bankruptcies, liquidations, insolvencies,
 
 For additional information relating to the general risks related to the airline industry, see “Risk Management—Institutional Credit Risk—Exposure to the Airline and Travel Industry” under “MD&A.” 
 
-We face continued intense competitive pressure that may materially impact the prices we charge for accepting our cards for payment, as well as the risk of losing merchant relationships, which could have a material adverse impact on our business and results of operations
+#### We face continued intense competitive pressure that may materially impact the prices we charge for accepting our cards for payment, as well as the risk of losing merchant relationships, which could have a material adverse impact on our business and results of operations
 
 We face pressure from competitors that primarily rely on sources of revenue other than discount revenue or have lower costs that can make their pricing for card acceptance more attractive. Merchants, business partners and third-party merchant acquirers and aggregators are also able to negotiate incentives, pricing concessions and other favorable contractual provisions from us as a condition to accepting our cards, being cobrand partners, offering benefits to our Card Members or signing merchants on our behalf. As merchants become even larger (such as the largest tech companies), we may have to increase the amount of incentives and/or concessions we provide to them. We also face the risk of losing a merchant relationship that could materially adversely affect our network volumes, ability to retain current Card Members and attract new Card Members and therefore, our business and results of operations. 
 
@@ -891,7 +923,7 @@ Our average merchant discount rate has been impacted by regulatory changes affec
 
 A continuing priority of ours is to drive greater and differentiated value to our merchants that, if not successful, could negatively impact our discount revenue and financial results. We may not succeed in maintaining merchant discount rates or offsetting the impact of declining merchant discount rates, for the reasons discussed above and others, which could materially and adversely affect our revenues and profitability, and therefore our ability to invest in innovation and in value-added services for merchants, business partners and Card Members. 
 
-Surcharging or steering by merchants could materially adversely affect our business and results of operations
+#### Surcharging or steering by merchants could materially adversely affect our business and results of operations
 
 In certain countries, such as Australia and certain Member States in the EU, and in certain states in the United States, merchants are expressly permitted by law to surcharge certain card purchases and, as a result of a litigation settlement, surcharging of credit card purchases is permitted by merchants in certain jurisdictions in Canada. In jurisdictions allowing surcharging, we have seen merchant surcharging on American Express cards in certain merchant categories, and in some cases, either the surcharge is greater than that applied to Visa and Mastercard cards or Visa and Mastercard cards are not surcharged at all (practices that are known as differential surcharging), even though there are many cards issued on competing networks that have an equal or greater cost of acceptance for the merchant. 
 
@@ -899,7 +931,7 @@ We also encounter merchants that accept our cards, but tell their customers that
 
 New products, such as debit cards on the American Express network, could fail to gain market acceptance and American Express cards could become less desirable to consumers and businesses generally due to surcharging, steering or other forms of discrimination, which could result in a decrease in cards-inforce, coverage and transaction volumes. The impact could vary depending on such factors as: the industry or manner in which a surcharge is levied; how Card Members are surcharged or steered to other card products or payment forms at the point of sale; the ease and speed of implementation for merchants, merchant acquirers, aggregators, processors or other merchant service providers, including as a result of new or emerging technologies; the size and recurrence of the underlying charges; and whether and to what extent these actions are applied to other forms of payment, including whether it varies depending on the type of card (e.g., credit or debit), product, network, acquirer or issuer. Discrimination against American Express cards could have a material adverse effect on our business, financial condition and results of operations, particularly where it only or disproportionately impacts credit card usage or card usage generally, our Card Members or our business. 
 
-We may not be successful in our efforts to promote card usage, including through marketing and promotion, merchant acceptance and Card Member rewards and services, or to effectively control the costs of such investments, both of which may materially impact our profitability
+#### We may not be successful in our efforts to promote card usage, including through marketing and promotion, merchant acceptance and Card Member rewards and services, or to effectively control the costs of such investments, both of which may materially impact our profitability
 
 Revenue growth is dependent on increasing consumer and business spending on our cards, growing loan balances and increasing fee revenue. We have been investing in a number of growth initiatives, including to attract new Card Members, retain existing Card Members and capture a greater share of customers’ total spending and borrowings. There can be no assurance that our investments will continue to be effective, particularly as consumer and business behaviors continue to change. In addition, if we develop new products or offers that attract customers looking for short-term incentives rather than incentivize long-term loyalty, Card Member attrition and costs could increase. Increasing spending on our cards also depends on our continued expansion of merchant acceptance of our cards. If we are unable to continue growing merchant acceptance and perceptions of coverage or merchants decide to no longer accept American Express cards, our business could suffer. Expanding our service offerings, adding customer acquisition channels and forming new partnerships or renewing current partnerships could have higher costs than our current arrangements, fail to resonate with customers, adversely impact our average discount rate or dilute our brand. 
 
@@ -907,7 +939,7 @@ Another way we invest in customer value is through our Membership Rewards progra
 
 We may not be able to cost-effectively manage and expand Card Member benefits, including containing the growth of marketing, promotion, rewards and Card Member services expenses in the future. If such expenses increase beyond our expectations, we will need to find ways to offset the financial impact by increasing other areas of revenues such as fee-based revenues, decreasing operating expenses or other investments in our business, or both. We may not succeed in doing so, particularly in the current competitive and regulatory environment. In addition, increased costs as a result of inflation, colleague retention and recruitment, supply chain issues and shortages of materials such as chips for our cards may require that we reduce investments in other areas. 
 
-Our brand and reputation are key assets of our Company, and our business may be materially affected by how we are perceived in the marketplace
+#### Our brand and reputation are key assets of our Company, and our business may be materially affected by how we are perceived in the marketplace
 
 Our brand and its attributes are key assets, and we believe our continued success depends on our ability to preserve, grow and realize the benefits of the value of our brand. Our ability to attract and retain consumer and small business Card Members and corporate clients is highly dependent upon the external perceptions of our level of service, trustworthiness, business practices, privacy and data protection, management, workplace culture, merchant acceptance, financial condition, response to political and social issues or catastrophic events (including our response to the COVID-19 pandemic and natural disasters) and other subjective qualities. Negative perceptions or publicity regarding these matters — even if related to seemingly isolated incidents and whether or not factually correct—could erode trust and confidence and damage our reputation among existing and potential Card Members, corporate clients, merchants and partners, which could make it difficult for us to attract new customers and 
 
@@ -917,7 +949,7 @@ Our brand and reputation may also be harmed by actions taken by third parties th
 
 We publicly share certain information about our ESG initiatives. We may face increased scrutiny related to these activities from governments, regulators, the media, investors, colleagues, customers and other stakeholders, including from parties that oppose ESG initiatives. Responding to ESG considerations and the implementation of our ESG goals and initiatives involves risk and uncertainties, requires investments and depends in part on third-party performance or data that is outside of our control. There can be no assurance that we will achieve our ESG goals and initiatives or that any such achievements will have the desired results. Our failure to achieve progress in these areas on a timely basis, if at all, could impact our reputation, colleague retention and public perceptions of our business. 
 
-A major information or cyber security incident or an increase in fraudulent activity could lead to reputational damage to our brand and material legal, regulatory and financial exposure, and could reduce the use and acceptance of our products and services
+#### A major information or cyber security incident or an increase in fraudulent activity could lead to reputational damage to our brand and material legal, regulatory and financial exposure, and could reduce the use and acceptance of our products and services
 
 We and third parties collect, process, transfer, host, store, analyze, retain, provide access to and dispose of account information, payment transaction information, and certain types of personally identifiable and other information pertaining to our customers and colleagues in connection with our cards and other products and in the normal course of our business. 
 
@@ -933,11 +965,11 @@ Information, operational or cyber security incidents, fraudulent activity and ot
 
 Successful cyberattacks, data breaches, disruptions or other incidents related to the actual or perceived failures to maintain confidentiality, integrity, privacy and/or security at other large financial institutions, large retailers, travel and hospitality companies, government agencies or other market participants, whether or not we are impacted, could lead to a general loss of customer confidence that could negatively affect us, including harming the market perception of the effectiveness of our security measures or harming the reputation of the financial system in general, which could result in reduced use of our products and services. Such events could also result in legislation and additional regulatory requirements. Although we maintain cyber insurance, there can be no assurance that liabilities or losses we may incur will be covered under such policies or that the amount of insurance will be adequate. 
 
-The uninterrupted operation of our information systems is critical to our success and a significant disruption could have a material adverse effect on our business and results of operations
+#### The uninterrupted operation of our information systems is critical to our success and a significant disruption could have a material adverse effect on our business and results of operations
 
 Our information technology systems and those of our third parties upon which we rely, including our transaction authorization, clearing and settlement systems, and data centers, have experienced in limited instances and may continue to experience service disruptions or degradation, which may result from technology malfunction, sudden increases in processing or other volumes, natural disasters and weather events, fires, accidents, technology change management issues, power outages, internet outages, telecommunications failures, fraud, denial-of-service, ransomware and other cyberattacks, inadequate infrastructure in lesserdeveloped markets, technology capacity management issues, terrorism, computer viruses, vulnerabilities in hardware or software, physical or electronic breakins, or similar events. Service disruptions or degradations can prevent access to our online services and account information, compromise or limit access to company or customer data, impede or prevent transaction processing and financial reporting, disrupt ordinary business operations, result in contractual penalties or obligations, trigger regulatory reporting obligations, and lead to regulatory investigations and fines, increased regulatory oversight, and litigation (including class action litigation). Any such service disruption or degradation could adversely affect the perception of the reliability of our products and services and materially adversely affect our overall business, reputation and results of operations. 
 
-We rely on third-party providers for acquiring and servicing customers, technology, platforms and other services integral to the operations of our businesses. These third parties may act in ways that could materially harm our business
+#### We rely on third-party providers for acquiring and servicing customers, technology, platforms and other services integral to the operations of our businesses. These third parties may act in ways that could materially harm our business
 
 We rely on third-party service providers, cobrand partners, merchants, affiliate marketing firms, processors, aggregators, network partners and other third parties for services that are integral to our operations and are subject to the risk that activities of such third parties may adversely affect our business. As outsourcing, specialization of functions, third-party digital services and technology innovation within the payments industry increase (including with respect to mobile technologies, tokenization, big data, artificial intelligence and cloud-based solutions), more third parties are involved in processing card transactions, handling our data and supporting our operations. For example, we rely on third parties for the timely transmission of accurate information across our global network, card acquisition and provision of services to our customers. 
 
@@ -945,7 +977,7 @@ We have experienced in certain limited circumstances and may continue to experie
 
 The management and oversight of multiple third parties increases our operational complexity and governance challenges and decreases our control. A failure to exercise adequate oversight over third parties, including compliance with service level agreements or regulatory or legal requirements, could result in regulatory actions, fines, litigation, sanctions or economic and reputational harm to us. In addition, we may not be able to effectively monitor or mitigate operational risks relating to our third-party providers' service providers. We are also exposed to the risk that a service disruption at a service provider common to our third parties could impede their ability to provide services to us. Notwithstanding any attempts to diversify our reliance on third parties, in certain cases there may be limited alternatives or high costs for diversification, and we also may not be able to effectively mitigate operational risks relating to the service providers of our third-party providers. 
 
-If we are not able to invest successfully in, and compete at the leading edge of, technological developments and new products and services across all our businesses, our revenue and profitability could be materially adversely affected
+#### If we are not able to invest successfully in, and compete at the leading edge of, technological developments and new products and services across all our businesses, our revenue and profitability could be materially adversely affected
 
 Our industry is subject to rapid and significant technological changes. In order to compete in our industry, we need to continue to invest in technology across all areas of our business, including in transaction processing, data management and analytics, machine learning and artificial intelligence, customer interactions and communications, open banking and alternative payment and financing mechanisms, authentication technologies and digital identification, tokenization, real-time settlement, and risk management and compliance systems. Incorporating new technologies into our products and services, including developing the appropriate governance and controls consistent with regulatory expectations, requires substantial expenditures and takes considerable time, and ultimately may not be successful. We expect that new technologies in the payments industry will continue to emerge, and these new technologies may be superior to, or render obsolete, our existing technology. 
 
@@ -953,7 +985,7 @@ The process of developing new products and services, enhancing existing products
 
 Our ability to adopt new technologies may be inhibited by the emergence of industry-wide standards, a changing legislative and regulatory environment, an inability to develop appropriate governance and controls, a lack of internal product and engineering expertise, resistance to change from Card Members or merchants, lack of appropriate change management processes or the complexity of our systems. In addition, our adoption of new technologies and our introduction of new products and services may expose us to new or enhanced risks, particularly in areas where we have less experience or our existing governance and control systems may be insufficient, which could require us to make substantial expenditures or subject us to legal liability and brand or reputational harm. 
 
-We may not be successful in realizing the benefits associated with our acquisitions, strategic alliances, joint ventures and investment activity, and our business and reputation could be materially adversely affected
+#### We may not be successful in realizing the benefits associated with our acquisitions, strategic alliances, joint ventures and investment activity, and our business and reputation could be materially adversely affected
 
 We have acquired a number of businesses and have made a number of strategic investments, and continue to evaluate potential transactions. There is no assurance that we will be able to successfully identify suitable candidates, value potential investment or acquisition opportunities accurately, negotiate acceptable terms for those opportunities, or complete proposed acquisitions and investments. The process of integrating an acquired company, business or technology could create unforeseen operating difficulties and expenditures, including in integrating systems and personnel or further developing the acquired business or technology, result in unanticipated liabilities, including legal claims, violations of laws, commercial disputes and information security vulnerabilities or breaches (including from not integrating the acquired company, business or technology quickly or appropriately, from activities that occurred prior to the acquisition, and from exposure to third party relationships of the acquired company or business or new laws and regulations), and harm our business generally. It may take us longer than expected to fully realize the anticipated benefits of these transactions, and those benefits may ultimately be smaller than anticipated or may not be realized at all, which could materially adversely affect our business and operating results, including as a result of writedowns of goodwill and other intangible assets. 
 
@@ -963,19 +995,19 @@ brand, GBTG's support of our partnerships, GBTG negotiations with travel supplie
 
 We may also face risks with other types of strategic transactions, such as the sale to InComm of the operations relating to our prepaid reloadable and gift card business. The reloadable operations have experienced disruptions in the past, impacting the ability of our prepaid customers to load and use their cards. If such operations are interrupted, suspended or terminated in the future, it could further negatively impact our customers’ experience, result in additional costs, litigation and regulatory action, and harm our business and reputation. 
 
-Our success is dependent on maintaining a culture of integrity and respect, the resilience of our colleagues through changes in the working environment, and upon our executive officers and other key personnel, and misconduct by or loss of personnel could materially adversely affect our business
+#### Our success is dependent on maintaining a culture of integrity and respect, the resilience of our colleagues through changes in the working environment, and upon our executive officers and other key personnel, and misconduct by or loss of personnel could materially adversely affect our business
 
 We rely upon our personnel not only for business success, but also to act with integrity and promote a culture of respect. To the extent our colleagues behave in a manner that does not comport with our company’s values, the consequences to our brand and reputation could be severe and could negatively affect our financial condition and results of operations. Our colleagues have had to adapt to rapidly changing conditions during the pandemic and the related return to office arrangements, and if we are unable to continue addressing the safety, health and productivity of our colleagues, as well as their expectations regarding workplace flexibility, our business could suffer. The changing nature of the office environment, such as return to office arrangements and the prevalence of remote and hybrid working, may result in increased costs and present operational and workplace culture challenges that may also adversely affect our business. 
 
 The market for qualified individuals with diverse perspectives and reflecting the diversity of our communities is highly competitive, with elevated levels of turnover in recent years, and we may not be able to attract and retain such individuals. We have and may continue to experience increased costs related to compensation and other benefits necessary to attract and retain qualified personnel. Changes in immigration and work permit laws and regulations or the administration or enforcement of such laws or regulations or other changes in the legal or regulatory environment can also impair our ability to attract and retain qualified personnel, or to employ colleagues in the location(s) of our choice. Our compensation practices are subject to review and oversight by the Federal Reserve and the compensation practices of AENB are subject to review and oversight by the OCC. This regulatory review and oversight could further affect our ability to attract and retain our executive officers and other key personnel. Our inability to attract and retain highly skilled, motivated and diverse personnel could materially adversely affect our business and our culture. 
 
-Our operations, business, customers and partners could be materially adversely affected by climate change
+#### Our operations, business, customers and partners could be materially adversely affected by climate change
 
 There are increasing and rapidly evolving concerns over the risks of climate change and related environmental sustainability matters. The physical risks of climate change include rising average global temperatures, rising sea levels and an increase in the frequency and severity of extreme weather events and natural disasters. Such events and disasters could disrupt our operations or the operations of customers or third parties on which we rely and could result in market volatility or negatively impact our customers’ spending behaviors or ability to pay outstanding loans. Additionally, we may face risks related to the transition to a low-carbon economy. Changes in consumer preferences, travel patterns and legal requirements could increase expenses or otherwise adversely impact our business, our customers and partners. We and other parties in our value chain are expected to be subject to additional climate and other environmental-related obligations arising from legislation and regulation in the United States and abroad. For example, banking regulators and other governmental authorities and stakeholders are increasingly focused on the issue of climate risk at financial institutions, and several of the U.S. federal bank regulatory agencies have issued proposals for principles designed to provide a framework for the management of climate-related risks. Disclosure of additional climate-related information by companies has also begun to be mandated by legislation and regulators, even as the availability and quality of such information remains limited. We could also be required to change our business and management practices and experience increased expenses resulting from strategic planning, litigation and changes to our technology, operations, products and services, as well as reputational harm as a result of negative public sentiment, regulatory scrutiny and reduced stakeholder confidence, due to our response to climate change and our efforts relating to the Advancing Climate Solutions pillar of our ESG strategy. Our risk management framework may not be effective in identifying, measuring and controlling our exposure to climate-related risks, particularly given that the timing, nature and severity of the impacts of climate change may not be predictable. 
 
-## Legal, Regulatory and Compliance Risks
+### Legal, Regulatory and Compliance Risks
 
-Our business is subject to comprehensive government regulation and supervision, which could materially adversely affect our results of operations and financial condition
+#### Our business is subject to comprehensive government regulation and supervision, which could materially adversely affect our results of operations and financial condition
 
 We are subject to comprehensive government regulation and supervision in jurisdictions around the world, which significantly affects our business and requires continual enhancement of our compliance efforts. Supervision efforts and the enforcement of existing laws and regulations impact the scope and profitability of our existing business activities, limit our ability to pursue certain business opportunities and adopt new technologies, compromise our competitive position, and affect our relationships 
 
@@ -991,9 +1023,9 @@ We are subject to certain provisions of the Bank Secrecy Act, as amended by the 
 
 Various regulatory agencies and legislatures are also considering regulations and legislation covering identity theft, account management guidelines, credit bureau reporting, disclosure rules, security and marketing that would impact us directly, in part due to increased scrutiny of our underwriting and account management standards. Any new requirements may restrict our ability to issue cards or partner with other financial institutions, which could adversely affect our revenue growth. 
 
-See “Supervision and Regulation” for more information about certain laws and regulations to which we are subject and their impact on us.
+See “Supervision and Regulation” for more information about certain laws and regulations to which we are subject and their impact on us. 
 
-Litigation and regulatory actions could subject us to significant fines, penalties, judgments and/or requirements resulting in significantly increased expenses, damage to our reputation and/or a material adverse effect on our business
+#### Litigation and regulatory actions could subject us to significant fines, penalties, judgments and/or requirements resulting in significantly increased expenses, damage to our reputation and/or a material adverse effect on our business
 
 At any given time, we are involved in a number of legal proceedings, including class action lawsuits. Many of these actions have included claims for substantial compensatory or punitive damages. While we have historically relied on our arbitration clause in agreements with customers to limit our exposure to class action litigation, there can be no assurance that we will continue to be successful in enforcing our arbitration clause in the future, including as a result of possible regulation that would require that our consumer arbitration clause not apply to cases filed in court as class actions, and claims of the type we previously arbitrated could be subject to the complexities, risks and costs associated with class action cases. The continued focus of merchants on issues relating to the acceptance of various forms of payment may lead to additional litigation and other 
 
@@ -1003,21 +1035,21 @@ We are also involved at any given time with governmental and regulatory inquirie
 
 We also face an increased risk of litigation and governmental and regulatory scrutiny as a result of the effects of the pandemic on market and economic conditions, such as a renewed focus on fair lending laws, and actions governmental authorities take in response to those conditions, and in connection with our ESG-related disclosures and initiatives. 
 
-Legal proceedings regarding provisions in our merchant contracts, including non-discrimination and honor-all-cards provisions, could have a material adverse effect on our business and result in additional litigation and/or arbitrations, changes to our merchant agreements and/or business practices, substantial monetary damages and damage to our reputation and brand
+#### Legal proceedings regarding provisions in our merchant contracts, including non-discrimination and honor-all-cards provisions, could have a material adverse effect on our business and result in additional litigation and/or arbitrations, changes to our merchant agreements and/or business practices, substantial monetary damages and damage to our reputation and brand
 
 We are, and have been in the past, a defendant in a number of actions, including legal proceedings and proposed class actions, challenging certain provisions of our card acceptance agreements. See Note 12 to the “Consolidated Financial Statements” for a description of certain outstanding legal proceedings. 
 
 An adverse outcome in these proceedings could have a material adverse effect on our business and results of operations, require us to change our merchant agreements in a way that could expose our cards to increased merchant steering and other forms of discrimination that could impair the Card Member experience, result in additional litigation and/or arbitrations, impose substantial monetary damages and damage our reputation and brand. Even if we were not required to change our merchant agreements, changes in Visa’s and Mastercard’s policies or practices as a result of legal proceedings, lawsuit settlements or regulatory actions pending against them could result in changes to our business practices and materially and adversely impact our profitability. 
 
-We are subject to capital adequacy and liquidity rules, and if we fail to meet these rules, our business would be materially adversely affected
+#### We are subject to capital adequacy and liquidity rules, and if we fail to meet these rules, our business would be materially adversely affected
 
 Failure to meet current or future capital or liquidity requirements could compromise our competitive position and could result in restrictions imposed by the Federal Reserve, or the OCC with respect to AENB, including limiting our ability to pay dividends, repurchase our capital stock, invest in our business, expand our business or engage in acquisitions. Some elements of the capital and liquidity regimes are not yet final and certain developments could significantly impact the requirements applicable to financial institutions. For example, if the 2017 Basel Committee revisions to the standardized approach for credit risk and operational risk capital requirements are adopted in the United States and applicable to us, we are likely to be required to hold significantly more capital. In addition, it may be necessary for us to hold additional capital because of an increase in the SCB requirement based on results from a supervisory stress test. 
 
 Compliance with capital adequacy and liquidity rules requires a material investment of resources. An inability to meet regulatory expectations regarding our compliance with applicable capital adequacy and liquidity rules may also negatively impact the assessment of us and our U.S. bank subsidiary by federal banking regulators. 
 
-For more information on capital adequacy requirements, see “Capital and Liquidity Regulation” under “Supervision and Regulation.”
+For more information on capital adequacy requirements, see “Capital and Liquidity Regulation” under “Supervision and Regulation.” 
 
-We are subject to restrictions that limit our ability to pay dividends and repurchase our capital stock. Our subsidiaries are also subject to restrictions that limit their ability to pay dividends to us, which may adversely affect our liquidity
+#### We are subject to restrictions that limit our ability to pay dividends and repurchase our capital stock. Our subsidiaries are also subject to restrictions that limit their ability to pay dividends to us, which may adversely affect our liquidity
 
 We are limited in our ability to pay dividends and repurchase capital stock by our regulators, who have broad authority to prohibit any action that would be considered an unsafe or unsound banking practice. We are subject to a requirement to submit capital plans to the Federal Reserve for review that include, among other things, projected dividend payments and repurchases of capital stock. As part of the capital planning and stress testing process, our proposed capital actions are assessed against our ability to satisfy applicable capital requirements in the event of a stressed market environment. If we fail to satisfy applicable capital requirements, including the stress capital buffer, our ability to undertake capital actions may be restricted. 
 
@@ -1027,41 +1059,41 @@ American Express Company relies on dividends from its subsidiaries for liquidity
 
 Any future reduction or elimination of our common stock dividend or share repurchase program could adversely affect the market price of our common stock and market perceptions of American Express. For more information on bank holding company and depository institution dividend restrictions, see “Stress Testing and Capital Planning” and “Dividends and Other Capital Distributions” under “Supervision and Regulation,” as well as “Consolidated Capital Resources and Liquidity—Dividends and Share Repurchases” under “MD&A” and Note 22 to our “Consolidated Financial Statements.” 
 
-Regulation in the areas of privacy, data protection, data governance, resiliency, data transfer, third party oversight, account access and information and cyber security could increase our costs and affect or limit our business opportunities and how we collect and/or use personal information
+#### Regulation in the areas of privacy, data protection, data governance, resiliency, data transfer, third party oversight, account access and information and cyber security could increase our costs and affect or limit our business opportunities and how we collect and/or use personal information
 
 Legislators and regulators in the United States and other countries in which we operate are increasingly adopting or revising privacy, data protection, data governance, resiliency, data transfer, third party oversight, account access and information and cyber security laws, including data localization, authentication and notification laws. As such laws are interpreted and applied (in some cases, with significant differences or conflicting requirements across jurisdictions), compliance and technology costs will continue to increase, particularly in the context of ensuring that adequate data governance, data protection, incident management, resiliency, third party management, data transfer, security controls and account access mechanisms are in place. 
 
 Compliance with current or future privacy, data protection, data governance, resiliency, data transfer, third party oversight, account access and information and cyber security laws could significantly impact our collection, use, sharing, retention and safeguarding of consumer and/or colleague information and could restrict our ability to fully maximize our closed-loop capability or provide certain products and services or work with certain service providers, which could materially and adversely affect our profitability. Our failure to comply with such laws could result in potentially significant regulatory and/or governmental investigations and/or actions, litigation, fines, sanctions, ongoing regulatory monitoring, customer attrition, decreases in the use or acceptance of our cards and damage to our reputation and our brand. In recent years, there has been increasing regulatory enforcement and litigation activity in the areas of privacy, data protection and information and cyber security in the United States, the EU and various other countries in which we operate. 
 
-For more information on regulatory and legislative activity in this area, see “Privacy, Data Protection, Data Governance, Information and Cyber Security” under “Supervision and Regulation.”
+For more information on regulatory and legislative activity in this area, see “Privacy, Data Protection, Data Governance, Information and Cyber Security” under “Supervision and Regulation.” 
 
-We may not be able to effectively manage the operational and compliance risks to which we are exposed
+#### We may not be able to effectively manage the operational and compliance risks to which we are exposed
 
 We consider operational risk to be the risk of loss due to, among other things, inadequate or failed processes, people or information systems, or impacts from the external environment (e.g., natural disasters). Operational risk includes, among others, the risk that error or misconduct could result in a material financial misstatement, a failure to monitor a third party’s compliance with regulatory or legal requirements, or a failure to adequately monitor and control access to, or use of, data in our systems we grant to third parties. As processes or organizations are changed, or new products and services are introduced, such as new lending features, debit products and checking accounts, we may not fully appreciate or identify new operational risks that may arise from such changes. Through human error, fraud or malfeasance, conduct risk can result in harm to customers, legal liability, fines, sanctions, customer remediation and brand damage. 
 
 Compliance risk arises from violations of, or failure to conform or comply with, laws, rules, regulations, internal policies and procedures, and ethical standards. We need to continually update and enhance our control environment to address operational and compliance risks. Operational and compliance failures, deficiencies in our control environment or an inability to maintain an ethical workplace and high standards of business conduct can expose us to reputational and legal risks as well as fines, civil money penalties or payment of damages and can lead to diminished business opportunities and diminished ability to expand key operations. 
 
-If we are not able to protect our intellectual property, or successfully defend against any infringement or misappropriation assertions brought against us, our revenue and profitability could be negatively affected
+#### If we are not able to protect our intellectual property, or successfully defend against any infringement or misappropriation assertions brought against us, our revenue and profitability could be negatively affected
 
 We rely on a variety of measures to protect our intellectual property and control access to, and distribution of, our trade secrets and other proprietary information. These measures may not prevent infringement of our intellectual property rights or 
 
 misappropriation of our proprietary information and a resulting loss of competitive advantage. The ability to enforce intellectual property rights to prevent disclosure of our trade secrets and other proprietary information may be limited in certain jurisdictions. In addition, competitors or other third parties may allege that our products, systems, processes or technologies infringe on their intellectual property rights. Given the complex, rapidly changing and competitive technological and business environments in which we operate, and the potential risks and uncertainties of intellectual property-related litigation, a future assertion of an infringement or misappropriation claim against us could cause us to lose significant revenues, incur significant defense, license, royalty or technology development expenses, and/or pay significant monetary damages. 
 
-Tax legislative initiatives or assessments could adversely affect our results of operations and financial condition
+#### Tax legislative initiatives or assessments could adversely affect our results of operations and financial condition
 
 We are subject to income and other taxes in the United States and in various foreign jurisdictions. The laws and regulations related to tax matters are extremely complex and subject to varying interpretations. Although management believes our positions are reasonable, we are subject to audit by the Internal Revenue Service in the United States and by tax authorities in all the jurisdictions in which we conduct business operations. We are being challenged in a number of countries regarding our application of value-added taxes (VAT) to certain transactions. While we believe we comply with all applicable VAT and other tax laws, rules and regulations in the relevant jurisdictions, the tax authorities may determine that we owe additional taxes or apply existing laws and regulations more broadly, which could result in a significant increase in liabilities for taxes and interest in excess of accrued liabilities. 
 
 New tax legislation could be enacted in the countries in which we have operations. For example, new guidelines issued by the Organization for Economic Cooperation and Development (OECD) would impact how multinational enterprises (MNEs) are taxed on their global profits. In particular, the OECD’s guidelines on a global minimum tax of 15 percent could impact the effective tax rate for many MNEs. A number of countries, including the Member States in the EU, have adopted, or plan to adopt, these minimum tax guidelines starting in 2024, which we expect would impact our effective tax rate when the rules become effective. In addition to legislative changes, actions by tax authorities, including an increase in tax audit activity, could have an adverse impact on our tax liabilities. 
 
-## Credit, Liquidity and Market Risks
+### Credit, Liquidity and Market Risks
 
-## Our risk management policies and procedures may not be effective
+#### Our risk management policies and procedures may not be effective
 
 Our risk management framework seeks to identify and mitigate risk and appropriately balance risk and return. Although we have devoted significant resources to develop our risk management policies and procedures and expect to continue to do so in the future, these policies and procedures, as well as our risk management techniques, such as our hedging strategies, may not be fully effective. There may also be risks that exist, or develop in the future, that we have not appropriately identified or mitigated. As regulations, technology and competition continue to evolve, our risk management framework may not always keep sufficient pace with those changes. If our risk management framework does not effectively identify or mitigate our risks, we could suffer unexpected losses and could be materially adversely affected. 
 
 Management of our risks in some cases depends upon the use of analytical and/or forecasting models. Although we have a governance framework for model development and independent model validation, the modeling methodology or key assumptions could be erroneous or the models could be misused. In addition, issues with the quality or effectiveness of our data aggregation and validation procedures, as well as the quality and integrity of data inputs, could result in ineffective or inaccurate model outputs and reports. For example, models based on historical data sets might not be accurate predictors of future outcomes and they may not be able to predict future outcomes. Our models also may not be able to function properly in the current geopolitical and macroeconomic environment given the lack of recent precedent. The CECL methodology requires measurement of expected credit losses for the estimated life of certain financial instruments, not only based on historical experience and current conditions, but also by including forecasts incorporating forward-looking information. If our business decisions or estimates for credit losses are based on incorrect or misused models and assumptions or we fail to manage data inputs effectively and to aggregate or analyze data in an accurate and timely manner, our results of operations and financial condition may be materially adversely affected. 
 
-We are exposed to credit risk and trends that affect Card Member spending and the ability of customers and partners to pay us, which could have a material adverse effect on our results of operations and financial condition
+#### We are exposed to credit risk and trends that affect Card Member spending and the ability of customers and partners to pay us, which could have a material adverse effect on our results of operations and financial condition
 
 We are exposed to both individual credit risk, principally from consumer and small business Card Member loans and receivables, and institutional credit risk, principally from corporate Card Member loans and receivables, merchants, network partners, loyalty coalition partners and treasury and investment counterparties. Third parties may default on their obligations to us due to bankruptcy, lack of liquidity, operational failure or other reasons. General economic factors, such as gross domestic product, unemployment, inflation and interest rates, may result in greater delinquencies that lead to greater credit losses. A customer’s ability and willingness to repay us can be negatively impacted not only by economic, market, political and social conditions but also by a customer’s other payment obligations, and increasing leverage can result in a higher risk that customers will default or become delinquent in their obligations to us. 
 
@@ -1073,19 +1105,19 @@ We have experienced higher delinquency and write-off rates for the year ended De
 
 Although we regularly review our credit exposure to specific clients and counterparties and to specific industries, countries and regions that we believe may present credit concerns, default risk may arise from events or circumstances that are difficult to foresee or detect, such as fraud. In addition, our ability to manage credit risk or collect amounts owed to us may be adversely affected by legal or regulatory changes (such as restrictions on collections or changes in bankruptcy laws, minimum payment regulations and re-age guidance). Increased credit risk, whether resulting from underestimating the credit losses inherent in our portfolio of loans and receivables, deteriorating economic conditions (particularly in the United States where, for example, U.S. Card Members were responsible for approximately 87 percent of our total Card Member loans outstanding as of December 31, 2022), increases in the level of loan balances, changes in our mix of business or otherwise, could require us to increase our provisions for losses and could have a material adverse effect on our results of operations and financial condition. 
 
-Interest rate changes could materially adversely affect our earnings
+#### Interest rate changes could materially adversely affect our earnings
 
 Our interest expense was approximately $2.8 billion for the year ended December 31, 2022. If the rate of interest we pay on our borrowings increases more or decreases less than the rate of interest we earn on our loans, our net interest yield, and consequently our net interest income, could decrease. As of December 31, 2022, a hypothetical immediate 100 basis point increase in market interest rates would have a detrimental impact on our annual net interest income of approximately $141 million. We expect the rates we pay on our deposits will change as benchmark interest rates change. For example, the Federal Reserve and other central banks have recently raised interest rates in response to heightened inflationary pressures. In addition, interest rate changes may affect customer behavior, such as impacting the loan balances Card Members carry on their credit cards or their ability to make payments as higher interest rates lead to higher payment requirements, further impacting our results of operations. For a further discussion of our interest rate risk, see “Risk Management ― Market Risk Management Process” under “MD&A.” 
 
-Adverse market conditions may significantly affect our access to, and cost of, capital and ability to meet liquidity needs
+#### Adverse market conditions may significantly affect our access to, and cost of, capital and ability to meet liquidity needs
 
 Our ability to obtain financing in the debt capital markets for unsecured term debt and asset securitizations is dependent on financial market conditions. Disruptions, uncertainty or volatility across the financial markets, as well as adverse developments affecting our competitors and the financial industry generally, could negatively impact market liquidity and limit our access to funding required to operate our business. Such market conditions may also limit our ability to replace, in a timely manner, maturing liabilities, satisfy regulatory capital requirements and access the funding necessary to grow our business. In some circumstances, we may incur an unattractive cost to raise capital, which could decrease profitability and significantly reduce financial flexibility. Additional factors affecting the extent to which we may securitize loans and receivables in the future include the overall credit quality of our loans and receivables, the costs of securitizing our loans and receivables, the demand for credit card asset-backed securities and the legal, regulatory, accounting or tax rules affecting securitization transactions and asset-backed securities, generally. Our liquidity and cost of funds would also be adversely affected by the occurrence of events that could result in the early amortization of our existing securitization transactions. For a further discussion of our liquidity and funding needs, see “Consolidated Capital Resources and Liquidity” under “MD&A.” 
 
-Any reduction in our credit ratings could increase the cost of our funding from, and restrict our access to, the capital markets and have a material adverse effect on our results of operations and financial condition
+#### Any reduction in our credit ratings could increase the cost of our funding from, and restrict our access to, the capital markets and have a material adverse effect on our results of operations and financial condition
 
 Ratings of our long-term and short-term debt and deposits are based on a number of factors, including financial strength, as well as factors not within our control, including conditions affecting the financial services industry, and the macroeconomic environment. Our ratings could be downgraded at any time and without any notice by any of the rating agencies, which could, among other things, adversely limit our access to the capital markets and adversely affect the cost and other terms upon which we are able to obtain funding. Our ability to raise funding through the securitization market also depends, in part, on the credit ratings of the securities we issue from our securitization trusts. If we are not able to satisfy rating agency requirements to confirm the ratings of our assetbacked securities, it could limit our ability to access the securitization markets. 
 
-Adverse currency fluctuations and foreign exchange controls could decrease earnings we receive from our international operations and impact our capital
+#### Adverse currency fluctuations and foreign exchange controls could decrease earnings we receive from our international operations and impact our capital
 
 During 2022, approximately 22 percent of our total revenues net of interest expense were generated from activities outside the United States. We are exposed to foreign exchange risk from our international operations, and accordingly the revenue we generate outside the United States is subject to unpredictable fluctuations if the values of other currencies change relative to the U.S. dollar, which could have a material adverse effect on our results of operations. 
 
@@ -1093,19 +1125,19 @@ Foreign exchange regulations or capital controls might restrict or prohibit the 
 
 such country and for the payment by Card Members who are billed in a currency other than their local currency. Substantial and sudden devaluation of local Card Members’ currency can also affect their ability to make payments to the local issuer of the card in connection with spending outside the local country. The occurrence of any of these circumstances could further impact our results of operations. 
 
-## An inability to accept or maintain deposits due to market demand or regulatory constraints could materially adversely affect our liquidity position and our ability to fund our business
+#### An inability to accept or maintain deposits due to market demand or regulatory constraints could materially adversely affect our liquidity position and our ability to fund our business
 
 Our U.S. bank subsidiary, AENB, accepts deposits and uses the proceeds as a source of funding, with our direct retail deposits becoming a larger proportion of our funding over time. We continue to face strong competition with regard to deposits, and pricing and product changes may adversely affect our ability to attract and retain cost-effective deposit balances. To the extent we offer higher interest rates to attract or maintain deposits, our funding costs will be adversely impacted. 
 
 Our ability to obtain deposit funding and offer competitive interest rates on deposits is also dependent on AENB’s capital levels. The FDIA’s brokered deposit provisions and related FDIC rules in certain circumstances prohibit banks from accepting or renewing brokered deposits and apply other restrictions, such as a cap on interest rates that can be paid. Additionally, our regulators can adjust applicable capital requirements at any time and have authority to place limitations on our deposit businesses. An inability to attract or maintain deposits in the future could materially adversely affect our ability to fund our business. 
 
-The value of our investments may be adversely impacted by economic, political or market conditions
+#### The value of our investments may be adversely impacted by economic, political or market conditions
 
 Market risk includes the loss in value of portfolios and financial instruments due to adverse changes in market variables, which could negatively impact our financial condition. We have experienced realized and unrealized losses in our Amex Ventures equity investments and may experience further losses in the future. As of December 31, 2022, we held approximately $4.6 billion of investment securities, primarily consisting of debt securities, and equity investments, including certain equity method investments, totaling approximately $2.0 billion. Negative market conditions, changes in valuations or increases in default rates or bankruptcies with respect to these investments, due to economic conditions, business performance or otherwise, could have a material adverse impact on the value of our investments, potentially resulting in impairment charges. Defaults, threats of defaults or economic disruptions, even in countries or territories in which we do not have material investment exposure, conduct business or have operations, could adversely affect us. 
 
 ## ITEM 1B. UNRESOLVED STAFF COMMENTS
 
-Not applicable.
+Not applicable. 
 
 ## ITEM 2.    PROPERTIES
 
@@ -1115,11 +1147,11 @@ Other owned or leased principal locations include American Express offices in Ph
 
 ## ITEM 3.    LEGAL PROCEEDINGS
 
-Refer to Note 12 to our “Consolidated Financial Statements,” which is incorporated herein by reference.
+Refer to Note 12 to our “Consolidated Financial Statements,” which is incorporated herein by reference. 
 
 ## ITEM 4.    MINE SAFETY DISCLOSURES
 
-Not applicable.
+Not applicable. 
 
 ## PART II
 
@@ -1127,7 +1159,7 @@ Not applicable.
 
    - (a) Our common stock trades principally on The New York Stock Exchange under the trading symbol AXP. As of December 31, 2022, we had 18,060 common shareholders of record. You can find dividend information concerning our common stock in our Consolidated Statements of Shareholders' Equity in our “Consolidated Financial Statements.” For information on dividend restrictions, see “Dividends and Other Capital Distributions” under “Supervision and Regulation” and Note 22 to our “Consolidated Financial Statements.” You can find information on securities authorized for issuance under our equity compensation plans under the caption “Executive Compensation — Equity Compensation Plans” to be contained in our definitive 2023 proxy statement for our Annual Meeting of Shareholders, which is scheduled to be held on May 2, 2023. The information to be found under such caption is incorporated herein by reference. Our definitive 2023 proxy statement for our Annual Meeting of Shareholders is expected to be filed with the SEC in March 2023 (and, in any event, not later than 120 days after the close of our most recently completed fiscal year).
 
-## Stock Performance Graph
+### Stock Performance Graph
 
 _The information contained in this Stock Performance Graph section shall not be deemed to be “soliciting material” or “filed” or incorporated by reference in future filings with the SEC, or subject to the liabilities of Section 18 of the Exchange Act, except to the extent that we specifically incorporate it by reference into a document filed under the Securities Act or the Exchange Act._ 
 
@@ -1196,11 +1228,10 @@ The following graph compares the cumulative total shareholder return on our comm
       <td>$ 136.11</td>
     </tr>
   </tbody>
-</table>
+</table> (b)    Not applicable.
 
-   - (b) Not applicable.
 
-   - (c) Issuer Purchases of Securities
+### (c)    Issuer Purchases of Securities
 
 The table below sets forth the information with respect to purchases of our common stock made by or on behalf of us during the quarter ended December 31, 2022. 
 
@@ -1361,9 +1392,9 @@ The table below sets forth the information with respect to purchases of our comm
 
 ## ITEM 7.    MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (MD&A)
 
-## EXECUTIVE OVERVIEW
+### EXECUTIVE OVERVIEW
 
-## BUSINESS INTRODUCTION
+### BUSINESS INTRODUCTION
 
 We are a globally integrated payments company with four reportable operating segments: U.S. Consumer Services (USCS), Commercial Services (CS), International Card Services (ICS) and Global Merchant and Network Services (GMNS). Corporate functions and certain other businesses and operations are included in Corporate & Other. 
 
@@ -1391,13 +1422,13 @@ The following types of revenue are generated from our various products and servi
 
 - Processed revenue primarily represents revenues related to network partnership agreements, comprising royalties, fees and amounts earned for facilitating transactions on cards issued by network partners. 
 
-Refer to the “Glossary of Selected Terminology” for the definitions of certain key terms and related information appearing within this Form 10-K.
+Refer to the “Glossary of Selected Terminology” for the definitions of certain key terms and related information appearing within this Form 10-K. 
 
-## NON-GAAP MEASURES
+### NON-GAAP MEASURES
 
 We prepare our Consolidated Financial Statements in accordance with accounting principles generally accepted in the United States of America (GAAP). However, certain information included within this report constitutes non-GAAP financial measures. Our calculations of non-GAAP financial measures may differ from the calculations of similarly titled measures by other companies. 
 
-## TABLE 1: SUMMARY OF FINANCIAL PERFORMANCE
+### TABLE 1: SUMMARY OF FINANCIAL PERFORMANCE
 
 <table>
   <thead>
@@ -1716,11 +1747,13 @@ Denotes a variance of 100 percent or more
 
    - (d) Net interest yield on average Card Member loans reflects adjusted net interest income divided by average Card Member loans, computed on an annualized basis. Adjusted net interest income and net interest yield on average Card Member loans are non-GAAP measures. Refer to Table 8 for a reconciliation to Net interest income divided by average Card Member loans.
 
-## BUSINESS ENVIRONMENT
+**BUSINESS ENVIRONMENT**
 
 Our results for the year demonstrate that our growth strategy is working and our business is in an even stronger position today than before the pandemic. Spending on our network reached record levels, and credit metrics remain below pre-pandemic levels. Our investments in product innovation, technology, people and our brand has led to increased generational relevance with Millennial and Gen Z customers, record new card acquisitions, deeper relationships with customers and expanded merchant acceptance. 
 
 For 2022, we reported net income of $7.5 billion, or $9.85 per share, compared with net income of $8.1 billion, or $10.02 per share, a year ago. The reduction in net income reflected credit reserve builds and net losses in our Amex Ventures strategic investment portfolio in the current year compared with sizeable credit reserve releases and significant net gains in our Amex Ventures strategic investment portfolio in the prior year. 
+
+1 
 
 Worldwide network volumes for the year increased 21 percent compared to the prior year (24 percent on an FX-adjusted basis ). Billed business, which represented 86 percent of our total network volumes and is the most significant driver of our financial results, increased 23 percent year-over-year (25 percent on an FX-adjusted basis1), demonstrating our continued ability to acquire, engage and retain high-spending, premium Card Members. U.S. Consumer billed business grew by 24 percent year-over-year, reflecting continued strength in spending trends from our premium U.S. consumer Card Members. Billed business in our Commercial Services segment grew by 21 percent on a year-over-year basis, reflecting continued growth from U.S. small and mid-sized enterprise customers, as well as continued steady recovery in spending by our U.S. large and global corporate clients. International billed business grew by 23 percent year-over-year (36 percent on an FX-adjusted basis1), driven by a strong recovery in spend across both consumer and commercial customers. T&E spending momentum remained strong throughout the year, while year-over-year Goods & Services spending growth slowed towards the end of the year following the large pandemic recovery growth rates experienced earlier in the year. Inflation was a modest contributor to our strong billed business growth, while the continuing strengthening of the U.S. dollar, relative to the prior year, against most major currencies in which we operate, had a negative impact on our international billings. 
 
@@ -1738,13 +1771,13 @@ Our performance continues to give us confidence in our business model and our st
 
 See “Supervision and Regulation” in “Business” for information on legislative and regulatory changes that could have a material adverse effect on our results of operations and financial condition and “Risk Factors” and “Cautionary Note Regarding Forward-Looking Statements” for information on potential impacts of economic, geopolitical and competitive conditions and certain litigation and regulatory matters on our business. 
 
-## CONSOLIDATED RESULTS OF OPERATIONS
+**CONSOLIDATED RESULTS OF OPERATIONS**
 
 The discussions in the “Consolidated Results of Operations” and “Business Segment Results of Operations” provide commentary on the variances for the year ended December 31, 2022 compared to the year ended December 31, 2021, as presented in the accompanying tables. For a discussion of the financial condition and results of operations for 2021 compared to 2020, please refer to Part II, Item 7. “Management's Discussion and Analysis of Financial Condition and Results of Operations” in our Annual Report on Form 10-K for the year ended December 31, 2021, filed with the SEC on February 11, 2022. 
 
 Beginning in the first quarter of 2022, we made reporting presentation changes to our Consolidated Statements of Income to separately present revenues earned from processed volumes, previously reported in Discount revenue, Other fees and commissions and Other revenue, as Processed revenue. The remaining balances from Other fees and commissions and Other revenue were combined as Service fees and other revenue. We also disaggregated Marketing and business development expense into Business Development expense and Marketing expense. Prior period amounts presented herein have been recast to conform to the current period presentation; there was no impact to Total non-interest revenues or Total expenses. 
 
-## TABLE 2: TOTAL REVENUES NET OF INTEREST EXPENSE SUMMARY
+**TABLE 2: TOTAL REVENUES NET OF INTEREST EXPENSE SUMMARY** 
 
 <table>
   <thead>
@@ -1905,7 +1938,7 @@ Beginning in the first quarter of 2022, we made reporting presentation changes t
 
 Denotes a variance of 100 percent or more
 
-## TOTAL REVENUES NET OF INTEREST EXPENSE
+### TOTAL REVENUES NET OF INTEREST EXPENSE
 
 Discount revenue increased, primarily driven by an increase in billed business of 23 percent. See Tables 5 and 6 for more details on billed business performance. 
 
@@ -1917,9 +1950,9 @@ Processed revenue increased, primarily driven by an increase in processed volume
 
 Interest income increased, primarily driven by higher average Card Member loan balances and interest rates. 
 
-Interest expense increased, primarily driven by higher interest rates paid on deposits and debt outstanding.
+Interest expense increased, primarily driven by higher interest rates paid on deposits and debt outstanding. 
 
-## TABLE 3: PROVISIONS FOR CREDIT LOSSES SUMMARY
+### TABLE 3: PROVISIONS FOR CREDIT LOSSES SUMMARY
 
 <table>
   <thead>
@@ -2176,15 +2209,15 @@ Denotes a variance of 100 percent or more
 
    - (c) Relates to Other receivables included in Other assets on the Consolidated Balance Sheets of $3.1 billion, $2.7 billion and $3.0 billion, less reserves of $22 million, $25 million and $85 million as of December 31, 2022, 2021 and 2020, respectively.
 
-## PROVISIONS FOR CREDIT LOSSES
+### PROVISIONS FOR CREDIT LOSSES
 
 Card Member loans and receivables provisions for credit losses increased, primarily due to reserve builds in the current year, versus reserve releases in the prior year. The reserve builds in the current year were primarily driven by increases in loans and receivables outstanding, higher delinquencies and changes in macroeconomic forecasts, partially offset by the release of COVID-19 pandemic-driven reserves for Card Member loans. The reserve releases in the prior year were due to improved portfolio quality and macroeconomic forecasts, partially offset by increases in loans and receivables outstanding. 
 
 Other provisions for credit losses increased, primarily due to a net reserve build in the current year, versus a reserve release in the prior year. The net reserve build in the current year was primarily driven by increases in non-card loans outstanding, partially offset by improved credit performance. The reserve release in the prior year was due to improved portfolio quality and macroeconomic forecasts. 
 
-Refer to Note 3 to the “Consolidated Financial Statements” for further information regarding our reserves for credit losses.
+Refer to Note 3 to the “Consolidated Financial Statements” for further information regarding our reserves for credit losses. 
 
-## TABLE 4: EXPENSES SUMMARY
+### TABLE 4: EXPENSES SUMMARY
 
 <table>
   <thead>
@@ -2328,7 +2361,7 @@ Refer to Note 3 to the “Consolidated Financial Statements” for further infor
   </tbody>
 </table>
 
-## EXPENSES
+### EXPENSES
 
 Card Member rewards expense increased, primarily driven by increases in Membership Rewards and cash back rewards expenses, collectively, of $2.0 billion, and cobrand rewards expense of $1.0 billion, both of which were primarily driven by higher billed business. The increase in Membership Rewards expense was also driven by a larger proportion of spend in categories that earn incremental rewards such as travel and a higher mix of redemptions in travel-related categories. 
 
@@ -2342,13 +2375,13 @@ Marketing expense increased, primarily due to business investments to drive grow
 
 Salaries and employee benefits expense increased, primarily driven by higher compensation costs, reflecting an increase in our colleague base to support business growth as well as compensation decisions made. 
 
-Other expenses increased, primarily driven by net losses on Amex Ventures investments in the current year, as compared to net gains in the prior year.
+Other expenses increased, primarily driven by net losses on Amex Ventures investments in the current year, as compared to net gains in the prior year. 
 
-## INCOME TAXES
+### INCOME TAXES
 
 The effective tax rate was 21.6 percent and 24.6 percent for 2022 and 2021, respectively. The reduction in the effective tax rate primarily reflected discrete tax benefits in the current year related to the resolution of prior-year tax items. The tax rates in both years reflected the level of pretax income in relation to recurring permanent tax benefits and the geographic mix of business. 
 
-## TABLE 5: SELECTED CARD-RELATED STATISTICAL INFORMATION
+### TABLE 5: SELECTED CARD-RELATED STATISTICAL INFORMATION
 
 <table>
   <thead>
@@ -2447,7 +2480,7 @@ The effective tax rate was 21.6 percent and 24.6 percent for 2022 and 2021, resp
 
    - (a) Average fee per card is computed on an annualized basis based on proprietary Net card fees divided by average proprietary total cards-in-force.
 
-## TABLE 6: NETWORK VOLUMES-RELATED STATISTICAL INFORMATION
+### TABLE 6: NETWORK VOLUMES-RELATED STATISTICAL INFORMATION
 
 <table>
   <thead>
@@ -2549,7 +2582,7 @@ The effective tax rate was 21.6 percent and 24.6 percent for 2022 and 2021, resp
 
    - (a) The foreign currency adjusted information assumes a constant exchange rate between the periods being compared for purposes of currency translation into U.S. dollars (i.e., assumes the foreign exchange rates used to determine results for the current year apply to the corresponding prior-year period against which such results are being compared).
 
-## TABLE 7: SELECTED CREDIT-RELATED STATISTICAL INFORMATION
+### TABLE 7: SELECTED CREDIT-RELATED STATISTICAL INFORMATION
 
 <table>
   <thead>
@@ -2784,7 +2817,7 @@ Denotes a variance of 100 percent or more
 
    - (d) Refer to Tables 10, 12 and 14 for Net write-off rate — principal only and 30+ days past due metrics for U.S. consumer receivables, U.S. small business receivables and International small business and consumer receivables, respectively. A net write-off rate based on principal losses only and delinquency data for periods other than 90+ days past billing for corporate receivables are not available due to system constraints.
 
-## TABLE 8: NET INTEREST YIELD ON AVERAGE CARD MEMBER LOANS
+### TABLE 8: NET INTEREST YIELD ON AVERAGE CARD MEMBER LOANS
 
 <table>
   <thead>
@@ -2867,7 +2900,7 @@ Effective for the third quarter of 2022, we realigned our reportable segments to
 
 Results of the reportable operating segments generally treat each segment as a stand-alone business. The management reporting process that derives these results allocates revenue and expense using various methodologies as described below. 
 
-## TOTAL REVENUES NET OF INTEREST EXPENSE
+### TOTAL REVENUES NET OF INTEREST EXPENSE
 
 We allocate discount revenue and certain other revenues among segments using a transfer pricing methodology. Within the USCS, CS and ICS segments, discount revenue generally reflects the issuer component of the overall discount revenue generated by each segment’s Card Members; within the GMNS segment, discount revenue generally reflects the network and acquirer component of the overall discount revenue being allocated. 
 
@@ -2875,11 +2908,11 @@ Net card fees, processed revenue and certain other revenues are directly attribu
 
 Interest and fees on loans and certain investment income is directly attributable to the segment in which it is reported. Interest expense represents an allocated funding cost based on a combination of segment funding requirements and internal funding rates. 
 
-## PROVISIONS FOR CREDIT LOSSES
+### PROVISIONS FOR CREDIT LOSSES
 
-The provisions for credit losses are directly attributable to the segment in which they are reported.
+The provisions for credit losses are directly attributable to the segment in which they are reported. 
 
-## EXPENSES
+### EXPENSES
 
 Card Member rewards and Card Member services expenses are included in each segment based on the actual expenses incurred. Business development and Marketing expenses are included in each segment based on the actual expenses incurred. Global brand advertising is primarily allocated to the segments based on the relative levels of revenue. 
 
@@ -2887,7 +2920,7 @@ Salaries and employee benefits and other expenses reflect both costs incurred di
 
 ## U.S. CONSUMER SERVICES
 
-## TABLE 9: USCS SELECTED INCOME STATEMENT DATA
+### TABLE 9: USCS SELECTED INCOME STATEMENT DATA
 
 <table>
   <thead>
@@ -3063,9 +3096,9 @@ Salaries and employee benefits and other expenses reflect both costs incurred di
 
 Denotes a variance of 100 percent or more
 
-USCS issues a wide range of proprietary consumer cards and provides services to U.S. consumers, including travel and lifestyle services as well as banking and non-card financing products.
+USCS issues a wide range of proprietary consumer cards and provides services to U.S. consumers, including travel and lifestyle services as well as banking and non-card financing products. 
 
-## TOTAL REVENUES NET OF INTEREST EXPENSE
+### TOTAL REVENUES NET OF INTEREST EXPENSE
 
 Non-interest revenues increased across all revenue categories, primarily driven by higher Discount revenue and Net card fees. 
 
@@ -3079,13 +3112,13 @@ Net interest income increased 26 percent, primarily driven by an increase in ave
 
 Total revenues net of interest expense increased in 2021 compared to 2020, primarily driven by higher Discount revenue, reflecting billed business growth, partially offset by decreased Net interest income, primarily reflecting lower revolving Card Member loan balances. 
 
-## PROVISIONS FOR CREDIT LOSSES
+### PROVISIONS FOR CREDIT LOSSES
 
 Card Member loans and receivables provisions for credit losses increased, primarily due to reserve builds in the current year, versus reserve releases in the prior year. The reserve builds in the current year were primarily driven by an increase in loans outstanding, higher delinquencies and changes in macroeconomic forecasts, partially offset by the release of COVID-19 pandemic-driven reserves for Card Member loans. The reserve releases in the prior year were due to improved portfolio quality and macroeconomic forecasts, partially offset by increases in loans and receivables outstanding. 
 
-Provisions for credit losses decreased in 2021 compared to 2020, primarily driven by reserve releases in 2021, versus reserve builds in 2020.
+Provisions for credit losses decreased in 2021 compared to 2020, primarily driven by reserve releases in 2021, versus reserve builds in 2020. 
 
-## EXPENSES
+### EXPENSES
 
 Total expenses increased, primarily driven by higher Card Member rewards expense and Card Member services expense. 
 
@@ -3101,7 +3134,7 @@ Salaries and employee benefits and other expenses increased, primarily due to hi
 
 Total expenses increased in 2021 compared to 2020, primarily driven by higher customer engagement and marketing expenses, reflecting higher billed business and increases in marketing investments to continue building growth momentum. 
 
-## TABLE 10: USCS SELECTED STATISTICAL INFORMATION
+### TABLE 10: USCS SELECTED STATISTICAL INFORMATION
 
 <table>
   <thead>
@@ -3413,11 +3446,11 @@ Total expenses increased in 2021 compared to 2020, primarily driven by higher cu
 
    - (c) Refer to Table 8 footnote (b).
 
-(d) Refer to Table 8 footnote (c).
+   - (d) Refer to Table 8 footnote (c).
 
 ## COMMERCIAL SERVICES
 
-## TABLE 11: CS SELECTED INCOME STATEMENT DATA
+### TABLE 11: CS SELECTED INCOME STATEMENT DATA
 
 <table>
   <thead>
@@ -3573,7 +3606,7 @@ Denotes a variance of 100 percent or more
 
 CS issues a wide range of proprietary corporate and small business cards and provides services to U.S. businesses, including payment and expense management, banking and non-card financing products. CS also issues proprietary corporate cards and provides services to select global corporate clients. 
 
-## TOTAL REVENUES NET OF INTEREST EXPENSE
+### TOTAL REVENUES NET OF INTEREST EXPENSE
 
 Non-interest revenues increased, primarily driven by higher Discount revenue. 
 
@@ -3589,15 +3622,15 @@ Net interest income increased 27 percent, primarily driven by higher revolving C
 
 Total revenues net of interest expense increased in 2021 compared to 2020, primarily driven by increased Discount revenue, reflecting billed business growth, and increased Net interest income, primarily reflecting a lower cost of funds, partially offset by lower revolving Card Member loan balances. 
 
-## PROVISIONS FOR CREDIT LOSSES
+### PROVISIONS FOR CREDIT LOSSES
 
 Card Member loans provision for credit losses increased, primarily due to a reserve build in the current year, versus a reserve release in the prior year. The reserve build in the current year was primarily driven by an increase in loans outstanding, higher delinquencies and changes in macroeconomic forecasts, partially offset by the release of COVID-19 pandemic-driven reserves. The reserve release in the prior year was driven by improved portfolio quality and macroeconomic forecasts, partially offset by an increase in loans outstanding. 
 
 Card Member receivables provision for credit losses increased, primarily due to a reserve build in the current year, versus a reserve release in the prior year, and higher net write-offs in the current year. The reserve build in the current year was primarily driven by higher delinquencies and an increase in receivables outstanding. The reserve release in the prior year was driven by improved portfolio quality and macroeconomic forecasts, partially offset by an increase in receivables outstanding. 
 
-Provisions for credit losses decreased in 2021 compared to 2020, primarily driven by reserve releases in 2021, versus reserve builds in 2020.
+Provisions for credit losses decreased in 2021 compared to 2020, primarily driven by reserve releases in 2021, versus reserve builds in 2020. 
 
-## EXPENSES
+### EXPENSES
 
 Total expenses increased, primarily driven by Card Member rewards expense and Business development expense. 
 
@@ -3613,7 +3646,7 @@ Salaries and employee benefits and other expenses increased, primarily due to hi
 
 Total expenses increased in 2021 compared to 2020, primarily driven by higher customer engagement and marketing expenses, reflecting higher billed business and increases in marketing investments to continue building growth momentum. 
 
-## TABLE 12: CS SELECTED STATISTICAL INFORMATION
+### TABLE 12: CS SELECTED STATISTICAL INFORMATION
 
 <table>
   <thead>
@@ -3850,7 +3883,7 @@ Total expenses increased in 2021 compared to 2020, primarily driven by higher cu
 
 ## INTERNATIONAL CARD SERVICES
 
-## TABLE 13: ICS SELECTED INCOME STATEMENT DATA
+### TABLE 13: ICS SELECTED INCOME STATEMENT DATA
 
 <table>
   <thead>
@@ -4002,11 +4035,13 @@ Total expenses increased in 2021 compared to 2020, primarily driven by higher cu
   </tbody>
 </table>
 
+Denotes a variance of 100 percent or more
+
 ICS issues a wide range of proprietary consumer, small business and corporate cards outside the United States. ICS also provides services to our international customers, including travel and lifestyle services, and manages certain international joint ventures and our loyalty coalition businesses. 
 
-For 2022, ICS reported pretax income of $578 million, compared with $929 million a year ago. Results for this segment were significantly impacted by the strengthening of the U.S. dollar.
+For 2022, ICS reported pretax income of $578 million, compared with $929 million a year ago. Results for this segment were significantly impacted by the strengthening of the U.S. dollar. 
 
-## TOTAL REVENUES NET OF INTEREST EXPENSE
+### TOTAL REVENUES NET OF INTEREST EXPENSE
 
 Non-interest revenues increased across all revenue categories, primarily driven by Discount revenue and Service fees and other revenues. 
 
@@ -4018,19 +4053,23 @@ Service fees and other revenue increased 39 percent (52 percent on a FX-adjusted
 
 Processed revenue increased 28 percent (35 percent on a FX-adjusted basis), primarily driven by an increase in processed volumes. 
 
+2 
+
 Net interest income increased 19 percent (25 percent on a FX-adjusted basis), primarily driven by an increase in average Card Member loan balances, partially offset by higher cost of funds driven by higher interest rates.2 
 
 Total revenues net of interest expense increased in 2021 compared to 2020, primarily driven by increased Discount revenue, reflecting billed business growth, partially offset by decreased Net interest income, primarily reflecting lower yields and lower revolving Card Member loan balances. 
 
-Refer to footnote 1 on page 42 for details regarding foreign currency adjusted information.
+Refer to footnote 1 on page 42 for details regarding foreign currency adjusted information. 
 
-## PROVISIONS FOR CREDIT LOSSES
+2 
+
+### PROVISIONS FOR CREDIT LOSSES
 
 Card Member loans and receivables provisions for credit losses increased, primarily due to reserve builds in the current year, versus reserve releases in the prior year, and higher net write-offs in the current year. The reserve builds in the current year were primarily driven by an increase in loans and receivables outstanding and higher delinquencies. The reserve releases in the prior year were driven by improved portfolio quality and macroeconomic forecasts, partially offset by an increase in loans and receivables outstanding. 
 
-Provisions for credit losses decreased in 2021 compared to 2020, primarily driven by reserve releases in 2021, versus reserve builds in 2020.
+Provisions for credit losses decreased in 2021 compared to 2020, primarily driven by reserve releases in 2021, versus reserve builds in 2020. 
 
-## EXPENSES
+### EXPENSES
 
 Total expenses increased, primarily driven by higher Card Member rewards expense and Business development expense. 
 
@@ -4046,7 +4085,7 @@ Salaries and employee benefits and other expenses increased, primarily due to hi
 
 Total expenses increased in 2021 compared to 2020, primarily driven by higher customer engagement and marketing expenses, reflecting higher billed business and increases in marketing investments to continue building growth momentum. 
 
-## TABLE 14: ICS SELECTED STATISTICAL INFORMATION
+### TABLE 14: ICS SELECTED STATISTICAL INFORMATION
 
 <table>
   <thead>
@@ -4373,11 +4412,11 @@ Total expenses increased in 2021 compared to 2020, primarily driven by higher cu
 
    - (e) For corporate receivables, delinquency data is tracked based on days past billing status rather than days past due. A Card Member account is considered 90 days past billing if payment has not been received within 90 days of the Card Member’s billing statement date. In addition, if we initiate collection procedures on an account prior to the account becoming 90 days past billing, the associated Card Member receivable balance is classified as 90 days past billing. Corporate receivables delinquency data for periods other than 90+ days past billing and the net write-off rate based on principal losses only are not available due to system constraints.
 
-(f) Refer to Table 7 footnote (c).
+   - (f) Refer to Table 7 footnote (c).
 
 ## GLOBAL MERCHANT AND NETWORK SERVICES
 
-## TABLE 15: GMNS SELECTED INCOME STATEMENT AND OTHER DATA
+### TABLE 15: GMNS SELECTED INCOME STATEMENT AND OTHER DATA
 
 <table>
   <thead>
@@ -4559,7 +4598,7 @@ Denotes a variance of 100 percent or more
 
 GMNS operates a global payments network that processes and settles card transactions, acquires merchants and provides multi-channel marketing programs and capabilities, services and data analytics, leveraging our global integrated network. GMNS manages our partnership relationships with third-party card issuers (including our network partnership agreements in China), merchant acquirers and a prepaid reloadable and gift card program manager, licensing the American Express brand and extending the reach of the global network. 
 
-## TOTAL REVENUES NET OF INTEREST EXPENSE
+### TOTAL REVENUES NET OF INTEREST EXPENSE
 
 Non-interest revenues increased across all revenue categories, primarily driven by Discount revenue and Service fees and other revenues. 
 
@@ -4573,13 +4612,13 @@ GMNS receives an interest expense credit relating to internal transfer pricing d
 
 Total revenues net of interest expense increased in 2021 compared to 2020, primarily driven by higher Discount revenue, reflecting higher billed business, and increased Net interest income, primarily due to a higher interest expense credit, reflecting an increase in average merchant payables related to year-over-year billed business growth. 
 
-## EXPENSES
+### EXPENSES
 
 Total expenses increased, primarily driven by higher Salaries and employee benefits expense, reflecting higher compensation costs, as well as higher Business development expense, primarily resulting from increased partner payments driven by higher network volumes. 
 
 Total expenses increased in 2021 compared to 2020, primarily driven by higher Business development and Marketing expenses, reflecting increased partner payments, driven by higher network volumes, as well as increased spend on initiatives to support merchant engagement. 
 
-## CORPORATE & OTHER
+### CORPORATE & OTHER
 
 Corporate functions and certain other businesses are included in Corporate & Other. 
 
@@ -4595,7 +4634,7 @@ Our balance sheet management objectives are to maintain:
 
 - Liquidity programs that enable us to continuously meet expected future financing obligations and business requirements for at least a twelve-month period in the event we are unable to continue to raise new funds under our regular funding programs during a substantial weakening in economic conditions. 
 
-We continue to see volatility in the capital markets due to a variety of factors and manage our balance sheet to reflect evolving circumstances.
+We continue to see volatility in the capital markets due to a variety of factors and manage our balance sheet to reflect evolving circumstances. 
 
 ## CAPITAL STRATEGY
 
@@ -4609,9 +4648,11 @@ We maintain certain flexibility to shift capital across our businesses as approp
 
 We report our capital ratios using the Basel III capital definitions and the Basel III standardized approach for calculating risk-weighted assets. 
 
-The following table presents our regulatory risk-based capital and leverage ratios and those of AENB, as of December 31, 2022:
+61 
 
-## TABLE 16: REGULATORY RISK-BASED CAPITAL AND LEVERAGE RATIOS
+The following table presents our regulatory risk-based capital and leverage ratios and those of AENB, as of December 31, 2022: 
+
+### TABLE 16: REGULATORY RISK-BASED CAPITAL AND LEVERAGE RATIOS
 
 <table>
   <thead>
@@ -4692,9 +4733,9 @@ The following table presents our regulatory risk-based capital and leverage rati
 
    - (a) Represents Basel III minimum requirements and applicable regulatory buffers as defined by the federal banking regulators, which includes the stress capital buffer (SCB) for American Express Company and the capital conservation buffer for AENB. Refer to “Capital and Liquidity Regulation” under “Supervision and Regulation” and Note 22 to our “Consolidated Financial Statements” for additional information.
 
-The following table presents American Express Company's regulatory risk-based capital and risk-weighted assets as of December 31, 2022:
+The following table presents American Express Company's regulatory risk-based capital and risk-weighted assets as of December 31, 2022: 
 
-## TABLE 17: REGULATORY RISK-BASED CAPITAL COMPONENTS AND RISK-WEIGHTED ASSETS
+### TABLE 17: REGULATORY RISK-BASED CAPITAL COMPONENTS AND RISK-WEIGHTED ASSETS
 
 <table>
   <thead>
@@ -4749,6 +4790,8 @@ _Risk-Weighted Assets_ — Assets are weighted for risk according to a formula u
 
 _Common Equity Tier 1 Risk-Based Capital Ratio_ — Calculated as CET1 capital, divided by risk-weighted assets. CET1 capital is common shareholders’ equity, adjusted for ineligible goodwill and intangible assets and certain deferred tax assets. CET1 capital is also adjusted for the Current Expected Credit Loss (CECL) final rules, as described below. 
 
+62 
+
 _Tier 1 Risk-Based Capital Ratio_ — Calculated as Tier 1 capital, divided by risk-weighted assets. Tier 1 capital is the sum of CET1 capital, preferred shares and third-party non-controlling interests in consolidated subsidiaries, adjusted for capital held by insurance subsidiaries. The minimum requirement for the Tier 1 risk-based capital ratio is 1.5 percent higher than the minimum for the CET1 risk-based capital ratio. We have $1.6 billion of preferred shares outstanding to help address a portion of the Tier 1 capital requirements in excess of common equity requirements. See Note 16 to the "Consolidated Financial Statements" for additional information on our preferred shares. 
 
 _Total Risk-Based Capital Ratio_ — Calculated as the sum of Tier 1 capital and Tier 2 capital, divided by risk-weighted assets. Tier 2 capital is the sum of the reserve for loan and receivable credit losses adjusted for the CECL final rules (limited to 1.25 percent of risk-weighted assets), and $870 million of eligible subordinated notes, adjusted for capital held by insurance subsidiaries. The $870 million of eligible subordinated notes includes the $750 million subordinated debt issued in May 2022 and the $120 million remaining Tier 2 capital credit for the $600 million subordinated debt issued in December 2014. 
@@ -4759,7 +4802,7 @@ We elected to delay the recognition of $0.7 billion of impact to regulatory capi
 
 As a Category IV firm, we participated in the Federal Reserve's supervisory stress tests in 2022. On August 4, 2022, the Federal Reserve confirmed our SCB of 2.5 percent, which resulted in a minimum CET1 ratio of 7 percent, effective October 1, 2022. 
 
-## DIVIDENDS AND SHARE REPURCHASES
+### DIVIDENDS AND SHARE REPURCHASES
 
 We return capital to common shareholders through dividends and share repurchases. The share repurchases reduce common shares outstanding and generally more than offset the issuance of new shares as part of employee compensation plans. 
 
@@ -4770,6 +4813,8 @@ We plan to increase the regular quarterly dividend on our common shares outstand
 In addition, during the year ended December 31, 2022, we paid $57 million in dividends on non-cumulative perpetual preferred shares outstanding. Refer to Note 16 to the “Consolidated Financial Statements” for additional information on our preferred shares. 
 
 Our decisions on capital distributions depend on various factors, including: our capital levels and regulatory capital requirements; regulatory guidance or restrictions, actual and forecasted business results; economic and market conditions; revisions to, or revocation of, the Federal Reserve’s authorization of our capital plan; and the supervisory stress test process. We may conduct share repurchases through a variety of methods, including open market purchases, 10b5-1 plans, privately negotiated transactions (including employee benefit plans) or other purchases, including block trades, accelerated share repurchase programs or any combination of such methods as market conditions warrant and at prices we deem appropriate. 
+
+63 
 
 ## FUNDING STRATEGY
 
@@ -4783,9 +4828,9 @@ We expect the balance of our direct deposits to continue to grow. Our funding pl
 
 ## FUNDING PROGRAMS AND ACTIVITIES
 
-## We had the following customer deposits and consolidated debt outstanding as of December 31:
+We had the following customer deposits and consolidated debt outstanding as of December 31: 
 
-## TABLE 18: SUMMARY OF CUSTOMER DEPOSITS AND CONSOLIDATED DEBT
+### TABLE 18: SUMMARY OF CUSTOMER DEPOSITS AND CONSOLIDATED DEBT
 
 <table>
   <thead>
@@ -4836,7 +4881,9 @@ Our funding plan for the full year 2023 includes, among other sources, approxima
 
 Our equity capital and funding strategies are designed, among other things, to maintain appropriate and stable unsecured debt ratings from the major credit rating agencies: Moody’s Investor Services (Moody’s), Standard & Poor’s (S&P) and Fitch Ratings (Fitch). Such ratings help support our access to costeffective unsecured funding as part of our overall funding strategy. Our asset securitization activities are rated separately. 
 
-## TABLE 19: UNSECURED DEBT RATINGS
+64 
+
+### TABLE 19: UNSECURED DEBT RATINGS
 
 <table>
   <thead>
@@ -4947,21 +4994,23 @@ These ratings are not a recommendation to buy or hold any of our securities and 
 
 Downgrades in the ratings of our unsecured debt or asset securitization program securities could result in higher funding costs, as well as higher fees related to borrowings under our unused credit facilities. Declines in credit ratings could also reduce our borrowing capacity in the unsecured debt and asset securitization capital markets. We believe our funding mix, including the proportion of U.S. retail deposits insured by the Federal Deposit Insurance Corporation (FDIC) to total funding, should reduce the impact that credit rating downgrades would have on our funding capacity and costs. 
 
-## DEPOSIT PROGRAMS
+### DEPOSIT PROGRAMS
 
 We offer deposits within our U.S. bank subsidiary, AENB. These funds are currently insured up to an amount that is at least $250,000 per account holder through the FDIC. Our ability to obtain deposit funding and offer competitive interest rates is dependent on, among other factors, the capital level of AENB. Direct retail deposits offered by AENB is our primary deposit product channel, which makes FDIC-insured high-yield savings account and certificates of deposit (CDs) products available directly to consumers. AENB also offers checking account products and sources deposits through third-party distribution channels as needed to meet our overall funding objectives. As of December 31, 2022, we had $110.2 billion in deposits. Refer to Note 7 to the “Consolidated Financial Statements” for a further description of these deposits and scheduled maturities of certificates of deposits. 
 
-## SHORT-TERM FUNDING PROGRAMS
+### SHORT-TERM FUNDING PROGRAMS
 
 Short-term borrowings, such as commercial paper, are defined as any debt with an original maturity of twelve months or less, as well as interest-bearing overdrafts with banks. Our short-term funding programs are used primarily to fund working capital needs, such as managing seasonal variations in receivables balances. The amount of short-term borrowings issued in the future will depend on our funding strategy, our needs and market conditions. We had no commercial paper outstanding at any point during 2022. Refer to Note 8 to the “Consolidated Financial Statements” for a further description of these borrowings. 
 
-## LONG-TERM DEBT AND ASSET SECURITIZATION PROGRAMS
+65 
+
+### LONG-TERM DEBT AND ASSET SECURITIZATION PROGRAMS
 
 As of December 31, 2022, we had $42.6 billion in long-term debt outstanding, including unsecured debt and asset-backed securities. Refer to Note 8 to the “Consolidated Financial Statements” for a further description of these borrowings and scheduled maturities of long-term debt obligations. 
 
 We periodically securitize Card Member loans and receivables arising from our U.S. card business, as the securitization market provides us with cost-effective funding. Securitization of Card Member loans and receivables is accomplished through the transfer of those assets to a trust, which in turn issues securities collateralized by the transferred assets to third-party investors. The proceeds from issuance are distributed to us, through our wholly owned subsidiaries, as consideration for the transferred assets. Refer to Note 5 to the “Consolidated Financial Statements” for a further description of our asset securitizations. 
 
-## TABLE 20: DEBT ISSUANCES
+### TABLE 20: DEBT ISSUANCES
 
 <table>
   <thead>
@@ -5010,7 +5059,9 @@ We periodically securitize Card Member loans and receivables arising from our U.
   </tbody>
 </table>
 
-(a) Secured overnight financing rate (SOFR).
+   - (a) Secured overnight financing rate (SOFR).
+
+66 
 
 ## LIQUIDITY MANAGEMENT
 
@@ -5032,6 +5083,8 @@ The amount and type of liquidity resources we maintain can vary over time, based
 
 The investment income we receive on liquidity resources has historically been less than the interest expense on the sources of funding for these balances. The level of future net interest income or costs depends on the amount of liquidity resources we maintain and the difference between our cost of funding these amounts and their investment yields. 
 
+67 
+
 ### Securitized Borrowing Capacity
 
 As of December 31, 2022, we maintained our committed, revolving, secured borrowing facility, with a maturity date of July 15, 2024, which gives us the right to sell up to $3.0 billion face amount of eligible AAA notes from the American Express Issuance Trust II (the Charge Trust). We also maintained our committed, revolving, secured borrowing facility, with a maturity date of September 16, 2024, which gives us the right to sell up to $2.0 billion face amount of eligible AAA certificates from the American Express Credit Account Master Trust (the Lending Trust). Both facilities are used in the ordinary course of business to fund working capital needs, as well as to further enhance our contingent funding resources. As of December 31, 2022, no amounts were drawn on the Charge Trust facility or the Lending Trust facility. 
@@ -5048,13 +5101,13 @@ In addition to the secured borrowing facilities described above, as of December 
 
 ### Off-balance Sheet Arrangements
 
-We have certain off-balance sheet obligations that include guarantees, indemnifications and certain Card Member and partner arrangements that may have a material current or future effect on our financial condition, changes in financial condition, results of operations, or liquidity and capital resources. For more information on these obligations, refer to Note 12, Note 15 and Note 23 to the “Consolidated Financial Statements.” 
+We have certain off-balance sheet obligations that include guarantees, indemnifications and certain Card Member and partner arrangements that may have a material current or future effect on our financial condition, changes in financial condition, results of operations, or liquidity and capital resources. For more information on these obligations, refer to Note 12, Note 15 and Note 23 to the “Consolidated Financial Statements.” 68
 
 ## CASH FLOWS
 
 The following table summarizes our cash flow activity, followed by a discussion of the major drivers impacting operating, investing and financing cash flows for the year ended December 31, 2022 compared to the year ended December 31, 2021: 
 
-## TABLE 21: CASH FLOWS
+### TABLE 21: CASH FLOWS
 
 <table>
   <thead>
@@ -5151,6 +5204,8 @@ In 2022, the net cash provided by financing activities was primarily driven by g
 
 In 2021, the net cash used in financing activities was primarily driven by share repurchases, net debt repayments, decreases in customer deposits, dividends and redemption of preferred shares, partially offset by the proceeds from the issuance of preferred shares. 
 
+69 
+
 ## RISK MANAGEMENT
 
 ### GOVERNANCE
@@ -5173,11 +5228,13 @@ The Audit and Compliance Committee provides oversight of our Internal Audit Grou
 
 The Compensation and Benefits Committee of our Board of Directors works with the Chief Risk Officer to ensure our overall compensation programs, as well as those covering our risk-taking employees, appropriately balance risk with business incentives and that business performance is achieved without taking imprudent or excessive risk. Our Chief Risk Officer is actively involved in setting risk goals for the Company. Our Chief Risk Officer also reviews the risk profiles of each business unit and provides input into performance evaluation. The Chief Risk Officer meets with the Compensation and Benefits Committee and attests whether performance goals and results have been achieved without taking imprudent risks. The Compensation and Benefits Committee uses a riskbalanced incentive compensation framework to decide on our bonus pools and the compensation of senior executives. 
 
+70 
+
 There are several internal management committees, including the Enterprise Risk Management Committee (ERMC), chaired by our Chief Risk Officer. The ERMC is the highest-level management committee to oversee all firm-wide risks and is responsible for risk governance, risk oversight and risk appetite. It maintains the enterprise-wide risk appetite framework and monitors compliance with limits and escalations defined in it. The ERMC oversees implementation of risk policies company-wide. The ERMC reviews key risk exposures, trends and concentrations, significant compliance matters, and provides guidance on the steps to monitor, control and report major risks. In addition, the Asset Liability Committee, chaired by our Chief Financial Officer, is responsible for managing our capital, funding and liquidity, investment, market risk and asset/liability activities in accordance with our policies and in compliance with applicable regulatory requirements. 
 
 As defined in the ERM policy, we follow the “three lines of defense” approach to risk management. The first line of defense comprises functions and management committees directly initiating risk taking. The Chief Executive Officer, business unit presidents and the Chief Financial Officer are part of the first line of defense. The second line comprises independent functions overseeing risk-taking activities of the first line. The Chief Risk Officer, the Chief Compliance Officer, the Chief Operational Risk Officer and certain control groups, both at the enterprise level and within regulated entities, are part of the second line of defense. The global risk oversight team oversees the policies, strategies, frameworks, models, processes and capabilities deployed by the first line teams and provides challenges and independent assessments on how the first line of defense is managing risks. Our Internal Audit Group constitutes the third line of defense and provides independent assessments and effective challenge of the first and second lines of defense. 
 
-## CREDIT RISK MANAGEMENT PROCESS
+### CREDIT RISK MANAGEMENT PROCESS
 
 We define credit risk as loss due to default or changes in the credit quality of a customer, obligor or security. Our credit risks are divided into two broad categories: individual and institutional. Each has distinct risk management capabilities, strategies, and tools. Business units that create individual or institutional credit risk exposures of significant importance are supported by dedicated risk management teams, each led by a Chief Credit Officer. 
 
@@ -5193,6 +5250,8 @@ Credit risk management is supported by sophisticated proprietary scoring and dec
 
 Institutional credit risk arises principally within our CS, ICS and GMNS businesses, as well as investment and liquidity management activities. Unlike individual credit risk, institutional credit risk is characterized by a lower loss frequency but higher severity. It is affected both by general economic conditions and by client-specific events. The absence of large losses in any given year or over several years is not necessarily representative of the level of risk of institutional portfolios, given the infrequency of loss events in such portfolios. 
 
+71 
+
 Similar to individual credit risk, business units taking institutional credit risks are supported by Chief Credit Officers. These officers are guided by the Institutional Risk Management Committee (IRMC), which is responsible for implementation and enforcement of the Institutional Credit Risk Management Policy and for providing guidance to the credit officers of each business unit with substantial institutional credit risk exposures. The committee, along with the business unit Chief Credit Officers, makes investment decisions in core risk capabilities, ensures proper implementation of the underwriting standards and contractual rights for risk mitigation, monitors risk exposures, and determines risk mitigation actions. The IRMC formally reviews large institutional risk exposures to ensure compliance with ERMC guidelines and procedures and escalates them to the ERMC as appropriate. At the same time, the IRMC provides guidance to the business unit risk management teams to optimize risk-adjusted returns on capital. A centralized risk rating unit provides risk assessment of our institutional obligors. 
 
 ### Exposure to the Airline and Travel Industry
@@ -5203,7 +5262,7 @@ We have multiple important cobrand, rewards, merchant acceptance and corporate p
 
 As part of our ongoing risk management process, we monitor our financial exposure to both sovereign and non-sovereign customers and counterparties, and measure and manage concentrations of risk by geographic regions, as well as by economic sectors and industries. A primary focus area for monitoring is credit deterioration due to weaknesses in economic and fiscal profiles. We evaluate countries based on the market assessment of the riskiness of their sovereign debt and our assessment of the economic and financial outlook and closely monitor those deemed high risk. As of December 31, 2022, we considered our gross credit exposures to government entities, financial institutions and corporations in those countries deemed high risk to be individually and collectively not material. 
 
-## OPERATIONAL RISK MANAGEMENT PROCESS
+### OPERATIONAL RISK MANAGEMENT PROCESS
 
 We consider operational risk to be the risk of loss due to, among other things, inadequate or failed processes, people or information systems, or impacts from the external environment, including failures to comply with laws and regulations as well as impacts from relationships with third parties. Operational risk is inherent in all business activities and can impact an organization through direct or indirect financial loss, brand damage, customer dissatisfaction, or legal and regulatory penalties. 
 
@@ -5213,15 +5272,15 @@ We use the operational risk framework to identify, measure, monitor and report i
 
 The framework requires the assessment of operational risk events to determine root causes, impact to customers and/or us, and resolution plan accountability to correct any defect, remediate customers, and enhance controls and testing to mitigate future issues. The impact is assessed from an operational, financial, brand, regulatory compliance and legal perspective. 
 
+72 
+
 ### Information and Cyber Security
 
 We define information and cyber security risk as the risk that a security incident could impact the confidentiality, integrity or availability of American Express customer, colleague or proprietary information. 
 
 Our information and cyber security program is designed to protect information systems from unauthorized access, use, disclosure, disruption, modification, or destruction. The program is built upon a foundation of advanced security technology, a well-staffed and highly trained team of experts, and operations based on the National Institute of Standards and Technology Cybersecurity Framework. This consists of controls designed to identify, protect, detect, respond and recover from information and cyber security incidents. We continue to invest in enhancements to cyber security capabilities and engage in industry and government forums to promote advancements to the broader financial services cyber security ecosystem. 
 
-See “A major information or cyber security incident or an increase in fraudulent activity could lead to reputational damage to our brand and material legal, regulatory and financial exposure, and could reduce the use and acceptance of our products and services”
-
-under “Risk Factors” for additional information.
+See _“A major information or cyber security incident or an increase in fraudulent activity could lead to reputational damage to our brand and material legal, regulatory and financial exposure, and could reduce the use and acceptance of our products and services”_ under “Risk Factors” for additional information. 
 
 ### Information Technology
 
@@ -5229,9 +5288,7 @@ We define information technology risk as the risk that events or circumstances c
 
 We manage information technology risk through our policies, procedures, governance structure, and control framework to preserve the confidentiality, integrity, and availability of systems and processes across our Company. 
 
-See “The uninterrupted operation of our information systems is critical to our success and a significant disruption could have a material adverse effect on our business and results of operations”
-
-under “Risk Factors” for additional information.
+See _“The uninterrupted operation of our information systems is critical to our success and a significant disruption could have a material adverse effect on our business and results of operations”_ under “Risk Factors” for additional information. 
 
 ### Privacy
 
@@ -5245,7 +5302,9 @@ We define data management and governance risk as the risk of financial, reputati
 
 Our Enterprise Data Governance Policy establishes the framework for defining in-scope critical data and the requirements for managing such data effectively throughout its lifecycle as a critical corporate asset. This policy is approved by the ERMC. 
 
-Chaired by the Chief Data Officer, our Enterprise Data Committee, a sub-committee of the ERMC, provides governance and oversight for our enterprise-wide data governance and management activities.
+Chaired by the Chief Data Officer, our Enterprise Data Committee, a sub-committee of the ERMC, provides governance and oversight for our enterprise-wide data governance and management activities. 
+
+73 
 
 ### Third Party Risk
 
@@ -5257,7 +5316,7 @@ We define conduct risk as the risk that colleagues, intentionally or unintention
 
 The Conduct Risk Management Policy is approved by the ERMC. It establishes the governance framework for conduct risk across the Company. The policy requires annual risk assessments, implementation of detective and preventive controls, colleague training and timely escalations of conduct issues. It also provides guidance on consequence management for any substantiated cases of misconduct. The Conduct Risk Committee oversees conduct risk related topics and escalates such matters to the ERMC, as appropriate. 
 
-## COMPLIANCE RISK MANAGEMENT PROCESS
+### COMPLIANCE RISK MANAGEMENT PROCESS
 
 We define compliance risk as the risk of legal or reputational harm, fines, monetary penalties and payment of damages or other forms of sanction as a result of non-compliance with applicable laws and/or regulations, internal policies and procedures and related practices, or ethical standards. 
 
@@ -5265,7 +5324,7 @@ We view our ability to effectively mitigate compliance risk as an important aspe
 
 We have a comprehensive Anti-Money Laundering program that monitors and reports suspicious activity to the appropriate government authorities. The program includes an independent risk assessment of the rules used by the Anti-Money Laundering team. In addition, the Internal Audit Group reviews the processes for practices consistent with regulatory guidance. 
 
-## REPUTATIONAL RISK MANAGEMENT PROCESS
+### REPUTATIONAL RISK MANAGEMENT PROCESS
 
 We define reputational risk as the risk that negative stakeholder reaction to our products, services, client and partner relationships, business activities and policies, management and workplace culture, or our response to unexpected events, could cause sustained critical media coverage, a decline in revenue or investment, talent attrition, litigation, or government or regulatory scrutiny. 
 
@@ -5273,7 +5332,9 @@ We view protecting our reputation for excellent customer service, trust, securit
 
 Our business leaders are responsible for considering the reputational risk implications of business activities and strategies and ensuring the relevant subject matter experts are engaged as needed. The ERMC is responsible for ensuring reputational risk considerations are included in the scope of appropriate subordinate risk policies and committees and properly reflected in all decisions escalated to the ERMC. 
 
-## MARKET RISK MANAGEMENT PROCESS
+74 
+
+### MARKET RISK MANAGEMENT PROCESS
 
 We define market risk as the risk to earnings or asset and liability values resulting from movements in market prices. Our market risk exposures include (i) interest rate risk due to changes in the relationship between the interest rates on our assets (such as loans, receivables and investment securities) and the interest rates on our liabilities (such as debt and deposits) and (ii) foreign exchange risk related to transactions, funding, investments and earnings in currencies other than the U.S. dollar. 
 
@@ -5293,13 +5354,15 @@ Foreign exchange exposures arise in four principal ways: (1) Card Member spendin
 
 These foreign exchange risks are managed primarily by entering into foreign exchange spot transactions or hedged with foreign exchange forward contracts when the hedge costs are economically justified and in notional amounts designed to offset pretax impacts from currency movements in the period in which they occur. As of December 31, 2022, foreign currency derivative instruments with total notional amounts of approximately $34 billion were outstanding. 
 
+75 
+
 With respect to Card Member spending and cross-currency transactions, including related foreign exchange forward contracts outstanding, the impact of a hypothetical 10 percent strengthening of the U.S. dollar would have been immaterial to projected earnings as of December 31, 2022. With respect to translation exposure of foreign subsidiary equity balances, including related foreign exchange forward contracts outstanding, a hypothetical 10 percent strengthening of the U.S. dollar would result in an immaterial reduction in other comprehensive income and equity as of December 31, 2022. With respect to anticipated earnings denominated in foreign currencies for the next twelve months, the adverse impact on pretax income of a hypothetical 10 percent strengthening of the U.S. dollar would be approximately $153 million as of December 31, 2022. 
 
 To a much lesser extent, we are also subject to market risk arising from activities conducted by our Foreign Exchange International Payments business. We aim to minimize market risk from these activities through hedging, where appropriate, and the establishment of limits. 
 
 The actual impact of interest rate and foreign exchange rate changes will depend on, among other factors, the timing of rate changes, the extent to which different rates do not move in the same direction or in the same direction to the same degree, changes in the cost, volume and mix of our hedging activities and changes in the volume and mix of our businesses. 
 
-## FUNDING & LIQUIDITY RISK MANAGEMENT PROCESS
+### FUNDING & LIQUIDITY RISK MANAGEMENT PROCESS
 
 We define funding and liquidity risk as our inability to meet our ongoing financial and business obligations at a reasonable cost as they become due. 
 
@@ -5309,35 +5372,39 @@ Funding and liquidity risk is managed by the Funding and Liquidity Committee. To
 
 Funding and liquidity risk is managed at an aggregate consolidated level as well as at certain subsidiaries in order to ensure that sufficient and accessible liquidity resources are maintained. The Funding and Liquidity Committee reviews forecasts of our aggregate and subsidiary cash positions and financing requirements, approves funding plans designed to satisfy those requirements under normal and stressed conditions, establishes guidelines to identify the amount of liquidity resources required and monitors positions and determines any actions to be taken. 
 
-## MODEL RISK MANAGEMENT PROCESS
+### MODEL RISK MANAGEMENT PROCESS
 
 We define model risk as the risk of adverse consequences, such as financial loss, poor business and strategic decision making, damage to our reputation or customer harm, from decisions based on incorrect or misused model outputs and outcomes. 
 
 The Enterprise-Wide Model Risk Policy establishes the comprehensive framework for governing model risk. This policy is approved by the ERMC. The comprehensive risk management and governance framework includes procedures for model development, independent model validation, model risk reporting and change management capabilities that seek to minimize erroneous model methodology, outputs, and misuse. We also assess model performance and modelrelated issues on an ongoing basis and seek to address deficiencies in a timely manner. In addition, we utilize artificial intelligence and machine learning (AI/ML) models for a variety of business use cases. We perform extensive reviews and testing to reduce the risk that these AI/ML techniques result in adverse consequences. 
 
-## STRATEGIC AND BUSINESS RISK MANAGEMENT PROCESS
+76 
+
+### STRATEGIC AND BUSINESS RISK MANAGEMENT PROCESS
 
 We define strategic and business risk as the risk related to our inability to achieve our business objectives due to poor strategic decisions, including decisions related to mergers, acquisitions, and divestitures, poor implementation of strategic decisions or declining demand for our products and services. 
 
 Strategic decisions are reviewed and approved by business leaders and various committees and must be aligned with company policies. We seek to manage strategic and business risks through risk controls embedded in these processes as well as overall risk management oversight over business goals. Existing product performance is reviewed periodically by committees and business leaders. Mergers, acquisitions and divestitures can only be approved following Executive Committee due diligence, a comprehensive risk assessment by operational, market, credit and oversight leaders provided to the Chief Risk Officer and approval by either the Chief Risk Officer or appropriate risk committees. All new and material changes to products and services are reviewed and approved by the New Products Committee and appropriate credit or risk committees. 
 
-## COUNTRY RISK MANAGEMENT PROCESS
+### COUNTRY RISK MANAGEMENT PROCESS
 
 We define country risk as the risk that economic, social, and/or political conditions and events in a country present. They might adversely impact us, primarily as a result of greater credit losses, increased operational or market risk or the inability to repatriate capital. 
 
 We manage country risk as part of the normal course of business. Policies and procedures establish country risk escalation thresholds to control and limit exposure, driven by processes that enable the monitoring of conditions in countries where we have exposure. 
 
-## ENVIRONMENTAL, SOCIAL AND GOVERNANCE (ESG) AND CLIMATE-RELATED RISK
+### ENVIRONMENTAL, SOCIAL AND GOVERNANCE (ESG) AND CLIMATE-RELATED RISK
 
 We define climate-related risk as: (1) risks related to the transition to a low-carbon economy, which may include extensive changes pertaining to policy, legal, technology, market and reputational risks, and (2) risks related to the physical impacts of climate change, typically driven by acute physical risk such as increased severity of extreme weather events (e.g., cyclones, hurricanes, floods) and chronic physical risk which are longer-term shifts in climate patterns (e.g., sea level rise, chronic heat waves). Such transition and physical risk events driven by climate change can have broad impact on our customers, operations, suppliers and business. 
 
 Climate-related risk is interconnected and overarching across all risk types as it may manifest as credit risk, operational risk, market risk, liquidity risk or other risk types. We continue to enhance our focus on climate-related risk within our risk governance framework. We are currently performing a risk identification process for climate-related risk to determine the meaningfulness and measurability of the risk. Furthermore, ESG risks, with an emphasis on climate-related risk, are currently identified as an “emerging risk” within our risk governance framework. 
 
+77 
+
 ## CRITICAL ACCOUNTING ESTIMATES
 
 Refer to Note 1 to the “Consolidated Financial Statements” for a summary of our significant accounting policies. Certain of our accounting policies requiring significant management assumptions and judgments are as follows: 
 
-## RESERVES FOR CARD MEMBER CREDIT LOSSES
+### RESERVES FOR CARD MEMBER CREDIT LOSSES
 
 Reserves for Card Member credit losses represent our best estimate of the expected credit losses in our outstanding portfolio of Card Member loans and receivables as of the balance sheet date. The CECL methodology, which became effective January 1, 2020, requires us to estimate lifetime expected credit losses by incorporating historical loss experience, as well as current and future economic conditions over a reasonable and supportable period (R&S Period) beyond the balance sheet date. 
 
@@ -5349,7 +5416,9 @@ Within the R&S Period, our models use past loss experience and current and futur
 
 CECL requires that the R&S Period include an assumption about current and future economic conditions. We incorporate multiple macroeconomic scenarios provided to us by an independent third party. The estimated credit losses calculated from each macroeconomic scenario are reviewed each period and weighted to reflect management's judgment about uncertainty surrounding these scenarios. These macroeconomic scenarios contain certain variables, including unemployment rates and real GDP, that are significant to our models. 
 
-_Macroeconomic Sensitivity_
+78 
+
+#### Macroeconomic Sensitivity
 
 To demonstrate the sensitivity of estimated credit losses to the macroeconomic scenarios, we compared our modeled estimates under a baseline scenario to that under a pessimistic downside scenario. As of December 31, 2022, for every 10 percentage points change in weighting from the baseline scenario to the pessimistic downside scenario, the estimated credit losses increased by approximately $120 million. 
 
@@ -5360,6 +5429,8 @@ In addition, this sensitivity analysis relates only to the modeled credit loss e
 Refer to Note 3 to the “Consolidated Financial Statements” for further information on the range of macroeconomic scenario key variables used, in conjunction with other inputs described above, to calculate reserves for Card Member credit losses. 
 
 The process of estimating these reserves requires a high degree of judgment. To the extent our expected credit loss models are not indicative of future performance, actual losses could differ significantly from our judgments and expectations, resulting in either higher or lower future provisions for credit losses in any period. 
+
+79 
 
 ## LIABILITY FOR MEMBERSHIP REWARDS
 
@@ -5381,31 +5452,35 @@ Goodwill represents the excess of acquisition cost of an acquired business over 
 
 We have the option to initially perform an assessment of qualitative factors in order to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying amount. The qualitative factors may include, but are not limited to, economic conditions, industry and market considerations, cost factors, overall financial performance of the reporting unit and other company and reporting unit-specific events. If we determine that it is more likely than not that the fair value of a reporting unit is less than its carrying amount, we then perform the impairment evaluation using a more detailed quantitative assessment. We could also directly perform this quantitative assessment for any reporting unit, bypassing the qualitative assessment. 
 
+80 
+
 Our methodology for conducting the quantitative goodwill impairment testing is fundamentally based on the measurement of fair value for our reporting units, which inherently entails the use of significant management judgment. For valuation, we use a combination of the income approach (discounted cash flows) and market approach (market multiples) in estimating the fair value of our reporting units. 
 
 When preparing discounted cash flow models under the income approach, we estimate future cash flows using the reporting unit’s internal multi-year forecast, and a terminal value calculated using a growth rate that we believe is appropriate in light of current and expected future economic conditions. To discount these cash flows we use our expected cost of equity, determined using a capital asset pricing model. When using the market method under the market approach, we apply comparable publicly traded companies’ multiples (e.g., earnings, revenues) to our reporting units’ operating results. The judgment in estimating forecasted cash flows, discount rates and market comparables is significant, and imprecision could materially affect the fair value of our reporting units. 
 
-We could be exposed to an increased risk of goodwill impairment if future operating results or macroeconomic conditions differ significantly from management’s current assumptions.
+We could be exposed to an increased risk of goodwill impairment if future operating results or macroeconomic conditions differ significantly from management’s current assumptions. 
 
 ## INCOME TAXES
 
 We are subject to the income tax laws of the United States, its states and municipalities and those of the foreign jurisdictions in which we operate. These tax laws are complex, and the manner in which they apply to the taxpayer’s facts is sometimes open to interpretation. In establishing a provision for income tax expense, we must make judgments about the application of inherently complex tax laws. 
 
-_Unrecognized Tax Benefits_
+### Unrecognized Tax Benefits
 
 We establish a liability for unrecognized tax benefits, which are the differences between a tax position taken or expected to be taken in a tax return and the benefit recognized in the financial statements. 
 
 In establishing a liability for an unrecognized tax benefit, assumptions may be made in determining whether, and the extent to which, a tax position should be sustained. A tax position is recognized only when it is more likely than not to be sustained upon examination by the relevant taxing authority, based on its technical merits. The amount of tax benefit recognized is the largest benefit that we believe is more likely than not to be realized on ultimate settlement. As new information becomes available, we evaluate our tax positions and adjust our unrecognized tax benefits, as appropriate. 
 
-Tax benefits ultimately realized can differ from amounts previously recognized due to uncertainties, with any such differences generally impacting the provision for income tax.
+Tax benefits ultimately realized can differ from amounts previously recognized due to uncertainties, with any such differences generally impacting the provision for income tax. 
 
-_Deferred Tax Asset Realization_
+### Deferred Tax Asset Realization
 
 Deferred tax assets and liabilities are determined based on the differences between the financial statement and tax bases of assets and liabilities using the enacted tax rates expected to be in effect for the years in which the differences are expected to reverse. 
 
 Since deferred taxes measure the future tax effects of items recognized in the Consolidated Financial Statements, certain estimates and assumptions are required to determine whether it is more likely than not that all or some portion of the benefit of a deferred tax asset will not be realized. In making this assessment, we analyze and estimate the impact of future taxable income, reversing temporary differences and available tax planning strategies. These assessments are performed quarterly, taking into account any new information. 
 
-Changes in facts or circumstances can lead to changes in the ultimate realization of deferred tax assets due to uncertainties.
+Changes in facts or circumstances can lead to changes in the ultimate realization of deferred tax assets due to uncertainties. 
+
+81 
 
 ## OTHER MATTERS
 
@@ -5413,7 +5488,7 @@ As previously disclosed, we identified during an internal review that over time 
 
 ## RECENTLY ISSUED AND ADOPTED ACCOUNTING STANDARDS
 
-Refer to the Recently Issued and Adopted Accounting Standards section of Note 1 to the “Consolidated Financial Statements.”
+Refer to the Recently Issued and Adopted Accounting Standards section of Note 1 to the “Consolidated Financial Statements.” 
 
 ## GLOSSARY OF SELECTED TERMINOLOGY
 
@@ -5438,6 +5513,8 @@ _Card Member receivables_ — Represents transactions on our card products and c
 _Cards-in-force_ — Represents the number of cards that are issued and outstanding by American Express (proprietary cards-in-force) and cards issued and outstanding under network partnership agreements with banks and other institutions, except for retail cobrand cards issued by network partners that had no outof-store spending activity during the prior twelve months. _Basic cards-in-force_ excludes supplemental cards issued on consumer accounts. Cards-in-force is useful in understanding the size of our Card Member base. 
 
 _Charge cards_ — Represents cards that generally carry no pre-set spending limits and are primarily designed as a method of payment and not as a means of financing purchases. Each charge card transaction is authorized based on its likely economics reflecting a Card Member’s most recent credit information and spend patterns. Charge Card Members must pay the full amount of balances billed each month, with the exception of balances that can be revolved under lending features offered on certain charge cards, such as Pay Over Time and Plan It, that allow Card Members to pay for eligible purchases with interest over time. 
+
+82 
 
 _Cobrand cards_ — Cards issued under cobrand agreements with selected commercial partners. Pursuant to the cobrand agreements, we make payments to our cobrand partners, which can be significant, based primarily on the amount of Card Member spending and corresponding rewards earned on such spending and, under certain arrangements, on the number of accounts acquired and retained. The partner is then liable for providing rewards to the Card Member under the cobrand partner’s own loyalty program. 
 
@@ -5471,15 +5548,15 @@ _Network volumes_ — Represents the total of billed business and processed volu
 
 _Operating expenses_ — Represents salaries and employee benefits, professional services, data processing and equipment, and other expenses. 
 
+83 
+
 _Processed revenue_ — Represents revenues related to network partnership agreements, comprising royalties, fees and amounts earned for facilitating transactions on cards issued by network partners. Processed revenue also includes fees earned on alternative payment solutions facilitated by American Express. 
 
 _Processed volumes_ — Represents transaction volumes (including cash advances) on cards issued under network partnership agreements with banks and other institutions, including joint ventures, as well as alternative payment solutions facilitated by American Express. 
 
 _Reserve build (release)_ — Represents the portion of the provisions for credit losses for the period related to increasing or decreasing reserves for credit losses as a result of, among other things, changes in volumes, macroeconomic outlook, portfolio composition and credit quality of portfolios. Reserve build represents the amount by which the provision for credit losses exceeds net write-offs, while reserve release represents the amount by which net write-offs exceed the provision for credit losses. 
 
-## T&E-related volume
-
-Represents spend on travel and entertainment, which primarily includes airline, cruise, lodging and dining merchant categories.
+_T&E-related volume_ — Represents spend on travel and entertainment, which primarily includes airline, cruise, lodging and dining merchant categories. 
 
 ## CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
 
@@ -5495,7 +5572,7 @@ This report includes forward-looking statements within the meaning of the Privat
 
 - future credit performance, the level of future delinquency, reserve and write-off rates and the amount and timing of future reserve builds and releases, which will depend in part on macroeconomic factors such as unemployment rates, GDP and the volume of bankruptcies; the ability and willingness of Card Members to pay amounts owed to us; changes in consumer behavior that affect loan and receivable balances (such as paydown and revolve rates); the enrollment in, and effectiveness of, financial relief programs and the performance of accounts as they exit from such programs; collections capabilities and recoveries of previously written-off loans and receivables; and governmental actions that provide forms of relief with respect to certain loans and fees, such as limiting debt collections efforts and encouraging or requiring extensions, modifications or forbearance; 
 
-- the actual amount we spend on marketing in the future, which will be based in part on continued changes in the macroeconomic and competitive environment and business performance; our ability to realize marketing efficiencies, optimize investment spending and drive increases in revenue; the effectiveness of management's investment optimization process, management’s identification and assessment of attractive investment opportunities and the receptivity of Card 
+- the actual amount we spend on marketing in the future, which will be based in part on continued changes in the macroeconomic and competitive environment and business performance; our ability to realize marketing efficiencies, optimize investment spending and drive increases in revenue; the effectiveness of management's investment optimization process, management’s identification and assessment of attractive investment opportunities and the receptivity of Card 85
 
    - Members and prospective customers to advertising and customer acquisition initiatives and our ability to balance expense control and investments in the business; 
 
@@ -5515,7 +5592,7 @@ This report includes forward-looking statements within the meaning of the Privat
 
 - our ability to expand merchant coverage globally and our success, as well as the success of OptBlue merchant acquirers and network partners, in signing merchants to accept American Express, which will depend on, among other factors, the value propositions offered to merchants and merchant acquirers for card acceptance, the awareness and willingness of Card Members to use American Express cards at merchants, scaling, marketing and expanding programs to increase card usage, identifying new-to-plastic industries and businesses as they form, working with commercial buyers and suppliers to establish B2B acceptance, increasing coverage in priority international cities and countries and key industry verticals, and executing on our plans in China and for continued technological developments, including capabilities that allow for greater digital integration and modernization of our authorization platform; 
 
-- our ability to stay on the leading edge of technology and digital payment and travel solutions, which will depend in part on our success in evolving our products and processes for the digital environment, developing new features in the Amex app and enhancing our digital channels, building partnerships and executing programs with other companies, effectively utilizing artificial intelligence and increasing automation to address servicing and other customer needs, and supporting the 
+- our ability to stay on the leading edge of technology and digital payment and travel solutions, which will depend in part on our success in evolving our products and processes for the digital environment, developing new features in the Amex app and enhancing our digital channels, building partnerships and executing programs with other companies, effectively utilizing artificial intelligence and increasing automation to address servicing and other customer needs, and supporting the 86
 
    - use of our products as a means of payment through online and mobile channels, all of which will be impacted by investment levels, new product innovation and development and infrastructure to support new products, services, benefits and partner integrations; 
 
@@ -5535,11 +5612,13 @@ This report includes forward-looking statements within the meaning of the Privat
 
 - factors beyond our control such as a further escalation of the war in Ukraine and other military conflicts, future waves of COVID-19 cases, the severity and contagiousness of new variants, severe weather conditions, natural disasters, power loss, disruptions in telecommunications, terrorism and other catastrophic events, any of which could significantly affect demand for and spending on American Express cards, delinquency rates, loan and receivable balances and other aspects of our business and results of operations or disrupt our global network systems and ability to process transactions. 
 
-A further description of these uncertainties and other risks can be found in “Risk Factors” above and our other reports filed with the SEC.
+A further description of these uncertainties and other risks can be found in “Risk Factors” above and our other reports filed with the SEC. 
+
+87 
 
 ## ITEM 7A.    QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
 
-Refer to “Risk Management” under “MD&A” for quantitative and qualitative disclosures about market risk.
+Refer to “Risk Management” under “MD&A” for quantitative and qualitative disclosures about market risk. 
 
 ## ITEM 8.    FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
 
@@ -5563,6 +5642,8 @@ Based on management’s assessment and those criteria, we conclude that, as of D
 
 PricewaterhouseCoopers LLP, our independent registered public accounting firm, has issued an audit report appearing on the following page on the effectiveness of our internal control over financial reporting as of December 31, 2022. 
 
+88 
+
 ## REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
 
 ## To the Board of Directors and Shareholders of American Express Company
@@ -5573,9 +5654,9 @@ We have audited the accompanying consolidated balance sheets of American Express
 
 In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the financial position of the Company as of December 31, 2022 and 2021, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2022 in conformity with accounting principles generally accepted in the United States of America. Also in our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of December 31, 2022, based on criteria established in _Internal Control - Integrated Framework_ (2013) issued by the COSO. 
 
-_Change in Accounting Principle_
+### Change in Accounting Principle
 
-As discussed in Note 1 to the consolidated financial statements, the Company changed the manner in which it accounts for credit losses on certain financial instruments in 2020.
+As discussed in Note 1 to the consolidated financial statements, the Company changed the manner in which it accounts for credit losses on certain financial instruments in 2020. 
 
 ### Basis for Opinions
 
@@ -5584,6 +5665,8 @@ The Company’s management is responsible for these consolidated financial state
 We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audits to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud, and whether effective internal control over financial reporting was maintained in all material respects. 
 
 Our audits of the consolidated financial statements included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements. Our audit of internal control over financial reporting included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. Our audits also included performing such other procedures as we considered necessary in the circumstances. We believe that our audits provide a reasonable basis for our opinions. 
+
+89 
 
 ### Definition and Limitations of Internal Control over Financial Reporting
 
@@ -5595,11 +5678,13 @@ Because of its inherent limitations, internal control over financial reporting m
 
 The critical audit matters communicated below are matters arising from the current period audit of the consolidated financial statements that were communicated or required to be communicated to the audit committee and that (i) relate to accounts or disclosures that are material to the consolidated financial statements and (ii) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate. 
 
-_Reserves for Credit Losses on Card Member Loans_
+### Reserves for Credit Losses on Card Member Loans
 
 As described in Note 3 to the consolidated financial statements, reserves for credit losses on Card Member loans represent management’s estimate of the expected credit losses in the Company’s outstanding portfolio of Card Member loans as of the balance sheet date. The reserves for credit losses on Card Member loans was $3.7 billion as of December 31, 2022. Management estimates lifetime expected credit losses by incorporating historical loss experience, as well as current and future economic conditions over a reasonable and supportable period (R&S Period) beyond the balance sheet date. As disclosed by management, in estimating expected credit losses, management uses a combination of statistically-based models that entail a significant amount of judgment. The primary areas of judgment used in measuring the quantitative components of the Company’s reserves relate to the determination of the appropriate R&S Period, the modeling of the probability of and exposure at default, and the methodology to incorporate current and future economic conditions. Management uses these models and assumptions, combined with historical loss experience, to determine the reserve rates that are applied to the outstanding loan balances to produce its reserves for expected credit losses. Within the R&S Period, the Company’s models use past loss experience and current and future economic conditions to estimate the probability of default, exposure at default and expected recoveries to estimate net losses at default. Beyond the R&S Period, expected credit losses are estimated by immediately reverting to long-term average loss rates. Management also estimates the likelihood and magnitude of recovery of previously written off loans considering how long ago the loan was written off and future economic conditions. Additionally, management evaluates whether to include qualitative reserves to cover losses that are expected but may not be adequately represented in the quantitative methods or the economic assumptions. The qualitative reserves address possible limitations within the models or factors not included within the models, such as external conditions, emerging portfolio trends, the nature and size of the portfolio, portfolio concentrations, the volume and severity of past due accounts, or management risk actions. 
 
 The principal considerations for our determination that performing procedures relating to the reserves for credit losses on Card Member loans is a critical audit matter are (i) the estimate of the reserves for credit losses on Card Member loans involved significant judgment by management, which in turn led to a high degree of auditor judgment, subjectivity and effort in performing procedures and evaluating audit evidence relating to the models, significant inputs, qualitative reserves, and significant assumptions, including the R&S Period and the loss rates used to estimate expected credit losses beyond the R&S Period and (ii) the audit effort involved the use of professionals with specialized skill and knowledge. 
+
+90 
 
 Addressing the matter involved performing procedures and evaluating audit evidence in connection with forming our overall opinion on the consolidated financial statements. These procedures included testing the effectiveness of controls relating to the reserves for credit losses on Card Member loans. These procedures also included, among others, testing management’s process for estimating the reserves for credit losses on Card Member loans through (i) evaluating the appropriateness of management’s methodology, (ii) testing the completeness and accuracy of significant inputs and (iii) evaluating the reasonableness of certain qualitative reserves and significant assumptions used to estimate the reserves. Professionals with specialized skill and knowledge were used to assist in evaluating the appropriateness of management’s methodology and the reasonableness of certain qualitative reserves and certain significant assumptions, including the R&S Period and the loss rates used to estimate expected credit losses beyond the R&S Period. 
 
@@ -5613,7 +5698,9 @@ Addressing the matter involved performing procedures and evaluating audit eviden
 
 /s/ PricewaterhouseCoopers LLP New York, New York February 10, 2023 
 
-We have served as the Company’s auditor since 2005.
+We have served as the Company’s auditor since 2005. 
+
+91 
 
 ## INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
 
@@ -6744,6 +6831,8 @@ We have served as the Company’s auditor since 2005.
   </tbody>
 </table>
 
+92 
+
 ## CONSOLIDATED STATEMENTS OF INCOME
 
 <table>
@@ -7215,7 +7304,11 @@ We have served as the Company’s auditor since 2005.
   </tbody>
 </table>
 
-See Notes to Consolidated Financial Statements.
+   - (a) Represents net income less (i) earnings allocated to participating share awards of $57 million, $56 million and $20 million for the years ended December 31, 2022, 2021 and 2020, respectively, (ii) dividends on preferred shares of $57 million, $71 million and $79 million for the years ended December 31, 2022, 2021 and 2020, respectively, and (iii) equity-related adjustments of $16 million related to the redemption of preferred shares for the year ended December 31, 2021.
+
+See Notes to Consolidated Financial Statements. 
+
+93 
 
 ## CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
 
@@ -7290,7 +7383,9 @@ See Notes to Consolidated Financial Statements.
   </tbody>
 </table>
 
-See Notes to Consolidated Financial Statements.
+See Notes to Consolidated Financial Statements. 
+
+94 
 
 ## CONSOLIDATED BALANCE SHEETS
 
@@ -7493,7 +7588,9 @@ See Notes to Consolidated Financial Statements.
   </tbody>
 </table>
 
-See Notes to Consolidated Financial Statements.
+See Notes to Consolidated Financial Statements. 
+
+95 
 
 ## CONSOLIDATED STATEMENTS OF CASH FLOWS
 
@@ -7856,7 +7953,11 @@ See Notes to Consolidated Financial Statements.
   </tbody>
 </table>
 
-See Notes to Consolidated Financial Statements.
+   - (a) Includes net gains and losses on fair value hedges, net gains and losses on Amex Ventures investments and changes in equity method investments.
+
+See Notes to Consolidated Financial Statements. 
+
+96 
 
 ## CONSOLIDATED STATEMENTS OF SHAREHOLDERS’ EQUITY
 
@@ -8273,7 +8374,11 @@ See Notes to Consolidated Financial Statements.
   </tbody>
 </table>
 
-See Notes to Consolidated Financial Statements.
+   - (a) Represents $1,170 million, net of tax of $288 million, related to the impact as of January 1, 2020 of adopting the Current Expected Credit Loss (CECL) methodology for the recognition of credit losses on certain financial instruments.
+
+See Notes to Consolidated Financial Statements. 
+
+97 
 
 ## NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
 
@@ -8284,6 +8389,8 @@ See Notes to Consolidated Financial Statements.
 ## THE COMPANY
 
 We are a globally integrated payments company, providing customers with access to products, insights and experiences that enrich lives and build business success. Our principal products and services are credit and charge card products, along with travel and lifestyle related services, offered to consumers and businesses around the world. Our various products and services are offered globally to diverse customer groups, including consumers, small businesses, midsized companies and large corporations. These products and services are offered through various channels, including mobile and online applications, affiliate marketing, customer referral programs, third-party service providers and business partners, direct mail, telephone, in-house sales teams, and direct response advertising. 
+
+Refer to Note 24 for additional discussion of the products and services that comprise each segment. Corporate functions and certain other businesses and operations are included in Corporate & Other. 
 
 ## PRINCIPLES OF CONSOLIDATION
 
@@ -8299,6 +8406,8 @@ Transactions conducted in currencies other than the applicable functional curren
 
 For subsidiaries where the functional currency is not the U.S. dollar, the monetary assets and liabilities and results of operations are translated for consolidation purposes into U.S. dollars at period-end rates for monetary assets and liabilities and generally at average rates for results of operations. The resulting translation adjustments, along with any related qualifying hedge and tax effects, are included in accumulated other comprehensive income (loss) (AOCI), a component of shareholders’ equity. Translation adjustments, including qualifying hedge and tax effects, are reclassified to earnings upon the sale or substantial liquidation of investments in foreign operations. 
 
+98 
+
 ## AMOUNTS BASED ON ESTIMATES AND ASSUMPTIONS
 
 Accounting estimates are an integral part of the Consolidated Financial Statements. These estimates are based, in part, on management’s assumptions concerning future events. Among the more significant assumptions are those that relate to reserves for Card Member credit losses on loans and receivables, Membership Rewards liability, goodwill and income taxes. These accounting estimates reflect the best judgment of management, but actual results could differ. 
@@ -8307,7 +8416,7 @@ Accounting estimates are an integral part of the Consolidated Financial Statemen
 
 Revenue is recognized when obligations under the terms of a contract with our customers are satisfied. We are not required to disclose revenue that is expected to be recognized in future periods related to contracts that have an original expected duration of one year or less and contracts with variable consideration (e.g., discount revenue). Non-interest revenue expected to be recognized in future periods related to all other contracts with customers is not material. 
 
-### Discount Revenue
+## Discount Revenue
 
 Discount revenue represents the amount we earn and retain from the merchant payable for facilitating transactions between Card Members and merchants on payment products issued by American Express. The amount of fees charged for accepting our cards as payment, or merchant discount, varies with, among other factors, the industry in which the merchant conducts business, the merchant’s overall American Express-related transaction volume, the method of payment, the settlement terms with the merchant, the method of submission of transactions and, in certain instances, the geographic scope of the card acceptance agreement between the merchant and us (e.g., local or global) and the transaction amount. Discount revenue is generally recorded at the time the Card Member transaction occurs. 
 
@@ -8326,6 +8435,8 @@ Service fees and other revenue includes service fees earned from merchants and o
 ## Processed Revenue
 
 Processed revenue primarily represents revenues related to network partnership agreements, comprising royalties, fees and amounts earned for facilitating transactions on cards issued by network partners. In our role as the operator of the American Express network, we settle with merchants and our third-party merchant acquirers on behalf of our network card issuing partners. The amount of fees charged for accepting American Express-branded cards is generally deducted from the payment to the merchant or third-party merchant acquirer and recorded as Processed revenue at the time the Card Member transaction occurs. Our network card issuing partners receive an issuer rate that is individually negotiated between that issuer and us and is recorded as contra-revenue within Processed revenue to the extent that there is revenue from the same customer, after which any additional issuer rate is recorded as expense in Business development. Processed revenue also includes fees related to alternative payment solutions, which are generally recognized when the service is performed. 
+
+99 
 
 ## Contra-revenue
 
@@ -8353,11 +8464,13 @@ Business development expense includes payments to our cobrand partners, corporat
 
 ## Card Member Services
 
-Card Member services expense represents costs incurred in providing our Card Members with various value-added benefits and services, which are generally expensed as incurred.
+Card Member services expense represents costs incurred in providing our Card Members with various value-added benefits and services, which are generally expensed as incurred. 
 
 ## Marketing
 
 Marketing expense includes costs incurred in the development and initial placement of advertising, which are expensed in the period in which the advertising first takes place. All other marketing expenses are generally expensed as incurred. 
+
+100 
 
 ## BALANCE SHEET
 
@@ -8381,7 +8494,11 @@ For the years ended December 31, 2022 and 2021, we performed a qualitative asses
 
 ## Premises and Equipment
 
+Premises and equipment, including leasehold improvements, are carried at cost less accumulated depreciation. Costs incurred during construction are capitalized and are depreciated once an asset is placed in service. Depreciation is generally computed using the straight-line method over the estimated useful lives of the assets, which range from 3 to 10 years for equipment, furniture and building improvements, and from 40 to 50 years for premises, which are depreciated based upon their estimated useful life at the acquisition date. 
+
 Certain costs associated with the acquisition or development of internal-use software are also capitalized and recorded in Premises and equipment. Once the specific software feature is ready for its intended use, these costs are amortized on a straight-line basis over the software’s estimated useful life, generally 5 years. We review these assets for impairment using the same impairment methodology used for our intangible assets. 
+
+101 
 
 Leasehold improvements are depreciated using the straight-line method over the lesser of the remaining term of the leased facility, or the economic life of the improvement, and range from 5 to 10 years. We recognize lease restoration obligations at the fair value of the restoration liabilities when incurred and amortize the restoration assets over the lease term. 
 
@@ -8452,11 +8569,17 @@ The following table identifies our other significant accounting policies, along 
 
 ## CLASSIFICATION OF VARIOUS ITEMS
 
-Certain reclassifications of prior period amounts have been made to conform to the current period presentation.
+Certain reclassifications of prior period amounts have been made to conform to the current period presentation. 
+
+102 
 
 ## RECENTLY ISSUED AND ADOPTED ACCOUNTING STANDARDS
 
+In March 2022, the Financial Accounting Standards Board issued new accounting guidance on troubled debt restructuring (TDR) and write-offs, effective January 1, 2023, with early adoption permitted. The amendments eliminate the existing TDR guidance for those entities that have adopted Update 2016-13, Financial Instruments - Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments, create a single loan modification accounting model and enhance disclosure requirements for loan modifications and write-offs. Beginning with the quarter ending March 31, 2023, our financial statements will reflect the adoption of this standard on a prospective basis. The updated guidance will not have a material impact to our Consolidated Financial Statements. 
+
 Effective January 1, 2020, we adopted the new credit reserving methodology, applicable to certain financial instruments, known as the Current Expected Credit Loss (CECL) methodology resulting in an increase in the reserves for total loans and receivables credit losses on adoption, which was recorded under a modified retrospective transition with an offset to the opening balance of retained earnings. Refer to Note 3 for how management estimates reserves for credit losses in accordance with the CECL methodology. 
+
+103 
 
 ## NOTE 2
 
@@ -8535,7 +8658,11 @@ Card Member and Other loans as of December 31, 2022 and 2021 consisted of:
   </tbody>
 </table>
 
-(a) Includes approximately $28.5 billion and $26.6 billion of gross Card Member loans available to settle obligations of a consolidated VIE as of December 31, 2022 and 2021, respectively.
+   - (a) Includes approximately $28.5 billion and $26.6 billion of gross Card Member loans available to settle obligations of a consolidated VIE as of December 31, 2022 and 2021, respectively.
+
+   - (b) Other loans represent consumer and commercial non-card financing products, and Small Business Administration Paycheck Protection Program (PPP) loans. There were $7 million and $36 million of gross PPP loans outstanding as of December 31, 2022 and 2021, respectively. Other loans are presented net of reserves for credit losses of $59 million and $52 million as of December 31, 2022 and 2021, respectively.
+
+104 
 
 ## CARD MEMBER RECEIVABLES
 
@@ -8600,7 +8727,9 @@ Card Member receivables as of December 31, 2022 and 2021 consisted of:
   </tbody>
 </table>
 
-(a) Includes $5.2 billion of gross Card Member receivables available to settle obligations of a consolidated VIE as of both December 31, 2022 and 2021.
+   - (a) Includes $5.2 billion of gross Card Member receivables available to settle obligations of a consolidated VIE as of both December 31, 2022 and 2021.
+
+105 
 
 ## CARD MEMBER LOANS AND RECEIVABLES AGING
 
@@ -8881,6 +9010,10 @@ Generally, a Card Member account is considered past due if payment due is not re
 
    - (a) For corporate accounts, delinquency data is tracked based on days past billing status rather than days past due. A Card Member account is considered 90 days past billing if payment has not been received within 90 days of the Card Member’s billing statement date. In addition, if we initiate collection procedures on an account prior to the account becoming 90 days past billing, the associated Card Member loan or receivable balance is classified as 90 days past billing. These amounts are shown above as 90+ Days Past Due for presentation purposes. See also (b).
 
+   - (b) Delinquency data for periods other than 90+ days past billing is not available due to system constraints. Therefore, such data has not been utilized for risk management purposes. The balances that are current to 89 days past due can be derived as the difference between the Total and the 90+ Days Past Due balances.
+
+106 
+
 ## CREDIT QUALITY INDICATORS FOR CARD MEMBER LOANS AND RECEIVABLES
 
 The following tables present the key credit quality indicators as of or for the years ended December 31: 
@@ -8986,9 +9119,11 @@ The following tables present the key credit quality indicators as of or for the 
 
    - (b) Net write-off rate based on principal losses only is not available due to system constraints.
 
+   - (c) For corporate receivables, delinquency data is tracked based on days past billing status rather than days past due. Delinquency data for periods other than 90+ days past billing is not available due to system constraints. 90+ days past billing as a % of total was 0.6% and 0.3% as of December 31, 2022 and 2021, respectively.
+
    - (d) The net write-off rate for the year ended December 31, 2021 includes a $37 million partial recovery in Card Member receivables related to a corporate client bankruptcy, which had resulted in a write-off in the year ended December 21, 2020.
 
-Refer to Note 3 for additional indicators, including external environmental qualitative factors, management considers in its evaluation process for reserves for credit losses.
+Refer to Note 3 for additional indicators, including external environmental qualitative factors, management considers in its evaluation process for reserves for credit losses. 
 
 ## IMPAIRED LOANS AND RECEIVABLES
 
@@ -8999,6 +9134,10 @@ In instances where the customer is experiencing financial difficulty, we may mod
 Such modifications to the loans and receivables primarily include (i) temporary interest rate reductions (possibly as low as zero percent, in which case the loan is characterized as non-accrual in our TDR disclosures), (ii) placing the customer on a fixed payment plan not to exceed 60 months and (iii) suspending delinquency fees until the customer exits the modification program. Upon entering the modification program, the customer’s ability to make future purchases is either limited, canceled, or in certain cases suspended until the customer successfully exits from the modification program. In accordance with the modification agreement with the customer, loans and/or receivables may revert back to the original contractual terms (including the contractual interest rate where applicable) when the customer exits the modification program, which is (i) when all payments have been made in accordance with the modification agreement or (ii) when the customer defaults out of the modification program. 
 
 Reserves for modifications deemed TDRs are measured individually and incorporate a discounted cash flow model. All changes in the impairment measurement are included within provisions for credit losses. 
+
+107 
+
+The following tables provide additional information with respect to our impaired loans and receivables as of December 31, 2022, 2021 and 2020: 
 
 <table>
   <thead>
@@ -9332,6 +9471,8 @@ Reserves for modifications deemed TDRs are measured individually and incorporate
   </tbody>
 </table>
 
+108 
+
 <table>
   <thead>
     <tr>
@@ -9533,7 +9674,9 @@ Reserves for modifications deemed TDRs are measured individually and incorporate
 
    - (f) Other loans primarily represent consumer and commercial non-card financing products.
 
-### LOANS AND RECEIVABLES MODIFIED AS TDRs
+109 
+
+## LOANS AND RECEIVABLES MODIFIED AS TDRs
 
 The following tables provide additional information with respect to loans and receivables that were modified as TDRs during the years ended December 31: 
 
@@ -9712,6 +9855,8 @@ The following tables provide additional information with respect to loans and re
 
    - (d) Other loans primarily represent consumer and commercial non-card financing products.
 
+110 
+
 The following tables provide information with respect to loans and receivables modified as TDRs that subsequently defaulted within twelve months of modification. A customer can miss up to three payments before being considered in default, depending on the terms of the modification program. 
 
 <table>
@@ -9823,11 +9968,13 @@ The following tables provide information with respect to loans and receivables m
 
    - (a) The outstanding balances upon default include principal, fees and accrued interest on loans, and principal and fees on receivables.
 
-(b) Other loans primarily represent consumer and commercial non-card financing products.
+   - (b) Other loans primarily represent consumer and commercial non-card financing products.
 
-### NOTE 3
+111 
 
-### RESERVES FOR CREDIT LOSSES
+## NOTE 3
+
+## RESERVES FOR CREDIT LOSSES
 
 Reserves for credit losses represent our best estimate of the expected credit losses in our outstanding portfolio of Card Member loans and receivables as of the balance sheet date. The CECL methodology requires us to estimate lifetime expected credit losses by incorporating historical loss experience, as well as current and future economic conditions over a reasonable and supportable period (R&S Period), which is approximately three years, beyond the balance sheet date. We make various judgments combined with historical loss experience to determine a reserve rate that is applied to the outstanding loan or receivable balance to produce a reserve for expected credit losses. 
 
@@ -9848,6 +9995,8 @@ We also evaluate whether to include qualitative reserves to cover losses that ar
 Lifetime losses for most of our loans and receivables are evaluated at an appropriate level of granularity, including assessment on a pooled basis where financial assets share similar risk characteristics, such as past spend and remittance behaviors, credit bureau scores where available, delinquency status, tenure of balance outstanding, amongst others. Credit losses on accrued interest are measured and presented as part of Reserves for credit losses on the Consolidated Balance Sheets and within the Provisions for credit losses in the Consolidated Statements of Income, rather than reversing interest income. Separate models are used for accounts deemed a troubled debt restructuring, which are measured individually and incorporate a discounted cash flow model. See Note 2 for information on troubled debt restructurings. 
 
 Loans and receivable balances are written off when we consider amounts to be uncollectible, which is generally determined by the number of days past due and is typically no later than 180 days past due for pay in full or revolving loans and 120 days past due for term loans. Loans and receivables in bankruptcy or owed by deceased individuals are generally written off upon notification. 
+
+112 
 
 The following table reflects the range of macroeconomic scenario key variables used, in conjunction with other inputs, to calculate reserves for credit losses: 
 
@@ -9890,7 +10039,7 @@ The following table reflects the range of macroeconomic scenario key variables u
 
    - (a) Real GDP quarter over quarter percentage change seasonally adjusted to annualized rates.
 
-### CHANGES IN CARD MEMBER LOANS RESERVE FOR CREDIT LOSSES
+## CHANGES IN CARD MEMBER LOANS RESERVE FOR CREDIT LOSSES
 
 Card Member loans reserve for credit losses increased for the year ended December 31, 2022, primarily driven by an increase in loans outstanding, higher delinquencies and changes in macroeconomic forecasts, partially offset by the release of COVID-19 pandemic-driven reserves. 
 
@@ -9971,9 +10120,13 @@ The following table presents changes in the Card Member loans reserve for credit
 
    - (a) Provisions for principal, interest and fee reserve components. Provisions for credit losses includes reserve build (release) and replenishment for net write-offs.
 
+   - (b) Principal write-offs are presented less recoveries of $539 million, $657 million and $568 million for the years ended December 31, 2022, 2021 and 2020, respectively. Recoveries of interest and fees were not significant. Amounts include net (write-offs) recoveries from TDRs of $(209) million, $(171) million and $(134) million for the years ended December 31, 2022, 2021 and 2020, respectively.
+
    - (c) Primarily includes foreign currency translation adjustments of $(6) million for both the years ended December 31, 2022 and 2021, and $35 million for the year ended December 31, 2020.
 
-### CHANGES IN CARD MEMBER RECEIVABLES RESERVE FOR CREDIT LOSSES
+113 
+
+## CHANGES IN CARD MEMBER RECEIVABLES RESERVE FOR CREDIT LOSSES
 
 Card Member receivables reserve for credit losses increased for the year ended December 31, 2022, primarily driven by higher delinquencies and growth in receivables outstanding. 
 
@@ -10028,11 +10181,13 @@ The following table presents changes in the Card Member receivables reserve for 
 
    - (b) Net write-offs are presented less recoveries of $257 million, $378 million and $386 million for the years ended December 31, 2022, 2021 and 2020, respectively. Amounts include net recoveries (write-offs) from TDRs of $(73) million, $(64) million and $(47) million, for the years ended December 31, 2022, 2021 and 2020, respectively.
 
-(c) Primarily includes foreign currency translation adjustments of $2 million, $(1) million and $5 million for the years ended December 31, 2022, 2021 and 2020, respectively.
+   - (c) Primarily includes foreign currency translation adjustments of $2 million, $(1) million and $5 million for the years ended December 31, 2022, 2021 and 2020, respectively.
 
-### NOTE 4
+114 
 
-### INVESTMENT SECURITIES
+## NOTE 4
+
+## INVESTMENT SECURITIES
 
 Investment securities principally include available-for-sale debt securities carried at fair value on the Consolidated Balance Sheets. The methodology for estimating credit losses for available for sale debt securities requires us to estimate lifetime credit losses for all available-for-sale debt securities in an unrealized loss position. When estimating a security’s probability of default and the recovery rate, we assess the security’s credit indicators, including credit ratings. If our assessment indicates that an estimated credit loss exists, we determine the portion of the unrealized loss attributable to credit deterioration and record a reserve for the estimated credit loss through the Consolidated Statements of Income in Other loans Provision for credit losses. Unrealized gains and any portion of a security’s unrealized loss attributable to non-credit losses are recorded in the Consolidated Statements of Comprehensive Income, net of tax. We had accrued interest on our available-for-sale debt securities totaling $12 million as of both December 31, 2022 and 2021, presented as Other assets on the Consolidated Balance Sheets. 
 
@@ -10363,6 +10518,8 @@ The following table provides information about our available-for-sale debt secur
 
 The gross unrealized losses on our available-for-sale debt securities are primarily attributable to an increase in the current benchmark interest rate. Overall, for the available-for-sale debt securities in gross unrealized loss positions, (i) we do not intend to sell the securities, (ii) it is more likely than not that we will not be required to sell the securities before recovery of the unrealized losses, and (iii) we expect that the contractual principal and interest will be received on the securities. We concluded that there was no credit loss attributable to the securities in an unrealized loss position for the periods presented. 
 
+115 
+
 The following table summarizes the gross unrealized losses for available-for-sale debt securities by ratio of fair value to amortized cost as of December 31, 2022 and 2021: 
 
 <table>
@@ -10664,9 +10821,11 @@ Weighted average yields and contractual maturities for available-for-sale debt s
 
    - (d) Average yields for investment securities have been calculated using the effective yield on the date of purchase. Yields on tax-exempt investment securities have been computed on a taxequivalent basis using the U.S. federal statutory tax rate of 21 percent.
 
-### NOTE 5
+116 
 
-### ASSET SECURITIZATIONS
+## NOTE 5
+
+## ASSET SECURITIZATIONS
 
 We periodically securitize Card Member loans and receivables arising from our card businesses through the transfer of those assets to securitization trusts, American Express Credit Account Master Trust (the Lending Trust) and American Express Issuance Trust II (the Charge Trust and together with the Lending Trust, the Trusts). The Trusts then issue debt securities collateralized by the transferred assets to third-party investors. 
 
@@ -10678,9 +10837,11 @@ Restricted cash and cash equivalents held by the Lending Trust was $59 million a
 
 Under the respective terms of the Lending Trust and the Charge Trust agreements, the occurrence of certain triggering events associated with the performance of the assets of each Trust could result in payment of trust expenses, establishment of reserve funds, or, in a worst-case scenario, early amortization of debt securities. During the years ended December 31, 2022 and 2021, no such triggering events occurred. 
 
-### NOTE 6
+117 
 
-### OTHER ASSETS
+## NOTE 6
+
+## OTHER ASSETS
 
 The following is a summary of Other assets as of December 31: 
 
@@ -10727,9 +10888,9 @@ The following is a summary of Other assets as of December 31:
   </tbody>
 </table>
 
-(a) Primarily includes net deferred tax assets, other receivables net of reserves, investments in non-consolidated entities, prepaid assets, tax credit investments and right-of-use lease assets.
+   - (a) Primarily includes net deferred tax assets, other receivables net of reserves, investments in non-consolidated entities, prepaid assets, tax credit investments and right-of-use lease assets.
 
-### GOODWILL
+## GOODWILL
 
 The changes in the carrying amount of goodwill reported in our reportable operating segments were as follows: 
 
@@ -10854,7 +11015,7 @@ The changes in the carrying amount of goodwill reported in our reportable operat
 
 During the year ended December 31, 2022, we performed a quantitative goodwill impairment assessment for those reporting units which were impacted by the realignment of our operating segments and concluded that their fair values exceeded their carrying values. Accumulated impairment losses were $221 million as of both December 31, 2022 and 2021. 
 
-### OTHER INTANGIBLE ASSETS
+## OTHER INTANGIBLE ASSETS
 
 Intangible assets are amortized on a straight-line basis over their estimated useful lives of 1 to 22 years. We review long-lived assets and asset groups, including intangible assets, for impairment whenever events and circumstances indicate their carrying amounts may not be recoverable. An impairment is recognized if the carrying amount is not recoverable and exceeds the asset or asset group’s fair value. 
 
@@ -10862,7 +11023,9 @@ The gross carrying amount for other intangible assets as of December 31, 2022 an
 
 Amortization expense was $51 million, $57 million and $54 million for the years ended December 31, 2022, 2021 and 2020, respectively. For other intangible assets on the Consolidated Balance Sheets as of December 31, 2022, amortization expense is expected to be $49 million in 2023, $44 million in 2024, $20 million in 2025, $10 million in 2026, $9 million in 2027 and $14 million thereafter. 
 
-### TAX CREDIT INVESTMENTS
+118 
+
+## TAX CREDIT INVESTMENTS
 
 We account for our qualified affordable housing (QAH) investments using the proportional amortization method (PAM), which we elected to implement on January 1, 2021 on a prospective basis, and other tax credit investments using the equity method of accounting. As of December 31, 2022 and 2021, we had $1,207 million and $1,124 million in tax credit investments, respectively, included in Other assets on the Consolidated Balance Sheets, of which $1,146 million and $1,084 million, respectively, related to QAH investments. Included in QAH investments as of December 31, 2022 and 2021, we had $980 million and $994 million, respectively, related to investments in unconsolidated VIEs for which we do not have a controlling financial interest. 
 
@@ -10872,9 +11035,11 @@ In addition, as of December 31, 2022 we had contractual off-balance sheet obliga
 
 During the years ended December 31, 2022 and 2021, we recognized QAH investment losses of $161 million and $226 million, respectively, with associated tax credits of $141 million and $135 million, respectively, in Income tax provision. During the year ended December 31, 2020 we recognized QAH investment equity method losses of $128 million, in Other, net expenses, with associated tax credits of $129 million, recognized in Income tax provision. 
 
-### NOTE 7
+119 
 
-### CUSTOMER DEPOSITS
+## NOTE 7
+
+## CUSTOMER DEPOSITS
 
 As of December 31, customer deposits were categorized as interest-bearing or non-interest-bearing as follows: 
 
@@ -10993,6 +11158,8 @@ As of December 31, customer deposits were categorized as interest-bearing or non
   </tbody>
 </table>
 
+The scheduled maturities of certificates of deposit as of December 31, 2022 were as follows: 
+
 <table>
   <thead>
     <tr>
@@ -11071,11 +11238,13 @@ As of December 31, certificates of deposit in denominations of $250,000 or more,
   </tbody>
 </table>
 
+120 
+
 ## NOTE 8
 
-### DEBT
+## DEBT
 
-### SHORT-TERM BORROWINGS
+## SHORT-TERM BORROWINGS
 
 Our short-term borrowings outstanding, defined as borrowings with original contractual maturity dates of less than one year, as of December 31 were as follows: 
 
@@ -11131,11 +11300,17 @@ Our short-term borrowings outstanding, defined as borrowings with original contr
   </tbody>
 </table>
 
+   - (a) For floating-rate issuances, the stated interest rates are weighted based on the outstanding principal balances and interest rates in effect as of December 31, 2022 and 2021.
+
    - (b) Includes borrowings from banks and book overdrafts with banks due to timing differences arising in the ordinary course of business.
+
+We maintained a three-year committed, revolving, secured borrowing facility that gives us the right to sell up to $2.0 billion face amount of eligible certificates issued from the Lending Trust at any time through September 16, 2024. The facility was undrawn as of both December 31, 2022 and 2021. Additionally, certain of our subsidiaries maintained total committed lines of credit of $186 million and $145 million as of December 31, 2022 and 2021, respectively. As of December 31, 2022 and 2021, $20.9 million and $7.2 million were drawn on these committed lines, respectively. 
 
 We paid $7.8 million in fees to maintain the secured borrowing facility in both 2022 and 2021. The committed facility does not contain a material adverse change clause, which might otherwise preclude borrowing under the facility, nor is it dependent on our credit rating. 
 
-### LONG-TERM DEBT
+121 
+
+## LONG-TERM DEBT
 
 Our long-term debt outstanding, defined as debt with original contractual maturity dates of one year or greater, as of December 31 was as follows: 
 
@@ -11428,6 +11603,8 @@ Our long-term debt outstanding, defined as debt with original contractual maturi
 
    - (c) Interest rates with swaps are only presented when swaps are in place to hedge the underlying debt. The interest rates with swaps are weighted based on the outstanding principal balances and the interest rates on the floating leg of the swaps in effect as of December 31, 2022 and 2021.
 
+122 
+
 Aggregate annual maturities on long-term debt obligations (based on contractual maturity or anticipated redemption dates) as of December 31, 2022 were as follows: 
 
 <table>
@@ -11643,9 +11820,11 @@ We paid $14.1 million and $15.7 million in fees to maintain these lines in 2022 
 
 We paid total interest, primarily related to short- and long-term debt, corresponding interest rate swaps and customer deposits, of $2.2 billion, $1.1 billion and $2.0 billion in 2022, 2021 and 2020, respectively. 
 
-### NOTE 9
+123 
 
-### OTHER LIABILITIES
+## NOTE 9
+
+## OTHER LIABILITIES
 
 The following is a summary of Other liabilities as of December 31: 
 
@@ -11718,13 +11897,13 @@ The following is a summary of Other liabilities as of December 31:
 
    - (d) Primarily includes negative cash balances for accounts without an associated overdraft credit facility, Travelers Cheques and other prepaid products, lease liabilities, accruals for general operating expenses, payments to cobrand partners, client incentives and dividends payable.
 
-### MEMBERSHIP REWARDS
+## MEMBERSHIP REWARDS
 
 The Membership Rewards program allows enrolled Card Members to earn points that can be redeemed for a broad variety of rewards including, but not limited to, travel, shopping, gift cards, and covering eligible charges. We record a Membership Rewards liability that represents management’s best estimate of the cost of points earned that are expected to be redeemed by Card Members in the future. The weighted average cost (WAC) per point and the Ultimate Redemption Rate (URR) are key assumptions used to estimate the liability. We use statistical and actuarial models to estimate the URR based on redemption trends, card product type, enrollment tenure, card spend levels and credit attributes. The WAC per point assumption is derived from 12 months of redemptions and is adjusted as appropriate for certain changes in redemption costs that are not representative of future cost expectations and expected developments in redemption patterns. 
 
 The expense for Membership Rewards points is included in Card Member rewards expense. We periodically evaluate our liability estimation process and assumptions based on developments in redemption patterns, cost per point redeemed, partner contract changes and other factors. 
 
-### DEFERRED CARD AND OTHER FEES, NET
+## DEFERRED CARD AND OTHER FEES, NET
 
 The carrying amount of deferred card and other fees, net of deferred direct acquisition costs and reserves for membership cancellations, as of December 31, 2022 was as follows: 
 
@@ -11765,13 +11944,15 @@ The carrying amount of deferred card and other fees, net of deferred direct acqu
   </tbody>
 </table>
 
-(a) Includes deferred fees for Membership Rewards program participants.
+   - (a) Includes deferred fees for Membership Rewards program participants.
 
-### NOTE 10
+124 
 
-### STOCK-BASED COMPENSATION
+## NOTE 10
 
-### STOCK OPTION AND AWARD PROGRAMS
+## STOCK-BASED COMPENSATION
+
+## STOCK OPTION AND AWARD PROGRAMS
 
 Under our 2016 Incentive Compensation Plan (amended and restated effective May 5, 2020) and previously under our 2007 Incentive Compensation Plan (collectively, Incentive Compensation Plans), awards may be granted to employees and other key individuals who perform services for us and our participating subsidiaries. These awards may be in the form of stock options, restricted stock units or awards (collectively referred to as RSUs) or other incentives or similar awards designed to meet the requirements of non-U.S. jurisdictions. 
 
@@ -11930,7 +12111,7 @@ A summary of stock option and RSU activity as of December 31, 2022, and correspo
 
 Stock-based compensation expense is generally recognized ratably based on the grant-date fair value of the awards, net of expected forfeitures, over the vesting period. Generally, the vesting period is the shorter of the vesting schedule as defined in each award agreement or the date an individual will become eligible to retire. Retirement eligibility is dependent upon age and/or years of service. 
 
-### STOCK OPTIONS
+## STOCK OPTIONS
 
 Each stock option has an exercise price equal to the market price of our common stock on the date of grant. Stock options generally vest on the third anniversary of the grant date and have a contractual term of 10 years from the date of grant. 
 
@@ -11989,7 +12170,7 @@ The fair value of options without market conditions is estimated on the date of 
 
    - (b) The expected life of stock options was determined using both historical data and expectations of option exercise behavior.
 
-Certain executives were awarded a grant of stock options on October 31, 2022 that vest, subject to achieving performance and market conditions. These options vest in tranches on the third and fourth anniversaries from the grant date, subject to continued employment through the applicable anniversary, and have a contractual term of seven years. The fair value was estimated at the 
+Certain executives were awarded a grant of stock options on October 31, 2022 that vest, subject to achieving performance and market conditions. These options vest in tranches on the third and fourth anniversaries from the grant date, subject to continued employment through the applicable anniversary, and have a contractual term of seven years. The fair value was estimated at the 125
 
 grant date using a Monte Carlo valuation model assuming a dividend yield of 1.4 percent, expected volatility (based on both weighted historical and implied volatilities of our common stock price) of 34 percent, risk-free rate of 3.9 percent and an expected life of seven years, resulting in a fair value of $50.10. 
 
@@ -12024,7 +12205,7 @@ As of December 31, 2022, there was $46 million of total unrecognized compensatio
 
 For stock options that were exercised during 2022, 2021 and 2020, the intrinsic value, based upon the fair value of our stock price at the date the options were exercised, was $56 million, $86 million and $47 million, respectively; cash received by the Company from the exercise of stock options was $56 million, $64 million and $44 million during those respective periods. The income tax benefit recognized in the Consolidated Statements of Income related to stock option exercises was $9 million, $14 million and $7 million in 2022, 2021 and 2020, respectively. 
 
-### RESTRICTED STOCK UNITS/AWARDS
+## RESTRICTED STOCK UNITS/AWARDS
 
 We grant RSUs that contain either a) service conditions or b) both service and performance conditions. RSUs containing only service conditions generally vest ratably over three years, or four years for awards granted prior to 2022, beginning with the first anniversary of the grant date. RSUs containing both service and performance conditions generally vest on the third anniversary of the grant date, and the number of shares earned depends on the achievement of predetermined Company metrics. RSU holders receive dividend equivalents or dividends. 
 
@@ -12073,29 +12254,37 @@ The fair value of RSUs that do not include the r-TSR modifier, including those t
 
 As of December 31, 2022, there was $247 million of total unrecognized compensation cost related to non-vested RSUs, which will be recognized over the weighted-average remaining vesting period of 1.7 years. 
 
-### LIABILITY-BASED AWARDS
+The weighted-average grant date fair value of RSUs granted in 2022, 2021 and 2020 was $168.26, $123.66 and $124.47, respectively. 
+
+For RSUs vested during 2022, 2021 and 2020, the total fair value, based upon our stock price at the date the RSUs vested, was $323 million, $227 million and $291 million, respectively. 
+
+## LIABILITY-BASED AWARDS
 
 Other incentive awards can be settled with cash or equity shares at our discretion and final Compensation and Benefits Committee approval. These awards are generally settled with cash and thus are classified as liabilities; therefore, the fair value is determined at the date of grant and remeasured quarterly as part of compensation expense over the vesting period. Cash paid upon vesting of these awards in 2022, 2021 and 2020 was $50 million, $53 million and $81 million, respectively. 
 
-### NOTE 11
+126 
 
-### RETIREMENT PLANS
+## NOTE 11
 
-### DEFINED CONTRIBUTION RETIREMENT PLANS
+## RETIREMENT PLANS
+
+## DEFINED CONTRIBUTION RETIREMENT PLANS
 
 We sponsor defined contribution retirement plans, the principal plan being the Retirement Savings Plan (RSP), a 401(k) savings plan with a profit-sharing component. The RSP is a tax-qualified retirement plan subject to the Employee Retirement Income Security Act of 1974 and covers most employees in the United States. The total expense for all defined contribution retirement plans globally was $259 million, $269 million and $267 million in 2022, 2021 and 2020, respectively. 
 
-### DEFINED BENEFIT PENSION AND OTHER POSTRETIREMENT BENEFIT PLANS
+## DEFINED BENEFIT PENSION AND OTHER POSTRETIREMENT BENEFIT PLANS
 
 Our primary defined benefit pension plans that cover certain employees in the United States and United Kingdom are closed to new entrants and existing participants do not accrue any additional benefits. Some employees outside the United States and United Kingdom are covered by local retirement plans, some of which are funded, while other employees receive payments at the time of retirement or termination under applicable labor laws or agreements. We comply with minimum funding requirements in all countries. We also sponsor unfunded other postretirement benefit plans that provide health care and life insurance to certain retired U.S. employees. For these plans, the total net benefit was $24 million, $26 million and $8 million in 2022, 2021 and 2020, respectively. 
 
 We recognize the funded status of our defined benefit pension plans and other postretirement benefit plans, measured as the difference between the fair value of the plan assets and the projected benefit obligation, on the Consolidated Balance Sheets. As of December 31, 2022 and 2021, the unfunded status related to the defined benefit pension plans and other postretirement benefit plans was $278 million and $414 million, respectively, and is recorded in Other liabilities. 
 
-### NOTE 12
+127 
 
-### CONTINGENCIES AND COMMITMENTS
+## NOTE 12
 
-### CONTINGENCIES
+## CONTINGENCIES AND COMMITMENTS
+
+## CONTINGENCIES
 
 In the ordinary course of business, we and our subsidiaries are subject to various pending and potential legal actions, arbitration proceedings, claims, investigations, examinations, regulatory proceedings, information gathering requests, subpoenas, inquiries and matters relating to compliance with laws and regulations (collectively, legal proceedings). 
 
@@ -12103,7 +12292,13 @@ Based on our current knowledge, and taking into consideration our litigation-rel
 
 On February 25, 2020, we were named as a defendant in a case filed in the Superior Court of California, Los Angeles County, captioned Laurelwood Cleaners LLC v. American Express Co., et al., in which the plaintiff seeks a public injunction in California prohibiting American Express from enforcing its anti-steering and non-discrimination provisions and from requiring merchants “to offer the service of Amex-card acceptance for free.” The case has been stayed pending the outcome of arbitration proceedings. 
 
+On January 29, 2019, we were named in a putative class action brought in the United States District Court for the Eastern District of New York, captioned Anthony Oliver, et al. v. American Express Company and American Express Travel Related Services Company Inc., in which the plaintiffs are holders of MasterCard, Visa and/or Discover credit cards (but not American Express cards) and allege they paid higher prices as a result of our anti-steering and nondiscrimination provisions in violation of federal antitrust law and the antitrust and consumer laws of various states. Plaintiffs seek unspecified damages and other forms of relief. The court dismissed plaintiffs’ federal antitrust claim, numerous state antitrust and consumer protection claims and their unjust enrichment claim. The remaining claims in plaintiffs’ complaint arise under the antitrust laws of 11 states and the consumer protection laws of six states. 
+
+On March 8, 2016, plaintiffs B&R Supermarket, Inc. d/b/a Milam’s Market and Grove Liquors LLC, on behalf of themselves and others, filed a suit, captioned B&R Supermarket, Inc. d/b/a Milam’s Market, et al. v. Visa Inc., et al., for violations of the Sherman Antitrust Act, the Clayton Antitrust Act, California’s Cartwright Act and unjust enrichment in the United States District Court for the Northern District of California, against American Express Company, other credit and charge card networks, other issuing banks and EMVCo, LLC. Plaintiffs allege that the defendants, through EMVCo, conspired to shift liability for fraudulent, faulty and otherwise rejected consumer credit card transactions from themselves to merchants after the implementation of EMV chip payment terminals. Plaintiffs seek damages and injunctive relief. An amended complaint was filed on July 15, 2016. On September 30, 2016, the court denied our motion to dismiss as to claims brought by merchants who do not accept American Express cards, and on May 4, 2017, the California court transferred the case to the United States District Court for the Eastern District of New York. On August 28, 2020, the court granted plaintiffs' motion for class certification. 
+
 In July 2004, we were named as a defendant in a putative class action filed in the Southern District of New York and subsequently transferred to the Eastern District of New York, captioned The Marcus Corporation v. American Express Co., et al., in which the plaintiffs allege an unlawful antitrust tying arrangement between certain of our charge cards and credit cards in violation of various state and federal laws. The plaintiffs in this action seek injunctive relief and an unspecified amount of damages. 
+
+128 
 
 In 2006, Mawarid Investments Limited filed a request for confidential arbitration under the 1998 London Court of International Arbitration Rules in connection with certain claims arising under a shareholders agreement between Mawarid and TRS relating to a joint venture between the parties, Amex (Middle East) BSC(c) (AEME). In 2008, the tribunal rendered a partial award, including a direction that an audit should take place to verify whether acquirer discount revenue related to transactions occurring with airlines located in the Middle East region had been properly allocated to AEME since its inception in 1992. In September 2021, the tribunal rendered a further partial award regarding the location of transactions through non-physical channels. In May 2022, the tribunal further clarified the 2021 partial award and the discount rate that should apply to transactions through non-physical channels. A final award is now expected in 2023. 
 
@@ -12117,7 +12312,11 @@ We have accrued for certain of our outstanding legal proceedings. An accrual is 
 
 For those disclosed legal proceedings where a loss is reasonably possible in future periods, whether in excess of a recorded accrual for legal or tax contingencies, or where there is no such accrual, and for which we are able to estimate a range of possible loss, the current estimated range is zero to $200 million in excess of any accruals related to those matters. This range represents management’s estimate based on currently available information and does not represent our maximum loss exposure; actual results may vary significantly. As such legal proceedings evolve, we may need to increase our range of possible loss or recorded accruals. In addition, it is possible that significantly increased merchant steering or other actions impairing the Card Member experience as a result of an adverse resolution in one or any combination of the disclosed merchant cases could have a material adverse effect on our business and results of operations. 
 
-### COMMITMENTS
+129 
+
+## COMMITMENTS
+
+Total lease expense includes rent expenses, adjustments for rent concessions, rent escalations and leasehold improvement allowances and is recognized on a straight-line basis over the lease term. Total lease expense for the years ended December 31, 2022, 2021 and 2020 was $188 million, $161 million and $177 million, respectively. 
 
 Lease liabilities are recognized at the present value of the contractual fixed lease payments, discounted using our incremental borrowing rate as of the lease commencement date or upon modification of the lease. For lease liabilities outstanding as of December 31, 2022, the weighted average remaining lease term was 19 years and the weighted average rate used to discount lease commitments was 3 percent. 
 
@@ -12176,9 +12375,11 @@ The following represents the maturities of our outstanding lease commitments as 
 
 As of December 31, 2022, we had approximately $2.0 billion in financial commitments outstanding related to agreements with certain cobrand partners under which we are required to make a certain level of minimum payments over the life of the agreement, generally ranging from five to ten years. Such commitments are designed to be satisfied by the payment we make to such cobrand partners primarily based on Card Members’ spending and earning rewards on their cobrand cards and as we acquire new Card Members. In the event these payments do not fully satisfy the commitment, we generally pay the cobrand partner up to the amount of the commitment in exchange for an equivalent value of reward points. 
 
-### NOTE 13
+130 
 
-### DERIVATIVES AND HEDGING ACTIVITIES
+## NOTE 13
+
+## DERIVATIVES AND HEDGING ACTIVITIES
 
 We use derivative financial instruments to manage exposures to various market risks. These instruments derive their value from an underlying variable or multiple variables, including interest rates and foreign exchange rates, and are carried at fair value on the Consolidated Balance Sheets. These instruments enable end users to increase, reduce or alter exposure to various market risks and, for that reason, are an integral component of our market risk management. We do not transact in derivatives for trading purposes. 
 
@@ -12199,6 +12400,8 @@ Derivatives may give rise to counterparty credit risk, which is the risk that a 
 A majority of our derivative assets and liabilities as of December 31, 2022 and 2021 are subject to master netting agreements with our derivative counterparties. Accordingly, where appropriate, we have elected to present derivative assets and liabilities with the same counterparty on a net basis in the Consolidated Balance Sheets. To further mitigate counterparty credit risk, we exercise our rights under executed credit support agreements with the respective derivative counterparties for our bilateral interest rate swaps and select foreign exchange contracts. These agreements require that, in the event the fair value change in the net derivatives position between the two parties exceeds certain dollar thresholds, the party in the net liability position posts collateral to its counterparty. All derivative contracts cleared through a central clearinghouse are collateralized to the full amount of the fair value of the contracts. 
 
 In relation to our credit risk, certain of our bilateral derivative agreements include provisions that allow our counterparties to terminate the agreement in the event of a downgrade of our debt credit rating below investment grade and settle the outstanding net liability position. As of December 31, 2022, these derivatives were not in a material net liability position and we had no material risk exposure to any individual derivative counterparty. Based on our assessment of the credit risk of our derivative counterparties and our own credit risk as of December 31, 2022 and 2021, no credit risk adjustment to the derivative portfolio was required. 
+
+131 
 
 Our derivatives are carried at fair value on the Consolidated Balance Sheets. The accounting for changes in fair value depends on the instruments’ intended use and the resulting hedge designation, if any, as discussed below. Refer to Note 14 for a description of our methodology for determining the fair value of derivatives. 
 
@@ -12339,19 +12542,21 @@ The following table summarizes the total fair value, excluding interest accruals
 
 We posted $8 million and $11 million as of December 31, 2022 and 2021, respectively, as initial margin on our centrally cleared interest rate swaps; such amounts are recorded within Other assets on the Consolidated Balance Sheets and are not netted against the derivative balances. 
 
-### DERIVATIVE FINANCIAL INSTRUMENTS THAT QUALIFY FOR HEDGE ACCOUNTING
+## DERIVATIVE FINANCIAL INSTRUMENTS THAT QUALIFY FOR HEDGE ACCOUNTING
 
 Derivatives executed for hedge accounting purposes are documented and designated as such when we enter into the contracts. In accordance with our risk management policies, we structure our hedges with terms similar to those of the item being hedged. We formally assess, at inception of the hedge accounting relationship and on a quarterly basis, whether derivatives designated as hedges are highly effective in offsetting the fair value or cash flows of the hedged items. These assessments usually are made through the application of a regression analysis method. If it is determined that a derivative is not highly effective as a hedge, we will discontinue the application of hedge accounting. 
 
-### FAIR VALUE HEDGES
+## FAIR VALUE HEDGES
 
 A fair value hedge involves a derivative designated to hedge our exposure to future changes in the fair value of an asset or a liability, or an identified portion thereof, that is attributable to a particular risk. 
 
-### Interest Rate Contracts
+## Interest Rate Contracts
 
 We are exposed to interest rate risk associated with our fixed-rate debt obligations. At the time of issuance, certain fixed-rate long-term debt obligations are designated in fair value hedging relationships, using interest rate swaps, to economically convert the fixed interest rate to a floating interest rate. We had $8.1 billion and $12.9 billion of fixed-rate debt obligations designated in fair value hedging relationships as of December 31, 2022 and 2021, respectively. 
 
 Gains or losses on the fair value hedging instrument principally offset the losses or gains on the hedged item attributable to the hedged risk. The changes in the fair value of the derivative and the changes in the hedged item may not fully offset due to differences between a debt obligation’s interest rate and the benchmark rate, primarily due to credit spreads at inception of the hedging relationship that are not reflected in the fair value of the interest rate swap. 
+
+132 
 
 The following table presents the gains and losses recognized in Interest expense on the Consolidated Statements of Income associated with the fair value hedges of our fixed-rate long-term debt for the years ended December 31: 
 
@@ -12408,11 +12613,11 @@ The carrying values of the hedged liabilities, recorded within Long-term debt on
 
 We recognized in Interest expense on Long-term debt a net decrease of $57 million for the year ended December 31, 2022 and net decreases of $256 million for both the years ended December 31, 2021 and 2020. These were primarily related to the net settlements including interest accruals on our interest rate derivatives designated as fair value hedges. 
 
-### NET INVESTMENT HEDGES
+## NET INVESTMENT HEDGES
 
 A net investment hedge is used to hedge future changes in currency exposure of a net investment in a foreign operation. We primarily designate foreign currency derivatives as net investment hedges to reduce our exposure to changes in currency exchange rates on our investments in non-U.S. subsidiaries. We had notional amounts of approximately $12.5 billion and $12.6 billion of foreign currency derivatives designated as net investment hedges as of December 31, 2022 and 2021, respectively. The gain or loss on net investment hedges, net of taxes, recorded in AOCI as part of the cumulative translation adjustment, were gains of $237 million and $176 million and losses of $253 million for the years ended December 31, 2022, 2021 and 2020, respectively. Net investment hedge reclassifications out of AOCI into the Consolidated Statements of Income were not significant for the years ended December 31, 2022, 2021 and 2020, respectively. 
 
-### DERIVATIVES NOT DESIGNATED AS HEDGES
+## DERIVATIVES NOT DESIGNATED AS HEDGES
 
 We have derivatives that act as economic hedges, but are not designated as such for hedge accounting purposes. Foreign currency transactions from time to time may be partially or fully economically hedged through foreign currency contracts, primarily foreign exchange forwards. These hedges generally mature within one year. Foreign currency contracts involve the purchase and sale of designated currencies at an agreed upon rate for settlement on a specified date. 
 
@@ -12420,9 +12625,11 @@ The changes in the fair value of derivatives that are not designated as hedges a
 
 In 2022, we recorded an embedded derivative with a notional amount of $78 million, related to seller earnout shares granted to us upon the completion of a business combination between our equity method investee, Global Business Travel Group, and Apollo Strategic Growth Capital. This embedded derivative had a fair value of $27 million as of December 31, 2022. The changes in the fair value of the embedded derivative resulted in gains of $4 million for the year ended December 31, 2022, which were recognized in Service fees and other revenue in the Consolidated Statements of Income. 
 
-### NOTE 14
+133 
 
-### FAIR VALUES
+## NOTE 14
+
+## FAIR VALUES
 
 Fair value is defined as the price that would be required to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date, based on the principal or, in the absence of a principal, most advantageous market for the specific asset or liability. 
 
@@ -12442,9 +12649,9 @@ GAAP provides for a three-level hierarchy of inputs to valuation techniques used
 
 - Level 3 ― Inputs that are unobservable and reflect our own estimates about the estimates market participants would use in pricing the asset or liability based on the best information available in the circumstances (e.g., internally derived assumptions surrounding the timing and amount of expected cash flows). 
 
-We monitor the market conditions and evaluate the fair value hierarchy levels at least quarterly. For the years ended December 31, 2022 and 2021, there were no Level 3 transfers.
+We monitor the market conditions and evaluate the fair value hierarchy levels at least quarterly. For the years ended December 31, 2022 and 2021, there were no Level 3 transfers. 
 
-### FINANCIAL ASSETS AND FINANCIAL LIABILITIES CARRIED AT FAIR VALUE
+## FINANCIAL ASSETS AND FINANCIAL LIABILITIES CARRIED AT FAIR VALUE
 
 The following table summarizes our financial assets and financial liabilities measured at fair value on a recurring basis, categorized by GAAP’s fair value hierarchy (as described in the preceding paragraphs), as of December 31: 
 
@@ -12657,11 +12864,13 @@ The following table summarizes our financial assets and financial liabilities me
 
    - (b) Level 3 fair value reflects an embedded derivative. Management reviews and applies judgment to the valuation of the embedded derivative that is performed by an independent third party using a Monte Carlo simulation that models a range of probable future stock prices based on implied volatility in a risk neutral framework. Refer to Note 13 for additional information about this embedded derivative.
 
-### VALUATION TECHNIQUES USED IN THE FAIR VALUE MEASUREMENT OF FINANCIAL ASSETS AND FINANCIAL LIABILITIES CARRIED AT FAIR VALUE
+134 
 
-For the financial assets and liabilities measured at fair value on a recurring basis (categorized in the valuation hierarchy table above), we apply the following valuation techniques:
+## VALUATION TECHNIQUES USED IN THE FAIR VALUE MEASUREMENT OF FINANCIAL ASSETS AND FINANCIAL LIABILITIES CARRIED AT FAIR VALUE
 
-### Investment Securities
+For the financial assets and liabilities measured at fair value on a recurring basis (categorized in the valuation hierarchy table above), we apply the following valuation techniques: 
+
+## Investment Securities
 
 When available, quoted prices of identical investment securities in active markets are used to estimate fair value. Such investment securities are classified within Level 1 of the fair value hierarchy. 
 
@@ -12671,7 +12880,7 @@ We reaffirm our understanding of the valuation techniques used by our pricing se
 
 Within Level 3 of the fair value hierarchy are our holdings of debt securities issued by Community Development Financial Institutions. We take the carrying value for these investment securities to be a reasonable proxy for their fair value unless we determine, based on our internal credit model, that there are indicators that the contractual cash flows will not be received in full. 
 
-### Derivative Financial Instruments
+## Derivative Financial Instruments
 
 The fair value of our Level 2 derivative financial instruments is estimated by using third-party pricing models, where the inputs to those models are readily observable from active markets. The pricing models used are consistently applied and reflect the contractual terms of the derivatives as described below. We reaffirm our understanding of the valuation techniques at least annually and validate the valuation output on a quarterly basis. 
 
@@ -12683,7 +12892,9 @@ Our Level 3 derivative financial instrument represents an embedded derivative in
 
 Credit valuation adjustments are necessary when the market parameters, such as a benchmark curve, used to value derivatives are not indicative of our credit quality or that of our counterparties. We consider the counterparty credit risk by applying an observable forecasted default rate to the current exposure. Refer to Note 13 for additional information on derivative financial instruments. 
 
-### FINANCIAL ASSETS AND FINANCIAL LIABILITIES CARRIED AT OTHER THAN FAIR VALUE
+135 
+
+## FINANCIAL ASSETS AND FINANCIAL LIABILITIES CARRIED AT OTHER THAN FAIR VALUE
 
 The following table summarizes the estimated fair values of our financial assets and financial liabilities that are measured at amortized cost, and not required to be carried at fair value on a recurring basis, as of December 31, 2022 and 2021. The fair values of these financial instruments are estimates based upon the market conditions and perceived risks as of December 31, 2022 and 2021, and require management’s judgment. These figures may not be indicative of future fair values, nor can the fair value of American Express be estimated by aggregating the amounts presented. 
 
@@ -12997,27 +13208,29 @@ The following table summarizes the estimated fair values of our financial assets
 
    - (c) Balances include amounts held by a consolidated VIE for which the fair values of Card Member loans were $28.4 billion and $26.7 billion as of December 31, 2022 and 2021, respectively, and the fair values of Long-term debt were $12.3 billion and $13.9 billion as of December 31, 2022 and 2021, respectively.
 
-(d) Presented as a component of Customer deposits on the Consolidated Balance Sheets.
+   - (d) Presented as a component of Customer deposits on the Consolidated Balance Sheets.
 
-### VALUATION TECHNIQUES USED IN THE FAIR VALUE MEASUREMENT OF FINANCIAL ASSETS AND FINANCIAL LIABILITIES CARRIED AT OTHER THAN FAIR VALUE
+136 
+
+## VALUATION TECHNIQUES USED IN THE FAIR VALUE MEASUREMENT OF FINANCIAL ASSETS AND FINANCIAL LIABILITIES CARRIED AT OTHER THAN FAIR VALUE
 
 For the financial assets and liabilities that are not required to be carried at fair value on a recurring basis (categorized in the valuation hierarchy table), we apply the following valuation techniques to measure fair value: 
 
-### Financial Assets For Which Carrying Values Equal Or Approximate Fair Value
+## Financial Assets For Which Carrying Values Equal Or Approximate Fair Value
 
 Financial assets for which carrying values equal or approximate fair value include cash and cash equivalents, Card Member receivables, accrued interest and certain other assets. For these assets, the carrying values approximate fair value because they are short term in duration, have no defined maturity or have a market-based interest rate. 
 
-### Financial Assets Carried At Other Than Fair Value
+## Financial Assets Carried At Other Than Fair Value
 
 ### Card Member and Other loans, less reserves
 
 Card Member and Other loans are recorded at historical cost, less reserves, on the Consolidated Balance Sheets. In estimating the fair value for our loans, we use a discounted cash flow model. Due to the lack of a comparable whole loan sales market for similar loans and the lack of observable pricing inputs thereof, we use various inputs to estimate fair value. Such inputs include projected income, discount rates and forecasted write-offs. The valuation does not include economic value attributable to future receivables generated by the accounts associated with the loans. 
 
-### Financial Liabilities For Which Carrying Values Equal Or Approximate Fair Value
+## Financial Liabilities For Which Carrying Values Equal Or Approximate Fair Value
 
 Financial liabilities for which carrying values equal or approximate fair value include accrued interest, customer deposits (excluding certificates of deposit, which are described further below), Travelers Cheques and other prepaid products outstanding, accounts payable, short-term borrowings and certain other liabilities for which the carrying values approximate fair value because they are short term in duration, have no defined maturity or have a market-based interest rate. 
 
-### Financial Liabilities Carried At Other Than Fair Value
+## Financial Liabilities Carried At Other Than Fair Value
 
 ### Certificates of Deposit
 
@@ -13027,15 +13240,21 @@ Certificates of deposit (CDs) are recorded at their historical issuance cost on 
 
 Long-term debt is recorded at historical issuance cost on the Consolidated Balance Sheets adjusted for (i) unamortized discount and unamortized fees, (ii) the impact of movements in exchange rates on foreign currency denominated debt and (iii) the impact of fair value hedge accounting on certain fixed-rate notes that have been swapped to floating rate through the use of interest rate swaps. The fair value of our long-term debt is measured using quoted offer prices when quoted market prices are available. If quoted market prices are not available, the fair value is determined by discounting the future cash flows of each instrument at rates currently observed in publicly-traded debt markets for debt of similar terms and credit risk. For long-term debt, where there are no rates currently observable in publicly traded debt markets of similar terms and comparable credit risk, we use market interest rates and adjust those rates for necessary risks, including our own credit risk. In determining an appropriate spread to reflect our credit standing, we consider credit default swap spreads, bond yields of other long-term debt offered by us, and interest rates currently offered to us for similar debt instruments of comparable maturities. 
 
-### NONRECURRING FAIR VALUE MEASUREMENTS
+## NONRECURRING FAIR VALUE MEASUREMENTS
 
 We have certain assets that are subject to measurement at fair value on a nonrecurring basis. For these assets, measurement at fair value in periods subsequent to their initial recognition is applicable if they are determined to be impaired or where there are observable price changes for equity investments without readily determinable fair values. 
 
-In addition, we also have certain equity investments measured at fair value using the net asset value practical expedient. Such investments were immaterial as of both December 31, 2022 and 2021.
+137 
 
-### NOTE 15
+We estimate the Level 3 fair value of equity investments without readily determinable fair values based on price changes as of the date of new similar equity financing transactions completed by the companies in our portfolio. Impairments on such investments are recorded to account for the difference between the estimated fair value and carrying value of an investment based on a qualitative assessment of impairment indicators such as business performance, general market conditions and the economic and regulatory environment. When an impairment triggering event occurs, the fair value measurement is generally derived by taking into account all available information, such as share prices of publicly traded peer companies, internal valuations performed by our investees, and other third-party fair value data. The fair value of impaired investments represents a Level 3 fair value measurement. The carrying value of equity investments without readily determinable fair values totaled $1.0 billion and $1.3 billion as of December 31, 2022 and 2021, respectively. As of December 31, 2022, approximately $0.6 billion represented a nonrecurring Level 3 fair value measurement for certain of our equity investments. There were no nonrecurring Level 3 fair value measurements related to our equity investments without readily determinable fair values as of December 31, 2021. These amounts are included within Other assets on the Consolidated Balance Sheets. We recorded unrealized gains of $94 million, $729 million and $113 million for the years ended December 31, 2022, 2021 and 2020, respectively. Unrealized losses representing impairments were $388 million, $2 million and $20 million for the years ended December 31, 2022, 2021 and 2020, respectively. Since the adoption of new accounting guidance on the recognition and measurement of financial assets and financial liabilities on January 1, 2018, cumulative unrealized gains for equity investments without readily determinable fair values totaled $1.2 billion and $1.1 billion as of December 31, 2022 and 2021, respectively, and cumulative unrealized losses representing impairments were $394 million and $10 million as of December 31, 2022 and 2021, respectively. 
 
-### GUARANTEES
+In addition, we also have certain equity investments measured at fair value using the net asset value practical expedient. Such investments were immaterial as of both December 31, 2022 and 2021. 
+
+138 
+
+## NOTE 15
+
+## GUARANTEES
 
 The maximum potential undiscounted future payments and related liability resulting from guarantees and indemnifications provided by us in the ordinary course of business were $1 billion and $21 million, respectively, as of December 31, 2022 and $1 billion and $24 million, respectively, as of December 31, 2021, all of which were primarily related to our real estate arrangements and business dispositions. 
 
@@ -13108,6 +13327,8 @@ On September 23, 2019, the Board of Directors authorized the repurchase of up to
 
 Common shares are generally retired by us upon repurchase (except for 2.4 million shares held as treasury shares as of December 31, 2022 and 2.5 million shares held as treasury shares as of both December 31, 2021 and 2020); retired common shares and treasury shares are excluded from the shares outstanding in the table above. The treasury shares, with a cost basis of $262 million, $271 million and $279 million as of December 31, 2022, 2021 and 2020, respectively, are included as a reduction to Additional paid-in capital in Shareholders’ equity on the Consolidated Balance Sheets. 
 
+139 
+
 ## PREFERRED SHARES
 
 The Board of Directors may authorize the issuance of up to 20 million preferred shares at a par value of $1.662/3 per share without further shareholder approval. We have the following perpetual Fixed Rate Reset Noncumulative Preferred Share series issued and outstanding as of December 31, 2022: 
@@ -13157,7 +13378,9 @@ In the event of the voluntary or involuntary liquidation, dissolution or winding
 
 In 2021, we paid $1.6 billion to redeem in full the previously outstanding Series B and Series C preferred shares. The difference between the redemption value and carrying value of the redeemed Series B and Series C preferred shares resulted in a $16 million reduction to net income available to common shareholders for the year ended December 31, 2021. 
 
-There were no warrants issued and outstanding as of December 31, 2022, 2021 and 2020.
+There were no warrants issued and outstanding as of December 31, 2022, 2021 and 2020. 
+
+140 
 
 ## NOTE 17
 
@@ -13283,7 +13506,9 @@ The following table shows the tax impact for the years ended December 31 for the
   </tbody>
 </table>
 
-Reclassifications out of AOCI into the Consolidated Statements of Income, net of taxes, were not significant for the years ended December 31, 2022, 2021 and 2020.
+Reclassifications out of AOCI into the Consolidated Statements of Income, net of taxes, were not significant for the years ended December 31, 2022, 2021 and 2020. 
+
+141 
 
 ## NOTE 18
 
@@ -13401,6 +13626,10 @@ The following is a detail of Service fees and other revenue for the years ended 
 ## RESTRUCTURING
 
 We periodically initiate restructuring programs to support new business strategies and to enhance our overall effectiveness and efficiency. In connection with these programs, we will typically incur severance and other exit costs. 
+
+We had $135 million, $67 million and $197 million accrued in total restructuring reserves as of December 31, 2022, 2021 and 2020, respectively. Restructuring expense, which primarily relates to new severance charges, net of revisions to existing reserves, was $142 million, $(10) million and $125 million for the years ended December 31, 2022, 2021 and 2020, respectively. The cumulative expense relating to the restructuring programs that were in progress during 2022 and initiated at various dates between 2019 and 2022 was $270 million, the majority of which has been reflected within Corporate & Other. 
+
+142 
 
 ## NOTE 20
 
@@ -13560,6 +13789,8 @@ A reconciliation of the U.S. federal statutory rate of 21 percent as of December
 
 We record a deferred income tax (benefit) provision when there are differences between assets and liabilities measured for financial reporting and for income tax return purposes. These temporary differences result in taxable or deductible amounts in future years and are measured using the tax rates and laws that will be in effect when such differences are expected to reverse. 
 
+143 
+
 The significant components of deferred tax assets and liabilities as of December 31 are reflected in the following table: 
 
 <table>
@@ -13670,6 +13901,8 @@ Net income taxes paid by us during 2022, 2021 and 2020, were approximately $3.0 
 We are subject to the income tax laws of the United States, its states and municipalities and those of the foreign jurisdictions in which we operate. These tax laws are complex, and the manner in which they apply to the taxpayer’s facts is sometimes open to interpretation. Given these inherent complexities, we must make judgments in assessing the likelihood that a tax position will be sustained upon examination by the taxing authorities based on the technical merits of the tax position. A tax position is recognized only when, based on management’s judgment regarding the application of income tax laws, it is more likely than not that the tax position will be sustained upon examination. The amount of benefit recognized for financial reporting purposes is based on management’s best judgment of the largest amount of benefit that is more likely than not to be realized on ultimate settlement with the taxing authority given the facts, circumstances and information available at the reporting date. We adjust the level of unrecognized tax benefits when there is new information available to assess the likelihood of the outcome. 
 
 We are under continuous examination by the Internal Revenue Service (IRS) and tax authorities in other countries and states in which we have significant business operations. The tax years under examination and open for examination vary by jurisdiction. We are currently under examination by the IRS for the 2017 and 2018 tax years. 
+
+144 
 
 The following table presents changes in unrecognized tax benefits: 
 
@@ -13790,7 +14023,9 @@ We believe it is reasonably possible that our unrecognized tax benefits could de
 
 Interest and penalties relating to unrecognized tax benefits are reported in the income tax provision. For the years ended December 31, 2022, 2021 and 2020, we recognized approximately $10 million, $40 million and $260 million, respectively, in expenses for interest and penalties. 
 
-We had approximately $380 million accrued for the payment of interest and penalties as of both December 31, 2022 and 2021.
+We had approximately $380 million accrued for the payment of interest and penalties as of both December 31, 2022 and 2021. 
+
+145 
 
 ## NOTE 21
 
@@ -13986,6 +14221,8 @@ The computations of basic and diluted EPS for the years ended December 31 were a
    - (b) Our unvested restricted stock awards, which include the right to receive non-forfeitable dividends or dividend equivalents, are considered participating securities. Calculations of EPS under the two-class method exclude from the numerator any dividends paid or owed on participating securities and any undistributed earnings considered to be attributable to participating securities. The related participating securities are similarly excluded from the denominator.
 
    - (c) The dilutive effect of unexercised stock options excludes from the computation of EPS 0.39 million, 0.01 million and 0.53 million of options for the years ended December 31, 2022, 2021 and 2020, respectively, because inclusion of the options would have been anti-dilutive.
+
+146 
 
 ## NOTE 22
 
@@ -14202,6 +14439,8 @@ The following table presents the regulatory capital ratios:
 
 Certain of our subsidiaries are subject to restrictions on the transfer of net assets under debt agreements and regulatory requirements. These restrictions have not had any effect on our shareholder dividend policy and management does not anticipate any impact in the future. Procedures exist to transfer net assets between the Company and its subsidiaries, while ensuring compliance with the various contractual and regulatory constraints. As of December 31, 2022, the aggregate amount of net assets of subsidiaries that are restricted to be transferred was approximately $12.0 billion. 
 
+147 
+
 ## BANK HOLDING COMPANY DIVIDEND RESTRICTIONS
 
 We are limited in our ability to pay dividends by the Federal Reserve, which could prohibit a dividend that would be considered an unsafe or unsound banking practice. It is the policy of the Federal Reserve that bank holding companies generally should pay dividends on preferred and common stock only out of net income available to common shareholders generated over the past year, and only if prospective earnings retention is consistent with the organization’s current and expected future capital needs, asset quality and overall financial condition. Moreover, bank holding companies are required by statute to be a source of strength to their insured depository institution subsidiaries and should not maintain dividend levels that undermine their ability to do so. On an annual basis, we are required to develop and maintain a capital plan, which includes planned dividends. We may be subject to limitations and restrictions on our dividends, if, among other things, (i) our regulatory capital ratios do not satisfy applicable minimum requirements and buffers or (ii) we are required to resubmit our capital plan. 
@@ -14209,6 +14448,8 @@ We are limited in our ability to pay dividends by the Federal Reserve, which cou
 ## BANK DIVIDEND RESTRICTIONS
 
 In the year ended December 31, 2022, AENB paid dividends from retained earnings to its parent of $4.6 billion. AENB is limited in its ability to pay dividends by banking statutes, regulations and supervisory policy. In general, applicable federal and state banking laws prohibit, without first obtaining regulatory approval, insured depository institutions, such as AENB, from making dividend distributions if such distributions are not paid out of available retained earnings or would cause the institution to fail to meet capital adequacy standards. If AENB’s risk-based capital ratios do not satisfy minimum regulatory requirements and applicable buffers, it will face graduated constraints on dividends and other capital distributions. In determining the dividends to pay its parent, AENB must also consider the effects on applicable risk-based capital and leverage ratio requirements, as well as policy statements of the federal regulatory agencies. In addition, AENB's banking regulators have authority to limit or prohibit the payment of a dividend by AENB under a number of circumstances, including if, in the banking regulator’s opinion, payment of a dividend would constitute an unsafe or unsound banking practice in light of the financial condition of the banking organization. 
+
+148 
 
 ## NOTE 23
 
@@ -14299,6 +14540,8 @@ As of December 31, 2022 and 2021, our most significant concentration of credit r
 
 As of December 31, 2022 and 2021, we had approximately $350 billion and $327 billion, respectively of unused credit, primarily available to customers as part of established lending product agreements, of which approximately 80 percent was related to customers within the United States in both periods. Total unused credit does not represent potential future cash requirements, as a significant portion of this unused credit will likely not be drawn. Our charge card products generally have no pre-set spending limit and therefore are not reflected in unused credit. 
 
+149 
+
 ## NOTE 24
 
 ## REPORTABLE OPERATING SEGMENTS AND GEOGRAPHIC OPERATIONS
@@ -14322,6 +14565,8 @@ The following is a brief description of the primary business activities of our f
 - Global Merchant and Network Services (GMNS), which operates a global payments network that processes and settles card transactions, acquires merchants and provides multi-channel marketing programs and capabilities, services and data analytics, leveraging our global integrated network. GMNS manages our partnership relationships with third-party card issuers (including our network partnership agreements in China), merchant acquirers and a prepaid reloadable and gift card program manager, licensing the American Express brand and extending the reach of the global network. 
 
 Corporate functions and certain other businesses and operations are included in Corporate & Other. 
+
+150 
 
 The following table presents certain selected financial information for our reportable operating segments and Corporate & Other as of or for the years ended December 31, 2022, 2021 and 2020: 
 
@@ -14620,7 +14865,7 @@ The following table presents certain selected financial information for our repo
 
    - (a) Corporate & Other includes adjustments and eliminations for intersegment activity.
 
-(b) Includes discount revenue, certain service fees and other revenue and processed revenues from customers.
+   - (b) Includes discount revenue, certain service fees and other revenue and processed revenues from customers.
 
 ## Total Revenues Net of Interest Expense
 
@@ -14632,13 +14877,15 @@ Interest and fees on loans and certain investment income is directly attributabl
 
 ## Provisions for Credit Losses
 
-The provisions for credit losses are directly attributable to the segment in which they are reported.
+The provisions for credit losses are directly attributable to the segment in which they are reported. 
 
 ## Expenses
 
 Card Member rewards and Card Member services expenses are included in each segment based on the actual expenses incurred. Business development and Marketing expenses are included in each segment based on the actual expenses incurred. Global brand advertising is primarily allocated to the segments based on the relative levels of revenue. 
 
 Salaries and employee benefits and other expenses reflect both costs incurred directly within each segment, as well as allocated expenses. The allocated expenses include service costs, which primarily reflect salaries and benefits associated with our technology and customer servicing groups, and overhead expenses. Service costs are allocated based on activities directly attributable to the segment, and overhead expenses are allocated based on the relative levels of revenue and Card Member loans and receivables. 
+
+151 
 
 ## GEOGRAPHIC OPERATIONS
 
@@ -14756,6 +15003,8 @@ Effective for the first quarter of 2022, we changed the way in which we allocate
    - (a) EMEA represents Europe, the Middle East and Africa; APAC represents Asia Pacific, Australia and New Zealand; and LACC represents Latin America, Canada and the Caribbean.
 
    - (b) Other Unallocated includes net costs which are not directly allocated to specific geographic regions, including costs related to the net negative interest spread on excess liquidity funding and executive office operations expenses.
+
+152 
 
 ## NOTE 25
 
@@ -15048,6 +15297,8 @@ Effective for the first quarter of 2022, we changed the way in which we allocate
     </tr>
   </tbody>
 </table>
+
+153 
 
 ## PARENT COMPANY – CONDENSED STATEMENTS OF CASH FLOWS
 
@@ -15432,9 +15683,11 @@ Effective for the first quarter of 2022, we changed the way in which we allocate
   </tbody>
 </table>
 
+154 
+
 ## ITEM 9.    CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
 
-Not applicable.
+Not applicable. 
 
 ## ITEM 9A.    CONTROLS AND PROCEDURES
 
@@ -15446,11 +15699,13 @@ There have not been any changes in our internal control over financial reporting
 
 ## ITEM 9B.    OTHER INFORMATION
 
-Not applicable.
+Not applicable. 
 
 ## ITEM 9C.    DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS
 
-Not applicable.
+Not applicable. 
+
+155 
 
 ## PART III
 
@@ -15478,27 +15733,33 @@ In addition, the information regarding executive officers called for by Item 401
 
 We have adopted a set of Corporate Governance Principles, which together with the charters of the four standing committees of the Board of Directors (Audit and Compliance; Compensation and Benefits; Nominating, Governance and Public Responsibility; and Risk), our Code of Conduct (which constitutes our code of ethics) and the Code of Business Conduct for the Members of the Board of Directors, provide the framework for our governance. A complete copy of our Corporate Governance Principles, the charters of each of the Board committees, the Code of Conduct (which applies not only to our Chief Executive Officer, Chief Financial Officer and Controller, but also to all our other colleagues) and the Code of Business Conduct for the Members of the Board of Directors may be found by clicking on the “Corporate Governance” link found on our Investor Relations website at http://ir.americanexpress.com. We also intend to disclose any amendments to our Code of Conduct, or waivers of our Code of Conduct on behalf of our Chief Executive Officer, Chief Financial Officer or Controller, on our website. You may also access our Investor Relations website through our main website at www.americanexpress.com by clicking on the “Investor Relations” link, which is located at the bottom of the Company’s homepage. (Information from such sites is not incorporated by reference into this report.) You may also obtain free copies of these materials by writing to our Corporate Secretary at our headquarters. 
 
+156 
+
 ## ITEM 14.    PRINCIPAL ACCOUNTANT FEES AND SERVICES
 
 The information set forth under the heading “Item 2 — Ratification of Appointment of Independent Registered Public Accounting Firm — PricewaterhouseCoopers LLP Fees and Services,” which will appear in our definitive proxy statement in connection with our Annual Meeting of Shareholders to be held May 2, 2023, is incorporated herein by reference. 
+
+157 
 
 ## PART IV
 
 ## ITEM 15.    EXHIBIT AND FINANCIAL STATEMENT SCHEDULES
 
-### (a)
+   - (a) 
 
 ### ## 1. Financial Statements :
 
-See the “Index to Consolidated Financial Statements” under “Financial Statements and Supplementary Data.”
+See the “Index to Consolidated Financial Statements” under “Financial Statements and Supplementary Data.” 
 
 ### ## 2. Financial Statement Schedules :
 
-All schedules are omitted since the required information is either not applicable, not deemed material, or shown in the Consolidated Financial Statements.
+All schedules are omitted since the required information is either not applicable, not deemed material, or shown in the Consolidated Financial Statements. 
 
 ### ## 3. Exhibits :
 
 The following exhibits are filed as part of this report. The exhibit numbers preceded by an asterisk (*) indicate exhibits electronically filed herewith. All other exhibit numbers indicate exhibits previously filed and are hereby incorporated herein by reference. Exhibits numbered 10.1 through 10.32 are management contracts or compensatory plans or arrangements. 
+
+158 
 
 <table>
   <thead>
@@ -16127,9 +16388,13 @@ The following exhibits are filed as part of this report. The exhibit numbers pre
   </tbody>
 </table>
 
+162 
+
 ## ITEM 16.    FORM 10-K SUMMARY
 
-Not applicable.
+Not applicable. 
+
+163 
 
 ## SIGNATURES
 
@@ -16137,15 +16402,21 @@ Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange A
 
 ## AMERICAN EXPRESS COMPANY
 
-/s/ JEFFREY C. CAMPBELL **Jeffrey C. Campbell Vice Chairman and Chief Financial Officer** 
+## /s/ JEFFREY C. CAMPBELL **Jeffrey C. Campbell Vice Chairman and Chief Financial Officer**
+
+## February 10, 2023
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the Company and in the capacities and on the date indicated. 
 
 /s/ STEPHEN J. SQUERI /s/ MICHAEL O. LEAVITT **Stephen J. Squeri Michael O. Leavitt Chairman, Chief Executive Officer and Director Director** /s/ JEFFREY C. CAMPBELL /s/ THEODORE J. LEONSIS **Jeffrey C. Campbell Theodore J. Leonsis Vice Chairman and Chief Financial Officer Director** /s/ JESSICA LIEBERMAN QUINN /s/ DEBORAH P. MAJORAS **Jessica Lieberman Quinn Deborah P. Majoras Executive Vice President and Corporate Controller Director (Principal Accounting Officer)** /s/ THOMAS J. BALTIMORE, JR. /s/ KAREN L. PARKHILL **Thomas J. Baltimore, Jr. Karen L. Parkhill Director Director** /s/ CHARLENE BARSHEFSKY /s/ CHARLES E. PHILLIPS, JR. **Charlene Barshefsky Charles E. Phillips, Jr. Director Director** /s/ JOHN J. BRENNAN /s/ LYNN A. PIKE **John J. Brennan Lynn A. Pike Director Director** /s/ PETER CHERNIN /s/ DANIEL L. VASELLA **Peter Chernin Daniel L. Vasella Director Director** /s/ WALTER J. CLAYTON III /s/ LISA W. WARDELL **Walter J. Clayton III Lisa W. Wardell Director Director** /s/ RALPH DE LA VEGA /s/ CHRISTOPHER D. YOUNG **Ralph de la Vega Christopher D. Young Director Director** February 10, 2023
+
+164 
 
 ## Appendix
 
 ## STATISTICAL DISCLOSURE BY BANK HOLDING COMPANIES
 
-The accompanying supplemental information should be read in conjunction with the “MD&A”, “Consolidated Financial Statements” and notes thereto.
+The accompanying supplemental information should be read in conjunction with the “MD&A”, “Consolidated Financial Statements” and notes thereto. 
 
 ## Distribution of Assets, Liabilities, and Shareholders’ Equity; Interest Rates and Interest Differential
 
@@ -16534,6 +16805,8 @@ The following tables provide a summary of our consolidated average balances incl
 
    - (e) The average yield on total interest-earning assets is adjusted for the impacts of the items mentioned in footnote (c).
 
+A-1 
+
 <table>
   <thead>
     <tr>
@@ -16676,6 +16949,8 @@ The following tables provide a summary of our consolidated average balances incl
    - (a) Averages based on month-end balances.
 
    - (b) Includes premises and equipment, net of accumulated depreciation and amortization.
+
+A-2 
 
 <table>
   <thead>
@@ -17448,7 +17723,8 @@ The following tables provide a summary of our consolidated average balances incl
 
    - (d) Net average yield on interest-earning assets is defined as net interest income divided by average total interest-earning assets as adjusted for the items mentioned in footnote (c) from the table on A-1.
 
-### (a)
+A-3  (a)
+
 
 ## Changes in Net Interest Income − Volume and Rate Analysis
 
@@ -17993,7 +18269,9 @@ The following table presents the amount of changes in interest income and intere
 
    - (b) Represents the change in volume multiplied by the prior year rate.
 
-(c) Represents the sum of the change in rate multiplied by the prior year volume and the change in rate multiplied by the change in volume.
+   - (c) Represents the sum of the change in rate multiplied by the prior year volume and the change in rate multiplied by the change in volume.
+
+A-4 
 
 ## Weighted average yields and contractual maturities for available-for-sale debt securities with stated maturities
 
@@ -18071,6 +18349,8 @@ The following table presents weighted average yields by contractual maturities f
 </table>
 
    - (a) Weighted average yields for investment securities have been calculated using the effective yield on the date of purchase. Yields on tax-exempt investment securities have been computed on a taxequivalent basis using the U.S. federal statutory tax rate of 21 percent.
+
+A-5 
 
 ## Maturities and Sensitivities to Changes in Interest Rates
 
@@ -18395,7 +18675,9 @@ The following table presents contractual maturities of loans and Card Member rec
 
    - (b) Card Member loans and receivables due after one year represent Troubled Debt Restructurings (TDRs). Card Members experiencing financial difficulties are offered modification programs wherein a long-term concession (more than 12 months) has been granted to the borrower and are classified as TDRs.
 
-(c) Other loans due after one year primarily represents installment loans.
+   - (c) Other loans due after one year primarily represents installment loans.
+
+A-6 
 
 ## Credit Quality Indicators for Loans and Card Member Receivables
 
@@ -19072,7 +19354,7 @@ The following table summarizes the ratio of all loans and Card Member receivable
 
    - (d) Refer to “Maturities and Sensitivities to Changes in Interest Rates” for total outstanding balance of loans and Card Member receivables.
 
-(e) Refer to “Allocation of reserve for credit losses” for reserve related to Card Member loans and other loans.
+   - (e) Refer to “Allocation of reserve for credit losses” for reserve related to Card Member loans and other loans.
 
 ## Allocation of Reserve for Credit Losses
 
@@ -19139,7 +19421,7 @@ The following table shows the reserve for credit losses allocated to Card Member
   </tbody>
 </table>
 
-(a) Percentage of reserve for credit losses on Card Member loans, Card Member receivables and Other loans to the total reserve.
+   - (a) Percentage of reserve for credit losses on Card Member loans, Card Member receivables and Other loans to the total reserve.
 
 ## Uninsured Time Certificates of Deposit
 
@@ -19204,27 +19486,29 @@ The following table presents the amount of uninsured time certificates of deposi
 
    - (b) Includes time deposits in certain of our Non-U.S. offices, that exceed the insurance limit as defined by the regulatory rules in individual markets.
 
+A-8 
+
 ## EXHIBIT 10.1
 
 ## AMERICAN EXPRESS COMPANY AMERICAN EXPRESS NATIONAL BANK
 
 ## DEFERRED COMPENSATION PLAN FOR DIRECTORS AND ADVISORS
 
-## (As amended and restated effec�ve January 1, 2023)
+(As amended and restated effec�ve January 1, 2023) 
 
-## Sec�on 1. Efec�ve Date
+### Section 1. Effective Date
 
 The original effec�ve date of this Deferred Compensa�on Plan for Directors and Advisors (this “Plan”) was October 1, 1973. This Plan was most recently amended and restated on April 1, 2018. This Plan is further amended and restated as provided herein effec�ve January 1, 2023. 
 
-## Sec�on 2. Eligibility
+### Section 2. Eligibility
 
 Any Director of or Advisor to the Board of Directors of American Express Company (the “Company”) and/or any Director of American Express Na�onal Bank (“AENB,” successor by conversion and merger to American Express Centurion Bank and American Express Bank, FSB) (hereina�er a “Director” or an “Advisor”) who is not an officer or employee of the Company, AENB or a subsidiary thereof is eligible to par�cipate in this Plan. All deferral and related elec�ons in effect under this Plan prior to the date hereof on behalf of any Director of or Advisor to the Company and any Director of AENB, American Express Centurion Bank and American Express Bank, FSB eligible to par�cipate in this Plan shall con�nue to apply un�l such elec�ons are revoked or revised. 
 
-## Sec�on 3. Administra�on
+### Section 3. Administration
 
 The Nomina�ng and Governance Commi�ee (the “Commi�ee”) of the Board of Directors shall administer this Plan. The Commi�ee shall have all the powers necessary to administer this Plan, including the right to interpret the provisions of this Plan and to establish rules and prescribe any forms for the administra�on of this Plan. The Commi�ee may delegate its authority under this Plan to the Company’s Corporate Secretary (the “Administrator”) to take administra�ve and other specified ac�ons, subject to such terms and limita�ons as the Commi�ee may impose. 
 
-## Sec�on 4. Deferral Elec�ons
+### Section 4. Deferral Elections
 
 A Director may elect for any calendar year to defer receipt of 50% or 100% of the compensa�on payable to the Director for service as a Director or Advisor of the Company and AENB, and including service on Commi�ees of the Boards of Directors thereof. 
 
@@ -19234,13 +19518,13 @@ If the Director’s irrevocable deferral elec�on is received by the Administra
 
 Unless the Administrator provides otherwise prior to the start of a subsequent calendar year, a Director’s deferral elec�on for a calendar year shall apply to each subsequent calendar year therea�er unless and un�l the Director revokes or changes his or her deferral elec�on prior to the subsequent calendar year. 
 
-## Sec�on 5. Director Class Year Accounts
+### Section 5. Director Class Year Accounts
 
 Compensa�on deferred by a Director will be credited to bookkeeping accounts established under this Plan. The compensa�on deferred by a Director a�ributable to calendar years prior to 2015 shall be credited to one account, and the compensa�on deferred by a Director for calendar year 2015 and each calendar year therea�er shall be credited to separate accounts for each such calendar year. For purposes of this Plan, the account established for the compensa�on deferred by a Director a�ributable to calendar years prior to 2015 shall be referred to as the Director’s “Pre-2015 Class Year Account” and the account established for the compensa�on deferred by a Director a�ributable to calendar year 2015 and each calendar year therea�er shall be referred to as the Director’s “Class Year Account” for the respec�ve calendar year (e.g., the account established for the compensa�on deferred by a Director a�ributable to calendar year 2015 shall be referred to as the Director’s “2015 Class Year Account” and the account established for the compensa�on deferred by a Director a�ributable to calendar year 2016 shall be referred to as the Director’s “2016 Class Year Account”). And for purposes of this Plan, the Pre-2015 Class Year Account and each Class Year Account of a Director for a calendar year may be referred to individually as a “Class Year Account,” and collec�vely as the “Class Year Accounts” of the Director. 
 
 The compensa�on deferred by a Director will be credited to his or her accounts effec�ve as of the last day of the calendar quarter to which such compensa�on relates, except that in the event of the first occurrence of a Payment Event Date (as defined in Sec�on 10(a) below) during a calendar quarter for which the Director has deferred all or a por�on of his or her compensa�on, any compensa�on deferred by the Director for the calendar quarter in which such Payment Event Date occurs will be credited to the Director’s account effec�ve as of such Payment Event Date. 
 
-## Sec�on 6. Investment Op�ons
+### Section 6. Investment Options
 
 Amounts held in a Director’s Class Year Accounts will be credited and debited with earnings and losses based on the hypothe�cal investment op�ons made available by the Company (the “Investment Op�ons”). Unless the Commi�ee provides otherwise, the available Investment Op�ons for a Director’s Class Year Accounts shall be an op�on with credits based on a rate linked to 120% of the applicable federal rate (the “AFR-Based Op�on”) and an op�on linked to the performance of the Company’s common stock, par value $0.20 per share (the “Share Equivalent Op�on”), each as more completely described below. 
 
@@ -19248,13 +19532,13 @@ At the �me that a Director makes an elec�on to defer receipt of his or her c
 
 Unless the Administrator provides otherwise prior to the start of a subsequent calendar year, a Director’s Investment Op�ons elec�on for a calendar year shall apply to each subsequent calendar year therea�er unless and un�l the Director changes his or her Investment Op�ons elec�on prior to such subsequent calendar year. 
 
-   - (a) AFR-Based Op�on
+#### (a) AFR-Based Option
 
    - (A) Amounts for which a Director has chosen the AFR-Based Op�on shall be credited with interest at a rate equal to 120% of the applicable federal long-term rate for December of the preceding calendar year, as prescribed under Sec�on 1274(d) of the Code (the “AFR”) (e.g., amounts that are credited during 2016 shall be credited at a rate equal to the AFR for December 2015). Interest credited pursuant to this Sec�on 6(a) shall be compounded daily, or on such other frequency specified by the Administrator for such purpose from �me to �me.
 
    - (B) For purposes of Sec�on 10 below, the amounts for which a Director has elected the AFR-Based Op�on that are payable to a Director on a Payment Event Date will be valued by credi�ng such amounts with the AFR through the applicable Payment Event Date.
 
-   - (b) Share Equivalent Op�on
+#### (b) Share Equivalent Option
 
    - (A) Amounts for which a Director has chosen the Share Equivalent Op�on will be converted hypothe�cally into a number of units equivalent to a number of shares of the Company’s common stock, par value $0.20 per share (“SEUs”), determined by dividing the amount of deferred compensa�on in each calendar quarter for which the Director has chosen the Share Equivalent Op�on, by the average of the closing prices of the Company’s common stock, par value $0.20 per share (the “Common Stock”), for the last fi�een (15) trading days of such calendar quarter; provided, however, in the event of an occurrence of a Payment Event Date during a calendar quarter, the amounts of the compensa�on deferred by the Director for the calendar quarter in which the Payment Event Date occurs will be converted hypothe�cally into a number of SEUs determined by dividing such amount for which the Director has chosen the Share Equivalent Op�on, by the average of the closing prices of the Common Stock for the fi�een (15) trading days immediately preceding such Payment Event Date.
 
@@ -19268,7 +19552,7 @@ number of SEUs credited to each such Class Year Account on the shareholder recor
 
 The Administrator may in his or her discre�on allow a Director to change the Investment Op�ons for an exis�ng Class Year Account at any �me a�er such Director’s separa�on from service, pursuant to such rules and restric�ons as the Administrator may prescribe. 
 
-## Sec�on 7. Credits to Class Year SEU Award Accounts for SEU Plan Awards
+### Section 7. Credits to Class Year SEU Award Accounts for SEU Plan Awards
 
 A number of SEUs equal to the number of Share Equivalent Units, if any, awarded to a Director during a calendar year under the American Express Company 2003 Share Equivalent Unit Plan for Directors, as amended and restated from �me to �me (the “SEU Plan”) for calendar year 2015 and subsequent calendar years, will be credited to a bookkeeping account established under this Plan for such Director for that calendar year. A Director’s SEUs a�ributable to awards of Share Equivalent Units under the SEU Plan for calendar year 2015 and each calendar year therea�er shall be credited to separate accounts for each such calendar year, and such separate account shall be referred to as the Director’s “Class Year SEU Award Account” for the respec�ve calendar year (e.g., the account established for the Director’s SEUs a�ributable to awards of Share Equivalent Units under the SEU Plan for 2015 shall be referred to as the Director’s “2015 Class Year SEU Award Account” and the account established for the Director’s SEUs a�ributable to awards of Share Equivalent Units under the SEU Plan for calendar year 2016 shall be referred to as the Director’s “2016 Class Year SEU Award Account”). And for purposes of this Plan, each Class Year SEU Award Account of a Director for a calendar year may be referred to individually as a “Class Year SEU Award Account,” and collec�vely as the “Class Year SEU Award Accounts” of the Director. 
 
@@ -19278,11 +19562,11 @@ The SEUs to be credited pursuant to this Sec�on 7 for calendar year 2015 and e
 
 The Administrator may in his or her discre�on allow a Director to change the Investment Op�ons for an exis�ng Class Year SEU Award Account at any �me a�er such Director’s separa�on from service, pursuant to such rules and restric�ons as the Administrator may prescribe. 
 
-## Sec�on 8. Payment Elec�ons
+### Section 8. Payment Elections
 
    - (a) A Director who is newly elected to the Board of Directors of the Company or AENB may make an irrevocable payment elec�on, which will be applicable to the Director’s Class Year Account and Class Year SEU Award Account for the calendar year in which the individual is elected to such Board of Directors, as to the �me and form of payment of such Class Year Account and Class Year SEU Award Account as follows:
 
-   - (A) Time of Payment. Either:
+## (A) Time of Payment. Either:
 
       - i. upon the Director’s separa�on from service; or
 
@@ -19322,7 +19606,7 @@ Any change to a Director’s exis�ng payment elec�on (or default payment ele
 
    - (d) Upon a Director’s separa�on from service, the Director’s payment elec�on in effect on such date for each of the Director’s Class Year Accounts and Class Year SEU Award Accounts shall govern the �me and form of the payment of each Class Year Account and Class Year SEU Award Account, respec�vely, for purposes of Sec�on 10 below.
 
-## Sec�on 9. Death Prior to Receipt
+### Section 9. Death Prior to Receipt
 
 In the event that a Director dies prior to receipt of any or all of the amounts payable to him or her pursuant to this Plan, except as otherwise provided by this Sec�on 9, any amounts that are then credited to the Director’s Class Year Accounts and Class Year SEU Award Accounts shall be paid to the legal representa�ve of the Director’s estate pursuant to Sec�on 10 below. 
 
@@ -19330,7 +19614,7 @@ The Administrator may allow Directors to designate a beneficiary or beneficiarie
 
 that the Administrator allows Directors to make such beneficiary designa�ons, then in the event of the death of a Director with a valid beneficiary elec�on in place at that �me, amounts that are then credited to such deceased Director’s Class Year Accounts and Class Year SEU Award Accounts shall be paid to the designated beneficiary or beneficiaries of the deceased Director pursuant to and in accordance with the terms of such valid beneficiary designa�on (instead of to the legal representa�ve of the Director’s estate). Any payments under this Sec�on 9 shall be paid in a lump sum. 
 
-## Sec�on 10. Time and Amount of Payment
+### Section 10. Time and Amount of Payment
 
    - (a) Time of Payment. A Director’s Class Year Accounts and Class Year SEU Award Accounts will each be paid (or commence to be paid in the case of installment payments) on the Payment Event Date applicable to and in effect for such Class Year Account or Class Year SEU Award Account, as elected by the Director or otherwise provided by this Plan.
 
@@ -19350,37 +19634,35 @@ shall be 1/2 of the value of the account; and the payment for the fourth year sh
 
 In the case of a Class Year Account or Class Year SEU Award Account payable in installment payments, the Class Year Account or Class Year SEU Award Account, as applicable, shall be valued as of the Payment Event Date for each installment. 
 
-## Sec�on 11. Director’s Rights Unsecured
+### Section 11. Director’s Rights Unsecured
 
 The right of any Director to receive future payments under the provisions of this Plan shall be an unsecured, contractual claim against the general assets of the Company. This Plan shall be unfunded. The Company shall not be required to establish any special or separate fund or to make any segrega�on of assets for the payment of any amounts under this Plan. 
 
 Par�cipants may not sell, transfer, assign, pledge, levy, a�ach, encumber or alienate any amounts payable under this Plan. 
 
-## Sec�on 12. Statement of Account
+### Section 12. Statement of Account
 
 The Company will provide or make available to each Director a statement of account that will confirm the Director’s Class Year Account and Class Year SEU Award Account balance(s) as of the end of the preceding quarter, or on such more frequent basis as determined by the Administrator. The Administrator may provide for such statement of accounts to be in wri�ng (including electronic format) or by means of access to such informa�on in electronic format. 
 
-## Sec�on 13. Amendment
+### Section 13. Amendment
 
 This Plan may be amended at any �me and from �me to �me by the Board of Directors of the Company; provided, however, that the Board of Directors may not adopt any amendment that would (a) materially and adversely affect any right of or benefit to any Director with respect to any of the benefits theretofore credited without such Director’s wri�en consent, or (b) result in a viola�on of Sec�on 409A. Any amendment to this Plan that would cause a viola�on of Sec�on 409A shall be null and void and of no effect. 
 
-## Sec�on 14. Termina�on
+### Section 14. Termination
 
 This Plan shall terminate upon the adop�on of a resolu�on of the Board of Directors termina�ng this Plan. The termina�on of this Plan shall not affect the distribu�on of the Class Year Accounts and Class Year SEU Award Accounts maintained under this Plan, and the balances of each Class Year Account and Class Year SEU Award Account shall con�nue to become due and payable in accordance with the provisions of this Plan in effect immediately prior to the termina�on of this Plan and each Director’s payment elec�on (or default payment elec�on) applicable to such Class Year Account and Class Year SEU Award Account; provided, however, if the Board of Directors so chooses, notwithstanding any other provision in this Plan, the payment of all Class Year Accounts and Class Year SEU Award Accounts may be accelerated upon the termina�on of this Plan to the extent permissible under and in accordance with Sec�on 1.409A-3(j)(4) (ix) of the treasury regula�ons. 
 
-## Sec�on 15. Sec�on 409A
+### Section 15. Section 409A
 
 This Plan and the benefits provided thereunder, including SEUs credited pursuant to Sec�on 7, are intended to comply with the requirements of Sec�on 409A, and this Plan, and with respect to SEUs credited pursuant to Sec�on 7, together with the SEU Plan, shall be administered and interpreted consistent with such inten�on and the American Express Sec�on 409A Compliance Policy. 
 
 - * * * * 
 
-**EXHIBIT 10.20** 
-
 ## TWELFTH AMENDMENT AND RESTATEMENT OF THE AMERICAN EXPRESS RETIREMENT RESTORATION PLAN
 
 (formerly known as the Supplemental Retirement Plan) 
 
-**(As amended and restated effective as of January 1, 2023)** 
+## (As amended and restated effective as of January 1, 2023)
 
 <table>
   <thead>
@@ -19724,17 +20006,15 @@ This Plan and the benefits provided thereunder, including SEUs credited pursuant
   </tbody>
 </table>
 
-iii 
-
 ## TWELFTH AMENDMENT AND RESTATEMENT OF THE AMERICAN EXPRESS RETIREMENT RESTORATION PLAN
 
 (formerly known as the Supplemental Retirement Plan) 
 
 ## (As amended and restated effective as of January 1, 2023)
 
-### ARTICLE 1 HISTORY AND EFFECTIVE DATES
+## ARTICLE 1 HISTORY AND EFFECTIVE DATES
 
-**Section 1.1    History** .
+## Section 1.1    History
 
    - (a) On November 26, 1973, the Board of Directors (the “Board”) of American Express Company (“Amex”) authorized and approved the adoption of the American Express Supplementary Pension Plan (the “Plan”) to supplement retirement benefits provided under the American Express Retirement Plan and other retirement and savings plans sponsored by Amex for a select group of management or highly compensated individuals.
 
@@ -19744,7 +20024,7 @@ iii
 
    - (d) Effective as of October 1, 2005, Ameriprise Financial, Inc. (“AFI”) ceased to be a participating employer in Amex’s tax-qualified retirement plans and the components of such plans covering AFI participants were transferred to new plans established by AFI in a transaction that complied with Section 414(l) of the Internal Revenue Code of 1986, as amended (the “Code”). In connection with that transaction, the component of the Prior SRP Plan and the Plan covering AFI participants were similarly transferred, and active and retired AFI participants and AFI beneficiaries ceased participation in and no longer have any benefits under the Prior SRP Plan or the Plan.
 
-   - (e) Generally effective July 1, 2007, benefit accruals under the American Express Retirement Plan, as amended (the “RP”), were ceased. In addition, generally effective -1-
+   - (e) Generally effective July 1, 2007, benefit accruals under the American Express Retirement Plan, as amended (the “RP”), were ceased. In addition, generally effective
 
 as of July 1, 2007, Amex adopted certain changes to the American Express Incentive Savings Plan, as amended, and renamed such plan the American Express Retirement Savings Plan (the “RSP”). 
 
@@ -19762,7 +20042,7 @@ as of July 1, 2007, Amex adopted certain changes to the American Express Incenti
 
    - (l) The Plan was amended and restated, effective March 30, 2009, by the Senior Vice President Global Compensation and Benefits, pursuant to the authority delegated to him, (i) to cease certain Company matching contributions and certain Company conversion contributions for the pay period commencing March 30, 2009 through the pay period ending January 3, 2010, and (ii) to disregard the temporary salary reductions in effect for the pay period commencing March 30, 2009 through the pay period ending on January 3, 2010, for purposes of determining a Participant’s “Compensation” with respect to crediting his or her RSP-Related Account.
 
-   - (m) The Plan was amended and restated, effective December 1, 2009, by the Vice President of Global Benefits, pursuant to the authority delegated to him, (i) to expand the -2-
+   - (m) The Plan was amended and restated, effective December 1, 2009, by the Vice President of Global Benefits, pursuant to the authority delegated to him, (i) to expand the
 
 class of employees eligible to receive SRP-RSP benefits, and (ii) to remove PG Awards as compensation eligible for elective deferrals. 
 
@@ -19780,8 +20060,6 @@ class of employees eligible to receive SRP-RSP benefits, and (ii) to remove PG A
 
    - (t) Effective September 26, 2013, the Senior Vice President Global Compensation & Benefits, pursuant to the authority delegated to him, adopted the Seventh Amendment to the Plan to add Section 8.9 to allow for certain de minimis lump sum payments.
 
--3- 
-
    - (u) Effective January 1, 2014, the Senior Vice President, Global Compensation & Benefits, pursuant to the authority delegated to him, adopted the Eighth Amendment to the Plan to amend Section 6.5(a) to provide for an earlier deadline for annual deferrals of the third Friday of December preceding the applicable Plan Year and to add Schedule E regarding continued participation by Participants who are or become employees of the joint venture involving the Global Business Travel business.
 
       - (v) Generally effective January 1, 2017, the Senior Vice President, Global Total Rewards and Learning, pursuant to the authority delegated to him, adopted the Ninth Amendment to the Plan to amend Section 2.1(y) to revise the definition of Incentive Pay, Section 2.1(pp) to omit the definition of RSP Match Percentage, Section 5.2(b)(iii) to revise the terms of Matching Contributions, Section 5.3(a)(iii)(A) to provide for the Automatic New Participant Supplemental Election, and Sections 5.4(a)(iii)(A) and 6.2(b) to provide rules on eligibility for open enrollment and special enrollment.
@@ -19796,15 +20074,15 @@ class of employees eligible to receive SRP-RSP benefits, and (ii) to remove PG A
 
    - (aa) The Plan was amended and restated, effective January 1, 2023, by the Executive Vice President, Colleague Total Rewards & Well-being, pursuant to the authority delegated to him by the CBC, to incorporate all of the prior amendments and EBAC interpretations and to make certain ministerial revisions.
 
-   - (bb) The Plan has remained in effect since its adoption and has been construed and operated as a “top-hat plan” under Sections 201(2) , 301(a)(3) , and 401(a)(1) of the -4-
+   - (bb) The Plan has remained in effect since its adoption and has been construed and operated as a “top-hat plan” under Sections 201(2) , 301(a)(3) , and 401(a)(1) of the
 
 Employee Retirement Income Security Act of 1974, as amended (“ERISA”), and Section 2520.104-23 of the United States Department of Labor Regulations. 
 
-### Section 1.2    Effective Date
+## Section 1.2    Effective Date
 
 Except as expressly provided otherwise herein, the Plan as amended and restated hereby is generally effective January 1, 2023, provided that provisions which are clarifying in nature reflect the intended interpretation of preexisting plan terms and are effective as of the date that the relevant original provision was added to the Plan.
 
-### Section 1.3    Transition Rules
+## Section 1.3    Transition Rules
 
    - (a) Supplemental Benefits. Each Participant’s accrued benefit under the Prior SRP Plan as of December 31, 2004 (“Grandfathered Supplemental Benefits”) was determined by the Administrator in accordance with Section 409A of the Code and Notice 2005-1. Grandfathered Supplemental Benefits are governed by and administered in accordance with the Prior SRP Plan, provided, however, that any election with respect to Grandfathered Supplemental Benefits may not materially modify the rights, terms or conditions of the Prior SRP Plan.
 
@@ -19812,9 +20090,9 @@ Except as expressly provided otherwise herein, the Plan as amended and restated 
 
    - (c) For convenience of reference, the details regarding the form and timing of payment of Grandfathered Supplemental Benefits, Grandfathered Deferral Benefits, and/or Formerly Grandfathered Deferral Benefits may be set forth on an Appendix to this Plan document, which may be updated or clarified by the Administrator from time to time (provided that such an Appendix shall not alter the form or timing of payment of such benefits from the form and timing provided for by this Section, the Prior SRP Plan and the Prior Deferral Plan, as applicable).
 
-### Section 1.4    Modification of Certain Grandfathered Benefits
+## Section 1.4    Modification of Certain Grandfathered Benefits
 
-   - (a) Effective January 1, 2011, the Formerly Grandfathered Deferral Benefits of each Degrandfathered Participant which are not scheduled to be in pay status by December 31, -5-
+   - (a) Effective January 1, 2011, the Formerly Grandfathered Deferral Benefits of each Degrandfathered Participant which are not scheduled to be in pay status by December 31,
 
 2016 shall be payable in a lump sum on March 1, 2012 unless otherwise elected pursuant to Section 1.4(b). Formerly Grandfathered Deferral Benefits which are scheduled for payment on March 1, 2012 will be credited with earnings under the Interest Credit Method through December 31, 2011, provided, however, that if a Participant becomes an Executive Officer, earnings credited to such Participant’s Formerly Grandfathered Deferral Benefits shall not exceed the AFR (except to the extent earnings in excess of the AFR have been paid out prior to the Participant’s becoming an Executive Officer). For the portion of 2012 prior to the date of payment, earnings on Formerly Grandfathered Deferral Benefits shall be credited with earnings at the AFR. 
 
@@ -19822,15 +20100,13 @@ Except as expressly provided otherwise herein, the Plan as amended and restated 
 
 ## ARTICLE 2 DEFINITIONS
 
-### Section 2.1    Definitions
+## Section 2.1    Definitions
 
 As used in the Plan, the following terms have the meanings indicated below:
 
    - (a) “Account” means, with respect to a Participant, his or her Deferral Account and Supplemental Account,
 
    - collectively. 
-
--6- 
 
    - (b) “Administrator” means the Employee Benefits Administration Committee, including any individual(s) to whom the Employee Benefits Administration Committee delegates authority under the Plan, or such other committee or individual(s) authorized to act as the Administrator by the Committee.
 
@@ -19860,13 +20136,11 @@ As used in the Plan, the following terms have the meanings indicated below:
 
    - (n) “Deferral Benefits” means, with respect to a Participant, the benefits credited under the Plan with respect to amounts withheld at the Participant’s election from a Participant’s compensation which would otherwise have been paid in cash, as adjusted for earnings and losses pursuant to the terms of the Plan.
 
--7- 
-
    - (o) “Deferral Benefits Eligibility Date” shall be determined in accordance with the rules set forth in Section 6.2.
 
    - (p) “Deferral Election” means, with respect to a given Plan Year, an election made by an eligible Employee with respect to his or her Deferral Benefits for such Plan Year under Article 6.
 
-#### (q)     “Deferral Plan” means:
+   - (q) “Deferral Plan” means:
 
       - (i) for Plan Years ending on or before December 31, 2007, the American Express Salary Deferral Plan, the American Express Pay-for-Performance Deferral Programs and any other similar non-qualified plans for the deferral of compensation available in such Plan Years; and
 
@@ -19884,7 +20158,7 @@ As used in the Plan, the following terms have the meanings indicated below:
 
    - (w) “Former GE Employees” means those Participants who were hired directly pursuant to the requirements of the Asset Purchase Agreement dated as of March 26, 2008, among General Electric Capital Corporation, GE Capital Financial Inc., General Electric Company, American Express Travel Related Services Company, Inc. and American Express Bank, FSB.
 
-      - (x) “Formerly Grandfathered Deferral Benefits” means Benefits which were Grandfathered Deferral Benefits as of October 27, 2010, (i) which are not scheduled to be in pay status by December 31, 2016 and (ii) which are attributable to Degrandfathered Participants. As of January 1, 2011, Formerly Grandfathered Deferral Benefits attributable to Degrandfathered -8-
+      - (x) “Formerly Grandfathered Deferral Benefits” means Benefits which were Grandfathered Deferral Benefits as of October 27, 2010, (i) which are not scheduled to be in pay status by December 31, 2016 and (ii) which are attributable to Degrandfathered Participants. As of January 1, 2011, Formerly Grandfathered Deferral Benefits attributable to Degrandfathered
 
 Participants shall no longer be Grandfathered Deferral Benefits governed by the Prior Deferral Plan, but rather shall become benefits subject to the terms of this Plan as of such date (as amended from time to time). 
 
@@ -19912,7 +20186,7 @@ Participants shall no longer be Grandfathered Deferral Benefits governed by the 
 
    - (hh) “Post-2010 Deferral Benefits” means Deferral Benefits (representing dollars deferred pursuant to a Participant’s Deferral Election, adjusted for all earnings and losses under the Plan) which are attributable to compensation earned by the Participant in 2011 and subsequent Plan Years.
 
-      - (ii) “Pre-2011 Deferral Benefits” means Deferral Benefits (representing dollars deferred pursuant to a Participant’s Deferral Election, adjusted for all earnings and losses -9-
+      - (ii) “Pre-2011 Deferral Benefits” means Deferral Benefits (representing dollars deferred pursuant to a Participant’s Deferral Election, adjusted for all earnings and losses
 
 under the Plan) which are attributable to compensation earned by the Participant in 2010 and prior Plan Years (regardless of when an amount deferred would otherwise have been paid in cash). By way of clarification, benefits for Plan Years ending on or before December 31, 2007 are not governed by the payment rules set forth in Article 8 of this document but by the payment rules set forth in the relevant Prior Deferral Plan document, which for convenience of reference may be reflected on an Appendix to this document. 
 
@@ -19940,8 +20214,6 @@ under the Plan) which are attributable to compensation earned by the Participant
 
    - (uu) “Section 415 Limitations” refers to the limitations on benefits for defined benefit pension plans and defined contribution plans which are imposed by Section 415 of the Code.
 
--10- 
-
    - (vv) “Separation from Service” has the meaning given such term by Section 409A. Whether a Participant has a Separation from Service shall be determined in accordance with Section 409A and the Section 409A Policy.
 
    - (ww) “Severance Plan” means, collectively, (i) the American Express Senior Executive Severance Plan, effective January 1, 1994, as amended and restated effective May 1, 2018, and as further amended from time to time, and any successor plan thereto, (ii) the American Express Severance Pay Plan, effective January 1, 1987, as amended and restated effective August 1, 2014, and as further amended from time to time, and any successor plan thereto, and (iii) the American Express Supplemental Unemployment Benefit Plan effective as of August l, 2014, as amended from time to time, and any successor plan thereto.
@@ -19962,25 +20234,33 @@ under the Plan) which are attributable to compensation earned by the Participant
 
    - (ddd) “Unforeseeable Emergency” means a severe financial hardship of the Participant resulting from (i) an illness or accident of the Participant, the Participant’s spouse or the Participant’s dependent (as defined in Section 152 of the Code, without regard to paragraphs (b)(1) , (b)(2) and (d)(1) (B) thereof), (ii) a loss of the Participant’s property due to casualty, or (iii) such other similar extraordinary and unforeseeable circumstances arising as a result of events beyond the control of the Participant, all as determined by the Administrator based on the relevant facts and circumstances and in accordance with Section 409A.
 
-**Section 2.2    Qualified Plan Definitions** . Capitalized terms not otherwise defined in the Plan shall have the same meaning set forth in the related Qualified Retirement Plan, to the extent applicable, as the context may imply. 
+## Section 2.2    Qualified Plan Definitions
 
-**Section 2.3    Gender and Number** . All pronouns and any variations thereof shall be deemed to refer to the masculine, feminine, or neuter, as the identity of the person or persons may require. For all purposes of the Plan, where the context admits, the singular shall include the plural, and the plural shall include the singular. 
+Capitalized terms not otherwise defined in the Plan shall have the same meaning set forth in the related Qualified Retirement Plan, to the extent applicable, as the context may imply.
 
--11- 
+## Section 2.3    Gender and Number
+
+All pronouns and any variations thereof shall be deemed to refer to the masculine, feminine, or neuter, as the identity of the person or persons may require. For all purposes of the Plan, where the context admits, the singular shall include the plural, and the plural shall include the singular.
 
 ## ARTICLE 3 ADMINISTRATION
 
-### Section 3.1    Administrator
+## Section 3.1    Administrator
 
 The Plan shall be administered by the Administrator.
 
-**Section 3.2    Authority** . Except as otherwise provided by the Committee (subject to the limitation on the Committee’s authority under Section 10.7), the Administrator shall have full power, authority and discretion to interpret, construe and administer the Plan, and such interpretation and construction thereof and actions taken thereunder shall be binding on all persons for the purposes so stated by the Administrator. The Administrator may correct any defect, supply any omission or reconcile any inconsistency in the Plan in the manner and to the extent the Administrator deems necessary or desirable. In the event of a mathematical or accounting error made, or other similar mistake, the Administrator shall have power in its discretion to cause such equitable adjustments to be made to correct for such errors as it considers appropriate in the circumstances. Any decision of the Administrator in the administration of the Plan shall be final and conclusive and binding upon all Participants and Beneficiaries. The Administrator, in its discretion, may delegate its authority and responsibilities, and references to “the Administrator” shall be deemed also to refer to persons to whom such authority and responsibilities are delegated, to the extent of such delegation. 
+## Section 3.2    Authority
+
+Except as otherwise provided by the Committee (subject to the limitation on the Committee’s authority under Section 10.7), the Administrator shall have full power, authority and discretion to interpret, construe and administer the Plan, and such interpretation and construction thereof and actions taken thereunder shall be binding on all persons for the purposes so stated by the Administrator. The Administrator may correct any defect, supply any omission or reconcile any inconsistency in the Plan in the manner and to the extent the Administrator deems necessary or desirable. In the event of a mathematical or accounting error made, or other similar mistake, the Administrator shall have power in its discretion to cause such equitable adjustments to be made to correct for such errors as it considers appropriate in the circumstances. Any decision of the Administrator in the administration of the Plan shall be final and conclusive and binding upon all Participants and Beneficiaries. The Administrator, in its discretion, may delegate its authority and responsibilities, and references to “the Administrator” shall be deemed also to refer to persons to whom such authority and responsibilities are delegated, to the extent of such delegation.
 
 ## ARTICLE 4 ELIGIBILITY
 
-**Section 4.1    Eligibility** . Participation in this Plan shall be limited to Employees who meet the requirements of Section 4.2, and shall automatically occur for such Employees, provided that the Administrator may designate, on a case-by-case basis, Employees or categories of Employees who shall not be eligible to participate in all or any portion of this Plan, and provided further, that the determination of eligible Employees shall be made consistent with the requirement that the Plan be a “top-hat” plan for purposes of ERISA. Unless the Administrator determines otherwise, Employees must be in Band 35 or above to become eligible to participate in the Plan. 
+## Section 4.1    Eligibility
 
-**Section 4.2    Participation** . To become a Participant in the Plan, an Employee must satisfy Section 4.1 and: 
+Participation in this Plan shall be limited to Employees who meet the requirements of Section 4.2, and shall automatically occur for such Employees, provided that the Administrator may designate, on a case-by-case basis, Employees or categories of Employees who shall not be eligible to participate in all or any portion of this Plan, and provided further, that the determination of eligible Employees shall be made consistent with the requirement that the Plan be a “top-hat” plan for purposes of ERISA. Unless the Administrator determines otherwise, Employees must be in Band 35 or above to become eligible to participate in the Plan.
+
+## Section 4.2    Participation
+
+To become a Participant in the Plan, an Employee must satisfy Section 4.1 and:
 
    - (a) be a participant under a Qualified Retirement Plan maintained by the Company. Participation by an Employee in a Qualified Retirement Plan shall be determined pursuant to and in accordance with the eligibility criteria applicable under such Qualified Retirement Plan; and
 
@@ -19988,7 +20268,7 @@ The Plan shall be administered by the Administrator.
 
       - (i) have an Account under the Plan from a prior Plan Year (provided that, solely for purposes of determining eligibility to participate, a Participant who would have had an Account balance had he or she accepted a previous offer to participate in the Plan shall be treated as having an Account balance); or
 
-      - (ii) receive Total Pay (as defined under the RSP, without regard to the Section 401(a)(17) Limitation) in excess of the Section 401(a)(17) Limitation; or -12-
+      - (ii) receive Total Pay (as defined under the RSP, without regard to the Section 401(a)(17) Limitation) in excess of the Section 401(a)(17) Limitation; or
 
       - (iii) be employed in Band 50 or above as of the Band 50 Determination Date in the prior Plan Year (provided that an individual newly hired into or promoted to Band 50 or newly eligible while in Band 50 after the Band 50 Determination Date and not already a Participant eligible for open enrollment may be permitted by the Administrator (in its discretion, and in accordance with such administrative policies as the Administrator may establish) to participate in open enrollment for the coming Plan Year); or
 
@@ -19996,7 +20276,9 @@ The Plan shall be administered by the Administrator.
 
 ## ARTICLE 5 SUPPLEMENTAL BENEFITS
 
-**Section 5.1    Benefits Under the RP** . If a Participant is a participant under the RP, other than a terminated participant, the Company shall establish an RP-Related Account for such Participant, which shall be determined as follows: 
+## Section 5.1    Benefits Under the RP
+
+If a Participant is a participant under the RP, other than a terminated participant, the Company shall establish an RP-Related Account for such Participant, which shall be determined as follows:
 
    - (a) “Compensation” for RP Credits. For purposes of RP credits under this Section 5.1, “Compensation” has the meaning given such term in the RP, provided that the Committee may, in its discretion, designate additional or different items as Compensation for purposes of this Section 5.1. Effective with the 2003 performance year (which awards were granted in 2004) and thereafter, “Compensation” for purposes of RP credits under this Section 5.1 shall include the value of restricted stock awards granted to certain Participants in lieu of cash supplemental Annual Incentive Awards.
 
@@ -20006,21 +20288,21 @@ The Plan shall be administered by the Administrator.
 
    - (d) Additional Years of Service.
 
-      - (i) Certain Participants, as determined by the Company in its sole discretion, may be deemed to have rendered five additional Years of Service under the Plan. For each such Participant, subject to such terms and conditions as the Company may impose upon such benefits by special agreement with such Participant (in the event of a conflict with this Section 5.1(d), such special agreement shall control), an additional amount shall be credited to the Participant’s RP-Related Account equal to the excess, if any of: (x) the total cumulative Contribution Credits that would have been credited to the Participant’s RPRelated Account under this Section 5.1 had the Participant rendered such additional Years of Service under the -13-
+      - (i) Certain Participants, as determined by the Company in its sole discretion, may be deemed to have rendered five additional Years of Service under the Plan. For each such Participant, subject to such terms and conditions as the Company may impose upon such benefits by special agreement with such Participant (in the event of a conflict with this Section 5.1(d), such special agreement shall control), an additional amount shall be credited to the Participant’s RP-Related Account equal to the excess, if any of: (x) the total cumulative Contribution Credits that would have been credited to the Participant’s RPRelated Account under this Section 5.1 had the Participant rendered such additional Years of Service under the
 
 RP, over (y) the actual total cumulative Contribution Credits credited to the Participant’s RP-Related Account under this Section 5.1 as of the date the Participant is eligible for such benefits under the Plan. Subject to the terms of the special agreement with each such Participant, such amounts shall be calculated and credited to the RP-Related Account established for the Participant in accordance with Section 5.3 under procedures to be determined from time to time by the Administrator and consistently applied to similarly situated Participants. Unless otherwise determined by the Administrator or agreed in a special agreement with the Participant, amounts credited under this Section 5.1(d) shall be subject to five-year vesting, and such amounts shall be forfeited by the Participant if the Participant’s service with the Company terminates for any reason other than death or disability (as defined in the RP) before five years of actual service have been rendered to the Company by such Participant. 
 
       - (ii) For each Participant with a special agreement described in Section 5.1(d)(i) who has not accrued five Years of Service as of July 1, 2007, the Participant shall be entitled to receive the credit described in Section 5.1(d)(i) for the 2007 Plan Year as if the RP had remained in effect through December 31, 2007, and the Participant were an active participant in the RP through such date. Regardless of any special agreement described in Section 5.1(d)(i), a Participant shall not be entitled to receive any credit under this Section 5.1 for the 2008 Plan Year or later.
 
-**Section 5.2    Benefits in Excess of Limits Under the RSP** . If a Participant is a participant in the RSP, other than a terminated participant, the Company shall establish an RSP-Related Account for such Participant, which shall be determined as follows: 
+## Section 5.2    Benefits in Excess of Limits Under the RSP
 
-   - (a) “Compensation” for RSP Credits.
+If a Participant is a participant in the RSP, other than a terminated participant, the Company shall establish an RSP-Related Account for such Participant, which shall be determined as follows:
+
+## (a)    “Compensation” for RSP Credits.
 
       - (i) _Definition_ . For purposes of RSP credits under this Section 5.2, “Compensation” has the meaning given the term “Total Pay” in the RSP, provided that the Committee may, in its discretion, designate additional or different items as Compensation for purposes of this Section 5.2. Effective July 1, 2007, “Compensation” for purposes of RSP credits under this Section 5.2 shall include the value of restricted stock awards granted to certain Participants in lieu of cash Annual Incentive Awards, subject to the limitation set forth in Section 5.2(a)(ii).
 
       - (ii) _Limitation_ . “Compensation” of a Participant who is in Band 50 or above for purposes of RSP credits under this Section 5.2 shall not include any Incentive Pay (including the value of any restricted stock awards granted to certain Participants in lieu of cash Annual Incentive Awards) in excess of one times his or her Base Salary. For purposes of this provision, a Participant’s pay band and Base Salary shall be determined as of January 1 of each Plan Year (or, if the Participant was not employed as an Eligible Employee on January 1, the date the Participant becomes or is rehired as an Eligible Employee, and in the case of a Participant who terminates employment and is rehired as an Eligible Employee within the same Plan Year, the application of this rule shall be determined by pay band as of the date of rehire as an Eligible Employee with respect to Company contributions other than those accrued (and as to which the Participant had met all the prerequisites for receipt) prior to rehire). In addition, Incentive Pay subject to this limitation shall only be those amounts actually paid in the Plan Year, regardless of when such amounts were earned.
-
--14- 
 
       - (iii) _Temporary Salary Reductions Disregarded_ . In determining the Compensation of a Participant for purposes of this Section 5.2, “Total Pay” under the RSP shall be determined by disregarding the temporary salary reductions in effect for the pay period commencing March 30, 2009 through the pay period ending on January 3, 2010.
 
@@ -20030,23 +20312,21 @@ RP, over (y) the actual total cumulative Contribution Credits credited to the Pa
 
       - (ii) _Company Profit-Sharing Contribution_ . An amount equal to: (A) the Company Profit-Sharing Contribution percentage utilized for purposes of the RSP for that Plan Year for such Participant (which, for the avoidance of doubt, shall be the percentage utilized for any Company Discretionary Profit Sharing Contribution and/or Company Fixed Rate Contribution, as applicable) times the sum of: (1) the Participant’s Compensation, calculated without the Section 401(a)(17) Limitation or Section 415 Limitations, plus (2) that portion of a Participant’s Compensation deferred during such Plan Year pursuant to a Deferral Plan, minus (B) the amount actually allocated as a Company Profit-Sharing Contribution (which, for the avoidance of doubt, shall be the amount actually allocated as a Company Discretionary Profit Sharing Contribution and/or Company Fixed Rate Contribution, as applicable) to the Account of the Participant under the RSP. Unless otherwise expressly provided in the Plan, benefits credited under this Section 5.2(b)(ii) at the time of a Supplemental Distribution shall be restricted to a Participant’s vested portion, as determined under the applicable provisions of the RSP. Any non-vested portion of such deferred compensation to be paid shall be forfeited.
 
-      - (iii) _Company Matching Contribution_ .
+### (iii) Company Matching Contribution
 
    - (A) Effective with Compensation paid on or after January 1, 2017, each eligible Participant who meets the eligibility requirements for a Qualified Matching Contribution (or other type of matching contribution) under the RSP (but without regard to whether or not he or she contributes under the RSP) shall receive a Matching Contribution each Plan Year equal to the Participant’s salary reduction amount (from Base Salary, Incentive Pay or a combination of both) contributed pursuant to a Deferral Election under Article 6 for such Plan Year (up to a maximum of six percent of the Participant’s Compensation which is not counted under the RSP either because it is in excess of the Section 401(a)(17) Limitation for the Plan Year or because it has been deferred under a Deferral Plan). Compensation for this purpose will not include amounts paid prior to a Participant’s Entry Date under the RSP with respect to Qualified Matching Contributions (or other type of matching contributions, as applicable).
-
--15- 
 
    - (B) Separately from any Matching Contribution calculated under (A), a Participant will be provided a Matching Contribution equal to the amount of Qualified Matching Contribution (or other type of matching contribution) that would have been provided to the Participant under the RSP, but was not able to be provided solely on account of the limitations of Section 415 of the Code.
 
    - (C) The vesting of Matching Contributions will parallel the vesting rules applicable under the RSP.
 
-      - (iv) _Company Conversion Contribution_ .
+### (iv) Company Conversion Contribution
 
    - (A) Except as otherwise provided by Section 5.2(b)(iv)(B), an amount equal to: (1) the Company Conversion Contribution percentage utilized for purposes of the RSP for that Plan Year for such Participant times the sum of: (a) the Participant’s Compensation, calculated without the Section 401(a)(17) Limitation or Section 415 Limitations, plus (b) that portion of a Participant’s Compensation deferred during such Plan Year pursuant to a Deferral Plan, minus (2) the amount actually allocated as a Company Conversion Contribution to the Account of the Participant under the RSP. Unless otherwise expressly provided in the Plan, benefits credited under this Section 5.2(b)(iv)(A) at the time of a Supplemental Distribution shall be restricted to a Participant’s vested portion, as determined under the applicable provisions of the RSP. Any non-vested portion of such deferred compensation to be paid shall be forfeited. Pursuant to the terms of the RSP, no Company Conversion Contributions are made for periods after December 31, 2017 for employees in Band 50 and above, or for periods after December 31, 2018 for employees below Band 50; accordingly, no Company Conversion Contributions are made under the Plan for such periods.
 
    - (B) No Company conversion contributions were made for the pay period commencing March 30, 2009 through the pay period ending January 3, 2010 to any Participant; provided, however, the preceding limitation did not apply to Participants who were Retirement Eligible as of December 31, 2009. For the avoidance of doubt, when Company conversion contributions resumed after the pay period ending on January 3, 2010, such contributions resumed in the same amount as in effect immediately prior to the pay period beginning on March 30, 2009; provided, however, that the Company continued to retain the right to modify, amend or terminate the Plan and any contributions thereunder at any time for any reason whatsoever.
 
-      - (v) _Transition Contributions for Certain Former GE Capital Employees_ . For Former GE Employees, an amount equal to: (A) the Transition Contribution percentage utilized for purposes of the RSP for that Plan Year for such Participant times the sum of: (1) the Participant’s Compensation, calculated without the Section 401(a)(17) Limitation or Section 415 Limitations, plus (2) that portion of a Participant’s Compensation deferred during such Plan Year pursuant to a Deferral Plan, minus (B) the amount actually allocated as a Transition Contribution to the Account of the Participant under the RSP. Notwithstanding the foregoing, if an individual would be eligible for both Company Conversion Contributions under Section 5.2(b)(iv) and Transition Contributions under this Section 5.2(b)(v), such individual shall only receive the greater of the Company Conversion Contributions and the Transition Contributions to which he or she would otherwise be entitled during such period of dual eligibility. Unless otherwise expressly provided in the Plan, benefits credited under this -16-
+      - (v) _Transition Contributions for Certain Former GE Capital Employees_ . For Former GE Employees, an amount equal to: (A) the Transition Contribution percentage utilized for purposes of the RSP for that Plan Year for such Participant times the sum of: (1) the Participant’s Compensation, calculated without the Section 401(a)(17) Limitation or Section 415 Limitations, plus (2) that portion of a Participant’s Compensation deferred during such Plan Year pursuant to a Deferral Plan, minus (B) the amount actually allocated as a Transition Contribution to the Account of the Participant under the RSP. Notwithstanding the foregoing, if an individual would be eligible for both Company Conversion Contributions under Section 5.2(b)(iv) and Transition Contributions under this Section 5.2(b)(v), such individual shall only receive the greater of the Company Conversion Contributions and the Transition Contributions to which he or she would otherwise be entitled during such period of dual eligibility. Unless otherwise expressly provided in the Plan, benefits credited under this
 
 Section 5.2(b)(v) at the time of a Supplemental Distribution shall be restricted to a Participant’s vested portion, as determined under the applicable provisions of the RSP. Any non-vested portion of such deferred compensation to be paid shall be forfeited. The right to Transition Contributions under this Section shall expire at the same time as the right to Transition Contributions under the RSP. Pursuant to the terms of the RSP, no Transition Contributions are made for periods after March 31, 2011. 
 
@@ -20054,11 +20334,11 @@ Section 5.2(b)(v) at the time of a Supplemental Distribution shall be restricted
 
    - (c) Company Contribution for Additional Years of Service. Certain Participants, as determined by the Company in its sole discretion, may be deemed to have rendered five additional Years of Service under the RSP. For each such Participant, for the period of January 1, 2008 and thereafter, subject to such terms and conditions as the Company may impose upon such benefits by special agreement with such Participant (in the event of a conflict with this Section 5.2(c), such special agreement shall control), an additional amount shall be credited to the Participant’s RSP-Related Account equal to 80 percent (or such lower percentage specified in the special agreement) of the Participant’s annual rate of base salary (as of the Participant’s date of hire), before any reduction for any amounts deferred by the Participant pursuant to Section 401(k) or Section 125 of the Code, or pursuant to a Deferral Plan or any other non-qualified plan which permits the voluntary deferral of compensation. Subject to the terms of the special agreement with each such Participant, such amounts shall be calculated under procedures to be determined from time to time by the Administrator and consistently applied to similarly situated Participants. Unless otherwise determined by the Administrator or agreed in the special agreement with the Participant, amounts credited under this Section 5.2(c) shall be subject to five-year vesting, and such amounts shall be forfeited by the Participant if the Participant’s service with the Company terminates for any reason other than death or disability (as defined in the RSP) before five years of actual service have been rendered to the Company by such Participant. Amounts described in this Section 5.2(c) shall be credited to the RSP-Related Account established for the Participant in accordance with Section 5.3.
 
-### Section 5.3    Crediting of Account
+## Section 5.3    Crediting of Account
 
    - (a) Time and Manner. Amounts described in this Article 5 shall be credited to the Supplemental Account established for a Participant at such times and in such manner as may be determined by the Administrator. In making such credits, the Administrator shall generally attempt to, but shall not be required to, credit accounts at a time and in a manner as similar as possible to the time and manner for the crediting of similar amounts under the Qualified Retirement Plans; provided, however, that:
 
-      - (i) unless the Administrator determines otherwise, amounts credited to a Supplemental Account with respect to the application of the Section 415 Limitations to the RP shall be estimated by the Administrator at the time of a Participant’s Separation from Service, based on such assumptions as the Administrator may reasonably impose and consistently applied to similarly situated Participants, and assuming that the Participant would begin receiving -17-
+      - (i) unless the Administrator determines otherwise, amounts credited to a Supplemental Account with respect to the application of the Section 415 Limitations to the RP shall be estimated by the Administrator at the time of a Participant’s Separation from Service, based on such assumptions as the Administrator may reasonably impose and consistently applied to similarly situated Participants, and assuming that the Participant would begin receiving
 
 benefits under the RP at the time of the Participant’s Separation from Service, or if later, at the earliest possible date that the Participant could start to receive benefits under the RP, and such estimated amount shall be credited immediately preceding the date upon which the Participant will receive (or commence receiving, in the case of installment payments) payment of benefits under the Plan; and 
 
@@ -20074,11 +20354,11 @@ benefits under the RP at the time of the Participant’s Separation from Service
 
    - (d) Additional Accounts. The Administrator may, in its sole and exclusive discretion, establish additional book reserve accounts from time to time. The procedures to reflect and credit increases, decreases, interest, dividends, and other income, gains and losses shall be determined by the Administrator in its sole and exclusive discretion.
 
-**Section 5.4    Supplemental Benefits Payment Election** . Any Supplemental Benefits payable under the Plan shall be paid in cash from the general assets of the Company in the form elected by the Participant subject to the following: 
+## Section 5.4    Supplemental Benefits Payment Election
+
+Any Supplemental Benefits payable under the Plan shall be paid in cash from the general assets of the Company in the form elected by the Participant subject to the following:
 
    - (a) In accordance with rules and procedures adopted by the Administrator in compliance with Section 409A, existing Participants, including Participants (other than those in pay status on December 31, 2004) under the Prior SRP Plan, may make Supplemental Elections as follows:
-
--18- 
 
       - (i) Participants who have not previously made an initial Supplemental Election under Section 5.4(b), whether under the Plan or under the Prior SRP Plan, may make such an initial Supplemental Election on or before the date set by the Administrator, which shall not be later than December 31, 2005.
 
@@ -20090,7 +20370,7 @@ benefits under the RP at the time of the Participant’s Separation from Service
 
 contributions described in the following paragraphs: 
 
-      - (i) In the case of a Participant who first receives Compensation with respect to which Company contributions are credited under this Plan for the first, second or third quarter of the calendar year, or in the case of a new Participant in Band 50 or above, whose 30 day election period under Article 6 (or open enrollment period offered in lieu of a special enrollment period) expires no later than December 31st of the Participant’s first calendar year as a Band 50 Employee eligible to participate in this Plan, or in the case of a new Participant who is not in Band 50 or above, who is permitted to file an election during open enrollment under Article 6 for the following calendar year, such Participant’s initial Supplemental Election shall not be effective with respect to Company contributions calculated based on Compensation paid prior to the end of the first calendar year beginning on or after the date on which the Participant first is paid Compensation with respect to which Company -19-
+      - (i) In the case of a Participant who first receives Compensation with respect to which Company contributions are credited under this Plan for the first, second or third quarter of the calendar year, or in the case of a new Participant in Band 50 or above, whose 30 day election period under Article 6 (or open enrollment period offered in lieu of a special enrollment period) expires no later than December 31st of the Participant’s first calendar year as a Band 50 Employee eligible to participate in this Plan, or in the case of a new Participant who is not in Band 50 or above, who is permitted to file an election during open enrollment under Article 6 for the following calendar year, such Participant’s initial Supplemental Election shall not be effective with respect to Company contributions calculated based on Compensation paid prior to the end of the first calendar year beginning on or after the date on which the Participant first is paid Compensation with respect to which Company
 
 contributions under this Plan are calculated, or in which the Participant is otherwise described in this paragraph. 
 
@@ -20104,8 +20384,6 @@ contributions under this Plan are calculated, or in which the Participant is oth
 
    - (D) With respect to an Employee who was a former Participant and again becomes a Participant after being rehired by the Company following his or her Separation from Service, the election rules in this Section shall apply to the Company Matching Contributions, Company Conversion Contributions and Company Profit-Sharing Contributions made to such Participant following his or her rehire date as if the rehire date (or if later, the resumption of eligibility to participate) were the date of initial participation eligibility.
 
--20- 
-
       - (iv) Participants who have previously made both a Supplemental Election and a modification to such Supplemental Election shall be subject to the rules of Section 5.4(d) prohibiting any further changes to their Supplemental Elections. However, any Participant who was not in pay status (as defined in Section 1.1(c)) on January 1, 2005 and who previously made a modification to an initial Supplemental Election which accelerated the time period for payments from the Plan shall not have any reduction in the amounts otherwise payable hereunder (notwithstanding Section V(D)(1) (b)(ii) of the Prior SRP Plan).
 
    - (b) A Participant may elect to receive his or her Supplemental Benefits that are not covered by the Automatic New Participant Supplemental Election in a single lump-sum payment or in annual installments payable over a period of five, ten or 15 consecutive calendar years. Except as provided in Section 5.4(d), a Participant may not modify his or her initial Supplemental Election described in the preceding sentence. Such subsequent Supplemental Election shall apply to the payment of all Supplemental Benefits under the Plan and the Prior SRP Plan that are not covered by the Automatic New Participant Supplemental Election (except for benefits that were in pay status on December 31, 2004). A Participant’s reemployment after Separation from Service shall not affect benefits attributable to periods prior to his or her Separation from Service, and he or she shall be subject to a new Automatic New Participant Supplemental Election and initial Supplemental Election with respect to post-reemployment benefits.
@@ -20114,13 +20392,15 @@ contributions under this Plan are calculated, or in which the Participant is oth
 
    - (d) A Participant who has not previously modified an initial Supplemental Election may make a one-time modification to his or her initial Supplemental Election to elect a different form of payment for Supplemental Benefits under the Plan that are not covered by the Automatic New Participant Supplemental Election. To be effective, such a modification shall be made by filing a written notice of modification in such form and manner as the Administrator may prescribe; provided, however, that the modification must comply with Section 409A, including the requirements regarding: (i) a minimum additional deferral period of five years, and (ii) the subsequent Supplemental Election not being effective until 12 months after it is made. A Participant may not change the payment method of his or her Supplemental Benefits after his or her Separation from Service. Notwithstanding the previous sentence, with respect to an Employee who was a former Participant and again becomes a Participant after being rehired by the Company following his or her Separation from Service, the one-time modification under this Section 5.4(d) shall be permitted with respect to such Participant’s initial Supplemental Election made following his or her rehire date, regardless of whether the Participant had also made such a modification for benefits earned prior to Separation from Service. By way of clarification, the Automatic New Participant Supplemental Election cannot be modified.
 
--21- 
-
 ## ARTICLE 6 ELECTIVE DEFERRALS
 
-**Section 6.1    Notification** . Employees eligible to participate in the Plan for a Plan Year with respect to Deferral Benefits will be notified by Amex of their eligibility to participate for such Plan Year. If Amex erroneously notifies an individual of his or her eligibility to participate, and such individual does not meet the requirements of Section 4.2 or such individual has been excluded by the Administrator pursuant to Section 4.1, such erroneous notification shall not cause the individual to be eligible, and any Deferral Election made by such ineligible individual shall be null and void and of no effect to the extent permissible under Section 409A. 
+## Section 6.1    Notification
 
-**Section 6.2    Participation** . An eligible Employee for a Plan Year who was a Participant in the prior Plan Year as of the Band 50 Determination Date, or who is employed in Band 50 or above as of the Band 50 Determination Date in the prior Plan Year, or who otherwise becomes employed in Band 50 or above or first becomes eligible while in Band 50 or above prior to the end of the prior Plan Year and is authorized by the Administrator to participate in enrollment shall become a Participant in the Plan with respect to Deferral Benefits for such Plan Year by making a Deferral Election in accordance with Section 6.5 for the Plan Year. Such an Employee’s Deferral Benefits Eligibility Date for the Plan Year shall be January 1. In addition to the foregoing, the following special rules apply to the extent permitted by Section 6.3: 
+Employees eligible to participate in the Plan for a Plan Year with respect to Deferral Benefits will be notified by Amex of their eligibility to participate for such Plan Year. If Amex erroneously notifies an individual of his or her eligibility to participate, and such individual does not meet the requirements of Section 4.2 or such individual has been excluded by the Administrator pursuant to Section 4.1, such erroneous notification shall not cause the individual to be eligible, and any Deferral Election made by such ineligible individual shall be null and void and of no effect to the extent permissible under Section 409A.
+
+## Section 6.2    Participation
+
+An eligible Employee for a Plan Year who was a Participant in the prior Plan Year as of the Band 50 Determination Date, or who is employed in Band 50 or above as of the Band 50 Determination Date in the prior Plan Year, or who otherwise becomes employed in Band 50 or above or first becomes eligible while in Band 50 or above prior to the end of the prior Plan Year and is authorized by the Administrator to participate in enrollment shall become a Participant in the Plan with respect to Deferral Benefits for such Plan Year by making a Deferral Election in accordance with Section 6.5 for the Plan Year. Such an Employee’s Deferral Benefits Eligibility Date for the Plan Year shall be January 1. In addition to the foregoing, the following special rules apply to the extent permitted by Section 6.3:
 
    - (a) In the case of an Employee who is not already a Participant in the Plan, the Employee shall be considered eligible to participate as of the date he or she first is employed in Band 50 or above (or, in the case of an employee who was in Band 50 or above but not eligible for a Qualified Retirement Plan, as of the date the Employee (while still in Band 50 or above) becomes eligible for a Qualified Retirement Plan) and shall be permitted to file an election within 30 days of such date. Such Employee’s Deferral Benefits Eligibility Date shall be the first payroll period beginning after the expiration of the 30-day period. Notwithstanding the foregoing, the Administrator may establish procedures regarding coordination of special enrollment and open enrollment opportunities for Employees who would otherwise become eligible for Band 50 or above special enrollment at the end of the Plan Year, and/or may otherwise impose limits on the availability of special enrollment in appropriate circumstances.
 
@@ -20128,7 +20408,7 @@ contributions under this Plan are calculated, or in which the Participant is oth
 
       - (i) An Employee who was not otherwise eligible to participate in Deferral Benefits for a Plan Year and first satisfies the requirements for participation during one of the first three quarters of the Plan Year by reason of exceeding the Section 401(a)(17) Limitation will become eligible to participate in Deferral Benefits under the Plan effective January 1 of the following Plan Year, which shall be such Employee’s Deferral Benefits Eligibility Date, and may participate in the Plan’s open enrollment period.
 
-      - (ii) An Employee who was not otherwise eligible to participate in Deferral Benefits for a Plan Year and first satisfied the requirements for participation during the final calendar quarter of the Plan Year by reason of exceeding the Section 401(a)(17) Limitation will become eligible to participate in Deferral Benefits under the Plan as of the first pay period beginning after the first day of the second month of the first calendar quarter of the following -22-
+      - (ii) An Employee who was not otherwise eligible to participate in Deferral Benefits for a Plan Year and first satisfied the requirements for participation during the final calendar quarter of the Plan Year by reason of exceeding the Section 401(a)(17) Limitation will become eligible to participate in Deferral Benefits under the Plan as of the first pay period beginning after the first day of the second month of the first calendar quarter of the following
 
 Plan Year (the first day of such pay period being the Deferral Benefits Eligibility Date), and may make an election in advance of such date and in accordance with Section 6.3 by the deadline established by the Administrator. 
 
@@ -20138,17 +20418,17 @@ Plan Year (the first day of such pay period being the Deferral Benefits Eligibil
 
    - (c) Except as expressly permitted under this Section, mid-year elections are not allowed. A mid-year election may not be made, even if otherwise permitted under this Section, unless the Employee also satisfies all the requirements of Section 6.3, and must be filed by the deadline established by the Administrator. All Deferral Elections will become irrevocable as of the day before the Deferral Benefits Eligibility Date, or such earlier date as is established by the Administrator.
 
-**Section 6.3    Newly Eligible Employees** . To the extent permissible under Section 409A and Section 6.2, Employees who become eligible to participate in the Plan during a Plan Year with respect to Deferral Benefits and who have not previously been eligible to participate in an elective account-balance deferred compensation arrangement (as defined for purposes of Section 409A) of Amex or its subsidiaries may be offered by Amex the opportunity to participate in the Plan for the Plan Year in accordance with Section 6.2. In the case of an Employee who had previously been eligible to participate in an elective account-balance deferred compensation arrangement (as defined for purposes of Section 409A) of Amex or its subsidiaries (regardless of whether he or she chose to do so), that Employee may be treated as newly eligible to participate and entitled to mid-year enrollment to the extent permitted by Section 6.2 if: 
+## Section 6.3    Newly Eligible Employees
+
+To the extent permissible under Section 409A and Section 6.2, Employees who become eligible to participate in the Plan during a Plan Year with respect to Deferral Benefits and who have not previously been eligible to participate in an elective account-balance deferred compensation arrangement (as defined for purposes of Section 409A) of Amex or its subsidiaries may be offered by Amex the opportunity to participate in the Plan for the Plan Year in accordance with Section 6.2. In the case of an Employee who had previously been eligible to participate in an elective account-balance deferred compensation arrangement (as defined for purposes of Section 409A) of Amex or its subsidiaries (regardless of whether he or she chose to do so), that Employee may be treated as newly eligible to participate and entitled to mid-year enrollment to the extent permitted by Section 6.2 if:
 
    - (a) The Employee had received payment of all amounts under the Plan’s Deferral Account and any other elective account-balance plan and, as of the date of the last payment was not eligible to continue participation in the Plan’s Deferral Benefits or any other elective account-balance plan, disregarding for this purpose any right to delay payment; or
 
    - (b) The Employee had ceased to be eligible to participate in Deferral Benefits under the Plan and all other elective account-balance plans and had not been eligible to participate in Deferral Benefits under the Plan or any other elective accountbalance plan at any time during the 24-month period ending on the date the Employee again became eligible (disregarding for purposes of determining the Employee’s eligibility the right to accrue earnings on amounts in the Plan or other elective accountbalance plan), regardless of whether the Employee has received payments of amounts previously deferred.
 
-### Section 6.4    Deferrable Compensation
+## Section 6.4    Deferrable Compensation
 
    - (a) Eligible Compensation.
-
--23- 
 
       - (i) An eligible Employee for a Plan Year may elect to defer a specified amount from one or more of the following items:
 
@@ -20164,7 +20444,7 @@ Plan Year (the first day of such pay period being the Deferral Benefits Eligibil
 
    - (b) Maximum Deferral. The Administrator shall impose the following limits on Deferral Benefits, provided that the Administrator (in its sole discretion) may waive an otherwise applicable limit so long as such waiver is approved no later than the day before the date a Deferral Election becomes effective.
 
-      - (i) The Administrator shall limit the amount that may be deferred from (A) Base Salary to be paid in the following Plan Year and (B) Incentive Pay to be paid in the second following Plan Year, to 100 percent of the Participant’s Base Salary rate in effect as of the December 31st of the Plan Year during which the Deferral Election is filed (or with respect to an Employee who becomes eligible to participate in the Plan with respect to Deferral Benefits during a Plan Year, shall limit the amount that may be deferred from Base Salary paid in such Plan Year and Incentive Pay paid in the following Plan Year (1) if the Employee becomes eligible to participate in the Plan by reason of being hired into or a promotion to Band 50 or above (or a transfer to eligible status while in Band 50), 100 percent of the Employee’s Base Salary rate in effect as of the date he or she becomes eligible to so participate; (2) if the Employee becomes eligible to participate in the Plan by reason of exceeding the Section 401(a)(17) Limitation, 100 percent of the Employee’s Base Salary rate in effect as of the last day of the calendar quarter preceding the date he or she becomes eligible to so participate pursuant to Section 6.2(b)). The Administrator shall calculate this limit by (X) subtracting the percentage of Base Salary elected to be deferred from 100 percent, (Y) multiplying the Base Salary rate times the percentage obtained under clause (X), and (Z) limiting the Incentive Pay Deferral Benefits for the second following (or, in the case, of mid-year enrollment, the -24-
+      - (i) The Administrator shall limit the amount that may be deferred from (A) Base Salary to be paid in the following Plan Year and (B) Incentive Pay to be paid in the second following Plan Year, to 100 percent of the Participant’s Base Salary rate in effect as of the December 31st of the Plan Year during which the Deferral Election is filed (or with respect to an Employee who becomes eligible to participate in the Plan with respect to Deferral Benefits during a Plan Year, shall limit the amount that may be deferred from Base Salary paid in such Plan Year and Incentive Pay paid in the following Plan Year (1) if the Employee becomes eligible to participate in the Plan by reason of being hired into or a promotion to Band 50 or above (or a transfer to eligible status while in Band 50), 100 percent of the Employee’s Base Salary rate in effect as of the date he or she becomes eligible to so participate; (2) if the Employee becomes eligible to participate in the Plan by reason of exceeding the Section 401(a)(17) Limitation, 100 percent of the Employee’s Base Salary rate in effect as of the last day of the calendar quarter preceding the date he or she becomes eligible to so participate pursuant to Section 6.2(b)). The Administrator shall calculate this limit by (X) subtracting the percentage of Base Salary elected to be deferred from 100 percent, (Y) multiplying the Base Salary rate times the percentage obtained under clause (X), and (Z) limiting the Incentive Pay Deferral Benefits for the second following (or, in the case, of mid-year enrollment, the
 
 following) Plan Year to the dollar amount obtained under clause (Y). By way of clarification, a Participant’s actual Base Salary Deferral Benefits will vary in amount, depending on actual Base Salary paid, but shall not affect this maximum limit on Incentive Pay in the second following (or in the case of mid-year enrollment, the following) Plan Year. 
 
@@ -20174,7 +20454,7 @@ following) Plan Year to the dollar amount obtained under clause (Y). By way of c
 
    - (c) Computation of Deferral Amounts. The Administrator may specify that Deferral Elections must be made as a percentage of Base Salary and Incentive Pay, respectively, as a dollar amount of Base Salary and Incentive Pay, respectively, or in some other reasonable fashion. The Administrator may permit the use of multiple methods of calculating Deferral Elections or require use of a single method. The Administrator may permit Employees to specify that a Deferral Election shall apply only to the extent that the Employee is paid amounts in excess of the Section 401(a)(17) Limitation.
 
-### Section 6.5    Deferral Benefits Election
+## Section 6.5    Deferral Benefits Election
 
    - (a) Time of Deferral Election. An eligible Employee for a Plan Year who wants to participate in the Plan with respect to Deferral Benefits for a Plan Year must make an irrevocable Deferral Election for the Plan Year on or before the December 15 of the preceding Plan Year, or if December 15 is on a weekend, the following Monday, or as of such other deadline as the Administrator may establish (but in all events prior to the beginning of such Plan Year); provided, however, that an Employee permitted under Section 6.2 to make a mid-year Deferral Election for the Plan Year in which he or she becomes eligible to participate may make a Deferral Election by the deadline established under that Section (or by such earlier deadline as may be established by the Administrator).
 
@@ -20186,8 +20466,6 @@ following) Plan Year to the dollar amount obtained under clause (Y). By way of c
 
       - (ii) in the case of an Employee in Band 50 or above as of the Band 50 Determination Date in the prior Plan Year (or a non-Participant who first becomes an eligible Band 50 Employee after such date and is permitted by the Administrator to participate in open enrollment for the following Plan Year on account of such hire or promotion into Band 50):
 
--25- 
-
    - (A) the time when his or her Deferral Benefits for such Plan Year shall be paid, which shall be either (A) the Separation from Service of the Participant, or (B) a specified date at least five years after the last day of the Plan Year at the time of the election; and
 
    - (B) the form of payment of his or her Deferral Benefits for the Plan Year, which shall be (A) a lump sum, or (B) five, ten or 15 substantially equal annual installments.
@@ -20198,21 +20476,21 @@ By way of clarification, an Employee who is not in Band 50 or above as of the Ba
 
    - (d) Withholding of Amounts Deferred. For each Plan Year, the Base Salary portion of a Participant’s Deferral Election shall be withheld from each regularly scheduled Base Salary payroll, and the Incentive Pay portion of a Participant’s Deferral Election shall be withheld at the time the Incentive Pay is or otherwise would be paid to the Participant.
 
-### Section 6.6    Crediting of Deferred Amounts
+## Section 6.6    Crediting of Deferred Amounts
 
 The Administrator shall establish and maintain a Deferral Account with respect to each Participant’s Deferral Benefits. Amounts deferred by a Participant shall be credited to the Deferral Account established for the Participant at such times and in such manner as may be determined by the Administrator. The Administrator may divide the Deferral Account into subaccounts for purposes of tracking earnings and losses in accordance with Article 7.
 
 ## ARTICLE 7 EARNINGS
 
-**Section 7.1    RP-Related Account** . For each Participant, the RP-Related Account established pursuant to Section 5.1 shall be increased by the Imputed Earnings Credit (as such term is defined in the RP), not less frequently than annually, under procedures and at times determined by the Administrator and consistently applied for similarly situated Participants. Such earnings shall be credited at the same interest rate and computed in a similar manner (to the extent administratively feasible) as Imputed Earnings Credits are computed under the RP for each Plan Year. 
+## Section 7.1    RP-Related Account
 
--26- 
+For each Participant, the RP-Related Account established pursuant to Section 5.1 shall be increased by the Imputed Earnings Credit (as such term is defined in the RP), not less frequently than annually, under procedures and at times determined by the Administrator and consistently applied for similarly situated Participants. Such earnings shall be credited at the same interest rate and computed in a similar manner (to the extent administratively feasible) as Imputed Earnings Credits are computed under the RP for each Plan Year.
 
-### Section 7.2    RSP-Related Account
+## Section 7.2    RSP-Related Account
 
 A Participant’s RSP-Related Account shall be credited with earnings under the Hypothetical Investment Method set forth below.
 
-### Section 7.3    Deferral Accounts
+## Section 7.3    Deferral Accounts
 
    - (a) For Plan Year 2011 and later, a Participant’s Deferral Benefits for such Plan Year shall be credited with earnings under the Hypothetical Investment Method set forth below. For the avoidance of doubt, 2010 Incentive Pay paid in 2011 and deferred pursuant to a Deferral Election will be considered 2010 Deferral Benefits for purposes of this Section.
 
@@ -20222,21 +20500,21 @@ A Participant’s RSP-Related Account shall be credited with earnings under the 
 
    - (d) For Retirees, such Participant’s Deferral Benefits for Plan Years prior to 2011 shall be credited with earnings under the Interest Method set forth below through December 31, 2012, and under the Hypothetical Investment Method set forth below effective January 1, 2013.
 
-### Section 7.4    Hypothetical Investment Method
+## Section 7.4    Hypothetical Investment Method
 
-   - (a) For each Participant, credits to his or her RSP-Related and Deferral Account (to the extent subject to the Hypothetical Investment Method) shall be made to such subaccounts thereunder as directed by such Participant, using the subaccounts described in Section 5.3, provided, however, that with respect to Deferral Benefits attributable to Plan Years prior to 2011, the Participant may elect to have all or some of such Deferral Benefits invested in an investment option that credits earnings at the AFR instead of in the Stock Fund or the RSP-based investment options, and provided further that no Participant may transfer amounts to the subaccount representing the Stock Fund to the extent that such transfer would result in the aggregate Company Stock holdings of such Participant under the Plan exceeding ten percent of (i) the total value of his or her Deferral Account (determined at the time of the transfer) with respect to the investment of the Deferral Account or (ii) the total value of his or her RSP-Related Account (determined at the time of the transfer) with respect to the investment of the RSP-Related Account, nor may a Participant direct that more than ten percent of new contributions -27-
+   - (a) For each Participant, credits to his or her RSP-Related and Deferral Account (to the extent subject to the Hypothetical Investment Method) shall be made to such subaccounts thereunder as directed by such Participant, using the subaccounts described in Section 5.3, provided, however, that with respect to Deferral Benefits attributable to Plan Years prior to 2011, the Participant may elect to have all or some of such Deferral Benefits invested in an investment option that credits earnings at the AFR instead of in the Stock Fund or the RSP-based investment options, and provided further that no Participant may transfer amounts to the subaccount representing the Stock Fund to the extent that such transfer would result in the aggregate Company Stock holdings of such Participant under the Plan exceeding ten percent of (i) the total value of his or her Deferral Account (determined at the time of the transfer) with respect to the investment of the Deferral Account or (ii) the total value of his or her RSP-Related Account (determined at the time of the transfer) with respect to the investment of the RSP-Related Account, nor may a Participant direct that more than ten percent of new contributions
 
 made to the RSP-Related Account or the Deferral Account, respectively, be directed to the subaccount representing the Stock Fund. If more than one subaccount is available, a Participant must designate, on a form or other medium acceptable to the Administrator, in one-percent increments, the amounts to be credited to each subaccount. A Participant shall be allowed to amend such designation consistent with the frequency of investment changes offered the Participant under rules governing the RSP for a given Plan Year, subject to any different or additional rules as may be established by the Administrator for this Plan. If a Participant has directed the transfer of amounts to the Stock Fund and the credits to the relevant Account of a Participant to the subaccount relating to the Stock Fund would result in the aggregate Company Stock holdings of such Participant under the Plan exceeding ten percent of the total value of such Account (determined at the time of the transfer) or has directed new contributions to an Account to the Stock Fund in an amount which would result in new contributions to such Account’s subaccount representing the Stock Fund exceeding ten percent of new contributions to such Account, then such Participant shall be deemed to have selected, with respect to any such excess, the default subaccount designated by the Administrator (which shall be deemed to be the subaccount representing the fund designated as the default fund under the RSP, unless the Administrator directs the use of a different fund). 
 
    - (b) To the extent a Participant elects to invest in the subaccount representing the Stock Fund, subject to Section 7.4(d) and Section 7.6, the limit on such investments set forth above, and such rules as may be adopted by the Administrator, the performance of the book reserve subaccount established for each Participant pursuant to Section 5.3 or Section 6.6 shall reflect the performance of the Stock Fund. Such subaccount shall reflect such increases or decreases in value from time to time, whether from dividends, gains, losses or otherwise, as may be experienced by the Stock Fund. Subject to Section 7.6 and to such rules as may be adopted by the Administrator, a Participant may elect to transfer credits among the Stock Fund and one or more subaccounts representing other investment options in a manner similar to the rules for such transfers under the RSP and such different or additional rules as the Administrator may establish for this Plan; provided, however, no Participant may transfer amounts to the subaccount representing the Stock Fund to the extent that such transfer would violate a limit on such investment established by the Plan or the Administrator.
 
-   - (c) To the extent the Participant does not elect (or is not permitted) to invest in the subaccount representing the Stock Fund, subject to Section 7.4(d), and to such rules as may be adopted by the Administrator, the performance of each book reserve subaccount established for each Participant shall reflect the performance of the investment fund that the Participant elects to have such subaccount represent. Each such subaccount shall reflect such increases or decreases in value from time to time, whether from dividends, gains, losses or otherwise, as that experienced by the related investment fund under the RSP or, in the case of the AFR investment option, as indicated by the AFR. Subject to Section 7.6, credits to such subaccounts may be transferred to any other subaccount under the Plan in a manner similar to the rules for such transfers under the RSP, on such terms and at such times as permitted with respect to the related investment funds under the RSP and such similar rules as may be established for the AFR option, subject in each case to such rules as may be adopted by the Administrator for this Plan. If a Participant fails to affirmatively designate one or more subaccounts pursuant to this Section 7.4(c), subject to rules established by the Administrator, such Participant shall be -28-
+   - (c) To the extent the Participant does not elect (or is not permitted) to invest in the subaccount representing the Stock Fund, subject to Section 7.4(d), and to such rules as may be adopted by the Administrator, the performance of each book reserve subaccount established for each Participant shall reflect the performance of the investment fund that the Participant elects to have such subaccount represent. Each such subaccount shall reflect such increases or decreases in value from time to time, whether from dividends, gains, losses or otherwise, as that experienced by the related investment fund under the RSP or, in the case of the AFR investment option, as indicated by the AFR. Subject to Section 7.6, credits to such subaccounts may be transferred to any other subaccount under the Plan in a manner similar to the rules for such transfers under the RSP, on such terms and at such times as permitted with respect to the related investment funds under the RSP and such similar rules as may be established for the AFR option, subject in each case to such rules as may be adopted by the Administrator for this Plan. If a Participant fails to affirmatively designate one or more subaccounts pursuant to this Section 7.4(c), subject to rules established by the Administrator, such Participant shall be
 
 deemed to have selected a default account selected by the Administrator (which shall be deemed to be the subaccount representing the fund designated as the default fund under the RSP, unless the Administrator directs the use of a different fund). Notwithstanding the foregoing, the Administrator may, in its sole discretion, provide that one or more investment funds available under the RSP, including any self-directed brokerage account which may be available under the RSP, shall not be available for designation under the Plan. 
 
    - (d) The subaccounts shall be valued subject to such reasonable rules and procedures as the Administrator may adopt and apply to all Participants similarly situated with an effort to value such subaccounts as if amounts designated were invested at similar times and in manners, subject to administrative convenience, as amounts are invested, and subject to the same market fluctuation factors used in valuing such investments in the RSP.
 
-### Section 7.5    Interest Method
+## Section 7.5    Interest Method
 
 With respect to Deferral Accounts governed by the Interest Method:
 
@@ -20248,11 +20526,11 @@ With respect to Deferral Accounts governed by the Interest Method:
 
       - (ii) _Earnings_ . Until January 1, 2011, with respect to amounts credited with earnings under the Interest Method, the earnings on a Participant’s Deferral Benefits for a Plan Year for a given calendar year at the Minimum Schedule Rate for the calendar year shall be 100 percent vested as such earnings are accrued and credited, and the portion of the earnings on a Participant’s Deferral Benefits for a Plan Year for a given calendar year at the applicable Schedule Rate in excess of the Minimum Schedule Rate for the calendar year, if any, shall become vested on the date that the Participant becomes Retirement Eligible, or upon the earlier death or Disability of the Participant, and thereafter as such earnings are accrued and credited. Effective December 31, 2010, all earnings amounts under the Interest Method with respect to Deferral Benefits not yet paid out shall be fully vested.
 
-### Section 7.6    Special Restrictions
+## Section 7.6    Special Restrictions
 
    - (a) The provisions of this Section 7.6 shall apply to Insiders. Such provisions shall apply during all periods that such Participants are Insiders, including any period following cessation of Insider status during which such Participants are required to report transactions pursuant to Rule 16a-2(b) (or its successor) under the Exchange Act. This Section 7.6 shall be automatically applicable to any Participant who, on and after the date hereof, becomes an Insider. For purposes of the foregoing, the effective date of this Section 7.6 shall be the date the Participant becomes an Insider. At such time as any Participant ceases to be an Insider (and any period contemplated by Rule 16a-2(b) has expired), this Section 7.6 shall cease to be applicable to such Participant.
 
-   - (b) Notwithstanding anything in the Plan to the contrary, (i) except as set forth below, credits to the Account of an Insider may not be made to a subaccount that reflects the -29-
+   - (b) Notwithstanding anything in the Plan to the contrary, (i) except as set forth below, credits to the Account of an Insider may not be made to a subaccount that reflects the
 
 performance of the Stock Fund, (ii) credits made to the Account of an Insider at any time may not be transferred to a subaccount that reflects the performance of the Stock Fund and (iii) credits made to an Insider’s Account at any time, and credits to a subaccount of an Insider that reflects the performance of the Stock Fund (which credits could only have been made when such individual was not an Insider) may not be transferred, withdrawn, paid out or otherwise changed, other than (A) pursuant to the Participant’s payment election or the rules governing distribution in the event of the Participant’s death (but only at such time as distribution is permitted under the securities rules, it being intended that a delay in the normal payment schedule occur only to the extent required by securities rules, as permitted by Section 409A) or (B) pursuant to applicable forfeiture provisions contained in the Plan. 
 
@@ -20260,11 +20538,11 @@ performance of the Stock Fund, (ii) credits made to the Account of an Insider at
 
 ## ARTICLE 8 PAYMENT OF BENEFITS
 
-### Section 8.1    Supplemental Account Payments (Other than Payments Due to Death or Disability)
+## Section 8.1    Supplemental Account Payments (Other than Payments Due to Death or Disability)
 
    - (a) By way of clarification, the rules set forth in this Section shall be applied separately to the portion of the Participant’s Supplemental Benefits that is subject to the Automatic New Participant Supplemental Election and the remainder of the Participant’s Supplemental Benefits that is not covered by the Automatic New Participant Supplemental Election, to the extent that the Participant’s Supplemental Election differs from the Automatic New Participant Supplemental Election. Subject to Section 8.1(b), payment of Supplemental Benefits shall be made as follows: (i) if the governing Election calls for a lump-sum payment, it shall be made on the first January 1 or July 1 which is at least six months following the Participant’s Separation from Service for any reason (other than death or Disability) from the Company, or as soon thereafter as administratively feasible, but in no event later than 90 days; and (ii) if the governing Election calls for annual installment payments, they shall begin on July 1 of the calendar year following the Participant’s Separation from Service for any reason (other than death or Disability) from the Company, or as soon thereafter as administratively feasible, but in no event later than 90 days, and shall continue on each July 1 (or as soon thereafter as administratively feasible, but in no event later than 90 days) thereafter for the period selected by the Participant. A Participant who has experienced a Separation from Service and is to receive or has begun receiving payments as set forth above, shall continue receiving any remaining payments according to the terms in effect on the date of his or her Separation from Service, even if later re-employed by the Company.
 
-   - (b) If a Participant has made the one-time modification to his or her initial Supplemental Election pursuant to Section 5.4(a)(ii) or Section 5.4(d) and such subsequent Supplemental Election has become effective prior to the Participant’s Separation from Service, then payment of such Participant’s Supplemental Benefits (to the extent governed by the -30-
+   - (b) If a Participant has made the one-time modification to his or her initial Supplemental Election pursuant to Section 5.4(a)(ii) or Section 5.4(d) and such subsequent Supplemental Election has become effective prior to the Participant’s Separation from Service, then payment of such Participant’s Supplemental Benefits (to the extent governed by the
 
 amended Election) pursuant to Section 8.1(a) shall be made, or commence in the case of annual installments, on the date that is five years later than the date such Supplemental Benefits would otherwise be made or commence pursuant to Section 8.1(a). The rehire of a Participant during this intervening period will not affect the payment schedule. The Automatic New Participant Supplemental Election may not be modified, and accordingly the portion of the benefit subject to the Automatic New Participant Supplemental Election will not be subject to any five-year delay. 
 
@@ -20272,7 +20550,7 @@ amended Election) pursuant to Section 8.1(a) shall be made, or commence in the c
 
    - (d) The payment of Supplemental Benefits to a Participant under this Section 8.1 shall be limited to a Participant’s vested portion of his or her Supplemental Account at the time of distribution. Unless otherwise expressly provided in the Plan, a Participant’s vested portion shall be determined under the vesting provisions of the Qualified Retirement Plans. Any non-vested portion of amounts credited to a Participant hereunder shall be forfeited.
 
-### Section 8.2    Deferral Account Payments (Other than Payments Due to Death or Disability)
+## Section 8.2    Deferral Account Payments (Other than Payments Due to Death or Disability)
 
    - (a) Generally Applicable Rules for Payment to Participants. With respect to Post-2010 Deferral Benefits, payments not made on account of death or Disability will be governed by Section 8.1 except to the extent that a Participant was eligible to make a special payment election with respect to such Deferral Benefits pursuant to Section 6.5, in which case payment will be governed by Section 8.2(b) or Section 8.2(c), as applicable. Pre-2011 Deferral Benefits not payable on account of death or Disability will be paid in accordance with Section 8.2(b)(i) or Section 8.2(c)(i), as applicable.
 
@@ -20286,11 +20564,9 @@ but in no event later than 90 days) thereafter for the period selected by the Pa
 
    - (c) Separation from Service for Employees in Band 50 or Above. If a Participant has a Separation from Service for any reason other than death or Disability, regardless of whether the Participant designated a later specified date as the time when some or all Deferral Benefits are to be paid, then Deferral Benefits subject to a Deferral Election that specifies time and form of payment under Section 6.5 will be paid as follows:
 
-#### (i)    In the case of Pre-2011 Deferral Benefits:
+### (i)    In the case of Pre-2011 Deferral Benefits:
 
    - (A) If a Participant is Retirement Eligible at the time of his or her Separation from Service, then payment of the Participant’s Deferral Benefits shall be made as follows: (A) if the Participant elected a lump-sum payment of some or all Deferral Benefits, payment of such Deferral Benefits shall be made on the first March 15 or September 15 which is at least six months following the Participant’s Separation from Service from the Company, or as soon thereafter as administratively feasible, but in no event later than 90 days; and (B) if the Participant elected annual installment payments of some or all Deferral Benefits, payment of such Deferral Benefits shall begin on the first March 15 or September 15 which is at least six months following the Participant’s Separation from Service from the Company, or as soon thereafter as administratively feasible, but in no event later than 90 days, and shall continue on each March 15 (or as soon thereafter as administratively feasible, but in no event later than 90 days) thereafter for the period selected by the Participant. A Participant who has experienced a Separation from Service and is to receive or has begun receiving payments as set forth above, shall continue receiving any remaining payments according to the terms in effect on the date of his or her Separation from Service, even if later re-employed by the Company.
-
--32- 
 
    - (B) If a Participant is not Retirement Eligible at the time of his or her Separation from Service, then regardless of the Participant’s Deferral Elections, payment of all of the Participant’s Deferral Benefits shall be made in a lump sum on the first March 15 or September 15 which is at least six months following the Participant’s Separation from Service, or as soon thereafter as administratively feasible, but in no event later than 90 days.
 
@@ -20304,8 +20580,6 @@ but in no event later than 90 days) thereafter for the period selected by the Pa
 
 A Participant may separately designate a Beneficiary or Beneficiaries entitled to receive payment of his or her Supplemental Account and his or her Deferral Account by filing written notice of such designation with the Administrator in such form as the Administrator may prescribe. A Participant may revoke or modify such designation at any time by a further written designation in such form as the Administrator may prescribe. A Participant’s Beneficiary designation shall be deemed automatically revoked in the event of the death of the Beneficiary or, if the Beneficiary is the Participant’s spouse, in the event of dissolution of marriage. If no designation is in effect at the time Benefits payable under the relevant Account become due, the Beneficiary of such Account shall be deemed to be the Participant’s surviving spouse, if any, and if not, the Participant’s estate.
 
--33- 
-
 Effective for Participants who die on or after January 1, 2013, if a Participant has designated his or her spouse as his or her beneficiary for either or both Accounts, that designation shall automatically become null and void in the event of the Participant’s divorce, without prejudice, however, to any rights the former spouse may be granted pursuant to a domestic relations order applicable to the Plan. In the event that a beneficiary designation is voided hereunder, the benefit shall be paid as if the former spouse had pre-deceased the Participant. A Participant who wishes the former spouse to be his or her beneficiary may file a new beneficiary designation form naming the former spouse after the date of divorce. These rules will also apply in the event a beneficiary is permitted to designate a beneficiary and becomes divorced from the person named as beneficiary. Notwithstanding the foregoing, neither the Plan nor any other person will be liable for payment made to a named beneficiary prior to the date that the Plan is notified that such person is a divorced spouse. 
 
 ### Section 8.4    Death
@@ -20314,7 +20588,7 @@ Effective for Participants who die on or after January 1, 2013, if a Participant
 
    - (b) Deferral Account. Upon a Participant’s death, payment of the Participant’s Deferral Account shall be made to the Participant’s Beneficiary or Beneficiaries designated to receive the Participant’s Deferral Account.
 
-      - (i) With respect to Pre-2011 Deferral Benefits, if a Participant dies while still actively employed by the Company, the payment of his or her Deferral Account shall be made as a single lump-sum payment on the first March 15 or September 15 which is at least six months following the Participant’s death, or as soon thereafter as administratively feasible, but in no event later than 90 days. If a Participant elects annual installment payments and dies after such installment payments have commenced, any remaining installment payments shall be made to the Participant’s Beneficiary or Beneficiaries as a single lumpsum payment on the first March 15 or September 15 which is at least six months following the Participant’s death, or as -34-
+      - (i) With respect to Pre-2011 Deferral Benefits, if a Participant dies while still actively employed by the Company, the payment of his or her Deferral Account shall be made as a single lump-sum payment on the first March 15 or September 15 which is at least six months following the Participant’s death, or as soon thereafter as administratively feasible, but in no event later than 90 days. If a Participant elects annual installment payments and dies after such installment payments have commenced, any remaining installment payments shall be made to the Participant’s Beneficiary or Beneficiaries as a single lumpsum payment on the first March 15 or September 15 which is at least six months following the Participant’s death, or as
 
 soon thereafter as administratively feasible, but in no event later than 90 days. By way of clarification, if a Participant dies after Separation from Service but before the March 15 or September 15 (or other payment date within 90 days thereafter) that is six months after the Separation from Service, payment in a lump sum shall be made to the beneficiary on the originally scheduled date. 
 
@@ -20326,37 +20600,41 @@ soon thereafter as administratively feasible, but in no event later than 90 days
 
    - (b) Deferral Accounts. In the event of the Disability of a Participant, payment of the Participant’s Deferral Benefits shall be made as follows:
 
--35- 
-
       - (i) With respect to Pre-2011 Deferral Benefits, (A) if the Participant elected a lump-sum payment of some or all of his or her Deferral Benefits, payment of such Deferral Benefits shall be made on the first March 15 or September 15 which is at least six months following the Participant’s date of Disability, or as soon thereafter as administratively feasible, but in no event later than 90 days; and (B) if the Participant elected annual installment payments with respect to some or all of his or her Deferral Benefits, payment of such Deferral Benefits shall begin on the first March 15 or September 15 which is at least six months following the Participant’s date of Disability, or as soon thereafter as administratively feasible, but in no event later than 90 days, and shall continue on each March 15 (or as soon thereafter as administratively feasible, but in no event later than 90 days) thereafter for the period selected by the Participant for such Deferral Benefits.
 
       - (ii) With respect to Post-2010 Deferral Benefits, (A) if the Participant elected a lump-sum payment of some or all of his or her Deferral Benefits, payment of such Deferral Benefits shall be made on the first January 1 or July 1 which is at least six months following the Participant’s date of Disability, or as soon thereafter as administratively feasible, but in no event later than 90 days; and (B) if the Participant elected annual installment payments with respect to some or all of his or her Deferral Benefits, payment of such Deferral Benefits shall begin on July 1 of the calendar year following the Participant’s date of Disability, or as soon thereafter as administratively feasible, but in no event later than 90 days, and shall continue on each July 1 (or as soon thereafter as administratively feasible, but in no event later than 90 days) thereafter for the period selected by the Participant for such Deferral Benefits.
 
-**Section 8.6    Unforeseeable Emergency** . If a Participant experiences an Unforeseeable Emergency, the Participant may petition the Administrator to receive a partial or full payout from the Plan. The payout, if any, from the Plan shall not exceed the lesser of (a) the Participant’s vested Account balance, or (b) the amount necessary to satisfy the Unforeseeable Emergency, plus amounts necessary to pay federal, state, or local income taxes or penalties reasonably anticipated as a result of the distribution. A Participant shall not be eligible to receive a payout from the Plan to the extent that the Unforeseeable Emergency is or may be relieved (i) through reimbursement or compensation by insurance or otherwise, (ii) by liquidation of the Participant’s assets, to the extent the liquidation of such assets would not itself cause severe financial hardship or (iii) by cessation of a Deferral Election under this Plan. If the Administrator, in its sole discretion, approves a Participant’s petition for payout from the Plan, such payout shall be made in a lump sum on the date on which such approval occurs, or as soon as administratively feasible thereafter, but in no event later than 90 days. At the time of its determination, and to the extent permissible by Section 409A, the Administrator shall determine how any payment under this Section 8.6 will be applied against the Participant’s Account and the subaccounts thereunder. 
+### Section 8.6    Unforeseeable Emergency
+
+If a Participant experiences an Unforeseeable Emergency, the Participant may petition the Administrator to receive a partial or full payout from the Plan. The payout, if any, from the Plan shall not exceed the lesser of (a) the Participant’s vested Account balance, or (b) the amount necessary to satisfy the Unforeseeable Emergency, plus amounts necessary to pay federal, state, or local income taxes or penalties reasonably anticipated as a result of the distribution. A Participant shall not be eligible to receive a payout from the Plan to the extent that the Unforeseeable Emergency is or may be relieved (i) through reimbursement or compensation by insurance or otherwise, (ii) by liquidation of the Participant’s assets, to the extent the liquidation of such assets would not itself cause severe financial hardship or (iii) by cessation of a Deferral Election under this Plan. If the Administrator, in its sole discretion, approves a Participant’s petition for payout from the Plan, such payout shall be made in a lump sum on the date on which such approval occurs, or as soon as administratively feasible thereafter, but in no event later than 90 days. At the time of its determination, and to the extent permissible by Section 409A, the Administrator shall determine how any payment under this Section 8.6 will be applied against the Participant’s Account and the subaccounts thereunder.
 
 ### Section 8.7    Company Offset
 
-Notwithstanding anything in the Plan, the RP or the RSP to the contrary, to the maximum extent permitted by Section 409A and applicable law, any amount otherwise due or payable under the Plan may be forfeited, or its payment suspended, at the discretion of the Administrator, to apply toward or recover any claim the Company may have against the Participant, including but not limited to, for the enforcement of Amex’s Detrimental Conduct provisions under its long-term incentive award plan, to recover a debt to the Company or to recover a benefit overpayment under a Company benefit plan or program. No amounts -36-
+Notwithstanding anything in the Plan, the RP or the RSP to the contrary, to the maximum extent permitted by Section 409A and applicable law, any amount otherwise due or payable under the Plan may be forfeited, or its payment suspended, at the discretion of the Administrator, to apply toward or recover any claim the Company may have against the Participant, including but not limited to, for the enforcement of Amex’s Detrimental Conduct provisions under its long-term incentive award plan, to recover a debt to the Company or to recover a benefit overpayment under a Company benefit plan or program. No amounts
 
 shall be offset against a Participant’s Account prior to the date on which the offset amounts would otherwise be distributed to the Participant unless otherwise permitted by Section 409A. An offset shall be made only to the extent and in the manner permitted by the Section 409A Policy. 
 
-**Section 8.8    Withholding** . The Company shall be entitled to deduct from any payment under the Plan, regardless of the form of such payment, the amount of all applicable income and employment taxes, if any, required by law to be withheld with respect to such payment or may require the Participant to pay to it such tax prior to and, to the extent permissible under Section 409A, as a condition of the making of such payment. 
+### Section 8.8    Withholding
 
-**Section 8.9    De Minimis Lump Sum Payment** . Notwithstanding the other provisions of the Plan, the Administrator may, in its sole discretion, make a mandatory lump sum pay-out of a Participant’s Account at any time, provided that such pay-out amount shall be in an amount equal to the lump sum value of such Account determined for the date of such pay-out; and further provided that such pay-out (1) accompanies the termination and liquidation of the Participant’s entire interest under the Plan and all similar arrangements that constitute an account balance plan under Section 1.409A-1(c)(2) of the Treasury Regulations; and (2) the payment is not greater than the applicable dollar amount under Section 402(g)(1) (B) of the Code. 
+The Company shall be entitled to deduct from any payment under the Plan, regardless of the form of such payment, the amount of all applicable income and employment taxes, if any, required by law to be withheld with respect to such payment or may require the Participant to pay to it such tax prior to and, to the extent permissible under Section 409A, as a condition of the making of such payment.
 
-## ARTICLE 9 CHANGE IN CONTROL
+## Section 8.9    De Minimis Lump Sum Payment
+
+Notwithstanding the other provisions of the Plan, the Administrator may, in its sole discretion, make a mandatory lump sum pay-out of a Participant’s Account at any time, provided that such pay-out amount shall be in an amount equal to the lump sum value of such Account determined for the date of such pay-out; and further provided that such pay-out (1) accompanies the termination and liquidation of the Participant’s entire interest under the Plan and all similar arrangements that constitute an account balance plan under Section 1.409A-1(c)(2) of the Treasury Regulations; and (2) the payment is not greater than the applicable dollar amount under Section 402(g)(1) (B) of the Code.
+
+### ARTICLE 9 CHANGE IN CONTROL
 
 ### Section 9.1    Change in Control
 
 “Change in Control” means the happening of any of the following:
 
-   - (a) Any individual, entity or group (within the meaning of Section 13(d)(3) or 14(d)(2) of the Exchange Act) (a “Person”) becomes the beneficial owner (within the meaning of Rule 13d-3 promulgated under the Exchange Act) of 25 percent or more of either (i) the then outstanding common shares of Amex (the “Outstanding Company Common Shares”) or (ii) the combined voting power of the then outstanding voting securities of Amex entitled to vote generally in the election of directors (the “Outstanding Company Voting Securities”); provided, however, that such beneficial ownership shall not constitute a Change in Control if it occurs as a result of any of the following acquisitions of securities: (A) any acquisition directly from Amex; (B) any acquisition by Amex or any corporation, partnership, trust or other entity controlled by Amex (a “Subsidiary”); (C) any acquisition by any employee benefit plan (or related trust) sponsored or maintained by Amex or any Subsidiary; (D) any acquisition by an underwriter temporarily holding Amex securities pursuant to an offering of such securities; (E) any acquisition by an individual, entity or group that is permitted to, and actually does, report its beneficial ownership on Schedule 13-G (or any successor schedule), provided that, if any such individual, entity or group subsequently becomes required to or does report its beneficial ownership on Schedule 13D (or any successor schedule), then, for purposes of this subsection, such individual, entity or group shall be deemed to have first acquired, on the first date on which such individual, entity or group becomes required to or does so report, beneficial ownership of all of the Outstanding Company Common Stock and Outstanding Company Voting Securities beneficially owned by it on such date; or (F) any acquisition by any corporation pursuant to a reorganization, merger or consolidation if, following such reorganization, merger or -37-
+   - (a) Any individual, entity or group (within the meaning of Section 13(d)(3) or 14(d)(2) of the Exchange Act) (a “Person”) becomes the beneficial owner (within the meaning of Rule 13d-3 promulgated under the Exchange Act) of 25 percent or more of either (i) the then outstanding common shares of Amex (the “Outstanding Company Common Shares”) or (ii) the combined voting power of the then outstanding voting securities of Amex entitled to vote generally in the election of directors (the “Outstanding Company Voting Securities”); provided, however, that such beneficial ownership shall not constitute a Change in Control if it occurs as a result of any of the following acquisitions of securities: (A) any acquisition directly from Amex; (B) any acquisition by Amex or any corporation, partnership, trust or other entity controlled by Amex (a “Subsidiary”); (C) any acquisition by any employee benefit plan (or related trust) sponsored or maintained by Amex or any Subsidiary; (D) any acquisition by an underwriter temporarily holding Amex securities pursuant to an offering of such securities; (E) any acquisition by an individual, entity or group that is permitted to, and actually does, report its beneficial ownership on Schedule 13-G (or any successor schedule), provided that, if any such individual, entity or group subsequently becomes required to or does report its beneficial ownership on Schedule 13D (or any successor schedule), then, for purposes of this subsection, such individual, entity or group shall be deemed to have first acquired, on the first date on which such individual, entity or group becomes required to or does so report, beneficial ownership of all of the Outstanding Company Common Stock and Outstanding Company Voting Securities beneficially owned by it on such date; or (F) any acquisition by any corporation pursuant to a reorganization, merger or consolidation if, following such reorganization, merger or
 
 consolidation, the conditions described in clauses (i), (ii) and (iii) of Section 9.1(c) are satisfied. Notwithstanding the foregoing, a Change in Control shall not be deemed to occur solely because any Person (the “Subject Person”) became the beneficial owner of 25 percent or more of the Outstanding Company Common Shares or Outstanding Company Voting Securities as a result of the acquisition of Outstanding Company Common Shares or Outstanding Company Voting Securities by Amex which, by reducing the number of Outstanding Company Common Shares or Outstanding Company Voting Securities, increases the proportional number of shares beneficially owned by the Subject Person; provided, that if a Change in Control would be deemed to have occurred (but for the operation of this sentence) as a result of the acquisition of Outstanding Company Common Shares or Outstanding Company Voting Securities by Amex, and after such share acquisition by Amex, the Subject Person becomes the beneficial owner of any additional Outstanding Company Common Shares or Outstanding Company Voting Securities which increases the percentage of the Outstanding Company Common Shares or Outstanding Company Voting Securities beneficially owned by the Subject Person, then a Change in Control shall then be deemed to have occurred; or 
 
    - (b) Individuals who, as of the date hereof, constitute the Board (the “Incumbent Board”) cease for any reason to constitute at least a majority of the Board; provided, however, that any individual becoming a director subsequent to the date hereof whose election, or nomination for election by Amex’s shareholders, was approved by a vote of at least a majority of the directors then comprising the Incumbent Board shall be considered as though such individual were a member of the Incumbent Board, but excluding, for this purpose, any such individual whose initial assumption of office occurs as a result of either an actual or threatened election contest or other actual or threatened solicitation of proxies or consents by or on behalf of a Person other than the Board, including by reason of agreement intended to avoid or settle any such actual or threatened contest or solicitation; or
 
-   - (c) The consummation of a reorganization, merger, statutory share exchange, consolidation, or similar corporate transaction involving Amex or any of its direct or indirect Subsidiaries (each a “Business Combination”), in each case, unless, following such Business Combination, (i) the Outstanding Company Common Shares and the Outstanding Company Voting Securities immediately prior to such Business Combination, continue to represent (either by remaining outstanding or being converted into voting securities of the resulting or surviving entity or any parent thereof) more than 50 percent of the thenoutstanding shares of common stock and the combined voting power of the then-outstanding voting securities entitled to vote generally in the election of directors, as the case may be, of the corporation resulting from Business Combination (including, without limitation, a corporation that, as a result of such transaction, owns Amex or all or substantially all of Amex’s assets either directly or through one or more subsidiaries), (ii) no Person (excluding Amex, any employee benefit plan (or related trust) of Amex, a Subsidiary or such corporation resulting from such Business Combination or any parent or subsidiary thereof, and any Person beneficially owning, immediately prior to such Business Combination, directly or indirectly, 25 percent or more of the Outstanding Company Common Shares or Outstanding Company Voting Securities, as the case may be) beneficially owns, directly or indirectly, 25 percent or more of, respectively, the then outstanding shares of common stock of the corporation resulting from such Business Combination (or any parent thereof) or the combined voting power of the then outstanding voting securities of such -38-
+   - (c) The consummation of a reorganization, merger, statutory share exchange, consolidation, or similar corporate transaction involving Amex or any of its direct or indirect Subsidiaries (each a “Business Combination”), in each case, unless, following such Business Combination, (i) the Outstanding Company Common Shares and the Outstanding Company Voting Securities immediately prior to such Business Combination, continue to represent (either by remaining outstanding or being converted into voting securities of the resulting or surviving entity or any parent thereof) more than 50 percent of the thenoutstanding shares of common stock and the combined voting power of the then-outstanding voting securities entitled to vote generally in the election of directors, as the case may be, of the corporation resulting from Business Combination (including, without limitation, a corporation that, as a result of such transaction, owns Amex or all or substantially all of Amex’s assets either directly or through one or more subsidiaries), (ii) no Person (excluding Amex, any employee benefit plan (or related trust) of Amex, a Subsidiary or such corporation resulting from such Business Combination or any parent or subsidiary thereof, and any Person beneficially owning, immediately prior to such Business Combination, directly or indirectly, 25 percent or more of the Outstanding Company Common Shares or Outstanding Company Voting Securities, as the case may be) beneficially owns, directly or indirectly, 25 percent or more of, respectively, the then outstanding shares of common stock of the corporation resulting from such Business Combination (or any parent thereof) or the combined voting power of the then outstanding voting securities of such
 
 corporation entitled to vote generally in the election of directors and (iii) at least a majority of the members of the board of directors of the corporation resulting from such Business Combination (or any parent thereof) were members of the Incumbent Board at the time of the execution of the initial agreement or action of the Board providing for such Business Combination; or 
 
@@ -20372,15 +20650,15 @@ This Section 9.2 shall apply in the event of a Change in Control.
 
    - (b) Account Earnings.
 
-#### ## (i) RSP-Related Account
+### (i) RSP-Related Account
 
-   - (A) Notwithstanding Section 7.4(b), effective immediately upon a Change in Control, to the extent a subaccount of an RSP-Related Account established on behalf of a Participant reflects, or by the terms of the Plan should in the future reflect, the -39-
+   - (A) Notwithstanding Section 7.4(b), effective immediately upon a Change in Control, to the extent a subaccount of an RSP-Related Account established on behalf of a Participant reflects, or by the terms of the Plan should in the future reflect, the
 
 performance of the Stock Fund, it shall thereafter reflect the performance of the Stable Value Fund. 
 
    - (B) Notwithstanding Section 7.4(c), in the event that any time after a Change in Control either (A) the RSP is frozen or terminated and is not replaced by a comparable qualified investment savings plan, or (B) there are no investment funds available under the RSP (or successor qualified investment savings plan) to which a Participant may direct the investment of his or her RSP-Related Account, then a Participant’s RSP-Related Account shall thereafter be credited with earnings of at least the AFR.
 
-#### ## (ii) Deferral Accounts
+### (ii) Deferral Accounts
 
    - (A) If earnings are credited to all or part of a Deferral Account under the Interest Method, notwithstanding Article 7, effective immediately upon a Change in Control, the applicable Schedule Rate shall be no less than the Moody’s A Rate for the year of the Change in Control and any year thereafter during which the Interest Method applies, provided that in the case of a person who is an Executive Officer for purposes of Article 7, the applicable Schedule Rate shall be no greater than the AFR if Amex’s (or its successor’s) ROE is Below Target Range.
 
@@ -20392,8 +20670,6 @@ performance of the Stock Fund, it shall thereafter reflect the performance of th
 
       - (i) In the event that any payment or benefit received or to be received by a Participant hereunder in connection with a Change in Control or termination of such Participant’s employment (hereinafter referred to collectively as the “Payments”) will be subject to the excise tax referred to in Section 4999 of the Code (the “Excise Tax”), then the Payments shall be reduced to the extent necessary so that no portion of the Payments is subject to the Excise Tax but only if (a) the net amount of all Total Payments (as hereinafter defined), as so reduced (and after subtracting the net amount of federal, state and local income and employment taxes on such reduced Total Payments) is greater than or equal to (b) the net amount of such Total Payments without any such reduction (but after subtracting the net amount of federal, state and local income and employment taxes on such Total Payments and the amount of Excise Tax to which the Participant would be subject in respect of such unreduced Total Payments; provided, however, that the Participant may elect in writing to have other components of his or her Total Payments reduced prior to any reduction in the Payments hereunder.
 
--40- 
-
       - (ii) For purposes of determining whether the Payments will be subject to the Excise Tax, the amount of such Excise Tax and whether any Payments are to be reduced hereunder: (A) all payments and benefits received or to be received by the Participant in connection with such Change in Control or the termination of such Participant’s employment, whether pursuant to the terms of this Plan or any other plan, arrangement or agreement with the Company, any Person whose actions result in such Change in Control, or any Person affiliated with the Company or such Person (collectively, “Total Payments”) shall be treated as “parachute payments” (within the meaning of Section 280G(b)(2) of the Code) unless, in the opinion of the accounting firm which was, immediately prior to the Change in Control, the Company’s independent auditor, or if that firm refuses to serve, by another qualified firm, whether or not serving as independent auditors, designated by the Committee (the “Firm”), such payments or benefits (in whole or in part) do not constitute parachute payments, including by reason of Section 280G(2) (A) or Section 280G(b)(4) (A) of the Code; (B) no portion of the Total Payments the receipt or enjoyment of which the Participant shall have waived at such time and in such manner as not to constitute a “payment” within the meaning of Section 280G(b) of the Code shall be taken into account; (C) all “excess parachute payments” within the meaning of Section 280G(b)(2) of the Code shall be treated as subject to the Excise Tax unless, in the opinion of the Firm, such excess parachute payments (in whole or in part) represent reasonable compensation for services actually rendered (within the meaning of Section 280G(g)(4) (B) of the Code) in excess of the “base amount” (within the meaning of Section 280G(b)(3) of the Code) allocable to such reasonable compensation, or are otherwise not subject to the Excise Tax; and (D) the value of any non-cash benefits or any deferred payment or benefit shall be determined by the Firm in accordance with the principles of Sections 280G(d)(3) and (4) of the Code and regulations or other guidance thereunder. For purposes of determining whether any Payments in respect of a Participant shall be reduced, a Participant shall be deemed to pay federal income tax at the highest marginal rate of federal income taxation (and state and local income taxes at the highest marginal rate of taxation in the state and locality of such Participant’s residence, net of the maximum reduction in federal income taxes which could be obtained from deduction of such state and local taxes) in the calendar year in which the Payments are made. The Firm will be paid reasonable compensation by the Company for its services.
 
       - (iii) As soon as practicable following a Change in Control, but in no event later than 30 days thereafter, the Company shall provide to each Participant with respect to whom it is proposed that Payments be reduced, a written statement setting forth the manner in which the Total Payments in respect of such Participant were calculated and the basis for such calculations, including, without limitation, any opinions or other advice the Company has received from the Firm or other advisors or consultants (and any such opinions or advice which are in writing shall be attached to the statement).
@@ -20402,7 +20678,7 @@ performance of the Stock Fund, it shall thereafter reflect the performance of th
 
 ### Section 10.1    Claim
 
-   - (a) A claimant who believes that he or she is being denied Benefits to which he or she is entitled under the Plan or who otherwise has a claim involving the Plan may file a -41-
+   - (a) A claimant who believes that he or she is being denied Benefits to which he or she is entitled under the Plan or who otherwise has a claim involving the Plan may file a
 
 written request for such Benefits or written description of the claim (as applicable) with the Administrator, setting forth his or her claim for Benefits or other claim involving the Plan. 
 
@@ -20426,13 +20702,13 @@ written request for such Benefits or written description of the claim (as applic
 
       - (vi) the claimant’s right to bring an action under Section 502 of ERISA (subject to Section 10.5) if the claim is denied on review.
 
-   - (b) If the claim is a claim that requires a determination regarding whether a Participant is disabled to be made by the Administrator (and not by some party other than the Administrator or the Plan for purposes other than a benefit determination under the Plan), the Administrator will respond to the claim within a reasonable period of time and in any case within 45 days (provided that the Administrator may utilize up to two 30-day extension periods, in each case to the extent that the Administrator determines that circumstances beyond the control of the Plan so require, and shall in each case provide the claimant with an advance notice setting forth -42-
+   - (b) If the claim is a claim that requires a determination regarding whether a Participant is disabled to be made by the Administrator (and not by some party other than the Administrator or the Plan for purposes other than a benefit determination under the Plan), the Administrator will respond to the claim within a reasonable period of time and in any case within 45 days (provided that the Administrator may utilize up to two 30-day extension periods, in each case to the extent that the Administrator determines that circumstances beyond the control of the Plan so require, and shall in each case provide the claimant with an advance notice setting forth
 
 the reasons for the extension and the date by which the Administrator expects to render a decision, the standards on which entitlement to Benefits is based, the unresolved issues that prevent a decision on the claim, and the additional information needed to resolve such issues). In the event that additional information is necessary to resolve a claim requiring the Administrator to rule on the Participant’s disabled status, the claimant shall be afforded at least 45 days to provide the information (during which time the periods to provide notice and a decision on the claim shall be tolled). 
 
    - (c) In the event of a claim requiring the Administrator to rule on the Participant’s disabled status, the Administrator’s written notice of claim denial shall provide the claimant (in addition to the items described in Section 10.2(a)) with (i) a discussion of the decision, including an explanation of the basis for disagreeing with or not following the views presented by the claimant to the Administrator of health care professionals treating the claimant and vocational professionals who evaluated the claimant, the views of medical or vocational experts whose advice was obtained on behalf of the Plan in connection with the claim denial, without regard to whether the advice was relied upon by the Administrator in denying the claim, and a determination of disability by the Social Security Administration presented by the claimant to the Administrator, (ii) a copy of any internal rule, guideline, protocol or other similar criterion relied upon during the claims process or a statement that no such internal rules, guidelines, protocols or other similar criteria exist, and (iii) if a medical necessity or experimental treatment or similar exclusion or limit was imposed, the Administrator will provide an explanation of the scientific or clinical judgment for the determination (applying the terms of the Plan to the claimant’s medical circumstances) or a statement that such an explanation will be provided free of charge upon request.
 
-**Section 10.3    Request for Review** .
+### Section 10.3    Request for Review
 
    - (a) Except as otherwise provided by Section 10.3(b), within 60 days after the receipt by the claimant of the written explanation described above, the claimant may request in writing that the Administrator review its determination. The claimant, or his or her duly authorized representative, may, but need not, review the relevant documents and submit issues and comments in writing for consideration by the Administrator. Reasonable access to and copies of any documents, records and other information relevant to the claim will be provided free of charge upon request, subject to attorney-client, attorney work-product and other applicable privilege rules unless otherwise required by ERISA. Except as otherwise provided by Section 10.3(b), if the claimant does not request a review of the initial determination within such 60-day period, the claimant shall be barred and estopped from challenging the determination.
 
@@ -20440,7 +20716,7 @@ the reasons for the extension and the date by which the Administrator expects to
 
 ### Section 10.4    Review of Decision
 
-   - (a) After considering all materials presented by the claimant, the Administrator will render a written decision, setting forth the specific reasons for the decision -43-
+   - (a) After considering all materials presented by the claimant, the Administrator will render a written decision, setting forth the specific reasons for the decision
 
 and containing specific references to the relevant provisions of the Plan on which the decision is based. The decision on review shall normally be made within 60 days after the Administrator’s receipt of the claimant’s claim or request. If an extension of time is required for a hearing or other special circumstances, the claimant shall be notified of the reasons for the extension and the date as of which the Administrator expects to make a decision, and the time limit shall be 120 days. If additional information is needed, the deadline for the Administrator’s responses will be tolled for the time period granted to the claimant to provide the information (or the date that the claimant actually provides the information, if earlier). The decision shall be in writing using language calculated to be understood by the claimant, and shall set forth: 
 
@@ -20452,7 +20728,7 @@ and containing specific references to the relevant provisions of the Plan on whi
 
       - (iv) the claimant’s right to bring an action under Section 502 of ERISA now that the claim has been denied on appeal (subject to Section 10.5) and, in the case of a decision regarding the Participant’s disabled status, the applicable limitations period under Section 10.1(b) that applies to the claimant’s right to bring such an action, including the calendar date on which the claimant’s right to bring such an action expires.
 
-   - (b) In the event of a claim requiring the Administrator to make a determination regarding the Participant’s disabled status, the Administrator shall ensure that no deference is afforded to the prior determination, that the persons who made the initial determination on behalf of the Administrator shall not be involved in the review, and that the persons who make the decision on review on behalf of the Administrator are not subordinates of the original decision-makers. The Administrator shall not consider, generate or rely upon any new or additional information, or issue an appeal denial based on any new or additional rationale, without first providing the claimant, free of charge, with the new or additional evidence or rationale. The information shall be provided as soon as possible and sufficiently in advance of the deadline for the Administrator to render a decision on review so that the claimant will have a reasonable opportunity to respond prior to that date. In the event that a medical judgment is required, the persons conducting the review shall consult with a health care professional of appropriate training and experience in the relevant field of medicine and shall identify any medical or vocational experts consulted to the claimant. No health care professional consulted in the course of the review shall be a person consulted in the course of the original determination (or a subordinate of such person). The claim determination on review of a claim requiring the Administrator to make a determination regarding the Participant’s disabled status shall be provided within 45 days (90 days, if the Administrator determines that special circumstances require an extension and so informs the claimant). If additional information is needed, the deadline for the Administrator’s response will be tolled for the time period granted to the claimant to provide the information (or the date that the claimant actually provides the information, if earlier). In the event of such a claim denial, in addition to the items required -44-
+   - (b) In the event of a claim requiring the Administrator to make a determination regarding the Participant’s disabled status, the Administrator shall ensure that no deference is afforded to the prior determination, that the persons who made the initial determination on behalf of the Administrator shall not be involved in the review, and that the persons who make the decision on review on behalf of the Administrator are not subordinates of the original decision-makers. The Administrator shall not consider, generate or rely upon any new or additional information, or issue an appeal denial based on any new or additional rationale, without first providing the claimant, free of charge, with the new or additional evidence or rationale. The information shall be provided as soon as possible and sufficiently in advance of the deadline for the Administrator to render a decision on review so that the claimant will have a reasonable opportunity to respond prior to that date. In the event that a medical judgment is required, the persons conducting the review shall consult with a health care professional of appropriate training and experience in the relevant field of medicine and shall identify any medical or vocational experts consulted to the claimant. No health care professional consulted in the course of the review shall be a person consulted in the course of the original determination (or a subordinate of such person). The claim determination on review of a claim requiring the Administrator to make a determination regarding the Participant’s disabled status shall be provided within 45 days (90 days, if the Administrator determines that special circumstances require an extension and so informs the claimant). If additional information is needed, the deadline for the Administrator’s response will be tolled for the time period granted to the claimant to provide the information (or the date that the claimant actually provides the information, if earlier). In the event of such a claim denial, in addition to the items required
 
 above, the Administrator shall provide (i) a discussion of the decision, including an explanation of the basis for disagreeing with or not following the views presented by the claimant to the Administrator of health care professionals treating the claimant and vocational professionals who evaluated the claimant, the views of medical or vocational experts whose advice was obtained on behalf of the Plan in connection with the claim denial, without regard to whether the advice was relied upon by the Administrator in denying the claim, and a determination of disability by the Social Security Administration presented by the claimant to the Administrator, (ii) a copy of any internal rule, guideline, protocol or other similar criterion relied upon during the claims process or a statement that no such internal rules, guidelines, protocols or other similar criteria exist, and (iii) if a medical necessity or experimental treatment or similar exclusion or limit was imposed, the Administrator will provide an explanation of the scientific or clinical judgment for the determination (applying the terms of the Plan to the claimant’s medical circumstances) or a statement that such an explanation will be provided free of charge upon request. 
 
@@ -20460,57 +20736,81 @@ above, the Administrator shall provide (i) a discussion of the decision, includi
 
    - law. 
 
-**Section 10.5    Arbitration** . Notwithstanding anything herein to the contrary, and except with respect to a claim which requires the Administrator to make a determination with respect to the Participant’s disabled status (unless the Participant consents to binding arbitration of such claim) or any other claim as to which mandatory arbitration is prohibited by law and the claimant does not consent to arbitration, upon completion of the claims process set forth in this Article 10, the Administrator or a claimant will have the right to compel binding arbitration with respect to any claim involving the Plan. By way of clarification, the right to compel binding arbitration applies with equal force to any claim which the claimant attempts to bring outside the claims process, but the Plan requires the claimant to exhaust his or her administrative remedies before arbitrating or litigating his or her claim. If any party to a claim chooses to compel arbitration, the process and procedure shall be governed by the terms and conditions of the Policy, to the extent such Policy is consistent with the terms of the Plan. This includes, but is not limited to, the Policy’s prohibition against claims being arbitrated on a class action basis or on bases involving claims brought in a representative capacity on behalf of any other similarly situated party, and therefore all Plan Participants, Beneficiaries and persons claiming to be a Participant or Beneficiary, as well as any other person with a claim involving the Plan, waive the right to act on a representative basis with respect to the Plan or any other person or class of persons in an arbitration proceeding hereunder or to be part of any class action; provided, however, that this Section is not intended to, and does not, waive or invalidate any statutory rights or remedies that cannot be waived or invalidated hereby, and in the event that a remedy cannot be granted in arbitration pursuant to the terms of this clause, such a remedy may, if required by law to be available in the claimant’s situation without the possibility of waiver, be sought in court. In addition, if any party chooses to compel arbitration, the arbitrator will be bound by the substantive terms of the Plan and ERISA (including, but not limited to, the standard of review required by ERISA, which requires the arbitrator to defer to the factual findings and Plan interpretations of the Administrator unless such findings and interpretations are arbitrary and capricious). 
+### Section 10.5    Arbitration
 
--45- 
+Notwithstanding anything herein to the contrary, and except with respect to a claim which requires the Administrator to make a determination with respect to the Participant’s disabled status (unless the Participant consents to binding arbitration of such claim) or any other claim as to which mandatory arbitration is prohibited by law and the claimant does not consent to arbitration, upon completion of the claims process set forth in this Article 10, the Administrator or a claimant will have the right to compel binding arbitration with respect to any claim involving the Plan. By way of clarification, the right to compel binding arbitration applies with equal force to any claim which the claimant attempts to bring outside the claims process, but the Plan requires the claimant to exhaust his or her administrative remedies before arbitrating or litigating his or her claim. If any party to a claim chooses to compel arbitration, the process and procedure shall be governed by the terms and conditions of the Policy, to the extent such Policy is consistent with the terms of the Plan. This includes, but is not limited to, the Policy’s prohibition against claims being arbitrated on a class action basis or on bases involving claims brought in a representative capacity on behalf of any other similarly situated party, and therefore all Plan Participants, Beneficiaries and persons claiming to be a Participant or Beneficiary, as well as any other person with a claim involving the Plan, waive the right to act on a representative basis with respect to the Plan or any other person or class of persons in an arbitration proceeding hereunder or to be part of any class action; provided, however, that this Section is not intended to, and does not, waive or invalidate any statutory rights or remedies that cannot be waived or invalidated hereby, and in the event that a remedy cannot be granted in arbitration pursuant to the terms of this clause, such a remedy may, if required by law to be available in the claimant’s situation without the possibility of waiver, be sought in court. In addition, if any party chooses to compel arbitration, the arbitrator will be bound by the substantive terms of the Plan and ERISA (including, but not limited to, the standard of review required by ERISA, which requires the arbitrator to defer to the factual findings and Plan interpretations of the Administrator unless such findings and interpretations are arbitrary and capricious).
 
-**Section 10.6    Burden of Proof** . Notwithstanding anything herein to the contrary, to the extent a claimant asserts entitlement to Benefits or otherwise makes a claim based upon facts not contained in the Plan’s records, such person shall be required to provide satisfactory affirmative evidence of such facts. For the avoidance of doubt, if a person claims entitlement to Benefits based upon service or compensation (including but not limited to claims with respect to Base Salary, Incentive Pay, or Compensation for RSPRelated Account or RP-Related Account purposes) that is not reflected in the Plan’s records, such person must provide satisfactory affirmative evidence of such service or compensation. The Administrator shall have the sole and exclusive discretion to determine whether the above-referenced affirmative evidence is satisfactory. 
+### Section 10.6    Burden of Proof
 
-**Section 10.7    Administrator’s Sole Authority** . Notwithstanding Section 3.2 or any other provision of the Plan, the Administrator shall have the sole and exclusive authority with respect to any matter, action or decision under this Article 10, and the Committee shall have neither any authority with respect to such matters, nor the right or ability to limit or to interfere in any way with the Administrator’s authority with respect to such matters. 
+Notwithstanding anything herein to the contrary, to the extent a claimant asserts entitlement to Benefits or otherwise makes a claim based upon facts not contained in the Plan’s records, such person shall be required to provide satisfactory affirmative evidence of such facts. For the avoidance of doubt, if a person claims entitlement to Benefits based upon service or compensation (including but not limited to claims with respect to Base Salary, Incentive Pay, or Compensation for RSPRelated Account or RP-Related Account purposes) that is not reflected in the Plan’s records, such person must provide satisfactory affirmative evidence of such service or compensation. The Administrator shall have the sole and exclusive discretion to determine whether the above-referenced affirmative evidence is satisfactory.
 
-## ARTICLE 11 AMENDMENT & TERMINATION
+## Section 10.7    Administrator’s Sole Authority
 
-**Section 11.1    Plan Amendment** . The Committee or its delegate may, at any time, amend or terminate the Plan, provided that the Committee may not reduce or modify the amount of any Benefit payable to a Participant or any Beneficiary receiving Benefit payments at the time the Plan is amended or terminated. Notwithstanding the foregoing, the Committee shall not have the right to amend or modify the terms and provisions of the Plan to the extent such amendment or modification would result in a violation of Section 409A. In particular, amendments to the definitions of Base Salary or Incentive Pay hereunder shall not be made in a manner which would result in an impermissible alteration to an existing Deferral Election. 
+Notwithstanding Section 3.2 or any other provision of the Plan, the Administrator shall have the sole and exclusive authority with respect to any matter, action or decision under this Article 10, and the Committee shall have neither any authority with respect to such matters, nor the right or ability to limit or to interfere in any way with the Administrator’s authority with respect to such matters.
 
-**Section 11.2    Effect of Plan Termination** . If the Plan is terminated, no additional deferrals or contributions shall be credited to any Participant Account hereunder. Following Plan termination, Participants’ Accounts shall be paid at such time and in such form as provided under Article 8. Notwithstanding the foregoing, either at the time of termination or on a subsequent date, the Committee may, in its discretion, determine to distribute the then existing Account balances of Participants and Beneficiaries and, following such distribution, there shall be no further obligation to any Participant or Beneficiary under the Plan; provided, however, that the authority granted to the Committee under this Section 11.2 shall be implemented in compliance with the requirements of and only to the extent permissible under Section 409A. 
+### ARTICLE 11 AMENDMENT & TERMINATION
 
-## ARTICLE 12 GENERAL PROVISIONS
+### Section 11.1    Plan Amendment
 
-**Section 12.1    Unfunded Status** . Nothing in the Plan shall create, or be construed to create, a trust of any kind or fiduciary relationship between the Company and the Participant, his or her designated Beneficiary, or any other person. Any funds deferred under the provisions of the Plan shall be construed for all purposes as a part of the general funds of the Company, and any right to receive payments from the Company under the Plan shall be no greater than the right -46-
+The Committee or its delegate may, at any time, amend or terminate the Plan, provided that the Committee may not reduce or modify the amount of any Benefit payable to a Participant or any Beneficiary receiving Benefit payments at the time the Plan is amended or terminated. Notwithstanding the foregoing, the Committee shall not have the right to amend or modify the terms and provisions of the Plan to the extent such amendment or modification would result in a violation of Section 409A. In particular, amendments to the definitions of Base Salary or Incentive Pay hereunder shall not be made in a manner which would result in an impermissible alteration to an existing Deferral Election.
+
+## Section 11.2    Effect of Plan Termination
+
+If the Plan is terminated, no additional deferrals or contributions shall be credited to any Participant Account hereunder. Following Plan termination, Participants’ Accounts shall be paid at such time and in such form as provided under Article 8. Notwithstanding the foregoing, either at the time of termination or on a subsequent date, the Committee may, in its discretion, determine to distribute the then existing Account balances of Participants and Beneficiaries and, following such distribution, there shall be no further obligation to any Participant or Beneficiary under the Plan; provided, however, that the authority granted to the Committee under this Section 11.2 shall be implemented in compliance with the requirements of and only to the extent permissible under Section 409A.
+
+### ARTICLE 12 GENERAL PROVISIONS
+
+### Section 12.1    Unfunded Status
+
+Nothing in the Plan shall create, or be construed to create, a trust of any kind or fiduciary relationship between the Company and the Participant, his or her designated Beneficiary, or any other person. Any funds deferred under the provisions of the Plan shall be construed for all purposes as a part of the general funds of the Company, and any right to receive payments from the Company under the Plan shall be no greater than the right
 
 of any unsecured general creditor. The Company may, but need not, purchase any securities or instruments as a means of hedging its obligations to any Participant under the Plan. 
 
-**Section 12.2    Non-Transferable** . The right of any Participant, or other person, to the payment of deferred compensation under the Plan shall not be assigned, transferred, pledged or encumbered except by the laws of descent and distribution. 
+### Section 12.2    Non-Transferable
 
-**Section 12.3    No Right to Continued Employment** . Participation in the Plan shall not be construed as conferring upon the Participant the right to continue in the employ of the Company as an executive or in any other capacity. The Company expressly reserves the right to dismiss any employee at any time without liability for the effect such dismissal might have upon him or her hereunder. 
+The right of any Participant, or other person, to the payment of deferred compensation under the Plan shall not be assigned, transferred, pledged or encumbered except by the laws of descent and distribution.
 
-**Section 12.4    Plan Benefits Not Compensation Under Employee Benefit Plans** . Any deferred compensation payable under the Plan shall not be deemed salary or other compensation to the Participant for the purpose of computing the benefits under any plan or arrangement (including but not limited to any “employee benefit plan” under ERISA) except as expressly provided in such plan or arrangement. 
+### Section 12.3    No Right to Continued Employment
 
-**Section 12.5    Compliance with Section 409A** . The Plan is intended to comply with Section 409A, and shall be interpreted, operated and administered consistent with this intent and the Section 409A Policy. To the extent the terms of the Plan fail to qualify for exemption from or to satisfy the requirements of Section 409A, the Plan may be operated in compliance with Section 409A pending amendment to the extent authorized by the Internal Revenue Service. In such circumstances, the Plan will be administered in a manner which adheres as closely as possible to its existing terms while complying with Section 409A. 
+Participation in the Plan shall not be construed as conferring upon the Participant the right to continue in the employ of the Company as an executive or in any other capacity. The Company expressly reserves the right to dismiss any employee at any time without liability for the effect such dismissal might have upon him or her hereunder.
 
-### Section 12.6    No Guarantee of Tax Consequences
+### Section 12.4    Plan Benefits Not Compensation Under Employee Benefit Plans
+
+Any deferred compensation payable under the Plan shall not be deemed salary or other compensation to the Participant for the purpose of computing the benefits under any plan or arrangement (including but not limited to any “employee benefit plan” under ERISA) except as expressly provided in such plan or arrangement.
+
+#### Section 12.5    Compliance with Section 409A
+
+The Plan is intended to comply with Section 409A, and shall be interpreted, operated and administered consistent with this intent and the Section 409A Policy. To the extent the terms of the Plan fail to qualify for exemption from or to satisfy the requirements of Section 409A, the Plan may be operated in compliance with Section 409A pending amendment to the extent authorized by the Internal Revenue Service. In such circumstances, the Plan will be administered in a manner which adheres as closely as possible to its existing terms while complying with Section 409A.
+
+#### Section 12.6    No Guarantee of Tax Consequences
 
    - (a) The Company makes no representations or warranties and assumes no responsibility as to the tax consequences to any Participant who enters into a deferred compensation agreement with the Company pursuant to the Plan or any such Participant’s Beneficiary. Further, payment by the Company to the Participant (or to a Participant’s Beneficiary or Beneficiaries) in accordance with the terms of the Plan, including any designation of Beneficiary on file with the Administrator at the time of the Participant’s death, shall be binding on all interested parties and persons, including the Participant’s heirs, executors, administrators and assigns, and shall discharge the Company, its directors, officers and employees from all claims, demands, actions or causes of action of every kind arising out of or on account of the Participant’s participation in the Plan, known or unknown, for himself or herself, his or her heirs, executors, administrators and assigns.
 
    - (b) No person connected with the Plan in any capacity, including, but not limited to, the Company and its directors, officers, agents and employees, makes any representation, commitment, or guarantee that any tax treatment, including, but not limited to, Federal, state and local income, estate and gift tax treatment, will be applicable to any amounts deferred under the Plan, or paid to or for the benefit of a Participant or Beneficiary under the Plan, or that such tax treatment will apply to or be available to a Participant or Beneficiary on account of participation in the Plan.
 
--47- 
-
    - (c) Any agreement executed pursuant to the Plan shall be deemed to include the above provision of this Section 12.6.
 
-**Section 12.7    Limitations on Liability** . Neither the establishment of the Plan nor any modification thereof, nor the creation of any account under the Plan, nor the payment of any benefits under the Plan shall be construed as giving to any Participant or other person any legal or equitable right against the Company, or any officer or employer thereof except as provided by law or by any Plan provision. No person (including the Company) in any way guarantees any Participant’s Account from loss or depreciation, whether caused by poor investment performance of a deemed investment or the inability to realize upon an investment due to an insolvency affecting an investment vehicle or any other reason. In no event shall the Company or any successor, employee, officer, director or stockholder of the Company, be liable to any person on account of any claim arising by reason of the provisions of the Plan or of any instrument or instruments implementing its provisions (except that the Company shall make benefit payments in accordance with the terms of the Plan), or for the failure of any Participant, Beneficiary or other person to be entitled to any particular tax consequences with respect to the Plan, or any credit or distribution hereunder. 
+### Section 12.7    Limitations on Liability
 
-**Section 12.8    Severability** . If any provision of the Plan is held to be illegal or void, such illegality or invalidity shall not affect the remaining provisions of the Plan, but shall be fully severable, and the Plan shall be construed and enforced as if said illegal or invalid provision had never been inserted herein. 
+Neither the establishment of the Plan nor any modification thereof, nor the creation of any account under the Plan, nor the payment of any benefits under the Plan shall be construed as giving to any Participant or other person any legal or equitable right against the Company, or any officer or employer thereof except as provided by law or by any Plan provision. No person (including the Company) in any way guarantees any Participant’s Account from loss or depreciation, whether caused by poor investment performance of a deemed investment or the inability to realize upon an investment due to an insolvency affecting an investment vehicle or any other reason. In no event shall the Company or any successor, employee, officer, director or stockholder of the Company, be liable to any person on account of any claim arising by reason of the provisions of the Plan or of any instrument or instruments implementing its provisions (except that the Company shall make benefit payments in accordance with the terms of the Plan), or for the failure of any Participant, Beneficiary or other person to be entitled to any particular tax consequences with respect to the Plan, or any credit or distribution hereunder.
 
-**Section 12.9    Captions** . The headings and captions herein are provided for reference and convenience only, shall not be considered part of the Plan, and shall not be considered in the construction of the Plan. 
+### Section 12.8    Severability
 
-**Section 12.10    Governing Law** . The Plan shall be construed in accordance with and governed by the laws of the State of New York to the extent not superseded by federal law, without reference to the principles of conflict of laws. 
+If any provision of the Plan is held to be illegal or void, such illegality or invalidity shall not affect the remaining provisions of the Plan, but shall be fully severable, and the Plan shall be construed and enforced as if said illegal or invalid provision had never been inserted herein.
 
-* * * * * -48-
+### Section 12.9    Captions
+
+The headings and captions herein are provided for reference and convenience only, shall not be considered part of the Plan, and shall not be considered in the construction of the Plan.
+
+### Section 12.10    Governing Law
+
+The Plan shall be construed in accordance with and governed by the laws of the State of New York to the extent not superseded by federal law, without reference to the principles of conflict of laws.
+
+* * * * * 
 
 ## SCHEDULE A
 
-### DEFERRAL ACCOUNT SCHEDULE RATE
+## DEFERRAL ACCOUNT SCHEDULE RATE
 
 Under the Interest Method, the Schedule Rate used to determine the earnings credited on a Participant’s Deferral Accounts for such calendar year shall be determined under the following metric, based on Amex’s “ROE” for such calendar year and its “ROE Target Range” for such calendar year: 
 
@@ -20543,15 +20843,13 @@ Amex’s “ROE” for a calendar year means Amex’s consolidated annual return
 
 Amex’s “ROE Target Range” for a calendar year means the ROE target range announced by Amex and in effect on January 1st of such calendar year. 
 
-**Except as otherwise provided by Section 9.2(b)(ii) of the Plan, the Schedule Rate under this Schedule A for any calendar year may be changed by the Committee, prospectively or retrospectively, in its sole discretion, without prior notice to or consent of Participants or Beneficiaries.** -49-
+## Except as otherwise provided by Section 9.2(b)(ii) of the Plan, the Schedule Rate under this Schedule A for any calendar year may be changed by the Committee, prospectively or retrospectively, in its sole discretion, without prior notice to or consent of Participants or Beneficiaries
 
 ## SCHEDULE B RESERVED
 
--50- 
-
 ## SCHEDULE C
 
-### Prior Deferral Plan Benefit Payment Appendix
+## Prior Deferral Plan Benefit Payment Appendix
 
 Pursuant to Section 1.3 of the Plan, this Schedule C sets forth in greater detail the payment timing rules applicable to Deferral Plan benefits attributable to years prior to 2011 and governed by earlier deferral plans maintained by the Company that have been consolidated into the Plan. 
 
@@ -20559,7 +20857,7 @@ Nothing herein alters the timing or form of a payment from the timing or form ap
 
 Payment dates are approximate; payment may be made within 90 days of the identified payment date in accordance with the Treasury Regulations under Section 409A of the Code. 
 
-### Pre-2008 Deferral Plans
+## Pre-2008 Deferral Plans
 
 Some pre-2008 plans include money that was earned and vested as of December 31, 2004 and has been treated as “grandfathered” and thus exempt from Section 409A. Principal for years up to and including 2004 is considered grandfathered, as is interest for years prior to 1999, and interest in the 1999-2004 years to the extent that the Participant was Retirement Eligible by December 31, 2004. Interest for the 1999-2004 Deferral Plans for Participants who were not Retirement Eligible by December 31, 2004 is never considered grandfathered, regardless of whether it exceeded the minimum interest crediting amount for the year. “Grandfathered” status does not have a practical impact except in the case of an employee who receives severance payments from the Company. 
 
@@ -20567,15 +20865,13 @@ References to “termination of employment” or similar concepts refer to “Se
 
 The rules governing these benefits are NOT reflected in Article 8 of the Plan, which addresses only Deferral Plan benefits from 2008-2010 (as “Pre-2011 Deferral Benefits”) and current Deferral Plan benefits (as “Post-2010 Deferral Benefits”). 
 
-- **If a Participant elected to be paid at a specified date or as of retirement + X years (X could be up to 10)** 
+#### If a Participant elected to be paid at a specified date or as of retirement + X years (X could be up to 10)
 
    - If the Participant elected a specified date AND is still active on the specified date, the Participant will be paid 
 
    - according to specified date election _(this rule will NEVER be applicable to a Participant who elected payment as of retirement + X years):_ 
 
       - n If lump sum elected, paid in a lump sum on the first March 15/September 15 on/following the elected date. 
-
--51- 
 
    - n If installments elected, payments begin on the first March 15/September 15 on/following elected date, with subsequent installments paid on each March 15. 
 
@@ -20593,15 +20889,17 @@ The rules governing these benefits are NOT reflected in Article 8 of the Plan, w
 
    - n If installments elected, payments begin on the first March 15/September 15 on/following elected date (even if later than termination of employment), subsequent installments will be paid on each March 15. 
 
-   - n **Commencement could be AFTER retirement** . _(This is different from the rule for current Deferral Plan benefits.)_ 
+#### - n Commencement could be AFTER retirement
+
+_(This is different from the rule for current Deferral Plan benefits.)_
 
 `o` If a Participant was not Retirement Eligible upon termination, and terminates from employment before the specified date, the Participant is paid in a lump sum on the first March 15/September 15 that is at least 6 months following termination. 
 
-   - If the Participant is going out on severance, see Severance Flow Chart and follow questions. **Severance may** 
+#### - If the Participant is going out on severance, see Severance Flow Chart and follow questions. **Severance may**
 
-   - **delay start of any payments based on termination of employment/retirement for GRANDFATHERED amounts, since it may delay deemed termination of employment.** 
+#### delay start of any payments based on termination of employment/retirement for GRANDFATHERED amounts, since it may delay deemed termination of employment
 
-- n **If the Participant elected to be paid at retirement** 
+#### - n If the Participant elected to be paid at retirement
 
 `o` If the Participant is Retirement Eligible upon termination, the Participant will be paid according to elections: 
 
@@ -20609,17 +20907,15 @@ The rules governing these benefits are NOT reflected in Article 8 of the Plan, w
 
 - 1 “Retirement Eligible” means that the Participant is at least age 55 AND has at least 10 years of service. 
 
--52- 
-
    - n If installments elected, payments begin on the first March 15/September 15 that is at least 6 months following retirement; subsequent installments will be paid on each March 15. 
 
 - If not Retirement Eligible upon termination, paid in a lump sum on the first March 15/September 15 that is at - least 6 months following termination.
 
-- If the Participant is going out on severance, see Severance Flow Chart and follow questions. **Severance may** 
+##### - If the Participant is going out on severance, see Severance Flow Chart and follow questions. **Severance may**
 
-#### delay start of any payments based on termination of employment/retirement for GRANDFATHERED amounts based on termination of employment, since it may delay deemed termination of employment
+##### delay start of any payments based on termination of employment/retirement for GRANDFATHERED amounts based on termination of employment, since it may delay deemed termination of employment
 
-#### ## n If the Participant leaves the Company as a result of Disability
+#### n If the Participant leaves the Company as a result of Disability
 
 - The Participant will be paid according to elections. 
 
@@ -20627,9 +20923,9 @@ The rules governing these benefits are NOT reflected in Article 8 of the Plan, w
 
 - If installments elected, payments begin on the first March 15/September 15 that is at least 6 months following 
 
-#### - date of disability; subsequent installments will be paid on each March 15.
+- date of disability; subsequent installments will be paid on each March 15. 
 
-#### ## n If the Participant dies before payments begin or before receiving all installments
+#### n If the Participant dies before payments begin or before receiving all installments
 
 - The balance of the Participant’s account will be paid as a lump sum to the Participant’s designated beneficiary 
 
@@ -20639,7 +20935,7 @@ The rules governing these benefits are NOT reflected in Article 8 of the Plan, w
 
 These plans do not include any “grandfathered” money and are subject to Section 409A of the Code in their entirety. The rules governing these benefits are set forth in Article 8 of the Plan document as the rules applicable to “Pre-2011 Deferral Benefits.” 
 
-#### ## n If the Participant elected to be paid on a specified date
+#### n If the Participant elected to be paid on a specified date
 
 - If the Participant does not separate from service prior to the specified date, the Participant will be paid - according to elections:
 
@@ -20647,7 +20943,7 @@ These plans do not include any “grandfathered” money and are subject to Sect
 
    - n If installments elected, payments begin on the first March 15/September 15 on/following elected date; subsequent installments will be paid on each March 15. 
 
-      - l If Separation from Service occurs during payment, and the Participant is **not** Retirement Eligible upon Separation from Service, the remainder of the installments are paid in a lump sum on the first March 15/Sept 15 that is at least 6 months following Separation from Service. If the Participant is -53-
+      - l If Separation from Service occurs during payment, and the Participant is **not** Retirement Eligible upon Separation from Service, the remainder of the installments are paid in a lump sum on the first March 15/Sept 15 that is at least 6 months following Separation from Service. If the Participant is 
 
 Retirement Eligible upon Separation from Service, installments continue on schedule. 
 
@@ -20659,7 +20955,7 @@ Retirement Eligible upon Separation from Service, installments continue on sched
 
    - n If installments elected, payments begin on the first March 15/September 15 that is six months following Separation from Service, subsequent installments paid on each March 15. 
 
-#### ## n Note that payment will NOT be delayed until the specified date, in contrast to the pre-2008 rule
+#### n Note that payment will NOT be delayed until the specified date, in contrast to the pre-2008 rule
 
 - If the Participant is not Retirement Eligible upon Separation from Service, and separates from service prior to 
 
@@ -20669,7 +20965,7 @@ Retirement Eligible upon Separation from Service, installments continue on sched
 
 - hence severance does not delay Separation from Service. 
 
-#### ## n If the Participant elected to be paid at retirement
+#### n If the Participant elected to be paid at retirement
 
 - If the Participant is Retirement Eligible upon Separation from Service, the Participant is paid according to - elections:
 
@@ -20685,19 +20981,17 @@ Retirement Eligible upon Separation from Service, installments continue on sched
 
 - hence severance does not delay separation from service. 
 
-#### ## n If the Participant dies or is Disabled, the usual death/Disability benefit rules for Pre-2011 Deferral Benefits apply
-
--54- 
+#### n If the Participant dies or is Disabled, the usual death/Disability benefit rules for Pre-2011 Deferral Benefits apply
 
 ## Special Rule for Degrandfathered Participants’ Degrandfathered Benefits Under Section 1.3 of the Plan
 
 These rules apply to degrandfathered principal only. Interest for the relevant years was never grandfathered, and hence is not affected by the degrandfathering transition. For the interest portion of the account balance, see the rules for Pre-2008 Deferral Plan benefits. 
 
-#### ## n If the Participant did NOT Make an election regarding degrandfathered benefits
+#### n If the Participant did NOT Make an election regarding degrandfathered benefits
 
 - The Participant will be paid in a lump sum in March of 2012. 
 
-#### ## n If the Participant elected a specified date and that specified date occurs prior to Participant’s Separation from Service
+#### n If the Participant elected a specified date and that specified date occurs prior to Participant’s Separation from Service
 
    - Specified date could not be earlier than July 2017. 
 
@@ -20709,7 +21003,7 @@ These rules apply to degrandfathered principal only. Interest for the relevant y
 
    - continue as scheduled. Separation from Service does not affect payment form or timing. 
 
-#### - n If the Participant elected a specified date but separates from service prior to that date OR if the Participant elected to be paid at retirement
+##### - n If the Participant elected a specified date but separates from service prior to that date OR if the Participant elected to be paid at retirement
 
    - If the Participant elected lump sum, paid in a lump sum on the later of July 1, 2017 or the first January 1 or 
 
@@ -20719,15 +21013,11 @@ These rules apply to degrandfathered principal only. Interest for the relevant y
 
    - the calendar year following the Separation from Service date, and subsequent installments will be paid on each July 1 thereafter. 
 
-#### - n If the Participant dies, the usual death benefit rules for Post-2010 Deferral Benefits apply
-
--55- 
+#### n If the Participant dies, the usual death benefit rules for Post-2010 Deferral Benefits apply
 
 ## SCHEDULE D
 
 The Plan is hereby irrevocably terminated, effective as of and contingent on the closing of the transactions described in the Purchase and Sale Agreement by and between American Express Travel Related Services Company, Inc. and a subsidiary of Time Inc. (the “Termination Date”), solely with respect to the Participants in the Plan who are employees of American Express Publishing Corporation on the Termination Date (“Publishing Participants”). As of the Termination Date, all crediting of Plan accounts of Publishing Participants shall cease. Each Publishing Participant’s remaining accrued and unpaid benefits shall be paid to such participant in accordance with the requirements of Treasury Regulation Section 1.409A-3(j)(4) (ix)(B) and on a date within twelve months of the Termination Date. The benefit to be paid to each Publishing Participant shall be determined in accordance with the Plan’s provisions. All benefits under the Plan shall be paid only in a manner that complies with the requirements of Section 409A of the Internal Revenue Code of 1986, as amended. 
-
--56- 
 
 ## SCHEDULE E
 
@@ -20753,15 +21043,13 @@ A Business Employee’s ability to continue to make and receive contributions un
 
    - (a) The date the Business Employee has a Separation from Service from the Business (or such later date as is required by Section 409A), provided that an individual who is rehired prior to termination of participation under paragraph (b) below may resume participation in accordance with the terms of the Plan, this Schedule and Section 409A;
 
--57- 
-
    - (b) The later of the following dates (which dates and hence the applicable time of termination of participation may differ for different types of contributions):
 
       - (i) The end of the period during which comparable benefits are required under the documents governing the Business; or
 
       - (ii) The date cessation of contributions is permissible under Section 409A.
 
-### Section 1.3    Change of Status
+## Section 1.3    Change of Status
 
 An individual who was a Business Employee but who again becomes an Employee of the Company will cease to have participation in the Plan governed by this Schedule, except for benefits attributable to his or her time as a Business Employee, and provided that this change in status will not invalidate any elections filed as a Business Employee.
 
@@ -20787,9 +21075,7 @@ Supplemental Benefits may be allocated to a Business Employee’s RSP-Related Ac
 
 Nothing herein entitles any Business Employee or other person to duplicative benefits.
 
--58- 
-
-### Section 2.4    Funding of Benefits
+## Section 2.4    Funding of Benefits
 
 Benefits under the Plan shall at all times be unfunded obligations of the Company, without prejudice to the Company’s right to require the Business to provide it (or any rabbi trust established under the Plan) with such payments as may be agreed between the Company and the Business from time to time. No such agreement may give the Plan, any Participant or any Beneficiary a right to any such funds or to payment of Plan benefits in preference to the general creditors of the Business, and any amounts paid to the Company (or any rabbi trust established under the Plan) by the Business with respect to the Plan shall remain subject to the claims of the general creditors of the Business to the extent necessary to preserve the unfunded nature of the Plan.
 
@@ -20809,7 +21095,7 @@ The time and form of payment for a Business Employee shall be determined as if e
 
 ### Section 5.2 Separation from Service
 
-Once a Participant becomes a Business Employee, the occurrence of a Separation from Service shall be determined by treating the Business (along with any affiliates of the Business treated as a single employer with the Business under Section 414(b) or (c) of the Code, using the 80 percent common ownership standard) as the “service recipient.” (In the event of any future transactions involving the Business or other events which may require alteration of the definition of “service recipient,” the application of the Separation from Service rules shall be adjusted as necessary to continue to comply with -59-
+Once a Participant becomes a Business Employee, the occurrence of a Separation from Service shall be determined by treating the Business (along with any affiliates of the Business treated as a single employer with the Business under Section 414(b) or (c) of the Code, using the 80 percent common ownership standard) as the “service recipient.” (In the event of any future transactions involving the Business or other events which may require alteration of the definition of “service recipient,” the application of the Separation from Service rules shall be adjusted as necessary to continue to comply with
 
 Section 409A.) If the Participant subsequently again becomes an Employee of the Company, benefits attributable to the Participant’s reemployment by the Company shall be governed by the Plan’s normal rules regarding Separation from Service, but benefits attributable to periods during and prior to the Participant’s employment as a Business Employee shall continue to be governed by this Section. 
 
@@ -20831,10 +21117,6 @@ Nothing in this Schedule gives any Business Employee or any other individual a r
 
 The Administrator shall have the right to construe, interpret and administer this Schedule to the same extent as the rest of the Plan, and to decide any claims arising from this Schedule pursuant to the Plan’s normal claims process. This Schedule constitutes part of the Plan and shall at all times be interpreted in a manner compliant with Section 409A.
 
--60- 
-
-## EXHIBIT 10.22
-
 ## DESCRIPTION OF COMPENSATION PAYABLE TO NON-MANAGEMENT DIRECTORS
 
 Upon the recommenda�on of the Nomina�ng and Governance Commi�ee of the Board of Directors of American Express Company, on December 7, 2021, the Board approved the payment of the following compensa�on to each non-management director of the Board in respect of his/her service on the Board effec�ve January 1, 2022: 
@@ -20851,27 +21133,25 @@ Upon the recommenda�on of the Nomina�ng and Governance Commi�ee of the Boa
 
 - reimbursement of customary expenses for a�ending Board, commi�ee, and shareholder mee�ngs. 
 
-**EXHIBIT 10.31** 
-
 ## AMENDMENT TO RESTRICTED STOCK UNIT AWARD AGREEMENT (BAND 99) AND NONQUALIFIED STOCK OPTION AWARD AGREEMENT (BAND 99)
 
-## I.    Amendment to Restricted Stock Unit Award Agreement (Band 99)
+### I.    Amendment to Restricted Stock Unit Award Agreement (Band 99)
 
 Sec�on 2, Sec�on 3 and Sec�on 6(c) of the Restricted Stock Unit Award Agreement (Band 99) are hereby amended and restated, effec�ve for awards granted on or a�er February 1, 2023, to provide in their en�ty as follows: 
 
-### Sec�on 2. Death or Disability
+#### Section 2. Death or Disability
 
    - (a) Death. Notwithstanding anything in this Agreement to the contrary, (i) if a Par�cipant ceases Employment by reason of the Par�cipant’s death before the Ves�ng Date, or (ii) if a Par�cipant ceased Employment by reason of the Par�cipant’s Re�rement before the Ves�ng Date, the Award con�nued pursuant to Sec�on 3 and the Par�cipant dies before the Ves�ng Date, then the Par�cipant’s Award shall immediately vest on the date of the Par�cipant’s death, the RSU Payout Percentage for the Par�cipant’s Award shall be 100% and the Par�cipant’s Award shall no longer be subject to the ves�ng condi�ons set forth in Sec�on 1(b) or Sec�on 1(c). For the avoidance of doubt, if the Par�cipant ceased Employment by reason of the Par�cipant’s Re�rement before the Ves�ng Date and the Award did not con�nue pursuant to Sec�on 3, this Sec�on 2(a) shall not apply.
 
    - (b) Disability. Notwithstanding anything in this Agreement to the contrary, if a Par�cipant ceases Employment by reason of the Par�cipant’s Disability before the Ves�ng Date, then the Par�cipant’s Award shall immediately vest on the date of the Par�cipant’s Disability, the RSU Payout Percentage for the Par�cipant’s Award shall be 100% and the Par�cipant’s Award shall no longer be subject to the ves�ng condi�ons set forth in Sec�on 1(b) or Sec�on 1(c).
 
-### Sec�on 3. Re�rement
+#### Section 3. Retirement
 
    - (a) Par�cipants Outside European Union and United Kingdom. If a Par�cipant’s home base country is outside the European Union and the United Kingdom, then: (A) if the Par�cipant ceases Employment by reason of the Par�cipant’s Early Re�rement before the Ves�ng Date, and the date of Early Re�rement is more than one year a�er the Date of Grant, the Par�cipant’s Award shall con�nue and vest on the Ves�ng Date for the number of Earned Shares determined under Sec�on 1(c); and (B) if the Par�cipant ceases Employment by reason of the Par�cipant’s Full Re�rement before the Ves�ng Date, the Par�cipant’s Award shall con�nue and vest on the Ves�ng Date for the number of Earned Shares determined under Sec�on 1(c); in each case, without regard to the ves�ng condi�on set forth in Sec�on 1(b) and except as otherwise provided by Sec�on 2(a) in the event of the death of the Par�cipant a�er Re�rement and before the Ves�ng Date.
 
    - (b) Par�cipants Within European Union or United Kingdom. If a Par�cipant’s home base country is in the European Union or the United Kingdom, then if the Par�cipant ceases Employment by reason of the Par�cipant’s EU/UK Re�rement before the Ves�ng Date, and the date of EU/UK Re�rement is more than one year a�er the Date of Grant, the Par�cipant’s Award shall con�nue and vest on the Ves�ng Date for the number of Earned Shares determined under Sec�on 1(c), without regard to the ves�ng condi�on set forth in Sec�on 1(b) and except as otherwise provided by Sec�on 2(a) in the event of the death of the Par�cipant a�er EU/UK Re�rement and before the Ves�ng Date.
 
-### Sec�on 6. Payment
+#### Section 6. Payment
 
    - (c) Re�rement. Subject to Sec�on 6(f), Sec�on 6(h) and Sec�on 6(i), the Company shall issue to a Par�cipant the number of Earned Shares from the ves�ng of the Par�cipant’s Award pursuant to Sec�on 3, less the number of any shares withheld or cancelled to sa�sfy withholding obliga�ons for Tax-Related Items pursuant to Sec�on 6(i), at the �me specified by Sec�on 6(a) (or at the �me provided by Sec�on 6(b) in the event of the death of the Par�cipant a�er Re�rement and before the Ves�ng Date).
 
@@ -20879,7 +21159,7 @@ Sec�on 2, Sec�on 3 and Sec�on 6(c) of the Restricted Stock Unit Award Agre
 
 Sec�on 3(a) and Sec�on 4(a) of the Nonqualified Stock Op�on Award Agreement (Band 99) are hereby amended and restated, effec�ve for awards granted on or a�er February 1, 2023, to provide in their en�ty as follows: 
 
-### Sec�on 3. Death or Disability
+#### Section 3. Death or Disability
 
    - (a) Ves�ng.
 
@@ -20887,11 +21167,9 @@ Sec�on 3(a) and Sec�on 4(a) of the Nonqualified Stock Op�on Award Agreemen
 
       - (ii) _Disability_ . Notwithstanding anything in this Agreement to the contrary, if a Par�cipant ceases Employment before the Ves�ng Date by reason of the Par�cipant’s Disability while holding the Op�on, and the Op�on has not expired and has not vested, then the Par�cipant’s Op�on shall immediately vest and become exercisable for the Number of Shares on the date of the Par�cipant’s death or Disability, and shall no longer be subject to the ves�ng condi�ons set forth in Sec�on 1(b) or Sec�on 1(c), and the Op�on may be exercised as to any or all of the Number of Shares, as described by Sec�on 3(b).
 
--2- 
+#### Section 4. Retirement
 
-### Sec�on 4. Re�rement
-
-##### (a) Ves�ng.
+### (a) Ves�ng.
 
       - (i) _Par�cipants Outside European Union and United Kingdom_ . If a Par�cipant’s home base country is outside the European Union and the United Kingdom, then: (A) if the Par�cipant ceases Employment by reason of the Par�cipant’s Early Re�rement before the Ves�ng Date, and the date of Early Re�rement is more than one year a�er the Date of Grant, the Par�cipant’s Op�on shall con�nue and vest and become exercisable on the Ves�ng Date; and (B) if the Par�cipant ceases Employment by reason of the Par�cipant’s Full Re�rement before the Ves�ng Date, the Par�cipant’s Op�on shall con�nue and vest and become exercisable on the Ves�ng Date; in each case, without regard to the ves�ng condi�on set forth in Sec�on 1(b), but subject to the a�ainment of the performance requirement of Sec�on 1(c); and in each case, except as otherwise provided by Sec�on 3(a)(i) in the event of the death of the Par�cipant a�er Re�rement and before the Ves�ng Date.
 
@@ -20899,13 +21177,13 @@ Sec�on 3(a) and Sec�on 4(a) of the Nonqualified Stock Op�on Award Agreemen
 
       - (iii) _Forfeiture and Cancella�on_ . If a Par�cipant ceases Employment by reason of the Par�cipant’s Re�rement, and the Par�cipant’s Op�on does not con�nue pursuant to Sec�on 4(a)(i) or Sec�on 4(a)(ii), the Op�on shall be forfeited and cancelled by the Company.
 
-* * * * * -3-
-
-## EXHIBIT 21
+* * * * * 
 
 ## SUBSIDIARIES OF AMERICAN EXPRESS COMPANY as of December 31, 2022
 
-**Unless otherwise indicated by an asterisk (*), all of the voting securities of these subsidiaries are directly or indirectly owned by the registrant. The indentation reflects the principal parent of each subsidiary.** 
+## Unless otherwise indicated by an asterisk (
+
+), all of the voting securities of these subsidiaries are directly or indirectly owned by the registrant. The indentation reflects the principal parent of each subsidiary.**
 
 <table>
   <thead>
@@ -21169,8 +21447,6 @@ Sec�on 3(a) and Sec�on 4(a) of the Nonqualified Stock Op�on Award Agreemen
     </tr>
   </tbody>
 </table>
-
-Page 1 
 
 <table>
   <thead>
@@ -22004,8 +22280,6 @@ Page 1
   </tbody>
 </table>
 
-Page 3 
-
 <table>
   <thead>
     <tr>
@@ -22079,13 +22353,11 @@ Page 3
   </tbody>
 </table>
 
-Page 4 **EXHIBIT 23**
-
 ## CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
 
 We hereby consent to the incorporation by reference in the Registration Statements on Form S-8 (No. 33-53801, 333-142710, 333-211159, and 333-240077) and Form S-3 (No. 2-89469, 333-32525 and 333-253057) of American Express Company of our report dated February 10, 2023 relating to the consolidated financial statements and the effectiveness of internal control over financial reporting, which appears in this Form 10-K. 
 
-/s/ PricewaterhouseCoopers LLP New York, New York February 10, 2023 **EXHIBIT 31.1**
+/s/ PricewaterhouseCoopers LLP New York, New York February 10, 2023 
 
 ## CERTIFICATION
 
@@ -22115,7 +22387,7 @@ I, Stephen J. Squeri, certify that:
 
 Date: February 10, 2023 
 
-/s/ Stephen J. Squeri Stephen J. Squeri Chief Executive Officer **EXHIBIT 31.2**
+/s/ Stephen J. Squeri Stephen J. Squeri Chief Executive Officer 
 
 ## CERTIFICATION
 
@@ -22147,8 +22419,6 @@ Date: February 10, 2023
 
 /s/ Jeffrey C. Campbell Jeffrey C. Campbell Chief Financial Officer 
 
-## EXHIBIT 32.1
-
 ## Certification Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
 
 In connection with the Annual Report on Form 10-K of American Express Company (the “Company”) for the fiscal year ended December 31, 2022, as filed with the Securities and Exchange Commission on the date hereof (the “Report”), Stephen J. Squeri, as Chief Executive Officer of the Company, hereby certifies, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
@@ -22162,8 +22432,6 @@ Name: Stephen J. Squeri Title: Chief Executive Officer Date: February 10, 2023
 The foregoing certification is being furnished solely pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, and is not being “filed” as part of the Form 10-K or as a separate disclosure document for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to liability under that section. This certification shall not be deemed to be incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Exchange Act except to the extent that this Exhibit 32.1 is expressly and specifically incorporated by reference in any such filing. 
 
 A signed original of this written statement required by Section 906 has been provided to the Company and will be retained by the Company and furnished to the Securities and Exchange Commission or its staff upon request. 
-
-## EXHIBIT 32.2
 
 ## Certification Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
 

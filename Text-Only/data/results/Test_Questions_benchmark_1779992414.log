@@ -1,0 +1,1240 @@
+=== PROXY-POINTER AUTOMATED BENCHMARK ===
+Dataset: data/Benchmark/Comprehensive k=5/Test_Questions.xlsx
+
+================================================================================
+Q1 [AMD_2022_10K] USER QUERY: For AMD, what percentage of total revenue growth from FY2021 to FY2022 is attributable to the Embedded segment (including Xilinx)?
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 5 Unique Nodes):
+  -> Node 0256   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+  -> Node 0255   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2026 Notes and July 2028 Notes
+  -> Node 0263   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Modification and Waiver
+  -> Node 0261   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Definitions
+  -> Node 0265   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Book-Entry, Delivery and Settlement
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+The provided documents contain information regarding PepsiCo's 2022 Form 10-K, including details on notes, indentures, and definitions. There is no information regarding AMD, its financial performance, or its revenue segments in the provided context.
+
+Sources:
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2026 Notes and July 2028 Notes
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Modification and Waiver
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Definitions
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Book-Entry, Delivery and Settlement
+
+--- GROUND TRUTH ---
+~60.1% (4,306 / 7,167)
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to retrieve the relevant financial data for AMD, instead providing information about an unrelated company (PepsiCo) and stating that the requested information was not available.
+
+================================================================================
+Q2 [AMD_2022_10K] USER QUERY: For AMD, compute the operating margin for FY2022 and compare it with FY2021. What is the change in percentage points?
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 5 Unique Nodes):
+  -> Node 0618   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+  -> Node 0619   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+  -> Node 0263   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Modification and Waiver
+  -> Node 0517   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > 2. 21 Performance Period:
+  -> Node 0613   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > IN WITNESS WHEREOF
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+Error generating response: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-3.1-flash-lite
+Please retry in 31.589609661s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3.1-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 15
+}
+, retry_delay {
+  seconds: 31
+}
+]
+
+--- GROUND TRUTH ---
+Operating margin declined from 22.2% (2021) to 5.36% (2022), a decrease of 16.84 percentage points
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to provide an answer due to a quota error, resulting in no information being conveyed to the user.
+
+================================================================================
+Q3 [AMD_2022_10K] USER QUERY: For AMD, quantify how much of the operating income decline in FY2022 is explained by acquisition-related amortization and costs.
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 5 Unique Nodes):
+  -> Node 0256   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+  -> Node 0538   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > 3. 04 Acquisitions and Divestitures:
+  -> Node 0455   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > F.4 Operating Rules:
+  -> Node 0603   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > APPENDIX ARTICLE C – PARTICIPANTS AFFECTED BY JANUARY 20, 2022 TRANSACTION
+  -> Node 0387   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > Exhibit 10.10
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+The provided documents do not contain information regarding AMD, its financial performance in FY2022, or its operating income. The context provided is limited to PepsiCo's 2022 10-K filing regarding specific notes and its international retirement plan.
+
+Sources:
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > 3. 04 Acquisitions and Divestitures
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > F.4 Operating Rules
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > APPENDIX ARTICLE C – PARTICIPANTS AFFECTED BY JANUARY 20, 2022 TRANSACTION
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > Exhibit 10.10
+
+--- GROUND TRUTH ---
+Majority (~$3B+ impact), as operating income fell despite revenue growth, largely due to Xilinx amortization and acquisition-related expenses
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to retrieve the relevant financial data for AMD, instead reporting that the provided documents were limited to PepsiCo. As a result, it failed to answer the question entirely.
+
+================================================================================
+Q4 [AMD_2022_10K] USER QUERY: For AMD, calculate the proportion of total assets contributed by goodwill and intangible assets in FY2022.
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 5 Unique Nodes):
+  -> Node 0261   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Definitions
+  -> Node 0259   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Limitation of Liens
+  -> Node 0260   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Consolidation, Merger or Sale of Assets
+  -> Node 0605   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > PEPSICO, INC. SUBSIDIARIES (as of December 31, 2022)
+  -> Node 0390   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > SCHEDULE 1
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+The provided context does not contain financial information for AMD for the 2022 fiscal year; the documents provided are exclusively related to PepsiCo.
+
+Sources:
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Definitions
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Limitation of Liens
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Consolidation, Merger or Sale of Assets
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > PEPSICO, INC. SUBSIDIARIES (as of December 31, 2022)
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > SCHEDULE 1
+
+--- GROUND TRUTH ---
+71.46% ((24,177 + 24,118) / 67,580)
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to answer the question because it was restricted to an incorrect set of documents (PepsiCo instead of AMD), leading to a complete failure to provide the requested financial analysis.
+
+================================================================================
+Q5 [AMD_2022_10K] USER QUERY: For AMD, what percentage of total revenue in FY2022 came from the Data Center segment?
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 5 Unique Nodes):
+  -> Node 0605   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > PEPSICO, INC. SUBSIDIARIES (as of December 31, 2022)
+  -> Node 0618   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+  -> Node 0601   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > APPENDIX ARTICLE A - PARTICIPATING EMPLOYERS
+  -> Node 0619   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+  -> Node 0611   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > KNOW ALL BY THESE PRESENTS
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+The provided documents do not contain information regarding AMD or its FY2022 Data Center segment revenue; the context is limited to PepsiCo, Inc. 2022 reporting documents.
+
+Sources:
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > PEPSICO, INC. SUBSIDIARIES (as of December 31, 2022)
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > APPENDIX ARTICLE A - PARTICIPATING EMPLOYERS
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > KNOW ALL BY THESE PRESENTS
+
+--- GROUND TRUTH ---
+~25% (Data Center ~$6.0B out of ~$23.6B total)
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to answer the question because it was restricted to an irrelevant document set (PepsiCo) and claimed the information was not available, whereas the ground truth confirms the information is a standard financial fact for AMD.
+
+================================================================================
+Q6 [AMD_2022_10K] USER QUERY: For AMD, what is the year-over-year growth rate of Client segment revenue from FY2021 to FY2022, and how does it compare to overall company growth?
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 5 Unique Nodes):
+  -> Node 0517   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > 2. 21 Performance Period:
+  -> Node 0605   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > PEPSICO, INC. SUBSIDIARIES (as of December 31, 2022)
+  -> Node 0618   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+  -> Node 0601   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > APPENDIX ARTICLE A - PARTICIPATING EMPLOYERS
+  -> Node 0611   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > KNOW ALL BY THESE PRESENTS
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+The provided documents do not contain information regarding AMD, its Client segment revenue, or its year-over-year growth rates. The provided context relates exclusively to PepsiCo, Inc.
+
+Sources:
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > 2. 21 Performance Period
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > PEPSICO, INC. SUBSIDIARIES (as of December 31, 2022)
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > APPENDIX ARTICLE A - PARTICIPATING EMPLOYERS
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > KNOW ALL BY THESE PRESENTS
+
+--- GROUND TRUTH ---
+Client segment declined ~10% YoY (6,887 → 6,201), while total company revenue grew ~44% (16,434 → 23,601)
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to answer the question because it was provided with the wrong source documents (PepsiCo instead of AMD). Consequently, it claimed the information was unavailable rather than providing the requested financial analysis.
+
+================================================================================
+Q7 [AMD_2022_10K] USER QUERY: For AMD, compute the free cash flow for FY2022 and compare it with FY2021.
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 5 Unique Nodes):
+  -> Node 0619   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+  -> Node 0605   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > PEPSICO, INC. SUBSIDIARIES (as of December 31, 2022)
+  -> Node 0618   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+  -> Node 0261   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Definitions
+  -> Node 0256   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+The provided documents do not contain information regarding AMD or its free cash flow for FY2022 and FY2021. The context provided is limited to PepsiCo, Inc.
+
+Sources:
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > PEPSICO, INC. SUBSIDIARIES (as of December 31, 2022)
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Definitions
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+
+--- GROUND TRUTH ---
+~$3.1B in 2022 vs ~$3.2B in 2021 (slight decline)
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to answer the question because it was restricted to an irrelevant document set (PepsiCo), resulting in a complete failure to provide the requested financial data for AMD.
+
+================================================================================
+Q8 [AMD_2022_10K] USER QUERY: For AMD, calculate the current ratio for FY2022 and assess liquidity strength.
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 5 Unique Nodes):
+  -> Node 0261   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Definitions
+  -> Node 0619   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+  -> Node 0605   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > PEPSICO, INC. SUBSIDIARIES (as of December 31, 2022)
+  -> Node 0618   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+  -> Node 0259   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Limitation of Liens
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+Error generating response: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-3.1-flash-lite
+Please retry in 44.47956784s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3.1-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 15
+}
+, retry_delay {
+  seconds: 44
+}
+]
+
+--- GROUND TRUTH ---
+~2.4x (indicating strong liquidity)
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to provide an answer due to a quota error, resulting in no information being provided to address the user's question.
+
+================================================================================
+Q9 [AMD_2022_10K] USER QUERY: For AMD, estimate whether inventory buildup contributed significantly to cash flow decline in FY2022.
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 5 Unique Nodes):
+  -> Node 0617   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > I, **Hugh F. Johnston,** certify that:
+  -> Node 0619   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+  -> Node 0256   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+  -> Node 0344   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > 4. 01    Contributions
+  -> Node 0615   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > I, **Ramon L. Laguarta,** certify that:
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+The provided documents contain information exclusively related to PepsiCo, Inc. and its international retirement plan. There is no information regarding AMD or its fiscal year 2022 financial performance, inventory buildup, or cash flow.
+
+Sources:
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > I, Hugh F. Johnston, certify that:
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > 4. 01    Contributions
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > I, Ramon L. Laguarta, certify that:
+
+--- GROUND TRUTH ---
+Yes, inventory increase (~$1B+) negatively impacted operating cash flow
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to answer the question because it was provided with the wrong source documents (PepsiCo instead of AMD). Consequently, it claimed the information was unavailable rather than providing the requested financial analysis.
+
+================================================================================
+Q10 [AMD_2022_10K] USER QUERY: For AMD, what proportion of total revenue in FY2022 is attributable to the top two segments combined (Data Center + Client)?
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 5 Unique Nodes):
+  -> Node 0618   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+  -> Node 0605   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > PEPSICO, INC. SUBSIDIARIES (as of December 31, 2022)
+  -> Node 0601   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > APPENDIX ARTICLE A - PARTICIPATING EMPLOYERS
+  -> Node 0619   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+  -> Node 0256   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+The provided context does not contain financial information regarding AMD or its fiscal year 2022 revenue. The provided documents are exclusively related to PepsiCo, Inc.
+
+Sources:
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > PEPSICO, INC. SUBSIDIARIES (as of December 31, 2022)
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > APPENDIX ARTICLE A - PARTICIPATING EMPLOYERS
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+
+--- GROUND TRUTH ---
+~52% (Data Center ~$6B + Client ~$6.2B out of ~$23.6B total)
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to answer the question because it was restricted to an irrelevant document set (PepsiCo), resulting in a complete failure to provide the requested financial analysis for AMD.
+
+================================================================================
+Q1 [AMEX_2022] USER QUERY: For AMEX, Is gross margin a meaningful metric for AMEX? If not, compute an alternative margin using available data and justify.
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 5 Unique Nodes):
+  -> Node 0261   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Definitions
+  -> Node 0264   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Satisfaction, Discharge and Covenant Defeasance
+  -> Node 0257   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Redemption for Tax Reasons
+  -> Node 0260   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Consolidation, Merger or Sale of Assets
+  -> Node 0262   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Events of Default
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+The provided documents do not contain information regarding American Express (AMEX) or its financial metrics. The context is exclusively focused on definitions, legal covenants, and procedural information related to PepsiCo's 2022 10-K. Consequently, based on this context, it is not possible to determine if gross margin is a meaningful metric for AMEX or to compute an alternative margin for the company.
+
+Sources:
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Definitions
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Satisfaction, Discharge and Covenant Defeasance
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Redemption for Tax Reasons
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Consolidation, Merger or Sale of Assets
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Events of Default
+
+--- GROUND TRUTH ---
+Gross margin is not meaningful because AMEX does not report COGS. A better metric is operating margin ≈ Pre-tax income / Total revenues net of interest expense ≈ 9,248 / 52,862 ≈ 17.5%.
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to answer the question by claiming the information was unavailable, despite the question being answerable based on general financial knowledge of AMEX's business model as demonstrated in the ground truth.
+
+================================================================================
+Q2 [AMEX_2022] USER QUERY: For AMEX,, Calculate the proportion of net interest income to total revenues net of interest expense for 2022 and compare it to 2021. Did dependence increase?
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 5 Unique Nodes):
+  -> Node 0256   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+  -> Node 0261   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Definitions
+  -> Node 0401   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > Amount of Retirement Pension
+  -> Node 0255   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2026 Notes and July 2028 Notes
+  -> Node 0263   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Modification and Waiver
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+The provided documents contain information regarding PepsiCo's 2022 Form 10-K, specifically concerning debt notes, retirement plans, and definitions. There is no information provided in the context regarding American Express (AMEX) or its net interest income, total revenues, or financial performance for 2021 and 2022.
+
+Sources:
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Definitions
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > Amount of Retirement Pension
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2026 Notes and July 2028 Notes
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Modification and Waiver
+
+--- GROUND TRUTH ---
+2022: ~18.7% (9,895/52,862); 2021: ~18.3% (7,750/42,380). Dependence increased slightly
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to retrieve the relevant financial data for AMEX, instead providing information about PepsiCo. It did not answer the question asked.
+
+================================================================================
+Q3 [AMEX_2022] USER QUERY: For AMEX,, By how many percentage points did total revenues net of interest expense grow from 2021 to 2022, and what does this imply?
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 5 Unique Nodes):
+  -> Node 0256   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+  -> Node 0255   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2026 Notes and July 2028 Notes
+  -> Node 0387   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > Exhibit 10.10
+  -> Node 0344   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > 4. 01    Contributions
+  -> Node 0263   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Modification and Waiver
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+The provided documents do not contain information regarding American Express (AMEX) or its total revenues net of interest expense for 2021 and 2022. The context provided is limited to PepsiCo's 2022 10-K filings, specifically concerning debt notes and retirement plan documentation.
+
+Sources:
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2026 Notes and July 2028 Notes
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > Exhibit 10.10
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > 4. 01    Contributions
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Modification and Waiver
+
+--- GROUND TRUTH ---
+Growth = (52,862 − 42,380) / 42,380 ≈ 24.7%. Indicates strong post-pandemic recovery.
+
+--- JUDGE EVALUATION ---
+SCORE: 🟢
+NOTES: The bot correctly identified that the provided context did not contain the requested information about AMEX, as the source documents were limited to PepsiCo. It is a correct response given the constraints of the provided retrieval context.
+
+================================================================================
+Q4 [AMEX_2022] USER QUERY: For AMEX,, Compute the ratio of non-interest revenue to total revenues net of interest expense for 2022 and interpret.
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 5 Unique Nodes):
+  -> Node 0256   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+  -> Node 0261   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Definitions
+  -> Node 0255   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2026 Notes and July 2028 Notes
+  -> Node 0259   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Limitation of Liens
+  -> Node 0263   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Modification and Waiver
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+Error generating response: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-3.1-flash-lite
+Please retry in 35.153298942s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3.1-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 15
+}
+, retry_delay {
+  seconds: 35
+}
+]
+
+--- GROUND TRUTH ---
+Non-interest revenue = 52,862 − 9,895 = 42,967. Ratio = 42,967 / 52,862 ≈ 81.3%. Indicates AMEX is primarily fee-based.
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to provide an answer due to a quota error, resulting in no computation or interpretation being performed.
+
+================================================================================
+Q5 [AMEX_2022] USER QUERY: For AMEX,, Compare growth in net interest income vs total revenues net of interest expense. Which grew faster?
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 5 Unique Nodes):
+  -> Node 0256   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+  -> Node 0344   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > 4. 01    Contributions
+  -> Node 0255   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2026 Notes and July 2028 Notes
+  -> Node 0387   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > Exhibit 10.10
+  -> Node 0401   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > Amount of Retirement Pension
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+The provided documents contain information regarding PepsiCo's retirement plans and debt notes; they do not contain financial information or performance metrics for American Express (AMEX). Therefore, I cannot answer the query regarding AMEX's net interest income or total revenues using the provided context.
+
+Sources:
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > 4. 01    Contributions
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2026 Notes and July 2028 Notes
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > Exhibit 10.10
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > Amount of Retirement Pension
+
+--- GROUND TRUTH ---
+Net interest income grew ~28% (7,750 → 9,895), while total revenues grew ~25% (42,380 → 52,862). Net interest income grew faster.
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to answer the question because it was restricted to an irrelevant document set (PepsiCo) rather than the required American Express financial data.
+
+================================================================================
+Q6 [AMEX_2022] USER QUERY: For AMEX,, Estimate how much of total revenue growth is attributable to discount revenue increase
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 5 Unique Nodes):
+  -> Node 0401   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > Amount of Retirement Pension
+  -> Node 0256   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+  -> Node 0344   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > 4. 01    Contributions
+  -> Node 0395   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > (5) Identification of Key Employees from April 1, 2010 to March 31, 2018.
+  -> Node 0400   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > 4. 1 Normal 409A Retirement Pension: A Participant shall be eligible for a Normal 409A Retirement
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+The provided documents do not contain information regarding American Express (AMEX) or its discount revenue. The context is limited to documents concerning the PepsiCo International Retirement Plan and certain PepsiCo notes.
+
+Sources:
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > Amount of Retirement Pension
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > 4. 01 Contributions
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > (5) Identification of Key Employees from April 1, 2010 to March 31, 2018.
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > 4. 1 Normal 409A Retirement Pension: A Participant shall be eligible for a Normal 409A Retirement
+
+--- GROUND TRUTH ---
+Discount revenue increase = 30,722 − 24,546 = 6,176. Total revenue increase = 52,862 − 42,380 = 10,482. Contribution ≈ 6,176 / 10,482 ≈ 58.9%.
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to retrieve the relevant financial data for AMEX, instead providing information about an unrelated company (PepsiCo). Consequently, it failed to perform the requested calculation.
+
+================================================================================
+Q7 [AMEX_2022] USER QUERY: For AMEX,, Did provisions for credit losses increase faster than total revenue?
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 5 Unique Nodes):
+  -> Node 0256   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+  -> Node 0401   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > Amount of Retirement Pension
+  -> Node 0344   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > 4. 01    Contributions
+  -> Node 0400   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > 4. 1 Normal 409A Retirement Pension: A Participant shall be eligible for a Normal 409A Retirement
+  -> Node 0387   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > Exhibit 10.10
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+The provided documents do not contain information regarding American Express (AMEX) or its financial data, such as provisions for credit losses or total revenue. The context is limited to PepsiCo's 10-K filings and its retirement plan documentation.
+
+Sources:
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > Amount of Retirement Pension
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > 4. 01    Contributions
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > 4. 1 Normal 409A Retirement Pension: A Participant shall be eligible for a Normal 409A Retirement
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > Exhibit 10.10
+
+--- GROUND TRUTH ---
+Provision growth rate exceeds revenue growth (~25%), indicating rising credit risk exposure.
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to answer the question because it lacked the relevant source documents, whereas the ground truth indicates the information was available to be retrieved.
+
+================================================================================
+Q8 [AMEX_2022] USER QUERY: For AMEX,, Is there any numerical evidence of crypto-related revenue contribution?
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 5 Unique Nodes):
+  -> Node 0256   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+  -> Node 0255   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2026 Notes and July 2028 Notes
+  -> Node 0387   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > Exhibit 10.10
+  -> Node 0395   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > (5) Identification of Key Employees from April 1, 2010 to March 31, 2018.
+  -> Node 0386   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > APPENDIX
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+The provided documents do not contain any information regarding American Express (AMEX) or numerical evidence of crypto-related revenue contribution. The context provided relates exclusively to PepsiCo's 2022 10-K filing regarding financial notes, retirement plans, and employee classifications.
+
+Sources:
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2026 Notes and July 2028 Notes
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > Exhibit 10.10
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > (5) Identification of Key Employees from April 1, 2010 to March 31, 2018.
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > APPENDIX
+
+--- GROUND TRUTH ---
+No evidence of crypto-related revenue in financial statements or notes.
+
+--- JUDGE EVALUATION ---
+SCORE: 🟢
+NOTES: The bot correctly identified that the provided context did not contain information about AMEX and correctly noted the absence of relevant data, which aligns with the ground truth's conclusion that no such revenue exists.
+
+================================================================================
+Q9 [AMEX_2022] USER QUERY: For AMEX,, If billed business grew ~23% and total revenue grew ~24.7%, what does this imply?
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 5 Unique Nodes):
+  -> Node 0256   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+  -> Node 0401   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > Amount of Retirement Pension
+  -> Node 0494   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > 2. 1 Definitions
+  -> Node 0602   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > APPENDIX ARTICLE B – PBG AND PAS EXECUTIVES
+  -> Node 0261   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Definitions
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+The provided documents do not contain information regarding American Express (AMEX), billed business growth, or total revenue growth. Therefore, it is not possible to answer this query using the provided context.
+
+Sources:
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > Amount of Retirement Pension
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > 2. 1 Definitions
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > APPENDIX ARTICLE B – PBG AND PAS EXECUTIVES
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Definitions
+
+--- GROUND TRUTH ---
+Revenue slightly outpaced billed business, suggesting improved pricing, mix, or higher fee yield.
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to answer the question because it was restricted to an irrelevant document set (PepsiCo 10-K), whereas the question required general financial analysis knowledge or specific AMEX data.
+
+================================================================================
+Q10 [AMEX_2022] USER QUERY: For AMEX, Did operating leverage improve in 2022? Compare revenue and expense growth.
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 5 Unique Nodes):
+  -> Node 0605   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > PEPSICO, INC. SUBSIDIARIES (as of December 31, 2022)
+  -> Node 0401   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > Amount of Retirement Pension
+  -> Node 0387   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > Exhibit 10.10
+  -> Node 0400   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > 4. 1 Normal 409A Retirement Pension: A Participant shall be eligible for a Normal 409A Retirement
+  -> Node 0256   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+Error generating response: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-3.1-flash-lite
+Please retry in 42.286213414s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3.1-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 15
+}
+, retry_delay {
+  seconds: 42
+}
+]
+
+--- GROUND TRUTH ---
+Revenue grew ~24.7% while expenses grew at a 24% rate, indicating almost no improvement
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to provide an answer due to a rate limit error, resulting in no information being conveyed to address the user's question.
+
+================================================================================
+Q1 [Pepsico_2022] USER QUERY: For PepsiCo, what percentage of operating cash flow in FY2022 was converted into free cash flow?
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 1 Unique Nodes):
+  -> Node 0262   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Events of Default
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+The provided context does not contain information regarding PepsiCo's operating cash flow or free cash flow for FY2022.
+
+Sources:
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Events of Default
+
+--- GROUND TRUTH ---
+54.20%
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to retrieve the necessary financial data from the provided context, resulting in a claim that the information was missing when it was available in the source document.
+
+================================================================================
+Q2 [Pepsico_2022] USER QUERY: For PepsiCo, compute the net change in cash in FY2022 by aggregating operating, investing, and financing activities.
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 1 Unique Nodes):
+  -> Node 0262   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Events of Default
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+The provided context does not contain information regarding PepsiCo’s operating, investing, or financing activities, or the net change in cash for FY2022.
+
+Sources:
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Events of Default
+
+--- GROUND TRUTH ---
+-$607 million
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to retrieve the information from the provided document, claiming the data was missing when it is standard information found in the Consolidated Statement of Cash Flows in a 10-K filing.
+
+================================================================================
+Q3 [Pepsico_2022] USER QUERY: For PepsiCo, what percentage of operating cash flow was used for capital expenditures in FY2022?
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 1 Unique Nodes):
+  -> Node 0262   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Events of Default
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+The provided context does not contain information regarding PepsiCo's operating cash flow or capital expenditures for FY2022.
+
+Sources:
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Events of Default
+
+--- GROUND TRUTH ---
+48.20%
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to retrieve the information from the provided document, despite the data being standard financial figures available in a 10-K report.
+
+================================================================================
+Q4 [Pepsico_2022] USER QUERY: For PepsiCo, what proportion of operating cash flow was returned to shareholders through dividends in FY2022?
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 5 Unique Nodes):
+  -> Node 0605   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > PEPSICO, INC. SUBSIDIARIES (as of December 31, 2022)
+  -> Node 0618   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+  -> Node 0619   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+  -> Node 0598   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > PEPSICO, INC.
+  -> Node 0615   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > I, **Ramon L. Laguarta,** certify that:
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+The provided context does not contain financial data regarding PepsiCo's operating cash flow or dividend payments for FY2022.
+
+Sources:
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > PEPSICO, INC. SUBSIDIARIES (as of December 31, 2022)
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > PEPSICO, INC.
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > I, Ramon L. Laguarta, certify that:
+
+--- GROUND TRUTH ---
+57.40%
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to retrieve the relevant financial data from the provided 10-K document, incorrectly stating that the information was not available.
+
+================================================================================
+Q5 [Pepsico_2022] USER QUERY: For PepsiCo, what is the ratio of share repurchases to dividends in FY2022?
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 1 Unique Nodes):
+  -> Node 0262   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Events of Default
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+The provided context does not contain information regarding PepsiCo's share repurchases or dividends for FY2022.
+
+Sources:
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Events of Default
+
+--- GROUND TRUTH ---
+0.24x
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to retrieve the data from the provided context, despite the information being standard in a 10-K filing, and incorrectly claimed the information was missing.
+
+================================================================================
+Q6 [Pepsico_2022] USER QUERY: For PepsiCo, calculate the reinvestment rate defined as Capex divided by (Operating Cash Flow minus Dividends).
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 5 Unique Nodes):
+  -> Node 0605   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > PEPSICO, INC. SUBSIDIARIES (as of December 31, 2022)
+  -> Node 0615   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > I, **Ramon L. Laguarta,** certify that:
+  -> Node 0552   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > 5. 02 Investment Options:
+  -> Node 0609   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > Form S-8
+  -> Node 0503   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > 2. 07 Company:
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+Error generating response: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-3.1-flash-lite
+Please retry in 41.480333825s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3.1-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 15
+}
+, retry_delay {
+  seconds: 41
+}
+]
+
+--- GROUND TRUTH ---
+112.30%
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to provide an answer due to a quota error, resulting in no calculation or financial data being returned.
+
+================================================================================
+Q7 [Pepsico_2022] USER QUERY: For PepsiCo, compare the year-over-year decline in free cash flow versus operating cash flow in FY2022.
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 1 Unique Nodes):
+  -> Node 0262   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Events of Default
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+The provided context does not contain information regarding PepsiCo's financial performance, operating cash flow, or free cash flow for FY2022. It only outlines the "Events of Default" for the company's notes.
+
+Sources:
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Events of Default
+
+--- GROUND TRUTH ---
+FCF declined ~18% vs OCF decline of ~7%
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to retrieve the financial data from the provided document, claiming the information was missing when it is standard data found in a 10-K filing.
+
+================================================================================
+Q8 [Pepsico_2022] USER QUERY: For PepsiCo, what is the total pre-tax financial impact of Russia-Ukraine conflict-related charges in FY2022?
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 1 Unique Nodes):
+  -> Node 0262   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Events of Default
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+The provided context does not contain information regarding the financial impact of Russia-Ukraine conflict-related charges for PepsiCo in FY2022.
+
+Sources:
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Events of Default
+
+--- GROUND TRUTH ---
+$1,415 million
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to retrieve the information from the 10-K, which explicitly lists the $1,415 million charge in the "Russia-Ukraine conflict-related charges" section of the Management's Discussion and Analysis (MD&A).
+
+================================================================================
+Q9 [Pepsico_2022] USER QUERY: For PepsiCo, what percentage of Russia-Ukraine related charges were due to intangible asset impairments?
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 1 Unique Nodes):
+  -> Node 0262   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Events of Default
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+The provided context does not contain information regarding PepsiCo's Russia-Ukraine related charges or intangible asset impairments.
+
+Sources:
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Events of Default
+
+--- GROUND TRUTH ---
+84.70%
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to retrieve the relevant financial data from the provided context, resulting in a claim that the information was missing when it was available in the source material.
+
+================================================================================
+Q10 [Pepsico_2022] USER QUERY: For PepsiCo, as a consolidated company, what percentage of operating cash flow remained after capital expenditures
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 1 Unique Nodes):
+  -> Node 0262   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Events of Default
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+The provided context does not contain information regarding PepsiCo's operating cash flow or capital expenditures. Therefore, it is not possible to answer the query using only the provided source.
+
+Sources:
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Events of Default
+
+--- GROUND TRUTH ---
+51.80%
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to retrieve the necessary financial data from the provided document, resulting in a refusal to answer despite the information being standard in a 10-K filing.
+
+================================================================================
+Q1 [Boeing_2022] USER QUERY: For Boeing, compute the net change in cash in FY2022 by reconciling operating, investing, and financing cash flows including FX effects.
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 5 Unique Nodes):
+  -> Node 0265   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Book-Entry, Delivery and Settlement
+  -> Node 0605   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > PEPSICO, INC. SUBSIDIARIES (as of December 31, 2022)
+  -> Node 0619   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+  -> Node 0387   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > Exhibit 10.10
+  -> Node 0256   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+The provided context contains only information regarding PepsiCo, Inc. and does not contain financial information or cash flow statements for Boeing. Therefore, the requested information cannot be provided.
+
+Sources:
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Book-Entry, Delivery and Settlement
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > PEPSICO, INC. SUBSIDIARIES (as of December 31, 2022)
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > Exhibit 10.10
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+
+--- GROUND TRUTH ---
++$6,543 million
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to answer the question because it was restricted to an incorrect document set (PepsiCo instead of Boeing). It did not provide the requested financial data for Boeing.
+
+================================================================================
+Q2 [Boeing_2022] USER QUERY: For Boeing, what percentage of operating cash flow in FY2022 was consumed by changes in working capital?
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 5 Unique Nodes):
+  -> Node 0605   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > PEPSICO, INC. SUBSIDIARIES (as of December 31, 2022)
+  -> Node 0501   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > 2. 05 Bonus Compensation:
+  -> Node 0619   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+  -> Node 0256   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+  -> Node 0265   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Book-Entry, Delivery and Settlement
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+Error generating response: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-3.1-flash-lite
+Please retry in 33.658629375s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3.1-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 15
+}
+, retry_delay {
+  seconds: 33
+}
+]
+
+--- GROUND TRUTH ---
+0% consumed; working capital was a source of cash (+4,139 vs OCF 3,512), contributing ~118% of operating cash flow.
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to provide an answer due to a quota error, resulting in no information being conveyed to address the question.
+
+================================================================================
+Q3 [Boeing_2022] USER QUERY: For Boeing, estimate free cash flow in FY2022 and reconcile it against operating cash flow and capital expenditures.
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 5 Unique Nodes):
+  -> Node 0605   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > PEPSICO, INC. SUBSIDIARIES (as of December 31, 2022)
+  -> Node 0619   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+  -> Node 0261   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Definitions
+  -> Node 0387   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > Exhibit 10.10
+  -> Node 0501   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > 2. 05 Bonus Compensation:
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+The provided documents contain information regarding PepsiCo, Inc.'s 2022 Form 10-K and retirement plans. They do not contain any financial data, free cash flow estimates, operating cash flow figures, or capital expenditure information for Boeing.
+
+Sources:
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > PEPSICO, INC. SUBSIDIARIES (as of December 31, 2022)
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Definitions
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > Exhibit 10.10
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > 2. 05 Bonus Compensation:
+
+--- GROUND TRUTH ---
++$2,290 million
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to provide the requested financial data for Boeing, instead stating that the provided documents only contained information for PepsiCo. It failed to answer the question entirely.
+
+================================================================================
+Q4 [Boeing_2022] USER QUERY: For Boeing, what proportion of total revenue in FY2022 is attributable to the Commercial Airplanes segment?
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 5 Unique Nodes):
+  -> Node 0605   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > PEPSICO, INC. SUBSIDIARIES (as of December 31, 2022)
+  -> Node 0601   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > APPENDIX ARTICLE A - PARTICIPATING EMPLOYERS
+  -> Node 0611   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > KNOW ALL BY THESE PRESENTS
+  -> Node 0618   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+  -> Node 0265   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Book-Entry, Delivery and Settlement
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+The provided documents contain information regarding PepsiCo, Inc. and its subsidiaries, but they do not contain information regarding Boeing or its FY2022 revenue.
+
+Sources:
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > PEPSICO, INC. SUBSIDIARIES (as of December 31, 2022)
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > APPENDIX ARTICLE A - PARTICIPATING EMPLOYERS
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > KNOW ALL BY THESE PRESENTS
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Book-Entry, Delivery and Settlement
+
+--- GROUND TRUTH ---
+~38.8%
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to answer the question because it was restricted to an irrelevant document set (PepsiCo) and claimed the information was unavailable, whereas the ground truth provides the correct figure for Boeing.
+
+================================================================================
+Q5 [Boeing_2022] USER QUERY: For Boeing, quantify the impact of abnormal production costs (e.g., 787 and 737 programs) on overall operating margin in FY2022.
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 5 Unique Nodes):
+  -> Node 0256   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+  -> Node 0501   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > 2. 05 Bonus Compensation:
+  -> Node 0434   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > Computation of Earnings and Service During Certain Severance Windows > B.2 Inclusion of Salary and Eligible Bonus:
+  -> Node 0387   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > Exhibit 10.10
+  -> Node 0494   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > 2. 1 Definitions
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+The provided documents do not contain information regarding Boeing, the 787 or 737 programs, or their impact on operating margins in FY2022. The provided text exclusively pertains to PepsiCo’s 2022 10-K, specifically regarding debt notes and retirement plan documentation.
+
+Sources:
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > 2. 05 Bonus Compensation
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > Computation of Earnings and Service During Certain Severance Windows > B.2 Inclusion of Salary and Eligible Bonus
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > Exhibit 10.10
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > 2. 1 Definitions
+
+--- GROUND TRUTH ---
+~$1.7B+ direct abnormal costs (~2.6% of revenue), contributing materially to the -5.3% operating margin, but not the sole driver of losses
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to answer the question because it was restricted to an irrelevant document set (PepsiCo 10-K), resulting in a complete failure to provide the requested financial analysis for Boeing.
+
+================================================================================
+Q6 [Boeing_2022] USER QUERY: For Boeing, compute the current ratio for FY2022 using total current assets and total current liabilities from the balance sheet.
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 5 Unique Nodes):
+  -> Node 0261   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Definitions
+  -> Node 0259   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Limitation of Liens
+  -> Node 0256   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+  -> Node 0265   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Book-Entry, Delivery and Settlement
+  -> Node 0260   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Consolidation, Merger or Sale of Assets
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+The provided documents do not contain financial information for Boeing or its FY2022 balance sheet data. The provided context exclusively contains information regarding PepsiCo's 2022 Form 10-K, specifically legal definitions, indenture terms, and settlement procedures.
+
+Sources:
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Definitions
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Limitation of Liens
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Book-Entry, Delivery and Settlement
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Consolidation, Merger or Sale of Assets
+
+--- GROUND TRUTH ---
+~1.2x–1.3x (moderate liquidity)
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to provide the requested financial calculation, claiming the data was missing when it should have retrieved the information or acknowledged the limitation based on the provided context. As an auditor, I must note that the bot failed to perform the task requested.
+
+================================================================================
+Q7 [Boeing_2022] USER QUERY: For Boeing, what is the ratio of total debt to total equity in FY2022, and what does it imply about capital structure risk?
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 5 Unique Nodes):
+  -> Node 0261   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Definitions
+  -> Node 0259   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Limitation of Liens
+  -> Node 0260   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Consolidation, Merger or Sale of Assets
+  -> Node 0265   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Book-Entry, Delivery and Settlement
+  -> Node 0605   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > PEPSICO, INC. SUBSIDIARIES (as of December 31, 2022)
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+The provided context does not contain information regarding Boeing, its FY2022 financial data, or its capital structure. The documents provided relate exclusively to PepsiCo, Inc.
+
+Sources:
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Definitions
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Limitation of Liens
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Consolidation, Merger or Sale of Assets
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Book-Entry, Delivery and Settlement
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > PEPSICO, INC. SUBSIDIARIES (as of December 31, 2022)
+
+--- GROUND TRUTH ---
+"Not meaningful due to negative equity; indicates extremely high leverage and elevated financial risk
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to answer the question because it was restricted to a specific document set that did not contain the requested information, whereas the ground truth provided the correct financial analysis for Boeing.
+
+================================================================================
+Q8 [Boeing_2022] USER QUERY: For Boeing, calculate the year-over-year change in total backlog value from FY2021 to FY2022.
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 5 Unique Nodes):
+  -> Node 0605   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > PEPSICO, INC. SUBSIDIARIES (as of December 31, 2022)
+  -> Node 0261   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Definitions
+  -> Node 0265   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Book-Entry, Delivery and Settlement
+  -> Node 0387   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > Exhibit 10.10
+  -> Node 0256   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+Error generating response: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-3.1-flash-lite
+Please retry in 39.525288079s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3.1-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 15
+}
+, retry_delay {
+  seconds: 39
+}
+]
+
+--- GROUND TRUTH ---
+Increase driven by recovery in commercial orders (~mid-single digit %)
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to provide an answer due to a quota error, resulting in no information being conveyed to address the question.
+
+================================================================================
+Q9 [Boeing_2022] USER QUERY: For Boeing, compare the cash flow impact of changes in inventory versus changes in customer advances in FY2022. Which had a larger absolute impact?
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 5 Unique Nodes):
+  -> Node 0265   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Book-Entry, Delivery and Settlement
+  -> Node 0605   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > PEPSICO, INC. SUBSIDIARIES (as of December 31, 2022)
+  -> Node 0256   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+  -> Node 0261   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Definitions
+  -> Node 0501   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > 2. 05 Bonus Compensation:
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+The provided documents do not contain financial information for Boeing or data regarding its FY2022 cash flow, inventory, or customer advances. Therefore, I cannot answer this query using the provided context.
+
+Sources:
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Book-Entry, Delivery and Settlement
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > PEPSICO, INC. SUBSIDIARIES (as of December 31, 2022)
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Definitions
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > 2. 05 Bonus Compensation:
+
+--- GROUND TRUTH ---
+Inventory buildup had larger absolute  impact than advances benefit
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to retrieve the relevant Boeing financial data, instead citing documents related to PepsiCo. Consequently, it failed to answer the question entirely.
+
+================================================================================
+Q10 [Boeing_2022] USER QUERY: For Boeing, what proportion of total revenue is generated from government-related customers (defense and space) versus commercial customers in FY2022?
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 5 Unique Nodes):
+  -> Node 0256   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+  -> Node 0255   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2026 Notes and July 2028 Notes
+  -> Node 0605   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > PEPSICO, INC. SUBSIDIARIES (as of December 31, 2022)
+  -> Node 0395   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > (5) Identification of Key Employees from April 1, 2010 to March 31, 2018.
+  -> Node 0601   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > APPENDIX ARTICLE A - PARTICIPATING EMPLOYERS
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+The provided documents do not contain information regarding Boeing or its revenue breakdown for FY2022; the context provided relates exclusively to PepsiCo, Inc.
+
+Sources:
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2026 Notes and July 2028 Notes
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > PEPSICO, INC. SUBSIDIARIES (as of December 31, 2022)
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > (5) Identification of Key Employees from April 1, 2010 to March 31, 2018.
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > APPENDIX ARTICLE A - PARTICIPATING EMPLOYERS
+
+--- GROUND TRUTH ---
+~40% government-related (U.S. government and foreign military sales) vs ~60% commercial
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to answer the question because it was provided with the wrong source documents (PepsiCo instead of Boeing). Consequently, it did not provide the requested financial breakdown.
+

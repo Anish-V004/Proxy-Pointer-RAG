@@ -1,7 +1,7 @@
 
 # UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549
 
-# FORM 10-K
+## FORM 10-K
 
 (Mark One) ☒
 
@@ -9,21 +9,27 @@ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 
 
 For the fiscal year ended December 31, 2022 OR
 
-For the transition period from to Commission file number 1-1183
+☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the transition period from to
 
-**==> picture [170 x 69] intentionally omitted <==** **PepsiCo, Inc.**
+Commission file number 1-1183 
+
+**==> picture [170 x 69] intentionally omitted <==**
+
+## PepsiCo, Inc
 
 (Exact Name of Registrant as Specified in its Charter) **North Carolina**
 
-(State or Other Jurisdiction of Incorporation or Organization) 
+(State or Other Jurisdiction of Incorporation or Organization) **13-1584302**
 
 (I.R.S. Employer Identification No.) 
 
 **700 Anderson Hill Road, Purchase, New York 10577** 
 
-(Address of principal executive offices and Zip Code) 
+(Address of principal executive offices and Zip Code) **(914) 253-2000**
 
 Registrant’s telephone number, including area code 
+
+Securities registered pursuant to Section 12(b) of the Securities Exchange Act of 1934: 
 
 <table>
   <thead>
@@ -44,6 +50,8 @@ Registrant’s telephone number, including area code
 
 Securities registered pursuant to Section 12(g) of the Securities Exchange Act of 1934: None 
 
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ☒  No ☐ 
+
 Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or 15(d) of the Act. Yes ☐  No ☒ 
 
 Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒  No ☐ 
@@ -58,25 +66,19 @@ Large accelerated filer Non-accelerated filer ☐
 
 Accelerated filer ☐ Smaller reporting company ☐ Emerging growth company ☐ 
 
-If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ 
-
-issued its audit report. ☒ 
-
-If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. ☐ 
-
-Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐ 
-
 Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No ☒ 
 
 The aggregate market value of PepsiCo, Inc. Common Stock held by nonaffiliates of PepsiCo, Inc. (assuming for these purposes, but without conceding, that all executive officers and directors of PepsiCo, Inc. are affiliates of PepsiCo, Inc.) as of June 10, 2022, the last day of business of our most recently completed second fiscal quarter, was $224.2 billion (based on the closing sale price of PepsiCo, Inc.’s Common Stock on that date as reported on the Nasdaq Global Select Market). 
+
+The number of shares of PepsiCo, Inc. Common Stock outstanding as of February 2, 2023 was 1,377,251,316. 
 
 Documents Incorporated by Reference
 
 Portions of the Proxy Statement relating to PepsiCo, Inc.’s 2023 Annual Meeting of Shareholders are incorporated by reference into Part III of this Form 10-K. 
 
-PepsiCo, Inc
+## PepsiCo, Inc
 
-Form 10-K Annual Report For the Fiscal Year Ended December 31, 2022
+## Form 10-K Annual Report For the Fiscal Year Ended December 31, 2022
 
 <table>
   <thead>
@@ -215,21 +217,21 @@ Form 10-K Annual Report For the Fiscal Year Ended December 31, 2022
   </tbody>
 </table>
 
-1 
-
 ## Forward-Looking Statements
+
+_This Annual Report on Form 10-K contains statements reflecting our views about our future performance that constitute “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995 (Reform Act). Statements that constitute forward-looking statements within the meaning of the Reform Act are generally identified through the inclusion of words such as “aim,” “anticipate,” “believe,” “drive,” “estimate,” “expect,” “expressed confidence,” “forecast,” “future,” “goal,” “guidance,” “intend,” “may,” “objective,” “outlook,” “plan,” “position,” “potential,” “project,” “seek,” “should,” “strategy,” “target,” “will” or similar statements or variations of such words and other similar expressions. All statements addressing our future operating performance, and statements addressing events and developments that we expect or anticipate will occur in the future, are forward-looking statements within the meaning of the Reform Act. These forward-looking statements are based on currently available information, operating plans and projections about future events and trends. They inherently involve risks and uncertainties that could cause actual results to differ materially from those predicted in any such forward-looking statement. These risks and uncertainties include, but are not limited to, those described in “Item 1A. Risk Factors” and “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations – Our Business – Our Business Risks.” Investors are cautioned not to place undue reliance on any such forward-looking statements, which speak only as of the date they are made. We undertake no obligation to update any forward-looking statement, whether as a result of new information, future events or otherwise. The discussion of risks in this report is by no means all-inclusive but is designed to highlight what we believe are important factors to consider when evaluating our future performance._ 
 
 ## PART I
 
-### Item 1. Business
+## Item 1. Business
 
 When used in this report, the terms “we,” “us,” “our,” “PepsiCo” and the “Company” mean PepsiCo, Inc. and its consolidated subsidiaries, collectively. Certain terms used in this Annual Report on Form 10-K are defined in the Glossary included in Item 7. of this report. 
 
-### Company Overview
+## Company Overview
 
 We were incorporated in Delaware in 1919 and reincorporated in North Carolina in 1986. We are a leading global beverage and convenient food company with a complementary portfolio of brands, including Lay’s, Doritos, Cheetos, Gatorade, Pepsi-Cola, Mountain Dew, Quaker and SodaStream. Through our operations, authorized bottlers, contract manufacturers and other third parties, we make, market, distribute and sell a wide variety of beverages and convenient foods, serving customers and consumers in more than 200 countries and territories. 
 
-### Our Operations
+## Our Operations
 
 We are organized into seven reportable segments (also referred to as divisions), as follows: 
 
@@ -257,9 +259,11 @@ Either independently or in conjunction with third parties, QFNA makes, markets, 
 
 ### PepsiCo Beverages North America
 
+Either independently or in conjunction with third parties, PBNA makes, markets and sells beverage concentrates, fountain syrups and finished goods under various beverage brands including Aquafina, Diet Mountain Dew, Diet Pepsi, Gatorade, Gatorade Zero, Mountain Dew, Pepsi and Propel. PBNA operates its own bottling plants and distribution facilities and sells branded finished goods directly to independent distributors and retailers. PBNA also sells concentrate and finished goods for our brands to authorized and independent bottlers, who in turn sell our branded finished goods to independent distributors and retailers in certain markets. PBNA also, either independently or in conjunction with third parties, makes, markets, distributes and sells readyto-drink tea and coffee products through joint ventures with Unilever (under the Lipton brand name) and Starbucks, respectively. Further, PBNA manufactures and distributes certain brands licensed from Keurig Dr Pepper Inc., including Crush, Dr Pepper and Schweppes, and certain juice brands licensed from Dole Food Company, Inc. and Ocean Spray Cranberries, Inc. In 2022, PBNA began to distribute Hard MTN Dew, an alcoholic beverage manufactured and owned by the Boston Beer Company. In the first quarter of 2022, we sold our Tropicana, Naked and other select juice brands to PAI Partners, while retaining a 39% noncontrolling interest in a newly formed joint venture, Tropicana Brands Group (TBG), operating across North America and Europe (Juice Transaction). In the United States, PepsiCo acts as the exclusive distributor for TBG’s portfolio of brands for small-format and foodservice customers with chilled direct-store-delivery (DSD). See Note 13 to our consolidated financial statements for further information. 
+
 ### Latin America
 
-Either independently or in conjunction with third parties, LatAm makes, markets, distributes and sells a number of convenient food brands including Cheetos, Doritos, Emperador, Lay’s, Marias Gamesa, Ruffles, Sabritas, Saladitas and Tostitos, as well as many Quaker-branded convenient foods. LatAm also, either independently or in conjunction with third parties, makes, markets, distributes and sells beverage concentrates, fountain syrups and finished goods under various beverage brands including 7UP, Diet 7UP, Gatorade, H2oh!, Manzanita Sol, Mirinda, Pepsi, Pepsi Black, San Carlos and Toddy. These branded products are sold to authorized and independent bottlers, independent distributors and retailers. LatAm 3
+Either independently or in conjunction with third parties, LatAm makes, markets, distributes and sells a number of convenient food brands including Cheetos, Doritos, Emperador, Lay’s, Marias Gamesa, Ruffles, Sabritas, Saladitas and Tostitos, as well as many Quaker-branded convenient foods. LatAm also, either independently or in conjunction with third parties, makes, markets, distributes and sells beverage concentrates, fountain syrups and finished goods under various beverage brands including 7UP, Diet 7UP, Gatorade, H2oh!, Manzanita Sol, Mirinda, Pepsi, Pepsi Black, San Carlos and Toddy. These branded products are sold to authorized and independent bottlers, independent distributors and retailers. LatAm 
 
 also, either independently or in conjunction with third parties, makes, markets, distributes and sells ready-to-drink tea products through an international joint venture with Unilever (under the Lipton brand name). 
 
@@ -275,11 +279,9 @@ Either independently or in conjunction with third parties, AMESA makes, markets,
 
 Either independently or in conjunction with third parties, APAC makes, markets, distributes and sells a number of convenient food brands including BaiCaoWei, Cheetos, Doritos, Lay’s and Smith’s, as well as many Quaker-branded convenient foods, through consolidated businesses, as well as through noncontrolled affiliates. APAC also makes, markets, distributes and sells beverage concentrates, fountain syrups and finished goods under various beverage brands including 7UP, Aquafina, Mirinda, Mountain Dew, Pepsi and Sting. These branded products are sold to authorized and independent bottlers, independent distributors and retailers. APAC also, either independently or in conjunction with third parties, makes, markets, distributes and sells ready-todrink tea products through an international joint venture with Unilever (under the Lipton brand name). 
 
-### Our Distribution Network
+## Our Distribution Network
 
 Our products are primarily brought to market through DSD, customer warehouse and distributor networks and are also sold directly to consumers through e-commerce platforms and retailers. The distribution system used depends on customer needs, product characteristics and local trade practices. 
-
-4 
 
 ### Direct-Store-Delivery
 
@@ -297,27 +299,25 @@ We distribute many of our products through third-party distributors. Third-party
 
 Our products are also available and sold directly to consumers on a growing number of company-owned and third-party e- commerce websites and mobile commerce applications. 
 
-### Ingredients and Other Supplies
+## Ingredients and Other Supplies
 
 The principal ingredients we use in our beverage and convenient food products are aspartame, corn, corn sweeteners, flavorings, flour, juice concentrates, oats, potatoes, raw milk, rice, seasonings, sucralose, sugar, vegetable and essential oils, and wheat. We also use water in the manufacturing of our products. Our key packaging materials include plastic resins, including polyethylene terephthalate (PET) and polypropylene resins used for plastic beverage bottles and film packaging used for convenient foods, aluminum, glass, closures, cardboard and paperboard cartons. In addition, we continue to integrate recyclability into our product development process and support the increased use of recycled content, including recycled PET, in our packaging. Fuel, electricity and natural gas are also important commodities for our businesses due to their use in our and our business partners’ facilities and the vehicles delivering our products. We employ specialists to secure adequate supplies of many of these items and have not experienced any significant continuous shortages that would prevent us from meeting our requirements. Many of these ingredients, raw materials and commodities are purchased in the open market. The prices we pay for such items are subject to fluctuation, and we manage this risk through the use of fixed-price contracts and purchase orders, pricing agreements and derivative instruments, including swaps and futures. In addition, risk to our supply of certain raw materials is mitigated through purchases from multiple geographies and suppliers. When prices increase, we may or may not pass on such increases to our customers. In addition, we continue to make investments to improve the sustainability and resources of our agricultural supply chain, including the development of our initiative to advance sustainable farming practices by our suppliers and expanding it further globally. During 2022, we continued to experience increased commodity, packaging and other input costs and, in some instances, supply constraints related to the deadly conflict in Ukraine, the novel coronavirus (COVID-19) pandemic, the inflationary cost environment, adverse weather conditions, supply chain disruptions and labor shortages, which has continued into fiscal 2023. See Note 9 to our consolidated financial statements for further information on how we manage our exposure to commodity prices. 
 
-We also maintain voluntary supply chain finance agreements with several participating global financial institutions, pursuant to which our suppliers, at their sole discretion, may elect to sell their accounts receivable with PepsiCo to such global financial institutions. These agreements did not have a material 5
+We also maintain voluntary supply chain finance agreements with several participating global financial institutions, pursuant to which our suppliers, at their sole discretion, may elect to sell their accounts receivable with PepsiCo to such global financial institutions. These agreements did not have a material 
 
 impact on our business or financial results. See “Our Financial Results – Our Liquidity and Capital Resources” in “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations” for further information. 
 
-### Our Brands and Intellectual Property Rights
+## Our Brands and Intellectual Property Rights
 
 We own numerous valuable trademarks which are essential to our worldwide businesses, including Agusha, Amp Energy, Aquafina, Aquafina Flavorsplash, Arto Lifewtr, Baja Blast, BaiCaoWei, Bare, Bokomo, bubly, Cap’n Crunch, Ceres, Cheetos, Chester’s, Chipsy, Chokis, Chudo, Cracker Jack, Crunchy, Diet Mountain Dew, Diet Mug, Diet Pepsi, Diet 7UP (outside the United States), Domik v Derevne, Doritos, Driftwell, Duyvis, Elma Chips, Emperador, Evolve, Frito-Lay, Fritos, Fruktovy Sad, G2, Gamesa, Gatorade, Gatorade Fit, Gatorade Zero, Gatorlyte, Grandma’s, H2oh!, Hard MTN Dew, Health Warrior, Imunele, J7, Kas, Kurkure, Lay’s, Life, Lifewtr, Liquifruit, Lubimy, Manzanita Sol, Marias Gamesa, Matutano, Mirinda, Miss Vickie’s, Moirs, Mother’s, Mountain Dew, Mountain Dew Code Red, Mountain Dew Game Fuel, Mountain Dew Kickstart, Mountain Dew Zero Sugar, MTN Dew Energy, Mug, Munchies, Muscle Milk, Near East, Off the Eaten Path, Paso de los Toros, Pasta Roni, Pearl Milling Company, Pepsi, Pepsi Black, Pepsi Max, Pepsi Zero Sugar, PopCorners, Pronutro, Propel, Quaker, Quaker Chewy, Quaker Simply Granola, Rice-A-Roni, Rockstar Energy, Rold Gold, Ruffles, Sabritas, Safari, Sakata, Saladitas Gamesa, San Carlos, Sandora, Santitas, Sasko, 7UP (outside the United States), 7UP Free (outside the United States), Sierra Mist, Sierra Mist Zero Sugar, Simba, Smartfood, Smith’s, Snack a Jacks, SoBe, SodaStream, Sonric’s, Spekko, Stacy’s, Starry, Sting, Stubborn Soda, SunChips, Toddy, Toddynho, Tostitos, V Water, Vesely Molochnik, Walkers, Weetbix, White Star, Ya and Yachak. We also hold long-term licenses to use valuable trademarks in connection with our products in certain markets, including Ocean Spray. We also distribute Celsius energy drinks and various Keurig Dr Pepper Inc. brands, including Dr Pepper in certain markets, Crush and Schweppes. Joint ventures in which we have an ownership interest either own or have the right to use certain trademarks, such as Lipton, Sabra and Starbucks. In addition, in the first quarter of 2022, we sold our Tropicana, Naked and other select juice brands to PAI Partners, while retaining a 39% noncontrolling interest in TBG, operating across North America and Europe. In the United States, PepsiCo acts as the exclusive distributor for TBG’s portfolio of brands for small-format and foodservice customers with chilled DSD. See Note 13 to our consolidated financial statements for further information. In 2022, we began to distribute Hard MTN Dew, an alcoholic beverage manufactured and owned by the Boston Beer Company. We have licensed the use of the Hard MTN Dew trademark to the Boston Beer Company, which has appointed us as their distributor for this product. Trademarks remain valid so long as they are used properly for identification purposes, and we emphasize correct use of our trademarks. We have authorized, through licensing arrangements, the use of many of our trademarks in such contexts as convenient food joint ventures and beverage bottling appointments. In addition, we license the use of our trademarks on merchandise that is sold at retail, which enhances brand awareness. 
 
 We either own or have licenses to use a number of patents which relate to certain of our products, their packaging, the processes for their production and the design and operation of various equipment used in our businesses. Some of these patents are licensed to others. 
 
-### Seasonality
+## Seasonality
 
 Our businesses are affected by seasonal variations. Our beverage and convenient food sales are generally highest in the third quarter due to seasonal and holiday-related patterns and generally lowest in the first quarter. However, taken as a whole, seasonality has not had a material impact on our consolidated financial results. 
 
-6 
-
-### Our Customers
+## Our Customers
 
 Our customers include wholesale and other distributors, foodservice customers, grocery stores, drug stores, convenience stores, discount/dollar stores, mass merchandisers, membership stores, hard discounters, e-commerce retailers and authorized independent bottlers, among others. We normally grant our independent bottlers exclusive contracts to sell and manufacture certain beverage products bearing our trademarks within a specific geographic area. These arrangements provide us with the right to charge our independent bottlers for concentrate, finished goods and Aquafina royalties and specify the manufacturing process required for product quality. We also grant distribution rights to our independent bottlers for certain beverage products bearing our trademarks for specified geographic areas. 
 
@@ -325,25 +325,25 @@ We rely on and provide financial incentives to our customers to assist in the di
 
 Changes to the retail landscape, including increased consolidation of retail ownership, the continued growth of sales through e- commerce websites and mobile commerce applications, including through subscription services and other direct-to-consumer businesses, the integration of physical and digital operations among retailers, as well as the international expansion of hard discounters, and the current economic environment continue to increase the importance of major customers. In 2022, sales to Walmart Inc. (Walmart) and its affiliates, including Sam’s Club (Sam’s), represented approximately 14% of our consolidated net revenue, with sales reported across all of our divisions, including concentrate sales to our independent bottlers, which were used in finished goods sold by them to Walmart. The loss of this customer would have a material adverse effect on our FLNA, QFNA and PBNA divisions. 
 
-### Our Competition
+## Our Competition
 
 Our beverage and convenient food products are in highly competitive categories and markets and compete against products of international beverage and convenient food companies that, like us, operate in multiple geographies, as well as regional, local and private label manufacturers and economy brands and other competitors, including smaller companies developing and selling micro brands directly to consumers through e-commerce platforms or through retailers focused on locally-sourced products. In many countries in which our products are sold, including the United States, The Coca-Cola Company is our primary beverage competitor. Other beverage and convenient food competitors include, but are not limited to, Campbell Soup Company, Conagra Brands, Inc., Hormel Foods Corporation, Kellogg Company, Keurig Dr Pepper Inc., The Kraft Heinz Company, Link Snacks, Inc., Mondelēz International, Inc., Monster Beverage Corporation, Nestlé S.A., Red Bull GmbH and Utz Brands, Inc. 
 
 Many of our convenient food products hold significant leadership positions in the convenient food industry in the United States and worldwide. In 2022, we and The Coca-Cola Company represented approximately 20% and 21%, respectively, of the U.S. liquid refreshment beverage category by estimated retail sales in measured channels, according to Information Resources, Inc. However, The Coca-Cola Company has significant carbonated soft drink (CSD) share advantage in many markets outside the United States. 
 
-7 
-
 Our beverage and convenient food products compete primarily on the basis of brand recognition and loyalty, taste, price, value, quality, product variety, innovation, distribution, advertising, marketing and promotional activity (including digital), packaging, convenience, service and the ability to anticipate and effectively respond to consumer preferences and trends, including increased consumer focus on health and wellness and sustainability and the continued acceleration of e-commerce and other methods of distributing and purchasing products. Success in this competitive environment is dependent on effective promotion of existing products, effective introduction of new products and reformulations of existing products, increased efficiency in production techniques, effective incorporation of technology and digital tools across all areas of our business, the effectiveness of our advertising campaigns, marketing programs, product packaging and pricing, new vending and dispensing equipment and brand and trademark development and protection. We believe that the strength of our brands, innovation and marketing, coupled with the quality of our products and flexibility of our distribution network, allows us to compete effectively. 
 
-### Research and Development
+## Research and Development
 
 We engage in a variety of research and development activities and invest in innovation globally with the goal of meeting the needs of our customers and consumers and accelerating growth. These activities principally involve: innovations focused on creating consumer preferred products to grow and transform our portfolio through development of new technologies, ingredients, flavors and substrates; development and improvement of our manufacturing processes, including reductions in cost and environmental footprint; implementing product improvements to our global portfolio that reduce added sugars, sodium or saturated fat; offering more products with functional ingredients and positive nutrition including whole grains, fruit, vegetables, dairy, protein, fiber, micronutrients and hydration; development of packaging technology and new package designs, including reducing the amount of plastic in our packaging and developing recyclable, compostable, biodegradable or otherwise sustainable packaging; development of marketing, merchandising and dispensing equipment; further expanding our beyond the bottle portfolio including innovation for our SodaStream business; investments in technology and digitalization, including artificial intelligence and data analytics to enhance our consumer insights and research; continuing to strengthen our omnichannel capabilities, particularly in e-commerce; and efforts focused on reducing our impact on the environment, including reducing water use in our operations and our agricultural practices and reducing our environmental impact in our operations throughout our value chain. 
 
 Our research centers are located around the world, including in Brazil, China, India, Ireland, Mexico, Russia, South Africa, the United Kingdom and the United States, and leverage consumer insights, food science and engineering to meet our strategy to continually innovate our portfolio of beverages and convenient foods. 
 
-### Regulatory Matters
+## Regulatory Matters
 
-The U.S. laws and regulations that we are subject to include, but are not limited to: the Federal Food, Drug and Cosmetic Act and various state laws governing food safety; the Food Safety Modernization Act; the Occupational Safety and Health Act and various state laws and regulations governing workplace health 8
+The conduct of our businesses, including the production, storage, distribution, sale, display, advertising, marketing, labeling, content, quality, safety, transportation, packaging, disposal, recycling and use of our products, as well as our employment and occupational health and safety practices and protection of personal information, are subject to various laws and regulations administered by federal, state and local governmental agencies in the United States, as well as to laws and regulations administered by government entities and agencies in the more than 200 other countries and territories in which our products are made, manufactured, distributed or sold. It is our policy to abide by the laws and regulations around the world that apply to our businesses. 
+
+The U.S. laws and regulations that we are subject to include, but are not limited to: the Federal Food, Drug and Cosmetic Act and various state laws governing food safety; the Food Safety Modernization Act; the Occupational Safety and Health Act and various state laws and regulations governing workplace health 
 
 and safety; various federal, state and local environmental protection laws, as discussed below; the Federal Motor Carrier Safety Act; the Federal Trade Commission Act; the Lanham Act; various federal and state laws and regulations governing competition and trade practices, including the Robinson-Patman Act and the Clayton Act; various federal and state laws and regulations governing our employment practices, including those related to equal employment opportunity, such as the Equal Employment Opportunity Act and the National Labor Relations Act and those related to overtime compensation, such as the Fair Labor Standards Act; various state and federal laws pertaining to sale and distribution of alcohol beverages; data privacy and personal data protection laws and regulations, including the California Consumer Privacy Act of 2018 (as modified by the California Privacy Rights Act); customs and foreign trade laws and regulations, including laws regarding the import or export of our products or ingredients used in our products and tariffs; laws regulating the sale of certain of our products in schools; laws regulating the ingredients or substances contained in, or attributes of, our products; laws regulating our supply chain, including the 2010 California Transparency in Supply Chains Act and laws relating to the payment of taxes. We are also required to comply with the Foreign Corrupt Practices Act and the Trade Sanctions Reform and Export Enhancement Act. We are also subject to various state and local statutes and regulations, including state consumer protection laws such as Proposition 65 in California, which requires that a specific warning appear on any product that contains a substance listed by the State of California as having been found to cause cancer or birth defects, unless the amount of such substance in the product is below a safe harbor level. 
 
@@ -353,7 +353,7 @@ In addition, certain jurisdictions have either imposed, or are considering impos
 
 In addition, certain jurisdictions have either imposed, or are considering imposing, product labeling or warning requirements or other limitations on the marketing or sale of certain of our products as a result of ingredients or substances contained in such products or the audience to whom products are marketed. These types of provisions have required that we highlight perceived concerns about a product, warn consumers to avoid consumption of certain ingredients or substances present in our products, restrict the age of consumers to whom products are marketed or sold or limit the location in which our products may be available. It is possible that similar or more restrictive requirements may be proposed or enacted in the future. 
 
-In addition, certain jurisdictions have either imposed or are considering imposing regulations designed to increase recycling rates, encourage waste reduction or to restrict the sale of products utilizing certain packaging. These regulations vary in scope and form from deposit return systems designed to incentivize 9
+In addition, certain jurisdictions have either imposed or are considering imposing regulations designed to increase recycling rates, encourage waste reduction or to restrict the sale of products utilizing certain packaging. These regulations vary in scope and form from deposit return systems designed to incentivize 
 
 the return of beverage containers, to extended producer responsibility policies and even restrictions or bans on the use of certain types of packaging, including single-use plastics and packaging containing per- and polyfluoroalkyl substances (PFAS). It is possible that similar or more restrictive requirements may be proposed or enacted in the future. 
 
@@ -361,9 +361,11 @@ We are also subject to national and local environmental laws in the United State
 
 In addition to the discussion in this section, see also “Item 1A. Risk Factors.” 
 
-### Human Capital
+## Human Capital
 
 PepsiCo believes that human capital management, including attracting, developing and retaining a high quality workforce, is critical to our long-term success. Our Board of Directors (Board) and its Committees provide oversight on a broad range of human capital management topics, including corporate culture, diversity, equity and inclusion, pay equity, health and safety, training and development and compensation and benefits. 
+
+We employed approximately 315,000 people worldwide as of December 31, 2022, including approximately 132,000 people within the United States. We are party to numerous collective bargaining agreements and believe that relations with our employees are generally good. 
 
 Protecting the safety, health, and well-being of our associates around the world is PepsiCo’s top priority. We strive to achieve an injury-free work environment. We also continue to invest in emerging technologies to protect our employees from injuries, including leveraging fleet telematics and distracted driving technology, resulting in reductions in road traffic incidents, and deploying ergonomic and machine safety risk reduction solutions. In addition, throughout the COVID-19 pandemic, we have remained focused on the health and safety of our associates, especially our frontline associates who continue to make, move and sell our products during this critical time, including by continuing to implement various safety protocols in our facilities, providing personal protective equipment and enabling testing. We are 
 
@@ -373,7 +375,7 @@ We believe that our culture of diversity, equity and inclusion is a competitive 
 
 We are also committed to the continued growth and development of our associates. PepsiCo supports and develops its associates through a variety of global training and development programs that build and strengthen employees' leadership and professional skills, including career development plans, mentoring programs and in-house learning opportunities, such as PEP U Degreed, our internal global online learning resource. In 2022, PepsiCo employees completed over 1 million hours of training. 
 
-### Available Information
+## Available Information
 
 We are required to file annual, quarterly and current reports, proxy statements and other information with the U.S. Securities and Exchange Commission (SEC). The SEC maintains an Internet site that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC at http://www.sec.gov. 
 
@@ -409,8 +411,6 @@ We have and could in the future recall products due to product quality or safety
 
 Our products compete against products of international beverage and convenient food companies that, like us, operate in multiple geographies, as well as regional, local and private label and economy brand manufacturers and other competitors, including smaller companies developing and selling micro brands directly to consumers through e-commerce platforms or through retailers focused on locally sourced products. In many countries in which our products are sold, including the United States, The CocaCola Company is our primary beverage competitor. Our products compete primarily on the basis of brand recognition and loyalty, taste, price, value, quality, product variety, innovation, distribution, advertising, marketing and promotional activity, packaging, convenience, service and the ability to anticipate and effectively respond to consumer preferences and trends. Our business can be adversely affected if we are unable to effectively promote or develop our existing products or introduce and effectively market new products, if we are unable to effectively adopt new technologies, including artificial intelligence and data analytics to develop new commercial insights and improve operating efficiencies, if we are unable to continuously strengthen and evolve our capabilities in digital marketing, if our competitors spend more aggressively than we do or if we are otherwise unable to effectively respond to supply disruptions, pricing pressure (including as a result of commodity inflation) or otherwise compete effectively, and we may be 
 
-unable to grow or maintain sales or category share or we may need to increase capital, marketing or other expenditures. 
-
 ### Failure to attract, develop and maintain a highly skilled and diverse workforce or effectively manage changes in our workforce can have an adverse effect on our business
 
 Our business requires that we attract, develop and maintain a highly skilled and diverse workforce. Our employees are highly sought after by our competitors and other companies and our continued ability to compete effectively depends on our ability to attract, retain, develop and motivate highly skilled personnel for all areas of our organization. Our ability to do so has been and may continue to be impacted by challenges in the labor market, which has experienced and may continue to experience wage inflation, labor shortages, increased employee turnover, changes in availability of our workforce and a shift toward remote work. Any unplanned turnover, sustained labor shortage or unsuccessful implementation of our succession plans to backfill current leadership positions, including the Chief Executive Officer, or failure to attract, develop and maintain a highly skilled and diverse workforce, including with key capabilities such as e-commerce and digital marketing and data analytic skills, can deplete our institutional knowledge base, erode our competitive advantage or result in increased costs due to increased competition for employees, higher employee turnover or increased employee benefit costs. In addition, failure to attract, retain and develop associates from underrepresented communities can damage our business results and our reputation. Any of the foregoing can adversely affect our business. 
@@ -421,7 +421,7 @@ We and our business partners use water in the manufacturing of our products. Wat
 
 ### Changes in the retail landscape or in sales to any key customer can adversely affect our business
 
-The retail landscape continues to evolve, including continued growth in e-commerce channels and hard discounters. Our business will be adversely affected if we are unable to maintain and develop successful relationships with e-commerce retailers and hard discounters, while also maintaining relationships with our key customers operating in traditional retail channels (many of whom are also focused on increasing their e-commerce sales). Our business can be adversely affected if e-commerce channels and hard discounters take significant additional market share away from traditional retailers or we fail to find ways to create increasingly better digital tools and capabilities for our retail customers to enable them to grow their businesses. In addition, our business can be adversely affected if we are unable to profitably expand our own direct-to-consumer e-commerce capabilities. The retail industry is also impacted by increased consolidation of ownership and purchasing power, particularly in North America, Europe and Latin America, resulting in large retailers or buying groups with increased purchasing power, impacting our ability to compete in these areas. Consolidation also adversely impacts our smaller customers’ ability to compete effectively, resulting in an inability on their part to pay for our products or reduced or canceled orders of our products. Further, we must maintain mutually beneficial relationships with our key 14
+The retail landscape continues to evolve, including continued growth in e-commerce channels and hard discounters. Our business will be adversely affected if we are unable to maintain and develop successful relationships with e-commerce retailers and hard discounters, while also maintaining relationships with our key customers operating in traditional retail channels (many of whom are also focused on increasing their e-commerce sales). Our business can be adversely affected if e-commerce channels and hard discounters take significant additional market share away from traditional retailers or we fail to find ways to create increasingly better digital tools and capabilities for our retail customers to enable them to grow their businesses. In addition, our business can be adversely affected if we are unable to profitably expand our own direct-to-consumer e-commerce capabilities. The retail industry is also impacted by increased consolidation of ownership and purchasing power, particularly in North America, Europe and Latin America, resulting in large retailers or buying groups with increased purchasing power, impacting our ability to compete in these areas. Consolidation also adversely impacts our smaller customers’ ability to compete effectively, resulting in an inability on their part to pay for our products or reduced or canceled orders of our products. Further, we must maintain mutually beneficial relationships with our key 
 
 customers, including Walmart, to compete effectively. Any inability to resolve a significant dispute with any of our key customers, a change in the business condition (financial or otherwise) of any of our key customers, even if unrelated to us, a significant reduction in sales to any key customer, or the loss of any of our key customers can adversely affect our business. 
 
@@ -433,7 +433,7 @@ The raw materials and other supplies, including agricultural commodities, fuel a
 
 ### Political and social conditions can adversely affect our business
 
-Political and social conditions in the markets in which our products are sold have been and could continue to be difficult to predict, resulting in adverse effects on our business. The results of elections, referendums or other political conditions (including government shutdowns or hostilities between countries) in these markets have in the past and could continue to impact how existing laws, regulations and government programs or policies are implemented or result in uncertainty as to how such laws, regulations, programs or policies may change, including with respect to tariffs, sanctions, environmental and climate change regulations, taxes, benefit programs, the movement of goods, services and people between countries, relationships between countries, customer or consumer perception of a particular country or its government and other matters, and has resulted in and could continue to result in exchange rate fluctuation, volatility in global stock markets and global economic uncertainty or adversely affect demand 15
+Political and social conditions in the markets in which our products are sold have been and could continue to be difficult to predict, resulting in adverse effects on our business. The results of elections, referendums or other political conditions (including government shutdowns or hostilities between countries) in these markets have in the past and could continue to impact how existing laws, regulations and government programs or policies are implemented or result in uncertainty as to how such laws, regulations, programs or policies may change, including with respect to tariffs, sanctions, environmental and climate change regulations, taxes, benefit programs, the movement of goods, services and people between countries, relationships between countries, customer or consumer perception of a particular country or its government and other matters, and has resulted in and could continue to result in exchange rate fluctuation, volatility in global stock markets and global economic uncertainty or adversely affect demand 
 
 for our products, any of which can adversely affect our business. In addition, political and social conditions in certain cities throughout the U.S. as well as globally have resulted in demonstrations and protests, including in connection with political elections and civil rights and liberties. Our operations or the operations of our business partners, including the distribution of our products and the ingredients or other raw materials used in the production of our products, may be disrupted if such events persist for a prolonged period of time, including due to actions taken by governmental authorities in affected cities and regions, which can adversely affect our business. 
 
@@ -483,7 +483,7 @@ Our future growth depends, in part, on our ability to continue to reduce costs a
 
 ### A deterioration in our estimates and underlying assumptions regarding the future performance of our business can result in an impairment charge that can adversely affect our results of operations
 
-We conduct impairment tests on our goodwill and other indefinite-lived intangible assets annually or more frequently if circumstances indicate that impairment may have occurred. In addition, amortizable 19
+We conduct impairment tests on our goodwill and other indefinite-lived intangible assets annually or more frequently if circumstances indicate that impairment may have occurred. In addition, amortizable 
 
 intangible assets, property, plant and equipment and other long-lived assets are evaluated for impairment upon a significant change in the operating or macroeconomic environment. A deterioration in our underlying assumptions regarding the impact of competitive operating conditions, macroeconomic conditions, including the interest rate environment, or other factors used to estimate the future performance of any of our reporting units or assets, including any deterioration in the weighted-average cost of capital based on market data available at the time, have resulted and could in the future result in an impairment charge, thereby adversely affecting our results of operations. 
 
@@ -501,8 +501,6 @@ Rating agencies routinely evaluate us and their ratings are based on a number of
 
 Certain jurisdictions in which our products are sold have either imposed, or are considering imposing, new or increased taxes on the manufacture, distribution or sale of certain of our products, particularly our beverages, as a result of ingredients contained in our products. These taxes vary in scope and form: some apply to all beverages, including non-caloric beverages, while others apply only to beverages with a caloric sweetener (e.g., sugar). Similarly, some measures apply a single tax rate per ounce/liter on beverages containing over a certain amount of added sugar (or other sweetener), some apply a graduated tax rate depending upon the amount of added sugar (or other sweetener) in the beverage and others apply a flat tax rate on beverages containing any amount of added sugar (or other sweetener). For example, Italy enacted a flat tax on all beverages, including zero calorie beverages, effective January 1, 2023, at a rate of EUR 10 cent (0.11 U.S. dollars) per liter . These tax measures, whatever their scope or form, have in the past and could continue to increase the cost of certain of our products, reduce overall consumption of our products or lead to negative publicity, resulting in an adverse effect on our business and financial performance. 
 
-20 
-
 ### Limitations on the marketing or sale of our products can adversely affect our business and financial performance
 
 Certain jurisdictions in which our products are sold have either imposed, or are considering imposing, limitations on the marketing or sale of our products as a result of ingredients or substances in our products. These limitations require that we highlight perceived concerns about a product, warn consumers to avoid consumption of certain ingredients or substances present in our products, restrict the age of consumers to whom products are marketed or sold or limit the location in which our products may be available. For example, Brazil and Canada enacted warning labeling requirements in 2022 to indicate whether a particular pre-packaged food or beverage product is considered to be high in sugar, sodium or saturated fat. Certain jurisdictions have imposed or are considering imposing color-coded labeling requirements where colors such as red, yellow and green are used to indicate various levels of a particular ingredient, such as sugar, sodium or saturated fat, in products. The imposition or proposed imposition of additional limitations on the marketing or sale of our products has in the past and could continue to reduce overall consumption of our products, lead to negative publicity or leave consumers with the perception that our products do not meet their health and wellness needs, resulting in an adverse effect on our business and financial performance. 
@@ -513,7 +511,7 @@ We rely on diverse packaging solutions to safely deliver products to our custome
 
 ### Failure to comply with personal data protection and privacy laws can adversely affect our business
 
-We are subject to a variety of continuously evolving and developing laws and regulations in numerous jurisdictions regarding personal data protection and privacy laws. These laws and regulations may be interpreted and applied differently from country to country or, within the United States, from state to state, and can create inconsistent or conflicting requirements. Our efforts to comply with these laws and regulations, including the California Consumer Privacy Act, which was significantly modified by the California Privacy Rights Act, as well as new comprehensive privacy legislation passed in Virginia, Colorado, Utah and Connecticut, as well as the European Union's General Data Protection Regulation and China's Personal Information Protection Act, impose significant costs and challenges that are likely to 21
+We are subject to a variety of continuously evolving and developing laws and regulations in numerous jurisdictions regarding personal data protection and privacy laws. These laws and regulations may be interpreted and applied differently from country to country or, within the United States, from state to state, and can create inconsistent or conflicting requirements. Our efforts to comply with these laws and regulations, including the California Consumer Privacy Act, which was significantly modified by the California Privacy Rights Act, as well as new comprehensive privacy legislation passed in Virginia, Colorado, Utah and Connecticut, as well as the European Union's General Data Protection Regulation and China's Personal Information Protection Act, impose significant costs and challenges that are likely to 
 
 continue to increase over time, particularly as additional jurisdictions continue to adopt similar regulations. Failure to comply with these laws and regulations or to otherwise protect personal data from unauthorized access, use or other processing, have in the past and could in the future result in litigation, claims, legal or regulatory proceedings, inquiries or investigations, damage to our reputation, fines or penalties, all of which can adversely affect our business. 
 
@@ -527,7 +525,7 @@ We possess intellectual property rights that are important to our business, incl
 
 ### Failure to comply with laws and regulations applicable to our business can adversely affect our business
 
-The conduct of our business is subject to numerous laws and regulations relating to the production, storage, distribution, sale, display, advertising, marketing, labeling, content (including whether a product contains genetically engineered ingredients), quality, safety, transportation, traceability, sourcing (including pesticide use), packaging, disposal, recycling and use of our products or raw materials, employment and occupational health and safety, environmental, social and governance matters and reporting (including climate change) and data privacy and protection. In addition, in many jurisdictions, 22
+The conduct of our business is subject to numerous laws and regulations relating to the production, storage, distribution, sale, display, advertising, marketing, labeling, content (including whether a product contains genetically engineered ingredients), quality, safety, transportation, traceability, sourcing (including pesticide use), packaging, disposal, recycling and use of our products or raw materials, employment and occupational health and safety, environmental, social and governance matters and reporting (including climate change) and data privacy and protection. In addition, in many jurisdictions, 
 
 compliance with competition and antitrust laws is of special importance to us due to our competitive position, as is compliance with anti-corruption laws. The imposition of new laws, changes in laws or regulatory requirements or changing interpretations thereof, changes in the enforcement priorities of regulators, and differing or competing regulations and standards across the markets where our products or raw materials are made, manufactured, distributed or sold, have in the past and could continue to result in higher compliance costs, capital expenditures and higher production costs, or make it necessary for us to reformulate certain of our products, resulting in adverse effects on our business. For example, increasing governmental and societal attention to environmental, social and governance matters has resulted and could continue to result in new laws or regulatory requirements, including expanded disclosure requirements that are expected to continue to expand the nature, scope and complexity of matters on which we are required to report. In addition, the entry into new markets or categories, including our recent entry into the alcoholic beverage industry as a distributor, has resulted in and could continue to result in our business being subject to additional regulations resulting in higher compliance costs. If one jurisdiction imposes or proposes to impose new laws or regulations that impact the manufacture, distribution or sale of our products, other jurisdictions may follow. Failure to comply with such laws or regulations (or allegations thereof) can subject us to criminal or civil investigations or enforcement actions, including voluntary and involuntary document requests, fines, injunctions, product recalls, penalties, disgorgement of profits or activity restrictions, all of which can adversely affect our business. In addition, the results of third-party studies (whether or not scientifically valid) purporting to assess the health implications of consumption of certain ingredients or substances present in certain of our products or packaging materials have resulted in and could continue to result in our being subject to new taxes and regulations or lawsuits that can adversely affect our business. 
 
@@ -535,13 +533,11 @@ compliance with competition and antitrust laws is of special importance to us du
 
 We and our subsidiaries are party to a variety of litigation, claims, legal or regulatory proceedings, inquiries and investigations, including but not limited to matters related to our advertising, marketing or commercial practices, product labels, claims and ingredients, personal injury and property damage, intellectual property rights, privacy, employment, tax and insurance matters, environmental, social and governance matters and matters relating to our compliance with applicable laws and regulations. These matters are inherently uncertain and there is no guarantee that we will be successful in defending ourselves or that our assessment of the materiality of these matters and the likely outcome or potential losses and established reserves will be consistent with the ultimate outcome of such matters. Responding to these matters, even those that are ultimately non-meritorious, requires us to incur significant expense and devote significant resources, and may generate adverse publicity that damages our reputation or brand image. Any of the foregoing can adversely affect our business. 
 
-### Item 1B. Unresolved Staff Comments
+## Item 1B. Unresolved Staff Comments
 
 We have received no written comments regarding our periodic or current reports from the staff of the SEC that were issued 180 days or more preceding the end of our 2022 year and that remain unresolved. 
 
-23 
-
-### Item 2. Properties
+## Item 2. Properties
 
 Our principal executive office located in Purchase, New York and our facilities located in Plano, Texas, all of which we own, are our most significant corporate properties. 
 
@@ -674,15 +670,15 @@ Significant properties by division are as follows:
 
 Most of our plants are owned or leased on a long-term basis. In addition to company-owned or leased properties described above, we also utilize a highly distributed network of plants, warehouses and distribution centers that are owned or leased by our contract manufacturers, co-packers, strategic alliances or joint ventures in which we have an equity interest. We believe that our properties generally are in good operating condition and, taken as a whole, are suitable, adequate and of sufficient capacity for our current operations. 
 
-### Item 3. Legal Proceedings
+## Item 3. Legal Proceedings
 
 We and our subsidiaries are party to a variety of litigation, claims, legal or regulatory proceedings, inquiries and investigations. While the results of such litigation, claims, legal or regulatory proceedings, inquiries and investigations cannot be predicted with certainty, management believes that the final outcome of the foregoing will not have a material adverse effect on our financial condition, results of operations or cash flows. See also “Item 1. Business – Regulatory Matters” and “Item 1A. Risk Factors.” 
 
-### Item 4. Mine Safety Disclosures
+## Item 4. Mine Safety Disclosures
 
 Not applicable. 
 
-### Information About Our Executive Officers
+## Information About Our Executive Officers
 
 The following is a list of names, ages and backgrounds of our current executive officers: 
 
@@ -783,7 +779,7 @@ Executive officers are elected by our Board, and their terms of office continue 
 
 ## PART II
 
-### Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+## Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
 
 Stock Trading Symbol – PEP. 
 
@@ -908,7 +904,7 @@ A summary of our common stock repurchases (in millions, except average price per
 
    - (a) All shares were repurchased in open market transactions pursuant to the $10 billion repurchase program authorized by our Board and publicly announced on February 10, 2022, which commenced on February 11, 2022 and will expire on February 28, 2026. Shares repurchased under this program may be repurchased in open market transactions, in privately negotiated transactions, in accelerated stock repurchase transactions or otherwise.
 
-### Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+## Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
 
 <table>
   <thead>
@@ -1109,7 +1105,7 @@ _Our discussion and analysis is intended to help the reader understand our resul
 
 _Discussion in this Form 10-K includes results of operations and financial condition for 2022 and 2021 and year-over-year comparisons between 2022 and 2021. For discussion on results of operations and financial condition pertaining to 2020 and year-over-year comparisons between 2021 and 2020, please refer to “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Part II, Item 7 of our Annual Report on Form 10-K for the year ended December 25, 2021._ 
 
-### OUR BUSINESS
+## OUR BUSINESS
 
 ### Executive Overview
 
@@ -1131,15 +1127,15 @@ We believe these priorities will position our Company for long-term sustainable 
 
 See also “Item 1A. Risk Factors” for further information about risks and uncertainties that the Company faces. 
 
-### Our Operations
+## Our Operations
 
 See “Item 1. Business” for information on our divisions and a description of our distribution network, ingredients and other supplies, brands and intellectual property rights, seasonality, customers, competition, research and development, regulatory matters and human capital. In addition, see Note 1 to our consolidated financial statements for financial information about our divisions and geographic areas. 
 
-### Other Relationships
+## Other Relationships
 
 Certain members of our Board also serve on the boards of certain vendors and customers. These Board members do not participate in our vendor selection and negotiations nor in our customer negotiations. Our transactions with these vendors and customers are in the normal course of business and are consistent with terms negotiated with other vendors and customers. In addition, certain of our employees serve on the boards of Pepsi Bottling Ventures LLC and other affiliated companies of PepsiCo and do not receive incremental compensation for such services. 
 
-### Our Business Risks
+## Our Business Risks
 
 ### Risks Associated with Commodities and Our Supply Chain
 
@@ -1211,7 +1207,7 @@ oversight of financial, compliance and employee safety risks facing PepsiCo. The
 
 - PepsiCo’s Disclosure Committee, comprised of the General Counsel, Controller and heads of Internal Audit, Financial Planning & Analysis and Investor Relations, evaluates information from PepsiCo’s integrated risk management framework as part of the Disclosure Committee’s monitoring of the integrity and effectiveness of the Company’s disclosure controls and procedures. PepsiCo’s risk oversight processes and disclosure controls and procedures are designed to appropriately escalate key risks to the Board as well as to analyze potential risks for disclosure. 
 
-### Market Risks
+## Market Risks
 
 We are exposed to market risks arising from adverse changes in: 
 
@@ -1243,7 +1239,7 @@ The total notional amount of our debt instruments designated as net investment h
 
 Our interest rate derivatives had a total notional value of $1.3 billion as of December 31, 2022 and $2.1 billion as of December 25, 2021. Assuming year-end 2022 investment levels and variable rate debt, a 1-percentage-point increase in interest rates would have decreased our net interest expense in 2022 by $48 million due to higher cash and cash equivalents and shortterm investments levels, as compared with our variable rate debt. 
 
-### OUR FINANCIAL RESULTS
+## OUR FINANCIAL RESULTS
 
 ### Results of Operations — Consolidated Review
 
@@ -1254,8 +1250,6 @@ Physical or unit volume is one of the key metrics management uses internally to 
 Beverage volume includes volume of concentrate sold to independent bottlers and volume of finished products bearing companyowned or licensed trademarks and allied brand products and joint venture trademarks sold by company-owned bottling operations. Beverage volume also includes volume of finished products bearing company-owned or licensed trademarks sold by our noncontrolled affiliates. Concentrate volume sold to independent bottlers is reported in concentrate shipments and equivalents (CSE), whereas finished beverage product volume is reported in bottler case sales (BCS). Both CSE and BCS convert all beverage volume to an 8-ounce-case metric. Typically, CSE and BCS are not equal in any given period due to seasonality, timing of product launches, product mix, bottler inventory practices and other factors. While our net revenue is not entirely based on BCS volume due to the independent bottlers in our supply chain, we believe that BCS is a better measure of the consumption of our beverage products. PBNA, LatAm, Europe, AMESA and APAC, either independently or in conjunction with third parties, make, market, distribute and sell ready-to-drink tea products through a joint venture with Unilever (under the Lipton brand name), and PBNA, either independently or in conjunction with third parties, makes, markets, distributes and sells ready-to-drink coffee products through a joint venture with Starbucks. 
 
 Convenient food volume includes volume sold by us and our noncontrolled affiliates of convenient food products bearing company-owned or licensed trademarks. Internationally, we measure convenient food product volume in kilograms, while in North America we measure convenient food product volume in pounds. FLNA makes, markets, distributes and sells Sabra refrigerated dips and spreads through a joint venture with Strauss Group. 
-
-37 
 
 ### Consolidated Net Revenue and Operating Profit
 
@@ -1365,7 +1359,7 @@ Net interest expense and other decreased $924 million, reflecting the prior-year
 
 The reported tax rate decreased 5.7 percentage points, primarily reflecting the impact of the Juice Transaction and adjustments to reserves for uncertain tax positions as a result of the Internal Revenue Service (IRS) audit. 
 
-### Results of Operations — Division Review
+## Results of Operations — Division Review
 
 See “Our Business Risks,” “Non-GAAP Measures” and “Items Affecting Comparability” for a discussion of items to consider when evaluating our results and related information regarding measures not in accordance with U.S. Generally Accepted Accounting Principles (GAAP). 
 
@@ -1539,8 +1533,6 @@ Organic revenue growth is a non-GAAP financial measure. For further information 
    - (a) Amounts may not sum due to rounding.
 
    - (b) Excludes the impact of acquisitions, divestitures and other structural changes and the 53rd reporting week. In certain instances, the impact of organic volume growth on net revenue growth differs from the unit volume growth disclosed in the following divisional discussions due to the impacts of product mix, nonconsolidated joint venture volume, and, for our franchise-owned beverage businesses, temporary timing differences between BCS and CSE. We report net revenue from our franchiseowned beverage businesses based on CSE. The volume sold by our nonconsolidated joint ventures has no direct impact on our net revenue.
-
-39 
 
 ### Operating Profit/(Loss), Operating Profit/(Loss) Adjusted for Items Affecting Comparability and Operating Profit/(Loss) Performance Adjusted for Items Affecting Comparability on a Constant Currency Basis
 
@@ -1880,8 +1872,6 @@ _Operating Profit/(Loss) and Operating Profit/(Loss) Adjusted for Items Affectin
 
    - (c) In 2021, income amount primarily relates to gains associated with the contingent consideration in connection with our acquisition of Rockstar Energy Beverages (Rockstar). This impact is partially offset by divestiture-related charges associated with the Juice Transaction. See Note 13 to our consolidated financial statements for further information.
 
-40 
-
 _Operating Profit/(Loss) Performance and Operating Profit/(Loss) Performance Adjusted for Items Affecting Comparability on a Constant Currency Basis_ 
 
 <table>
@@ -2115,8 +2105,6 @@ Unit volume declined 3%, primarily reflecting mid-single-digit declines in oatme
 
 Operating profit grew 4.5%, primarily reflecting the effective net pricing and productivity savings. These impacts were partially offset by a 37-percentage-point impact of higher commodity costs, primarily grains and packaging materials, certain operating cost increases, including incremental transportation costs, the decrease in organic volume and higher advertising and marketing expenses. The 53rd reporting week contributed 2 percentage points to operating profit growth. 
 
-41 
-
 ### PBNA
 
 Net revenue increased 4%, primarily driven by effective net pricing and an increase in organic volume. The 53rd reporting week contributed 2 percentage points to net revenue growth offset by a 9-percentage-point unfavorable impact of lower net revenue due to the Juice Transaction. 
@@ -2145,8 +2133,6 @@ Convenient foods unit volume declined 4%, primarily reflecting double-digit decl
 
 Beverage unit volume declined 7%, primarily reflecting double-digit declines in Russia, Ukraine and Germany, partially offset by low-single-digit growth in France. Additionally, the United Kingdom experienced a low-single-digit decline and Turkey experienced a mid-single-digit decline. 
 
-42 
-
 Operating profit decreased 207%, primarily reflecting a 110-percentage-point unfavorable impact of charges associated with the Russia-Ukraine conflict, a 98-percentage-point unfavorable impact of impairment charges related to the SodaStream brand (other impairment charges) and a 20-percentage-point unfavorable impact primarily related to the impairment of intangible assets due to the discontinuation or repositioning of certain juice and dairy brands in Russia (brand portfolio impairment charges), partially offset by a 23-percentage-point favorable impact of the gain associated with the Juice Transaction. Operating profit performance was also negatively impacted by a 91-percentage-point impact of higher commodity costs, primarily packaging materials, raw milk and potatoes, certain operating cost increases, the organic volume decline, a 4-percentage-point impact of less favorable settlements of promotional spending accruals compared to the prior year and a 4-percentage-point impact of payments to employees for a change in pension benefits. These impacts were partially offset by the effective net pricing, productivity savings and lower advertising and marketing expenses. Unfavorable foreign exchange negatively impacted operating profit performance by 7 percentage points. 
 
 ### AMESA
@@ -2167,11 +2153,11 @@ Convenient foods unit volume grew 3%, primarily reflecting low-single-digit grow
 
 Beverage unit volume grew 8%, primarily reflecting double-digit growth in Vietnam. Additionally, China experienced midsingle-digit growth, Thailand experienced low-single-digit growth and the Philippines experienced high-single-digit growth. 
 
-Operating profit decreased 20%, primarily reflecting a 25-percentage-point impact of impairment charges related to the Be & Cheery brand (other impairment charges). Operating profit performance was also 43
+Operating profit decreased 20%, primarily reflecting a 25-percentage-point impact of impairment charges related to the Be & Cheery brand (other impairment charges). Operating profit performance was also 
 
 negatively impacted by a 25-percentage-point impact of higher commodity costs, primarily cooking oil and potatoes, certain operating cost increases and higher advertising and marketing expenses, partially offset by the net revenue growth and productivity savings. Additionally, prior-year impairment charges associated with an equity method investment positively contributed 3 percentage points to operating profit performance. Unfavorable foreign exchange negatively impacted operating profit performance by 4 percentage points. 
 
-### Non-GAAP Measures
+## Non-GAAP Measures
 
 Certain financial measures contained in this Form 10-K adjust for the impact of specified items and are not in accordance with GAAP. We use non-GAAP financial measures internally to make operating and strategic decisions, including the preparation of our annual operating plan, evaluation of our overall business performance and as a factor in determining compensation for certain employees. We believe presenting non-GAAP financial measures in this Form 10-K provides additional information to facilitate comparison of our historical operating results and trends in our underlying operating results and provides additional transparency on how we evaluate our business. We also believe presenting these measures in this Form 10-K allows investors to view our performance using the same measures that we use in evaluating our financial and business performance and trends. 
 
@@ -2183,7 +2169,7 @@ The following non-GAAP financial measures contained in this Form 10-K are discus
 
 _Cost of sales, gross profit, selling, general and administrative expenses, gain associated with the Juice Transaction, impairment of intangible assets, other pension and retiree medical benefits income, net interest expense and other, provision for income taxes, net income attributable to noncontrolling interests and net income attributable to PepsiCo, each adjusted for items affecting comparability, operating profit and net income attributable to PepsiCo per common share – diluted, each adjusted for items affecting comparability, and the corresponding constant currency growth rates_ 
 
-These measures exclude the net impact of mark-to-market gains and losses on centrally managed commodity derivatives that do not qualify for hedge accounting, restructuring and impairment charges related to our 2019 Multi-Year Productivity Plan (2019 Productivity Plan), charges associated with our acquisitions and divestitures, the gain associated with the Juice Transaction, impairment and other charges 44
+These measures exclude the net impact of mark-to-market gains and losses on centrally managed commodity derivatives that do not qualify for hedge accounting, restructuring and impairment charges related to our 2019 Multi-Year Productivity Plan (2019 Productivity Plan), charges associated with our acquisitions and divestitures, the gain associated with the Juice Transaction, impairment and other charges 
 
 comprised of Russia-Ukraine conflict charges, brand portfolio impairment charges and other impairment charges, the impact of settlement and curtailment gains and losses related to pension and retiree medical plans, a charge related to cash tender offers, tax benefit related to the IRS audit and tax expense related to the Tax Cuts and Jobs Act (TCJ Act) (see “Items Affecting Comparability” for a detailed description of each of these items). We also evaluate performance on operating profit and net – income attributable to PepsiCo per common share diluted, each adjusted for items affecting comparability, on a constant currency basis, which measure our financial results assuming constant foreign currency exchange rates used for translation based on the rates in effect for the comparable prior-year period. In order to compute our constant currency results, we multiply or divide, as appropriate, our current-year U.S. dollar results by the current-year average foreign exchange rates and then multiply or divide, as appropriate, those amounts by the prior-year average foreign exchange rates. We believe these measures provide useful information in evaluating the results of our business because they exclude items that we believe are not indicative of our ongoing performance or that we believe impact comparability with the prior year. 
 
@@ -2203,13 +2189,13 @@ See “Free Cash Flow” in “Our Liquidity and Capital Resources” for furthe
 
 We define ROIC as net income attributable to PepsiCo plus interest expense after-tax divided by the sum of quarterly average debt obligations and quarterly average common shareholders’ equity. Although ROIC is a common financial metric, numerous methods exist for calculating ROIC. Accordingly, the method used by management to calculate ROIC may differ from the methods other companies use to calculate their ROIC. 
 
-We believe this metric serves as a measure of how well we use our capital to generate returns. In addition, we use net ROIC, excluding items affecting comparability, to compare our performance over various reporting periods on a consistent basis because it removes from our operating results the impact of items that we believe are not indicative of our ongoing performance and reflects how management evaluates our 45
+We believe this metric serves as a measure of how well we use our capital to generate returns. In addition, we use net ROIC, excluding items affecting comparability, to compare our performance over various reporting periods on a consistent basis because it removes from our operating results the impact of items that we believe are not indicative of our ongoing performance and reflects how management evaluates our 
 
 operating results and trends. We define net ROIC, excluding items affecting comparability, as ROIC, adjusted for quarterly average cash, cash equivalents and short-term investments, after-tax interest income and items affecting comparability. We believe the calculation of ROIC and net ROIC, excluding items affecting comparability, provides useful information to investors and is an additional relevant comparison of our performance to consider when evaluating our capital allocation efficiency. 
 
 See “Return on Invested Capital” in “Our Liquidity and Capital Resources” for further information. 
 
-### Items Affecting Comparability
+## Items Affecting Comparability
 
 Our reported financial results in this Form 10-K are impacted by the following items in each of the following years: 
 
@@ -2492,8 +2478,6 @@ Our reported financial results in this Form 10-K are impacted by the following i
     </tr>
   </tbody>
 </table>
-
-46 
 
 <table>
   <thead>
@@ -2850,7 +2834,7 @@ We centrally manage commodity derivatives on behalf of our divisions. These comm
 
 ### 2019 Multi-Year Productivity Plan
 
-The 2019 Productivity Plan, publicly announced on February 15, 2019, will leverage new technology and business models to further simplify, harmonize and automate processes; re-engineer our go-to-market and information systems, including deploying the right automation for each market; and simplify our organization and optimize our manufacturing and supply chain footprint. To build on the successful 47
+The 2019 Productivity Plan, publicly announced on February 15, 2019, will leverage new technology and business models to further simplify, harmonize and automate processes; re-engineer our go-to-market and information systems, including deploying the right automation for each market; and simplify our organization and optimize our manufacturing and supply chain footprint. To build on the successful 
 
 implementation of the 2019 Productivity Plan, in the fourth quarter of 2022, we expanded and extended the plan through the end of 2028 to take advantage of additional opportunities within the initiatives described above. As a result, we expect to incur pretax charges of approximately $3.65 billion, including cash expenditures of approximately $2.9 billion. Plan to date through December 31, 2022, we have incurred pre-tax charges of $1.5 billion, including cash expenditures of $1.0 billion. In our 2023 financial results, we expect to incur pre-tax charges and cash expenditures of approximately $600 million each. These charges will be funded primarily through cash from operations. We expect to incur the majority of the remaining pre-tax charges and cash expenditures in our 2023 through 2024 financial results, with the balance to be incurred through 2028. Charges include severance and other employee costs, asset impairments and other costs. 
 
@@ -2884,8 +2868,6 @@ We recognized intangible asset, investment and property, plant and equipment imp
 
 See Notes 1 and 4 to our consolidated financial statements for further information. 
 
-48 
-
 ### Other Impairment Charges
 
 We recognized impairment charges related to certain of our indefinite-lived intangible assets which reflect an increase in the weighted-average cost of capital as well as our most current estimates of future financial performance. 
@@ -2916,11 +2898,9 @@ Tax expense related to the TCJ Act reflects adjustments to the mandatory transit
 
 See Note 5 to our consolidated financial statements for further information. 
 
-### Our Liquidity and Capital Resources
+## Our Liquidity and Capital Resources
 
 We believe that our cash generating capability and financial condition, together with our revolving credit facilities, working capital lines and other available methods of debt financing, such as commercial paper borrowings and long-term debt financing, will be adequate to meet our operating, investing and financing needs, including with respect to our net capital spending plans. Our primary sources of liquidity include cash from operations, pre-tax cash proceeds of approximately $3.5 billion from the Juice Transaction, proceeds obtained from issuances of commercial paper and long-term debt, and cash and cash equivalents. These sources of cash are available to fund cash outflows that have both a short- and long-term component, including debt repayments and related interest payments; payments for acquisitions; operating leases; purchase, marketing, and other contractual commitments, including capital expenditures and the transition tax liability under the TCJ Act. In addition, these sources of cash fund other cash outflows including anticipated dividend payments and share repurchases. We do not have guarantees or offbalance sheet financing arrangements, including variable interest entities, that we believe could have a material impact on our liquidity. See “Item 1A. Risk Factors,” “Our Business Risks” and Note 8 to our consolidated financial statements for further information. 
-
-49 
 
 Our sources and uses of cash were not materially adversely impacted by the Russia-Ukraine conflict and, to date, we have not identified any material liquidity deficiencies as a result of the conflict. Based on the information currently available to us, we do not expect the impact of the Russia-Ukraine conflict to have a material impact on our future liquidity. We will continue to monitor and assess the impact the Russia-Ukraine conflict may have on our business and financial results. See “Item 1A. Risk Factors,” “Our Business Risks” and Note 1 to our consolidated financial statements for further information related to the impact of the Russia-Ukraine conflict on our business and financial results. 
 
@@ -2931,8 +2911,6 @@ The TCJ Act imposed a one-time mandatory transition tax on undistributed interna
 As part of our evolving market practices, we work with our suppliers to optimize our terms and conditions, which include the extension of payment terms. Our current payment terms with a majority of our suppliers generally range from 60 to 90 days, which we deem to be commercially reasonable. We will continue to monitor economic conditions and market practice working with our suppliers to adjust as necessary. We also maintain voluntary supply chain finance agreements with several participating global financial institutions. Under these agreements, our suppliers, at their sole discretion, may elect to sell their accounts receivable with PepsiCo to these participating global financial institutions. Supplier participation in these financing arrangements is voluntary. Our suppliers negotiate their financing agreements directly with the respective global financial institutions and we are not a party to these agreements. These financing arrangements allow participating suppliers to leverage PepsiCo’s creditworthiness in establishing credit spreads and associated costs, which generally provides our suppliers with more favorable terms than they would be able to secure on their own. Neither PepsiCo nor any of its subsidiaries provide any guarantees to any third party in connection with these financing arrangements. We have no economic interest in our suppliers’ decision to participate in these agreements. Our obligations to our suppliers, including amounts due and scheduled payment terms, are not impacted. All outstanding amounts related to suppliers participating in such financing arrangements are recorded within accounts payable and other current liabilities in our consolidated balance sheet. We were informed by the participating financial institutions that as of both December 31, 2022 and December 25, 2021, $1.5 billion of our accounts payable to suppliers who participate in these financing arrangements are outstanding. These supply chain finance arrangements did not have a material impact on our liquidity or capital resources in the periods presented and we do not expect such arrangements to have a material impact on our liquidity or capital resources for the foreseeable future. 
 
 Furthermore, our cash provided from operating activities is somewhat impacted by seasonality. Working capital needs are impacted by weekly sales, which are generally highest in the third quarter due to seasonal and holiday-related patterns and generally lowest in the first quarter. On a continuing basis, we consider various transactions to increase shareholder value and enhance our business results, including acquisitions, divestitures, joint ventures, dividends, share repurchases, productivity and other efficiency initiatives and other structural changes. These transactions may result in future cash proceeds or payments. 
-
-The table below summarizes our cash activity: 
 
 <table>
   <thead>
@@ -2993,6 +2971,8 @@ In 2021, net cash used for financing activities was $10.8 billion, primarily ref
 
 See Note 8 to our consolidated financial statements for further discussion of debt obligations. 
 
+We annually review our capital structure with our Board, including our dividend policy and share repurchase activity. On February 10, 2022, we announced a share repurchase program providing for the repurchase of up to $10.0 billion of PepsiCo common stock which commenced on February 11, 2022 and will expire on February 28, 2026. In addition, on February 9, 2023, we announced a 10.0% increase in our annualized dividend to $5.06 per share from $4.60 per share, effective with the dividend expected to be paid in June 2023. We expect to return a total of approximately $7.7 billion to shareholders in 2023, comprising dividends of approximately $6.7 billion and share repurchases of approximately $1.0 billion. 
+
 ### Free Cash Flow
 
 The table below reconciles net cash provided by operating activities, as reflected on our cash flow statement, to our free cash flow. Free cash flow is a non-GAAP financial measure. For further information on free cash flow, see “Non-GAAP Measures.” 
@@ -3048,13 +3028,11 @@ We use free cash flow primarily for acquisitions and financing activities, inclu
 
 Any downgrade of our credit ratings by a credit rating agency, especially any downgrade to below investment grade, whether or not as a result of our actions or factors which are beyond our control, could increase our future borrowing costs and impair our ability to access capital and credit markets on terms commercially acceptable to us, or at all. In addition, any downgrade of our current short-term credit ratings could impair our ability to access the commercial paper market with the same flexibility that we have experienced historically, and therefore require us to rely more heavily on more expensive types of debt financing. See “Item 1A. Risk Factors,” “Our Business Risks” and Note 8 to our consolidated financial statements for further information. 
 
-### Material Changes in Line Items in Our Consolidated Financial Statements
+## Material Changes in Line Items in Our Consolidated Financial Statements
 
 Material changes in line items in our consolidated statement of income are discussed in “Results of Operations – Consolidated Review,” “Results of Operations – Division Review” and “Items Affecting Comparability.” 
 
-Material changes in line items in our consolidated statement of cash flows are discussed in “Our Liquidity and Capital Resources.” 52
-
-Material changes in line items in our consolidated balance sheet are discussed below: 
+Material changes in line items in our consolidated statement of cash flows are discussed in “Our Liquidity and Capital Resources.” 
 
 <table>
   <thead>
@@ -3151,9 +3129,7 @@ Material changes in line items in our consolidated balance sheet are discussed b
 
 Material changes in equity line items are discussed in our consolidated statement of equity and notes 7 and 11 to our consolidated financial statements. 
 
-53 
-
-### Return on Invested Capital
+## Return on Invested Capital
 
 ROIC is a non-GAAP financial measure. For further information on ROIC, see “Non-GAAP Measures.” 
 
@@ -3366,13 +3342,9 @@ The table below reconciles ROIC as calculated above to net ROIC, excluding items
   </tbody>
 </table>
 
-### OUR CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+## OUR CRITICAL ACCOUNTING POLICIES AND ESTIMATES
 
 An appreciation of our critical accounting policies and estimates is necessary to understand our financial results. These policies may require management to make difficult and subjective judgments regarding uncertainties, including the business and economic uncertainty resulting from the Russia-Ukraine conflict and the high interest rate and inflationary cost environment, and as a result, such estimates may significantly impact our financial results. The precision of these estimates and the likelihood of future changes depend on a number of underlying variables and a range of possible outcomes. We applied our critical accounting policies and estimation methods consistently in all material respects and for all periods presented. We have discussed our critical accounting policies and estimates with our Audit Committee. 
-
-54 
-
-Our critical accounting policies and estimates are: 
 
 - revenue recognition; 
 
@@ -3380,7 +3352,7 @@ Our critical accounting policies and estimates are:
 
 - income tax expense and accruals; and - pension and retiree medical plans.
 
-### Revenue Recognition
+## Revenue Recognition
 
 We recognize revenue when our performance obligation is satisfied. Our primary performance obligation (the distribution and sales of beverage and convenient food products) is satisfied upon the shipment or delivery of products to our customers, which is also when control is transferred. The transfer of control of products to our customers is typically based on written sales terms that do not allow for a right of return. However, our policy for DSD, including certain chilled products, is to remove and replace damaged and out-of-date products from store shelves to ensure that consumers receive the product quality and freshness they expect. Similarly, our policy for certain warehouse-distributed products is to replace damaged and out-of-date products. As a result, we record reserves, based on estimates, for anticipated damaged and out-of-date products. 
 
@@ -3394,11 +3366,9 @@ As discussed in “Our Customers” in “Item 1. Business,” we offer sales in
 
 A number of our sales incentives, such as bottler funding to independent bottlers and customer volume rebates, are based on annual targets, and accruals are established during the year, as products are delivered, for the expected payout, which may occur after year-end once reconciled and settled. These accruals are based on contract terms and our historical experience with similar programs and require management judgment with respect to estimating customer and consumer participation and performance levels. Differences between estimated expense and actual incentive costs are normally insignificant and are recognized in earnings in the period such differences are determined. In addition, certain advertising and marketing costs are also based on annual targets and recognized during the year as incurred. 
 
-55 
-
 See Note 2 to our consolidated financial statements for further information on our revenue recognition and related policies, including total marketplace spending. 
 
-### Goodwill and Other Intangible Assets
+## Goodwill and Other Intangible Assets
 
 We sell products under a number of brand names, many of which were developed by us. Brand development costs are expensed as incurred. We also purchase brands and other intangible assets in acquisitions. In a business combination, the consideration is first assigned to identifiable assets and liabilities, including brands and other intangible assets, based on estimated fair values, with any excess recorded as goodwill. Determining fair value requires significant estimates and assumptions, including those related to the Russia-Ukraine conflict and a high interest rate and inflationary cost environment, based on an evaluation of a number of factors, such as marketplace participants, product life cycles, market share, consumer awareness, brand history and future expansion expectations, amount and timing of future cash flows and the discount rate applied to the cash flows. 
 
@@ -3408,7 +3378,7 @@ In connection with previous acquisitions, we reacquired certain franchise rights
 
 Indefinite-lived intangible assets and goodwill are not amortized and, as a result, are assessed for impairment at least annually, using either a qualitative or quantitative approach. We perform this annual assessment during our third quarter, or more frequently if circumstances indicate that the carrying value may not be recoverable. Where we use the qualitative assessment, first we determine if, based on qualitative factors, it is more likely than not that an impairment exists. Factors considered include macroeconomic conditions (including those related to the Russia-Ukraine conflict and a high interest rate and inflationary cost environment), industry and competitive conditions, legal and regulatory environment, historical financial performance and significant changes in the brand or reporting unit. If the qualitative assessment indicates that it is more likely than not that an impairment exists, then a quantitative assessment is performed. 
 
-In the quantitative assessment for indefinite-lived intangible assets and goodwill, an assessment is performed to determine the fair value of the indefinite-lived intangible asset and the reporting unit, respectively. Estimated fair value is determined using discounted cash flows and requires an analysis of several estimates including future cash flows or income consistent with management’s strategic business plans, annual sales growth rates, perpetuity growth assumptions and the selection of assumptions underlying a discount rate (weighted-average cost of capital) based on market data available at the time. Significant management judgment is necessary to estimate the impact of competitive operating, macroeconomic and other factors (including those related to the Russia-Ukraine conflict and a high 56
+In the quantitative assessment for indefinite-lived intangible assets and goodwill, an assessment is performed to determine the fair value of the indefinite-lived intangible asset and the reporting unit, respectively. Estimated fair value is determined using discounted cash flows and requires an analysis of several estimates including future cash flows or income consistent with management’s strategic business plans, annual sales growth rates, perpetuity growth assumptions and the selection of assumptions underlying a discount rate (weighted-average cost of capital) based on market data available at the time. Significant management judgment is necessary to estimate the impact of competitive operating, macroeconomic and other factors (including those related to the Russia-Ukraine conflict and a high 
 
 interest rate and inflationary cost environment) to estimate future levels of sales, operating profit or cash flows. All assumptions used in our impairment evaluations for indefinite-lived intangible assets and goodwill, such as forecasted growth rates (including perpetuity growth assumptions) and weighted-average cost of capital, are based on the best available market information and are consistent with our internal forecasts and operating plans. A deterioration in these assumptions could adversely impact our results. These assumptions could be adversely impacted by certain of the risks described in “Item 1A. Risk Factors” and “Our Business Risks.” 
 
@@ -3418,7 +3388,7 @@ Amortizable intangible assets are only evaluated for impairment upon a significa
 
 See Notes 2 and 4 to our consolidated financial statements for further information. 
 
-### Income Tax Expense and Accruals
+## Income Tax Expense and Accruals
 
 Our annual tax rate is based on our income, statutory tax rates and tax structure and transactions, including transfer pricing arrangements, available to us in the various jurisdictions in which we operate. Significant judgment is required in determining our annual tax rate and in evaluating our tax positions. We establish reserves when, despite our belief that our tax return positions are fully supportable, we believe that certain positions are subject to challenge and that we likely will not succeed. We adjust these reserves, as well as the related interest, in light of changing facts and circumstances, such as the progress of a tax audit, new tax laws, relevant court cases or tax authority settlements. See “Item 1A. Risk Factors” for further discussion. 
 
@@ -3426,13 +3396,9 @@ An estimated annual effective tax rate is applied to our quarterly operating res
 
 Tax law requires items to be included in our tax returns at different times than the items are reflected in our consolidated financial statements. As a result, our annual tax rate reflected in our consolidated financial statements is different than that reported in our tax returns (our cash tax rate). Some of these differences are permanent, such as expenses that are not deductible in our tax return, and some differences reverse over time, such as depreciation expense. These temporary differences create deferred tax assets and liabilities. Deferred tax assets generally represent items that can be used as a tax deduction or credit in our tax returns in future years for which we have already recorded the tax benefit on our consolidated financial statements. We establish valuation allowances for our deferred tax assets if, based on the available evidence, it is not more likely than not that some portion or all of the deferred tax assets will be realized. Deferred tax liabilities generally represent tax expense recognized in our consolidated financial statements for which payment has been deferred, or expense for which we have already taken a deduction in our tax return but have not yet recognized as expense in our consolidated financial statements. 
 
-57 
-
-In 2022, our annual tax rate was 16.1% compared to 21.8% in 2021. See “Other Consolidated Results” for further information. 
-
 See Note 5 to our consolidated financial statements for further information. 
 
-### Pension and Retiree Medical Plans
+## Pension and Retiree Medical Plans
 
 Our pension plans cover certain employees in the United States and certain international employees. Benefits are determined based on either years of service or a combination of years of service and earnings. Certain U.S. and Canada retirees are also eligible for medical and life insurance benefits (retiree medical) if they meet age and service requirements. Generally, our share of retiree medical costs is capped at specified dollar amounts, which vary based upon years of service, with retirees contributing the remainder of the cost. In addition, we have been phasing out certain subsidies of retiree medical benefits. 
 
@@ -3459,8 +3425,6 @@ Certain assumptions reflect our historical experience and management’s best ju
 At each measurement date, the discount rates are based on interest rates for high-quality, long-term corporate debt securities with maturities comparable to those of our liabilities. Our U.S. obligation and pension and retiree medical expense is based on the discount rates determined using the Mercer Above Mean Curve. This curve includes bonds that closely match the timing and amount of our expected benefit payments and reflects the portfolio of investments we would consider to settle our liabilities. 
 
 See Note 7 to our consolidated financial statements for information about the expected rate of return on plan assets and our plans’ investment strategy. Although we review our expected long-term rates of return on an annual basis, our asset returns in a given year do not significantly influence our evaluation of long-term rates of return. 
-
-58 
 
 The health care trend rate used to determine our retiree medical plans’ obligation and expense is reviewed annually. Our review is based on our claims experience, information provided by our health plans and actuaries, and our knowledge of the health care industry. Our review of the trend rate considers factors such as demographics, plan design, new medical technologies and changes in medical carriers. 
 
@@ -3578,11 +3542,7 @@ We made a discretionary contribution of $125 million to a U.S. qualified defined
 
 Our pension and retiree medical plan contributions are subject to change as a result of many factors, such as changes in interest rates, deviations between actual and expected asset returns and changes in tax or other benefit laws. We regularly evaluate different opportunities to reduce risk and volatility associated with our pension and retiree medical plans. See Note 7 to our consolidated financial statements for our past and expected contributions and estimated future benefit payments. 
 
-59 
-
-### Consolidated Statement of Income
-
-PepsiCo, Inc. and Subsidiaries 
+## Consolidated Statement of Income
 
 Fiscal years ended December 31, 2022, December 25, 2021 and December 26, 2020 (in millions except per share amounts) 
 
@@ -3763,11 +3723,7 @@ Fiscal years ended December 31, 2022, December 25, 2021 and December 26, 2020 (i
 
 See accompanying notes to the consolidated financial statements. 
 
-60 
-
-### Consolidated Statement of Comprehensive Income
-
-PepsiCo, Inc. and Subsidiaries 
+## Consolidated Statement of Comprehensive Income
 
 Fiscal years ended December 31, 2022, December 25, 2021 and December 26, 2020 (in millions) 
 
@@ -3876,11 +3832,7 @@ Fiscal years ended December 31, 2022, December 25, 2021 and December 26, 2020 (i
 
 See accompanying notes to the consolidated financial statements. 
 
-61 
-
-### Consolidated Statement of Cash Flows
-
-PepsiCo, Inc. and Subsidiaries 
+## Consolidated Statement of Cash Flows
 
 Fiscal years ended December 31, 2022, December 25, 2021 and December 26, 2020 (in millions) 
 
@@ -4203,11 +4155,9 @@ Fiscal years ended December 31, 2022, December 25, 2021 and December 26, 2020 (i
   </tbody>
 </table>
 
-(Continued on following page) 62
+(Continued on following page) 
 
-### Consolidated Statement of Cash Flows (continued)
-
-PepsiCo, Inc. and Subsidiaries 
+## Consolidated Statement of Cash Flows (continued)
 
 Fiscal years ended December 31, 2022, December 25, 2021 and December 26, 2020 (in millions) 
 
@@ -4388,9 +4338,7 @@ Fiscal years ended December 31, 2022, December 25, 2021 and December 26, 2020 (i
 
 See accompanying notes to the consolidated financial statements. 
 
-63 
-
-### Consolidated Balance Sheet
+## Consolidated Balance Sheet
 
 PepsiCo, Inc. and Subsidiaries December 31, 2022 and December 25, 2021 (in millions except per share amounts)
 
@@ -4649,11 +4597,7 @@ PepsiCo, Inc. and Subsidiaries December 31, 2022 and December 25, 2021 (in milli
 
 See accompanying notes to the consolidated financial statements. 
 
-64 
-
-### Consolidated Statement of Equity
-
-### PepsiCo, Inc. and Subsidiaries
+## Consolidated Statement of Equity
 
 Fiscal years ended December 31, 2022, December 25, 2021 and December 26, 2020 (in millions except per share amounts) 
 
@@ -5214,11 +5158,9 @@ Fiscal years ended December 31, 2022, December 25, 2021 and December 26, 2020 (i
 
 See accompanying notes to the consolidated financial statements. 
 
-65 
+## Notes to Consolidated Financial Statements
 
-### Notes to Consolidated Financial Statements
-
-### Note 1 — Basis of Presentation and Our Divisions
+## Note 1 — Basis of Presentation and Our Divisions
 
 ### Basis of Presentation
 
@@ -5263,8 +5205,6 @@ Our fiscal year ends on the last Saturday of each December, resulting in a 53rd 
 </table>
 
 Unless otherwise noted, tabular dollars are in millions, except per share amounts. All per share amounts reflect common per share amounts, assume dilution unless otherwise noted, and are based on unrounded amounts. Certain reclassifications were made to the prior year’s consolidated financial statements to conform to the current year presentation. 
-
-66 
 
 ### Our Divisions
 
@@ -5362,8 +5302,6 @@ The allocation of share-based compensation expense of each division is as follow
 </table>
 
 The expense allocated to our divisions excludes any impact of changes in our assumptions during the year which reflect market conditions over which division management has no control. Therefore, any variances between allocated expense and our actual expense are recognized in corporate unallocated expenses. 
-
-67 
 
 ### Pension and Retiree Medical Expense
 
@@ -5557,8 +5495,6 @@ Net revenue and operating profit/(loss) of each division are as follows:
    - (b) In 2022, we recorded a gain of $3,029 million and $292 million in our PBNA and Europe divisions, respectively, associated with the Juice Transaction. The total aftertax amount was $2,888 million or $2.08 per share. See Note 13 for further information.
 
    - (c) In 2021, the increase in net revenue in our AMESA and APAC divisions reflect our acquisitions of Pioneer Foods and Be & Cheery, respectively. See Note 13 for further information.
-
-68 
 
 ### Disaggregation of Net Revenue
 
@@ -5845,8 +5781,6 @@ Our primary performance obligation is the distribution and sales of beverage and
 
    - (a) See Note 4 for further information. For information on our policies for indefinite-lived intangible assets, see Note 2.
 
-69 
-
 A summary of pre-tax charges taken in 2022 as a result of our decision to reposition or discontinue the sale/distribution of certain brands and to sell an investment is as follows: 
 
 <table>
@@ -5993,8 +5927,6 @@ A summary of pre-tax impairment charges taken in 2022 as a result of our quantit
 </table>
 
    - (a) See Note 4 for further information. For information on our policies for indefinite-lived intangible assets, see Note 2.
-
-70 
 
 ### COVID-19 Charges
 
@@ -6249,10 +6181,6 @@ Total assets and capital spending of each division are as follows:
 </table>
 
    - (a) Corporate assets consist principally of certain cash and cash equivalents, restricted cash, short-term investments, derivative instruments, property, plant and equipment, pension plan assets and tax assets. In 2022, the change in assets was primarily due to a decrease in cash and cash equivalents.
-
-71 
-
-Amortization of intangible assets and depreciation and other amortization of each division are as follows: 
 
 <table>
   <thead>
@@ -6514,13 +6442,13 @@ Net revenue and long-lived assets by country are as follows:
 
    - (a) Long-lived assets represent property, plant and equipment, indefinite-lived intangible assets, amortizable intangible assets, investments in noncontrolled affiliates and other investments included in other assets. See Notes 2 and 14 for further information on property, plant and equipment. See Notes 2 and 4 for further information on goodwill and other intangible assets. See Note 14 for further information on other assets. Investments in noncontrolled affiliates are evaluated for impairment upon a significant change in the operating or macroeconomic environment. These assets are reported in the country where they are primarily used. (b) In 2021, the increase in net revenue reflects our acquisition of Be & Cheery. See Note 13 for further information. (c) In 2021, the increase in net revenue reflects our acquisition of Pioneer Foods. See Note 13 for further information.
 
-### Note 2 — Our Significant Accounting Policies
+## Note 2 — Our Significant Accounting Policies
 
 ### Revenue Recognition
 
 We recognize revenue when our performance obligation is satisfied. Our primary performance obligation (the distribution and sales of beverage and convenient food products) is satisfied upon the shipment or delivery of products to our customers, which is also when control is transferred. Merchandising activities are performed after a customer obtains control of the product, are accounted for as fulfillment of our performance obligation to ship or deliver product to our customers and are recorded in selling, general and administrative expenses. Merchandising activities are immaterial in the context of our contracts. In addition, we exclude from net revenue all sales, use, value-added and certain excise taxes assessed by government authorities on revenue producing transactions. 
 
-The transfer of control of products to our customers is typically based on written sales terms that do not allow for a right of return. However, our policy for DSD, including certain chilled products, is to remove and replace damaged and out-of-date products from store shelves to ensure that consumers receive the product quality and freshness they expect. Similarly, our policy for certain warehouse-distributed products 72
+The transfer of control of products to our customers is typically based on written sales terms that do not allow for a right of return. However, our policy for DSD, including certain chilled products, is to remove and replace damaged and out-of-date products from store shelves to ensure that consumers receive the product quality and freshness they expect. Similarly, our policy for certain warehouse-distributed products 
 
 is to replace damaged and out-of-date products. As a result, we record reserves, based on estimates, for anticipated damaged and out-of-date products. 
 
@@ -6539,8 +6467,6 @@ A number of our sales incentives, such as bottler funding to independent bottler
 The terms of most of our incentive arrangements do not exceed one year and, therefore, do not require highly uncertain long-term estimates. Certain arrangements, such as fountain pouring rights, may extend beyond one year. Upfront payments to customers under these arrangements are recognized over the shorter of the economic or contractual life, primarily as a reduction of revenue, and the remaining balances of $242 million as of December 31, 2022 and $262 million as of December 25, 2021 are included in prepaid expenses and other current assets and other assets on our balance sheet. 
 
 For interim reporting, our policy is to allocate our forecasted full-year sales incentives for most of our programs to each of our interim reporting periods in the same year that benefits from the programs. The allocation methodology is based on our forecasted sales incentives for the full year and the proportion of each interim period’s actual gross revenue or volume, as applicable, to our forecasted annual gross revenue or volume, as applicable. Based on our review of the forecasts at each interim period, any changes in estimates and the related allocation of sales incentives are recognized beginning in the interim period that they are identified. In addition, we apply a similar allocation methodology for interim reporting purposes for certain advertising and other marketing activities. Our annual consolidated financial statements are not impacted by this interim allocation methodology. 
-
-73 
 
 Advertising and other marketing activities, reported as selling, general and administrative expenses, totaled $5.2 billion in 2022, $5.1 billion in 2021 and $4.6 billion in 2020, including advertising expenses of $3.5 billion in both 2022 and 2021, and $3.0 billion in 2020. Deferred advertising costs are not expensed until the year first used and consist of: 
 
@@ -6570,7 +6496,7 @@ We engage in a variety of research and development activities and continue to in
 
 ### Goodwill and Other Intangible Assets
 
-Indefinite-lived intangible assets and goodwill are not amortized and, as a result, are assessed for impairment at least annually, using either a qualitative or quantitative approach. We perform this annual assessment during our third quarter, or more frequently if circumstances indicate that the carrying value may not be recoverable. Where we use the qualitative assessment, first we determine if, based on qualitative factors, it is more likely than not that an impairment exists. Factors considered include macroeconomic conditions (including those related to the Russia-Ukraine conflict and a high interest rate and inflationary cost environment), industry and competitive conditions, legal and regulatory environment, 74
+Indefinite-lived intangible assets and goodwill are not amortized and, as a result, are assessed for impairment at least annually, using either a qualitative or quantitative approach. We perform this annual assessment during our third quarter, or more frequently if circumstances indicate that the carrying value may not be recoverable. Where we use the qualitative assessment, first we determine if, based on qualitative factors, it is more likely than not that an impairment exists. Factors considered include macroeconomic conditions (including those related to the Russia-Ukraine conflict and a high interest rate and inflationary cost environment), industry and competitive conditions, legal and regulatory environment, 
 
 historical financial performance and significant changes in the brand or reporting unit. If the qualitative assessment indicates that it is more likely than not that an impairment exists, then a quantitative assessment is performed. 
 
@@ -6602,13 +6528,11 @@ Our other significant accounting policies are disclosed as follows:
 
 - _Translation of Financial Statements of Foreign Subsidiaries_ – Financial statements of foreign subsidiaries are translated into U.S. dollars using period-end exchange rates for assets and liabilities and average exchange rates for revenues and expenses. Adjustments resulting from translating net assets are reported as a separate component of accumulated other comprehensive loss within common shareholders’ equity as currency translation adjustment. 
 
-75 
-
 ### Recently Issued Accounting Pronouncements - Not Yet Adopted
 
 In September 2022, the Financial Accounting Standards Board (FASB) issued guidance to enhance the transparency of supplier finance programs to allow financial statement users to understand the effect on working capital, liquidity and cash flows. The new guidance requires disclosure of key terms of the program, including a description of the payment terms, payment timing and assets pledged as security or other forms of guarantees provided to the finance provider or intermediary. Other requirements include the disclosure of the amount that remains unpaid as of the end of the reporting period, a description of where these obligations are presented in the balance sheet and a rollforward of the obligation during the annual period. The guidance is effective in the first quarter of 2023, except for the rollforward, which is effective in 2024. Early adoption is permitted. We will adopt the guidance when effective. 
 
-### Note 3 — Restructuring and Impairment Charges
+## Note 3 — Restructuring and Impairment Charges
 
 ### 2019 Multi-Year Productivity Plan
 
@@ -6757,8 +6681,6 @@ The total plan pre-tax charges are expected to be incurred by division approxima
     </tr>
   </tbody>
 </table>
-
-76 
 
 <table>
   <thead>
@@ -7106,13 +7028,9 @@ Substantially all of the restructuring accrual at December 31, 2022 is expected 
 
 There were no material charges related to other productivity and efficiency initiatives outside the scope of the 2019 Productivity Plan. 
 
-77 
-
-We regularly evaluate different productivity initiatives beyond the productivity plan and other initiatives described above. 
-
 For information on additional impairment charges, see Notes 1 and 4 for brand portfolio impairment charges, other impairment charges and Russia-Ukraine conflict charges. 
 
-### Note 4 — Intangible Assets
+## Note 4 — Intangible Assets
 
 A summary of our amortizable intangible assets is as follows: 
 
@@ -7312,8 +7230,6 @@ Depreciable and amortizable assets are evaluated for impairment upon a significa
 
 In the first quarter of 2022, we discontinued or repositioned certain juice and dairy brands in Russia in our Europe division. As a result, we recognized pre-tax impairment charges (included in brand portfolio impairment charges) of $241 million ($193 million after-tax or $0.14 per share) in impairment of intangible assets, primarily related to indefinite-lived intangible assets in the year ended December 31, 2022. See Note 1 for further information. 
 
-78 
-
 In the second quarter of 2022, macroeconomic factors, sanctions and other regulations as a result of the Russia-Ukraine conflict indicated a material deterioration of the significant inputs used to determine the fair value of our indefinite-lived intangible assets in Russia, primarily assumptions underlying the weighted-average cost of capital. These factors required us to perform a quantitative assessment, despite the absence of a material adverse impact on these assets’ financial performance (e.g., sales, operating profit, cash flows). The fair value of our indefinite-lived intangible assets in Russia was estimated using discounted cash flows under the income approach, which we consider to be a Level 3 measurement. We determined that the carrying value exceeds the fair value, with the decrease in the fair value primarily attributable to a significant increase in the weighted-average cost of capital, which reflects the macroeconomic uncertainty in Russia. As a result of the quantitative assessment, we recorded pre-tax impairment charges of $1.2 billion ($958 million after-tax or $0.69 per share) in impairment of intangible assets, related to our juice and dairy brands in Russia in our Europe division, in the year ended December 31, 2022. See Note 1 for further information. 
 
 As discussed in Note 2, we perform our annual impairment assessment on indefinite-lived intangible assets during our third quarter. The annual impairment assessment on indefinite-lived intangible assets performed in the third quarter of 2022, based on best available market information and our internal forecasts and operating plans at the time, resulted in no impairment. 
@@ -7325,8 +7241,6 @@ As of December 31, 2022, the estimated fair values of our indefinite-lived reacq
 We did not recognize any impairment charges for goodwill in each of the years ended December 31, 2022, December 25, 2021 and December 26, 2020. We did not recognize any impairment charges for indefinite-lived intangible assets in the year ended December 25, 2021. In 2020, we recognized pre-tax impairment charges of $42 million, primarily related to a coconut water brand in PBNA. 
 
 For further information on our policies for indefinite-lived intangible assets, see Note 2. 
-
-The change in the book value of indefinite-lived intangible assets is as follows: 
 
 <table>
   <thead>
@@ -8008,10 +7922,6 @@ The change in the book value of indefinite-lived intangible assets is as follows
 
    - (e) Acquisitions/divestitures in 2021 primarily reflect assets reclassified as held for sale in connection with our Juice Transaction. See Note 13 for further information.
 
-80 
-
-   - (f) Translation and other primarily reflects the depreciation of the euro in 2021 and the depreciation of British pound and euro, partially offset by appreciation of the Russian ruble in 2022.
-
    - (g) Impairment in 2022 is related to the SodaStream brand, the decrease in fair value as a result of the Russia-Ukraine conflict and the discontinuation or repositioning of certain juice and dairy brands in Russia.
 
    - (h) Translation and other in 2021 reflects the allocation of the Rockstar brand from PBNA, which was finalized in 2021 as part of purchase price allocation, partially offset by the depreciation of the euro.
@@ -8020,7 +7930,7 @@ The change in the book value of indefinite-lived intangible assets is as follows
 
    - (j) Impairment in 2022 is related to the Be & Cheery brand.
 
-### Note 5 — Income Taxes
+## Note 5 — Income Taxes
 
 The components of income before income taxes are as follows: 
 
@@ -8200,7 +8110,7 @@ A reconciliation of the U.S. Federal statutory tax rate to our annual tax rate i
 
 In 2022, we recorded $86 million ($0.06 per share) of net tax expense related to the TCJ Act as a result of correlating adjustments related to a partial audit settlement with the IRS for tax years 2014 through 2019. In 2021, we recorded $190 million ($0.14 per share) of net tax expense related to the TCJ Act as a result of adjustments related to the final assessment of the 2014 through 2016 IRS audit . There were no tax amounts recognized in 2020 related to the TCJ Act. 
 
-81 
+As of December 31, 2022, our mandatory transition tax liability was $2.6 billion, which must be paid through 2026 under the provisions of the TCJ Act. We reduced our liability through cash payments and application of tax overpayments by $309 million in 2022, $309 million in 2021 and $78 million in 2020. We currently expect to pay approximately $309 million of this liability in 2023. 
 
 The TCJ Act also created a requirement that certain income earned by foreign subsidiaries, known as global intangible low-tax income (GILTI), must be included in the gross income of their U.S. shareholder. The FASB allows an accounting policy election of either recognizing deferred taxes for temporary differences expected to reverse as GILTI in future years or recognizing such taxes as a current-period expense when incurred. We elected to treat the tax effect of GILTI as a current-period expense when incurred. 
 
@@ -8213,10 +8123,6 @@ In 2022, we came to an agreement with the IRS to settle one of the issues assess
 On August 16, 2022, the “Inflation Reduction Act” (H.R. 5376) was signed into law in the United States. We do not currently expect the Inflation Reduction Act to have a material impact on our financial results, including on our annual estimated effective tax rate or on our liquidity. 
 
 On May 19, 2019, a public referendum held in Switzerland passed the Federal Act on Tax Reform and AHV Financing (TRAF), effective January 1, 2020. The enactment of certain provisions of the TRAF resulted in adjustments to our deferred taxes. During 2020, we recorded a net tax benefit of $72 million ($0.05 per share) related to the adoption of the TRAF in the Swiss Canton of Bern. 
-
-82 
-
-Deferred tax liabilities and assets are comprised of the following: 
 
 <table>
   <thead>
@@ -8447,6 +8353,8 @@ A number of years may elapse before a particular matter, for which we have estab
 
 Our annual tax rate is based on our income, statutory tax rates and tax planning strategies and transactions, including transfer pricing arrangements, available to us in the various jurisdictions in which we operate. Significant judgment is required in determining our annual tax rate and in evaluating our tax positions. We establish reserves when, despite our belief that our tax return positions are fully supportable, we believe that certain positions are subject to challenge and that we likely will not succeed. We adjust these reserves, as well as the related interest, in light of changing facts and circumstances, such as the progress of a tax audit, new tax laws, relevant court cases or tax authority settlements. Settlement of any particular issue would usually require the use of cash. Favorable resolution would be recognized as a reduction to our annual tax rate in the year of resolution. 
 
+As of December 31, 2022, the total gross amount of reserves for income taxes, reported in other liabilities, was $1.9 billion. We accrue interest related to reserves for income taxes in our provision for income taxes and any associated penalties are recorded in selling, general and administrative expenses. The gross amount of interest accrued, reported in other liabilities, was $292 million as of December 31, 2022, of which $4 million of tax benefit was recognized in 2022. The gross amount of interest accrued, reported in other liabilities, was $326 million as of December 25, 2021, of which $3 million of tax benefit was recognized in 2021. 
+
 A reconciliation of unrecognized tax benefits is as follows: 
 
 <table>
@@ -8518,11 +8426,15 @@ A reconciliation of unrecognized tax benefits is as follows:
 
 ### Carryforwards and Allowances
 
+Operating loss carryforwards totaling $32.2 billion as of December 31, 2022 are being carried forward in a number of foreign and state jurisdictions where we are permitted to use tax operating losses from prior periods to reduce future taxable income. These operating losses will expire as follows: $0.2 billion in 2023, $27.6 billion between 2024 and 2041 and $4.4 billion may be carried forward indefinitely. We 
+
 establish valuation allowances for our deferred tax assets if, based on the available evidence, it is not more likely than not that some portion or all of the deferred tax assets will be realized. 
 
 ### Undistributed International Earnings
 
-### Note 6 — Share-Based Compensation
+As of December 31, 2022, we had approximately $9 billion of undistributed international earnings. We intend to continue to reinvest $9 billion of earnings outside the United States for the foreseeable future and while future distribution of these earnings would not be subject to U.S. federal tax expense, no deferred tax liabilities with respect to items such as certain foreign exchange gains or losses, foreign withholding taxes or state taxes have been recognized. It is not practicable for us to determine the amount of unrecognized tax expense on these reinvested international earnings. 
+
+## Note 6 — Share-Based Compensation
 
 Our share-based compensation program is designed to attract and retain employees while also aligning employees’ interests with the interests of our shareholders. PepsiCo has granted stock options, RSUs, PSUs and long-term cash awards to employees under the shareholder-approved PepsiCo, Inc. Long-Term Incentive Plan (LTIP). Executives who are awarded long-term incentives based on their performance may generally elect to receive their grant in the form of stock options or RSUs, or a combination thereof. Executives who elect stock options receive four stock options for every one RSU that would have otherwise been granted. Certain executive officers and other senior executives do not have a choice and are granted 66% PSUs and 34% longterm cash, each of which are subject to pre-established performance targets. 
 
@@ -8615,13 +8527,13 @@ As of December 31, 2022, there was $396 million of total unrecognized compensati
 
 ### Method of Accounting and Our Assumptions
 
-The fair value of share-based award grants is amortized to expense over the vesting period, primarily three years. Awards to employees eligible for retirement prior to the award becoming fully vested are amortized to expense over the period through the date that the employee first becomes eligible to retire and is no longer required to provide service to earn the award. In addition, we use historical data to estimate 85
-
-forfeiture rates and record share-based compensation expense only for those awards that are expected to vest. 
+The fair value of share-based award grants is amortized to expense over the vesting period, primarily three years. Awards to employees eligible for retirement prior to the award becoming fully vested are amortized to expense over the period through the date that the employee first becomes eligible to retire and is no longer required to provide service to earn the award. In addition, we use historical data to estimate 
 
 We do not backdate, reprice or grant share-based compensation awards retroactively. Repricing of awards would require shareholder approval under the LTIP. 
 
 ### Stock Options
+
+A stock option permits the holder to purchase shares of PepsiCo common stock at a specified price. We account for our employee stock options under the fair value method of accounting using a Black-Scholes valuation model to measure stock option expense at the date of grant. All stock option grants have an exercise price equal to the fair market value of our common stock on the date of grant and generally have a 10-year term. 
 
 Our weighted-average Black-Scholes fair value assumptions are as follows: 
 
@@ -8669,6 +8581,8 @@ Our weighted-average Black-Scholes fair value assumptions are as follows:
 </table>
 
 The expected life is the period over which our employee groups are expected to hold their options. It is based on our historical experience with similar grants. The risk-free interest rate is based on the expected U.S. Treasury rate over the expected life. Volatility reflects movements in our stock price over the most recent historical period equivalent to the expected life. Dividend yield is estimated over the expected life based on our stated dividend policy and forecasts of net income, share repurchases and stock price. 
+
+A summary of our stock option activity for the year ended December 31, 2022 is as follows: 
 
 <table>
   <thead>
@@ -8750,8 +8664,6 @@ The expected life is the period over which our employee groups are expected to h
 </table>
 
    - (a) In thousands.
-
-86 
 
 ### Restricted Stock Units and Performance Stock Units
 
@@ -8842,10 +8754,6 @@ A summary of our RSU and PSU activity for the year ended December 31, 2022 is as
 Certain executive officers and other senior executives were granted long-term cash awards for which final payout is based on PepsiCo’s Total Shareholder Return relative to a specific set of peer companies and achievement of a specified performance target over a three-year performance period. 
 
 Long-term cash awards that qualify as liability awards under share-based compensation guidance are valued through the end of the performance period on a mark-to-market basis using the Monte Carlo simulation model. 
-
-87 
-
-A summary of our long-term cash activity for the year ended December 31, 2022 is as follows: 
 
 <table>
   <thead>
@@ -9027,11 +8935,11 @@ The following is a summary of other share-based compensation data:
 
 As of December 31, 2022 and December 25, 2021, there were approximately 307,000 and 299,000 outstanding awards, respectively, consisting primarily of phantom stock units that were granted under the PepsiCo Director Deferral Program and will be settled in shares of PepsiCo common stock pursuant to the LTIP at the end of the applicable deferral period, not included in the tables above. 
 
-### Note 7 — Pension, Retiree Medical and Savings Plans
+## Note 7 — Pension, Retiree Medical and Savings Plans
 
 Effective December 31, 2022, we merged two U.S. qualified defined benefit pension plans, PepsiCo Employees Retirement Plan I (Plan I), mostly inactive participants, and PepsiCo Employees Retirement Plan A (Plan A), mostly active participants, with Plan I remaining. The accrued benefits offered to the plans’ participants were unchanged. The merger was made to provide additional flexibility in evaluating opportunities to reduce risk and volatility. Actuarial gains and losses of the merged plan will be amortized over the average remaining life expectancy of participants. There is no material impact to pre-tax pension benefits expense from this merger. 
 
-88 
+In 2022, we transferred pension and retiree medical obligations of $145 million and related assets to TBG in connection with the Juice Transaction. See Note 13 for further information. 
 
 In 2021, we adopted a change to the Canadian defined benefit plans to freeze pension accruals for salaried participants, effective January 1, 2024, and to close the hourly plan to new non-union employees hired on or after January 1, 2022. After the effective date, all salaried participants receive an employer contribution to the defined contribution plan based on age and years of service regardless of employee contribution and the opportunity to receive employer contributions to match employee contributions up to defined limits. We also adopted a change to the U.K. defined benefit plan to freeze pension accruals for all participants effective March 31, 2022. After the effective date, participants have the opportunity to receive employer contributions to match employee contributions up to defined limits. Pre-tax pension benefits expense will decrease after the effective dates, partially offset by contributions to defined contribution plans. 
 
@@ -9046,10 +8954,6 @@ In 2020, we adopted an amendment, effective January 1, 2021, to enhance the pay 
 Gains and losses resulting from actual experience differing from our assumptions, including the difference between the actual and expected return on plan assets, as well as changes in our assumptions, are determined at each measurement date. These differences are recognized as a component of net gain or loss in accumulated other comprehensive loss within common shareholders’ equity. If this net accumulated gain or loss exceeds 10% of the greater of the market-related value of plan assets or plan obligations, a portion of the net gain or loss is included in other pension and retiree medical benefits (expense)/income for the following year based upon the average remaining service life for participants in Plan A (approximately 9 years), Plan H (approximately 11 years) and retiree medical (approximately 9 years), and the remaining life expectancy for participants in Plan I (approximately 27 years). In 2023, we expect the average remaining service life for participants in Plan H to be approximately 11 years and the average remaining life expectancy for participants in Plan I to be approximately 26 years. 
 
 The cost or benefit of plan changes that increase or decrease benefits for prior employee service (prior service cost/(credit)) is included in other pension and retiree medical benefits (expense)/income on a straight-line basis over the average remaining service life for participants in Plan H, and the remaining life expectancy for participants in Plan I, except that prior service cost/(credit) for salaried participants subject to the freeze is amortized on a straight-line basis over the period up to the effective date of the freeze. 
-
-89 
-
-Selected financial information for our pension and retiree medical plans is as follows: 
 
 <table>
   <thead>
@@ -9690,9 +9594,7 @@ Selected financial information for our pension and retiree medical plans is as f
 
 The net loss arising in the current year is primarily attributable to a decrease in the actual return on plan assets offset by the impact of higher discount rates. 
 
-The amount we report in operating profit as pension and retiree medical cost is service cost, which is the 90
-
-value of benefits earned by employees for working during the year. 
+The amount we report in operating profit as pension and retiree medical cost is service cost, which is the 
 
 The amounts we report below operating profit as pension and retiree medical cost consist of the following components: 
 
@@ -9977,7 +9879,7 @@ The components of total pension and retiree medical benefit costs are as follows
   </tbody>
 </table>
 
-91 
+   - (a) In 2022 and 2020, U.S. includes a settlement charge of $318 million ($246 million after-tax or $0.18 per share) and $205 million ($158 million after-tax or $0.11 per share), respectively, related to lump sum distributions exceeding the total of annual service and interest cost.
 
 The following table provides the weighted-average assumptions used to determine net periodic benefit cost and projected benefit obligation for our pension and retiree medical plans: 
 
@@ -10329,8 +10231,6 @@ Our estimated future benefit payments are as follows:
 
 These future benefit payments to beneficiaries include payments from both funded and unfunded plans. 
 
-92 
-
 ### Funding
 
 Contributions to our pension and retiree medical plans were as follows: 
@@ -10453,7 +10353,7 @@ For 2023 and 2022, our expected long-term rate of return on U.S. plan assets is 
 
 Actual investment allocations may vary from our target investment allocations due to prevailing market conditions. We regularly review our actual investment allocations and periodically rebalance our investments. 
 
-The expected return on plan assets is based on our investment strategy and our expectations for long-term rates of return by asset class, taking into account volatility and correlation among asset classes and our historical experience. We also review current levels of interest rates and inflation to assess the reasonableness of the long-term rates. We evaluate our expected return assumptions annually to ensure that they are reasonable. To calculate the expected return on plan assets, our market-related value of assets for fixed income is the actual fair value. For all other asset categories, such as equity securities, we use a 93
+The expected return on plan assets is based on our investment strategy and our expectations for long-term rates of return by asset class, taking into account volatility and correlation among asset classes and our historical experience. We also review current levels of interest rates and inflation to assess the reasonableness of the long-term rates. We evaluate our expected return assumptions annually to ensure that they are reasonable. To calculate the expected return on plan assets, our market-related value of assets for fixed income is the actual fair value. For all other asset categories, such as equity securities, we use a 
 
 method that recognizes investment gains or losses (the difference between the expected and actual return based on the marketrelated value of assets) over a five-year period. This has the effect of reducing year-to-year volatility. 
 
@@ -10642,11 +10542,11 @@ Plan assets measured at fair value as of year-end 2022 and 2021 are categorized 
 
    - (d) Based on the fair value of the contracts as determined by the insurance companies using inputs that are not observable. The changes in Level 3 amounts were not significant in the years ended December 31, 2022 and December 25, 2021.
 
+   - (e) Includes Level 1 assets of $216 million for 2021 and Level 2 assets of $157 million and $136 million for 2022 and 2021, respectively.
+
    - (f) The real estate commingled funds include investments in limited partnerships. These funds are based on the net asset value of the appraised value of investments owned by these funds as determined by independent third parties using inputs that are not observable. The majority of the funds are redeemable quarterly subject to availability of cash and have notice periods ranging from 45 to 90 days.
 
    - (g) Based on the published price of the fund.
-
-94 
 
 ### Retiree Medical Cost Trend Rates
 
@@ -10689,7 +10589,7 @@ Certain U.S. salaried employees, who are not eligible to participate in a define
 
 In 2022, 2021 and 2020, our total Company contributions were $283 million, $246 million and $225 million, respectively. 
 
-### Note 8 — Debt Obligations
+## Note 8 — Debt Obligations
 
 The following table summarizes our debt obligations: 
 
@@ -10812,7 +10712,7 @@ The following table summarizes our debt obligations:
 
    - (b) The interest rates presented reflect weighted-average effective interest rates at year-end. See Note 9 for further information regarding our interest rate derivative instruments.
 
-As of December 31, 2022 and December 25, 2021, our international debt of $304 million and $38 million, respectively, was related to borrowings from external parties, including various lines of credit. These lines 95
+As of December 31, 2022 and December 25, 2021, our international debt of $304 million and $38 million, respectively, was related to borrowings from external parties, including various lines of credit. These lines 
 
 of credit are subject to normal banking terms and conditions and are fully committed at least to the extent of our borrowings. In 2022, we issued the following senior notes: 
 
@@ -10871,15 +10771,23 @@ of credit are subject to normal banking terms and conditions and are fully commi
 
 The net proceeds from the issuances of the above notes were used for general corporate purposes, including the repayment of commercial paper, except for an amount equivalent to the net proceeds from our 3.900% senior notes due 2032 that will be allocated to fund, in whole or in part, eligible green projects in the categories of investments in recycling and sustainable plastics and packaging, decarbonizing our operations and supply chain, water sustainability, and regenerative agriculture, which promote our selected Sustainable Development Goals, as defined by the United Nations. 
 
-96 
+In 2022, we entered into a new five-year unsecured revolving credit agreement (Five-Year Credit Agreement), which expires on May 27, 2027. The Five-Year Credit Agreement enables us and our borrowing subsidiaries to borrow up to $3.8 billion in U.S. dollars and/or euros, including a $0.75 billion swing line subfacility for euro-denominated borrowings permitted to be borrowed on a same-day basis, subject to customary terms and conditions. We may request that commitments under this agreement be increased up to $4.5 billion (or the equivalent amount in euros). Additionally, we may, once a year, request renewal of the agreement for an additional one-year period. The Five-Year Credit Agreement replaced our $3.75 billion five-year credit agreement, dated as of May 28, 2021. 
+
+Also in 2022, we entered into a new 364-day unsecured revolving credit agreement (364-Day Credit Agreement), which expires on May 26, 2023. The 364-Day Credit Agreement enables us and our borrowing subsidiaries to borrow up to $3.8 billion in U.S. dollars and/or euros, subject to customary terms and conditions. We may request that commitments under this agreement be increased up to $4.5 billion (or the equivalent amount in euros). We may request renewal of this facility for an additional 364-day period or convert any amounts outstanding into a term loan for a period of up to one year, which term loan would mature no later than the anniversary of the then effective termination date. The 364-Day Credit Agreement replaced our $3.75 billion 364-day credit agreement, dated as of May 28, 2021. 
+
+Funds borrowed under the Five-Year Credit Agreement and the 364-Day Credit Agreement may be used for general corporate purposes. Subject to certain conditions, we may borrow, prepay and reborrow amounts under these agreements. As of December 31, 2022, there were no outstanding borrowings under the Five-Year Credit Agreement or the 364-Day Credit Agreement. 
+
+In 2022, we paid $750 million to redeem all $750 million outstanding principal amount of our 2.25% senior notes due May 2022, we paid $800 million to redeem all $800 million outstanding principal amount of our 3.10% senior notes due July 2022 and we paid $154 million to redeem all $133 million outstanding principal amount of our subsidiary, Pepsi-Cola Metropolitan Bottling Company, Inc.’s 7.00% senior notes due March 2029 and 5.50% notes due May 2035. Additionally, we deposited $102 million of U.S. government securities with the Bank of New York Mellon, as trustee, in legal defeasance of $94 million outstanding principal amount of certain notes originally issued by our subsidiary, The Quaker Oats Company (Quaker notes). PepsiCo will be deemed to have paid and discharged the Quaker notes on April 12, 2023. 
 
 In 2021, we completed cash tender offers to redeem $4.1 billion principal amount of certain notes, with maturity dates ranging from May 2035 to March 2060 and interest rates ranging from 3.375% to 5.500%, for $4.8 billion in cash. As a result of the cash tender offers, we recorded a pre-tax charge of $842 million ($677 million after-tax or $0.49 per share) to net interest expense and other, primarily representing the tender price paid over the carrying value of the tendered notes and loss on treasury rate locks used to mitigate the interest rate risk on the cash tender offers. 
+
+Also in 2021, we paid $750 million to redeem all $750 million outstanding principal amount of our 1.70% senior notes due 2021 and terminated the associated interest rate swap with a notional amount of $250 million. 
 
 In 2020, we paid $1.1 billion to redeem all $1.1 billion outstanding principal amount of our 2.15% senior notes due 2020 and terminated associated interest rate swaps with a notional amount of $0.8 billion. 
 
 Also in 2020, one of our international consolidated subsidiaries borrowed 21.7 billion South African rand, or approximately $1.3 billion, from our two unsecured bridge loan facilities (Bridge Loan Facilities) to fund our acquisition of Pioneer Foods. These borrowings were fully repaid in April 2020 and no further borrowings under these Bridge Loan Facilities are permitted. 
 
-### Note 9 — Financial Instruments
+## Note 9 — Financial Instruments
 
 ### Derivatives and Hedging
 
@@ -10891,7 +10799,7 @@ We are exposed to market risks arising from adverse changes in:
 
 In the normal course of business, we manage commodity price, foreign exchange and interest rate risks through a variety of strategies, including productivity initiatives, global purchasing programs and hedging. Ongoing productivity initiatives involve the identification and effective implementation of meaningful cost-saving opportunities or efficiencies, including the use of derivatives. We do not use derivative instruments for trading or speculative purposes. Our global purchasing programs include fixed-price contracts and purchase orders and pricing agreements. 
 
-Our hedging strategies include the use of derivatives and, in the case of our net investment hedges, debt instruments. Certain derivatives are designated as either cash flow or fair value hedges and qualify for hedge accounting treatment, while others do not qualify and are marked to market through earnings. The accounting for qualifying hedges allows changes in a hedging instrument’s fair value to offset corresponding changes in the hedged item in the same reporting period that the hedged item impacts earnings. Gains or losses on derivatives designated as cash flow hedges are recorded in accumulated other comprehensive loss within common shareholders’ equity and reclassified to our income statement when the hedged transaction affects earnings. If it becomes probable that the hedged transaction will not occur, 97
+Our hedging strategies include the use of derivatives and, in the case of our net investment hedges, debt instruments. Certain derivatives are designated as either cash flow or fair value hedges and qualify for hedge accounting treatment, while others do not qualify and are marked to market through earnings. The accounting for qualifying hedges allows changes in a hedging instrument’s fair value to offset corresponding changes in the hedged item in the same reporting period that the hedged item impacts earnings. Gains or losses on derivatives designated as cash flow hedges are recorded in accumulated other comprehensive loss within common shareholders’ equity and reclassified to our income statement when the hedged transaction affects earnings. If it becomes probable that the hedged transaction will not occur, 
 
 we immediately recognize the related hedging gains or losses in earnings; such gains or losses reclassified during the year ended December 31, 2022 were not material. 
 
@@ -10913,7 +10821,7 @@ Our commodity derivatives had a total notional value of $1.8 billion as of Decem
 
 We are exposed to foreign exchange risks in the international markets in which our products are made, manufactured, distributed or sold. Additionally, we are exposed to foreign exchange risk from net investments in foreign subsidiaries, foreign currency purchases and foreign currency assets and liabilities created in the normal course of business. We manage this risk through sourcing purchases from local suppliers, negotiating contracts in local currencies with foreign suppliers and through the use of derivatives, primarily forward contracts with terms of no more than two years. Exchange rate gains or losses related to foreign currency transactions are recognized as transaction gains or losses on our income statement as incurred. We also use net investment hedges to partially offset the effects of foreign currency on our investments in certain of our foreign subsidiaries. 
 
-Our foreign currency derivatives had a total notional value of $3.0 billion as of December 31, 2022 and $2.8 billion as of December 25, 2021. The total notional amount of our debt instruments designated as net 98
+Our foreign currency derivatives had a total notional value of $3.0 billion as of December 31, 2022 and $2.8 billion as of December 25, 2021. The total notional amount of our debt instruments designated as net 
 
 investment hedges was $2.9 billion as of December 31, 2022 and $2.1 billion as of December 25, 2021. For foreign currency derivatives that do not qualify for hedge accounting treatment, gains and losses were offset by changes in the underlying hedged items, resulting in no material net impact on earnings. 
 
@@ -10925,7 +10833,7 @@ Our interest rate derivatives had a total notional value of $1.3 billion as of D
 
 As of December 31, 2022, approximately 1% of total debt was subject to variable rates, compared to approximately 2%, after the impact of the related interest rate derivative instruments, as of December 25, 2021. 
 
-### Debt Securities
+## Debt Securities
 
 ### Held-to-Maturity
 
@@ -10935,7 +10843,7 @@ Investments in debt securities that we have the positive intent and ability to h
 
 Investments in available-for-sale debt securities are reported at fair value. Changes in the fair value of available-for-sale debt securities are generally recognized in accumulated other comprehensive loss within common shareholders’ equity. Changes in the fair value of available-for-sale debt securities impact earnings only when such securities are sold, or an allowance for expected credit losses or impairment is recognized. We regularly evaluate our investment portfolio for expected credit losses and impairment. In making this judgment, we evaluate, among other things, the extent to which the fair value of a debt security is less than its amortized cost; the financial condition of the issuer, including the credit quality, and any changes thereto; and our intent to sell, or whether we will more likely than not be required to sell, the debt security before recovery of its amortized cost basis. Our assessment of whether a debt security has a credit loss or is impaired could change in the future due to new developments or changes in assumptions related to any particular debt security. 
 
-In 2022, we entered into an agreement with Celsius to distribute Celsius energy drinks in the United States (see Note 4 for further information) and invested $550 million in Series A convertible preferred shares issued by Celsius, which included certain conversion and redemption features. The preferred shares automatically convert into Celsius common shares after six years if certain market-based conditions are met, or can be redeemed after seven years. Shares underlying the transaction were priced at $75 per share, 99
+In 2022, we entered into an agreement with Celsius to distribute Celsius energy drinks in the United States (see Note 4 for further information) and invested $550 million in Series A convertible preferred shares issued by Celsius, which included certain conversion and redemption features. The preferred shares automatically convert into Celsius common shares after six years if certain market-based conditions are met, or can be redeemed after seven years. Shares underlying the transaction were priced at $75 per share, 
 
 and the preferred shares are entitled to a 5% annual dividend, payable either in cash or in-kind. Given our redemption right, we classified our investment in the convertible preferred stock as an available-for-sale debt security. There were no unrealized gains and losses on our investment as of December 31, 2022. There were no impairment charges related to our investment in the year ended December 31, 2022. 
 
@@ -11155,10 +11063,6 @@ The fair values of our financial assets and liabilities as of December 31, 2022 
 
 The carrying amounts of our cash and cash equivalents and short-term investments recorded at amortized cost approximate fair value (classified as Level 2 in the fair value hierarchy) due to their short-term maturity. The fair value of our debt obligations as of December 31, 2022 and December 25, 2021 was $35 billion and $43 billion, respectively, based upon prices of identical or similar instruments in the marketplace, which are considered Level 2 inputs. 
 
-100 
-
-Losses/(gains) on our hedging instruments are categorized as follows: 
-
 <table>
   <thead>
     <tr>
@@ -11284,7 +11188,7 @@ Losses/(gains) on our hedging instruments are categorized as follows:
 
 Based on current market conditions, we expect to reclassify net losses of $51 million related to our cash flow hedges from accumulated other comprehensive loss within common shareholders’ equity into net income during the next 12 months. 
 
-### Note 10 — Net Income Attributable to PepsiCo per Common Share
+## Note 10 — Net Income Attributable to PepsiCo per Common Share
 
 The computations of basic and diluted net income attributable to PepsiCo per common share are as follows: 
 
@@ -11413,9 +11317,7 @@ The computations of basic and diluted net income attributable to PepsiCo per com
 
 The weighted-average amount of antidilutive securities excluded from the calculation of diluted earnings per common share was immaterial for the years ended December 31, 2022, December 25, 2021 and December 26, 2020. 
 
-101 
-
-### Note 11 — Accumulated Other Comprehensive Loss Attributable to PepsiCo
+## Note 11 — Accumulated Other Comprehensive Loss Attributable to PepsiCo
 
 The changes in the balances of each component of accumulated other comprehensive loss attributable to PepsiCo are as follows: 
 
@@ -11632,15 +11534,13 @@ The changes in the balances of each component of accumulated other comprehensive
 
    - (a) The change in 2021 primarily comprises fair value increases in available-for-sale securities.
 
+   - (b) Pension and retiree medical amounts are net of taxes of $1,370 million as of December 28, 2019, $1,514 million as of December 26, 2020, $1,283 million as of December 25, 2021 and $1,184 million as of December 31, 2022.
+
    - (c) Currency translation adjustment primarily reflects depreciation of the Russian ruble and Mexican peso.
 
    - (d) Currency translation adjustment primarily reflects depreciation of the Turkish lira, Swiss franc and Mexican peso.
 
    - (e) Currency translation adjustment primarily reflects depreciation of the Egyptian pound and British pound sterling.
-
-102 
-
-The following table summarizes the reclassifications from accumulated other comprehensive loss to the income statement: 
 
 <table>
   <thead>
@@ -11889,7 +11789,7 @@ The following table summarizes the reclassifications from accumulated other comp
   </tbody>
 </table>
 
-### Note 12 — Leases
+## Note 12 — Leases
 
 ### Lessee
 
@@ -11898,10 +11798,6 @@ We determine whether an arrangement is a lease at inception. We have operating l
 As most of our leases do not provide an implicit rate, we use our incremental borrowing rate based on the information available at commencement date in determining the present value of lease payments. 
 
 We have lease agreements that contain both lease and non-lease components. For real estate leases, we account for lease components together with non-lease components (e.g., common-area maintenance). 
-
-103 
-
-Components of lease cost are as follows: 
 
 <table>
   <thead>
@@ -12121,13 +12017,13 @@ Weighted-average remaining lease term and discount rate for our operating leases
 
 We have various arrangements for certain foodservice and vending equipment under which we are the lessor. These leases meet the criteria for operating lease classification. Lease income associated with these leases is not material. 
 
-104 
-
-### Note 13 — Acquisitions and Divestitures
+## Note 13 — Acquisitions and Divestitures
 
 ### Juice Transaction
 
 In the first quarter of 2022, we sold our Tropicana, Naked and other select juice brands to PAI Partners for approximately $3.5 billion in cash, subject to purchase price adjustments, and a 39% noncontrolling interest in TBG, operating across North America and Europe. The North America portion of the transaction was completed on January 24, 2022 and the Europe portion of the transaction was completed on February 1, 2022. In the United States, PepsiCo acts as the exclusive distributor for TBG’s portfolio of brands for small-format and foodservice customers with chilled DSD. We have significant influence over our investment in TBG and account for our investment under the equity method, recognizing our proportionate share of TBG’s earnings on our income statement (recorded in selling, general and administrative expenses). 
+
+As a result of this transaction, in the year ended December 31, 2022, we recorded a gain in our PBNA and Europe divisions (see detailed income statement activity below), including $520 million related to the remeasurement of our 39% ownership in TBG at fair value using a combination of the transaction price, discounted cash flows and an option pricing model related to our liquidation preference in TBG. In the fourth quarter of 2022, we reached an agreement on final purchase price adjustments for net working capital and net debt amounts as of the transaction close date compared to targeted amounts set forth in the purchase agreement. 
 
 A summary of income statement activity related to the Juice Transaction for the year ended December 31, 2022 is as follows: 
 
@@ -12244,9 +12140,9 @@ In connection with the sale, we entered into a transition services agreement wit
 
 As of December 25, 2021, $1.8 billion of assets, primarily accounts receivable, net, and inventories of $0.5 billion, goodwill and other intangible assets of $0.6 billion and property, plant and equipment of $0.5 billion, and liabilities of $0.8 billion, primarily accounts payable and other liabilities of $0.6 billion and deferred income taxes of $0.2 billion, related to the Juice Transaction were reclassified as held for sale in our consolidated balance sheet. The Juice Transaction did not meet the criteria to be classified as discontinued operations. As of December 31, 2022, there were no amounts classified as held for sale. 
 
-105 
-
 ### 2020 Acquisitions
+
+On March 23, 2020, we acquired all of the outstanding shares of Pioneer Foods, a food and beverage company in South Africa with exports to countries across the globe, for 110.00 South African rand per share in cash. The total consideration transferred was approximately $1.2 billion and was funded by two unsecured bridge loan facilities entered into by one of our international consolidated subsidiaries, which were fully repaid in April 2020. 
 
 In connection with our acquisition of Pioneer Foods, we have made certain commitments to the South Africa Competition Commission, including a commitment to provide the equivalent of 8.8 billion South African rand, or approximately $0.5 billion as of the acquisition date, in value for the benefit of our employees, agricultural development, education, developing Pioneer Foods’ operations and enterprise development programs in South Africa. Included in this commitment is 2.3 billion South African rand, or approximately $0.1 billion, relating to the implementation of an employee ownership plan and an agricultural, entrepreneurship and educational development fund, which is an irrevocable condition of the acquisition. This commitment was recorded in selling, general and administrative expenses primarily in the year ended December 26, 2020 and was primarily settled in the fourth quarter of 2021. The remaining commitment of 6.5 billion South African rand, or approximately $0.4 billion as of the acquisition date, relates to capital expenditures and/or business-related costs which will be incurred and recorded over a fiveyear period from the acquisition date. 
 
@@ -12340,8 +12236,6 @@ We accounted for the 2020 transactions as business combinations. We recognized a
     </tr>
   </tbody>
 </table>
-
-106 
 
 Goodwill is calculated as the excess of the aggregate of the fair value of the consideration transferred over the fair value of the net assets recognized. 
 
@@ -12526,9 +12420,7 @@ A summary of our acquisition and divestiture-related charges is as follows:
 
    - (a) In 2021, the income amount primarily relates to the acceleration payment made in the fourth quarter of 2021 under the contingent consideration arrangement associated with our acquisition of Rockstar, which is partially offset by divestiture-related charges associated with the Juice Transaction. In 2020, the income amount primarily relates to the change in the fair value of the Rockstar contingent consideration.
 
-107 
-
-### Note 14 — Supplemental Financial Information
+## Note 14 — Supplemental Financial Information
 
 ### Balance Sheet
 
@@ -12970,10 +12862,6 @@ A summary of our acquisition and divestiture-related charges is as follows:
 
    - (d) Includes adjustments related primarily to currency translation and other adjustments.
 
-108 
-
-   - (e) Increase reflects higher commodity costs in 2022. Approximately 9% and 7% of the inventory cost in 2022 and 2021, respectively, were computed using the LIFO method. The differences between LIFO and FIFO methods of valuing these inventories were not material. See Note 2 for further information.
-
    - (f) See Note 2 for further information.
 
    - (g) See Note 7 for further information.
@@ -13070,9 +12958,7 @@ The following table provides a reconciliation of cash and cash equivalents and r
 
    - (a) Primarily relates to collateral posted against certain of our derivative positions.
 
-109 
-
-### Report of Independent Registered Public Accounting Firm
+## Report of Independent Registered Public Accounting Firm
 
 To the Shareholders and Board of Directors PepsiCo, Inc.: 
 
@@ -13090,8 +12976,6 @@ We conducted our audits in accordance with the standards of the PCAOB. Those sta
 
 Our audits of the consolidated financial statements included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements. Our audit of internal control over financial reporting included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. Our audits also included performing such other procedures as we considered necessary in the circumstances. We believe that our audits provide a reasonable basis for our opinions. 
 
-110 
-
 ### Definition and Limitations of Internal Control Over Financial Reporting
 
 A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the financial statements. 
@@ -13108,7 +12992,7 @@ As discussed in Note 2 to the consolidated financial statements, the Company off
 
 We identified the evaluation of certain of the Company’s sales incentive accruals as a critical audit matter. Subjective and complex auditor judgment is required in evaluating these sales incentive accruals as a result of the timing difference between when the product is delivered and when the incentive is settled. This specifically related to (1) forecasted customer and consumer participation and performance level assumptions underlying the accrual, and (2) the impact of historical experience and trends. 
 
-The following are the primary procedures we performed to address this critical audit matter. We evaluated the design and tested the operating effectiveness of certain internal controls related to the sales incentive process, including controls related to (1) the accrual methodology, (2) assumptions around forecasted customer and consumer participation, (3) performance levels, and (4) monitoring of actual sales incentives incurred compared to estimated sales incentives in respect of historical periods. To evaluate the timing and amount of certain accrued sales incentives we (1) analyzed the accrual by sales incentive type as compared to historical trends to identify specific sales incentives that may require additional testing, (2) recalculated expenses and closing accruals on a sample basis, 111
+The following are the primary procedures we performed to address this critical audit matter. We evaluated the design and tested the operating effectiveness of certain internal controls related to the sales incentive process, including controls related to (1) the accrual methodology, (2) assumptions around forecasted customer and consumer participation, (3) performance levels, and (4) monitoring of actual sales incentives incurred compared to estimated sales incentives in respect of historical periods. To evaluate the timing and amount of certain accrued sales incentives we (1) analyzed the accrual by sales incentive type as compared to historical trends to identify specific sales incentives that may require additional testing, (2) recalculated expenses and closing accruals on a sample basis, 
 
 based on volumes sold and terms of the sales incentives, (3) assessed the Company’s ability to accurately estimate its sales incentive accrual by comparing previously established accruals to actual settlements, and (4) tested a sample of settlements or claims that occurred after period end, and compared them to the recorded sales incentive accrual. 
 
@@ -13124,7 +13008,7 @@ The following are the primary procedures we performed to address this critical a
 
 As discussed in Note 5 to the consolidated financial statements, the Company’s global operating model gives rise to income tax obligations in the United States and in certain foreign jurisdictions in which it operates. As of December 31, 2022, the Company recorded reserves for unrecognized tax benefits of $1.9 billion. The Company establishes reserves if it believes that certain positions taken in its tax returns are subject to challenge and the Company likely will not succeed, even though the Company believes the tax return position is supportable under the tax law. The Company adjusts these reserves, as well as the related interest, in light of new information, such as the progress of a tax examination, new tax law, relevant court rulings or tax authority settlements. 
 
-We identified the evaluation of certain of the Company’s unrecognized tax benefits as a critical audit matter because the application of tax law and interpretation of a tax authority’s settlement history is complex and involves subjective judgment. Such judgments impact both the timing and amount of 112
+We identified the evaluation of certain of the Company’s unrecognized tax benefits as a critical audit matter because the application of tax law and interpretation of a tax authority’s settlement history is complex and involves subjective judgment. Such judgments impact both the timing and amount of 
 
 the reserves that are recognized, including judgments about re-measuring liabilities for positions taken in prior years’ tax returns in light of new information. 
 
@@ -13132,23 +13016,37 @@ The following are the primary procedures we performed to address this critical a
 
 /s/ KPMG LLP 
 
-We have served as the Company’s auditor since 1990. New York, New York February 8, 2023 113
+We have served as the Company’s auditor since 1990. New York, New York February 8, 2023 
 
-### GLOSSARY
+## GLOSSARY
 
-**Acquisitions and divestitures** : mergers and acquisitions activity, as well as divestitures and other structural changes, including changes in ownership or control in consolidated subsidiaries and nonconsolidated equity investees. 
+### Acquisitions and divestitures
 
-**Bottler Case Sales (BCS)** : measure of physical beverage volume shipped to retailers and independent distributors from both PepsiCo and our independent bottlers. 
+: mergers and acquisitions activity, as well as divestitures and other structural changes, including changes in ownership or control in consolidated subsidiaries and nonconsolidated equity investees.
 
-**Bottler funding** : financial incentives we give to our independent bottlers to assist in the distribution and promotion of our beverage products. 
+### Bottler Case Sales (BCS)
 
-**Concentrate Shipments and Equivalents (CSE)** : measure of our physical beverage volume shipments to independent bottlers. 
+: measure of physical beverage volume shipped to retailers and independent distributors from both PepsiCo and our independent bottlers.
 
-**Constant currency** : financial results assuming constant foreign currency exchange rates used for translation based on the rates in effect for the comparable prior-year period. In order to compute our constant currency results, we multiply or divide, as appropriate, our current year U.S. dollar results by the current year average foreign exchange rates and then multiply or divide, as appropriate, those amounts by the prior year average foreign exchange rates. 
+### Bottler funding
 
-**Consumers** : people who eat and drink our products. 
+: financial incentives we give to our independent bottlers to assist in the distribution and promotion of our beverage products.
 
-**CSD** : carbonated soft drinks. 
+### Concentrate Shipments and Equivalents (CSE)
+
+: measure of our physical beverage volume shipments to independent bottlers.
+
+### Constant currency
+
+: financial results assuming constant foreign currency exchange rates used for translation based on the rates in effect for the comparable prior-year period. In order to compute our constant currency results, we multiply or divide, as appropriate, our current year U.S. dollar results by the current year average foreign exchange rates and then multiply or divide, as appropriate, those amounts by the prior year average foreign exchange rates.
+
+### Consumers
+
+: people who eat and drink our products.
+
+### CSD
+
+: carbonated soft drinks.
 
 **Customers** : authorized independent bottlers, distributors and retailers. 
 
@@ -13168,47 +13066,55 @@ We have served as the Company’s auditor since 1990. New York, New York Februar
 
 **Transaction gains and losses** : the impact on our consolidated financial statements of exchange rate changes arising from specific transactions. 
 
-114 
+## Translation adjustment
 
-**Translation adjustment** : the impact of converting our foreign affiliates’ financial statements into U.S. dollars for the purpose of consolidating our financial statements. 
+: the impact of converting our foreign affiliates’ financial statements into U.S. dollars for the purpose of consolidating our financial statements.
 
-115 
-
-### Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+## Item 7A. Quantitative and Qualitative Disclosures About Market Risk
 
 Included in “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations – Our Business Risks.” 
 
-### Item 8. Financial Statements and Supplementary Data
+## Item 8. Financial Statements and Supplementary Data
 
 See “Item 15. Exhibits and Financial Statement Schedules.” 
 
-### Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+## Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
 
 Not applicable. 
 
-### Item 9A. Controls and Procedures
+## Item 9A. Controls and Procedures
 
-_**(b) Management’s Annual Report on Internal Control over Financial Reporting.**_ Our management is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Rule 13a-15(f) of the Exchange Act. Under the supervision and with the participation of our management, including our Chief Executive Officer and Chief Financial Officer, we conducted an evaluation of the effectiveness of our internal control over financial reporting based upon criteria established in _Internal Control – Integrated Framework_ (2013) by the Committee of Sponsoring Organizations of the Treadway Commission. Based on that evaluation, our management concluded that our internal control over financial reporting was effective as of December 31, 2022. 
+### (a) Disclosure Controls and Procedures
 
-_**Attestation Report of the Registered Public Accounting Firm**_ **.** KPMG LLP, an independent registered public accounting firm, has audited the consolidated financial statements included in this Annual Report on Form 10-K and, as part of their audit, has issued their report, included herein, on the effectiveness of our internal control over financial reporting. 
+As of the end of the period covered by this report, we carried out an evaluation, under the supervision and with the participation of our management, including our Chief Executive Officer and Chief Financial Officer, of the effectiveness of the design and operation of our disclosure controls and procedures, as such term is defined in Rules 13a15(e) and 15d-15(e) of the Securities Exchange Act of 1934, as amended (the Exchange Act). Based upon that evaluation, our Chief Executive Officer and Chief Financial Officer concluded that as of the end of the period covered by this report our disclosure controls and procedures were effective to ensure that information required to be disclosed by us in reports we file or submit under the Exchange Act is (1) recorded, processed, summarized and reported within the time periods specified in Securities and Exchange Commission rules and forms, and (2) accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure.
 
-_**(c) Changes in Internal Control over Financial Reporting.**_ During our fourth quarter of 2022, we continued migrating certain of our financial processing systems to an Enterprise Resource Planning (ERP) solution. These systems implementations are part of our ongoing global business transformation initiative, and we plan to continue implementing such systems throughout other parts of our businesses in phases over the next several years. In connection with these ERP implementations, we are updating and will continue to update our internal control over financial reporting, as necessary, to accommodate modifications to our business processes and accounting procedures. During 2022, we continued implementing these systems, resulting in changes that materially affected our internal control over financial reporting. These system implementations did not have an adverse effect, nor do we expect will have an adverse effect, on our internal control over financial reporting. In addition, in connection with our 2019 multi-year productivity plan, we continue to migrate to shared business models across our operations to further simplify, harmonize and automate processes. In connection with our 2019 multi-year 116
+### (b) Management’s Annual Report on Internal Control over Financial Reporting
+
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Rule 13a-15(f) of the Exchange Act. Under the supervision and with the participation of our management, including our Chief Executive Officer and Chief Financial Officer, we conducted an evaluation of the effectiveness of our internal control over financial reporting based upon criteria established in _Internal Control – Integrated Framework_ (2013) by the Committee of Sponsoring Organizations of the Treadway Commission. Based on that evaluation, our management concluded that our internal control over financial reporting was effective as of December 31, 2022.
+
+### Attestation Report of the Registered Public Accounting Firm
+
+**.** KPMG LLP, an independent registered public accounting firm, has audited the consolidated financial statements included in this Annual Report on Form 10-K and, as part of their audit, has issued their report, included herein, on the effectiveness of our internal control over financial reporting.
+
+### (c) Changes in Internal Control over Financial Reporting
+
+During our fourth quarter of 2022, we continued migrating certain of our financial processing systems to an Enterprise Resource Planning (ERP) solution. These systems implementations are part of our ongoing global business transformation initiative, and we plan to continue implementing such systems throughout other parts of our businesses in phases over the next several years. In connection with these ERP implementations, we are updating and will continue to update our internal control over financial reporting, as necessary, to accommodate modifications to our business processes and accounting procedures. During 2022, we continued implementing these systems, resulting in changes that materially affected our internal control over financial reporting. These system implementations did not have an adverse effect, nor do we expect will have an adverse effect, on our internal control over financial reporting. In addition, in connection with our 2019 multi-year productivity plan, we continue to migrate to shared business models across our operations to further simplify, harmonize and automate processes. In connection with our 2019 multi-year
 
 productivity plan and resulting business process changes, we continue to enhance the design and documentation of our internal control over financial reporting processes, to maintain effective controls over our financial reporting. These business process changes have not materially affected, and we do not expect them to materially affect, our internal control over financial reporting. 
 
 Except with respect to the continued implementation of ERP systems, there have been no changes in our internal control over financial reporting during our fourth quarter of 2022 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. We will continue to assess the impact on our internal control over financial reporting as we continue to implement our ERP solution and our 2019 multi-year productivity plan. 
 
-### Item 9B. Other Information
+## Item 9B. Other Information
 
 Not applicable. 
 
-### Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+## Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
 
 Not applicable. 
 
 ## PART III
 
-**Item 10. Directors, Executive Officers and Corporate Governance.**
+## Item 10. Directors, Executive Officers and Corporate Governance
 
 Information about our directors and persons nominated to become directors is contained under the caption “Election of Directors” in our Proxy Statement for our 2023 Annual Meeting of Shareholders to be filed with the SEC within 120 days of the year ended December 31, 2022 (the 2023 Proxy Statement) and is incorporated herein by reference. Information about our executive officers is reported under the caption “Information About Executive Officers” in Part I of this report. 
 
@@ -13220,31 +13126,29 @@ Information about the procedures by which security holders may recommend nominee
 
 Information concerning the composition of the Audit Committee and our Audit Committee financial experts is contained in our 2023 Proxy Statement under the caption “Corporate Governance at PepsiCo – Committees of the Board of Directors – Audit Committee” and is incorporated herein by reference. 
 
-### Item 11. Executive Compensation
+## Item 11. Executive Compensation
 
-Information about director and executive officer compensation, Compensation Committee interlocks and the Compensation Committee Report is contained in our 2023 Proxy Statement under the captions “2022 117
+Information about director and executive officer compensation, Compensation Committee interlocks and the Compensation Committee Report is contained in our 2023 Proxy Statement under the captions “2022 
 
 Director Compensation,” “Executive Compensation,” “Corporate Governance at PepsiCo – Committees of the Board of Directors – Compensation Committee – Compensation Committee Interlocks and Insider Participation” and “Executive Compensation – Compensation Committee Report” and is incorporated herein by reference. 
 
-### Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+## Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
 
 Information with respect to securities authorized for issuance under equity compensation plans can be found under the caption “Executive Compensation – Securities Authorized for Issuance Under Equity Compensation Plans” in our 2023 Proxy Statement and is incorporated herein by reference. 
 
 Information on the number of shares of PepsiCo Common Stock beneficially owned by each director and named executive officer, by all directors and executive officers as a group and on each beneficial owner of more than 5% of PepsiCo Common Stock is contained under the caption “Ownership of PepsiCo Common Stock” in our 2023 Proxy Statement and is incorporated herein by reference. 
 
-### Item 13. Certain Relationships and Related Transactions, and Director Independence
+## Item 13. Certain Relationships and Related Transactions, and Director Independence
 
 Information with respect to certain relationships and related transactions and director independence is contained under the captions “Corporate Governance at PepsiCo – Related Person Transactions” and “Corporate Governance at PepsiCo – Director Independence” in our 2023 Proxy Statement and is incorporated herein by reference. 
 
-### Item 14. Principal Accounting Fees and Services
+## Item 14. Principal Accounting Fees and Services
 
 Information on our Audit Committee’s pre-approval policy and procedures for audit and other services and information on our principal accountant fees and services is contained in our 2023 Proxy Statement under the caption “Ratification of Appointment of Independent Registered Public Accounting Firm – Audit and Other Fees” and is incorporated herein by reference. 
 
-118 
-
 ## PART IV
 
-**Item 15. Exhibits and Financial Statement Schedules.**
+## Item 15. Exhibits and Financial Statement Schedules
 
    - (a) 1. Financial Statements
 
@@ -13266,15 +13170,15 @@ These schedules are omitted because they are not required or because the informa
 
    - (a) 3. Exhibits See Index to Exhibits.
 
-### Item 16. Form 10-K Summary
+## Item 16. Form 10-K Summary
 
    - None. 
 
-119 
-
-### INDEX TO EXHIBITS ITEM 15(a)(3)
+## INDEX TO EXHIBITS ITEM 15(a)(3)
 
 The following is a list of the exhibits filed as part of this Form 10-K. The documents incorporated by reference can be viewed on the SEC’s website at http://www.sec.gov. 
+
+## EXHIBIT
 
 <table>
   <thead>
@@ -14379,7 +14283,13 @@ The following is a list of the exhibits filed as part of this Form 10-K. The doc
   </tbody>
 </table>
 
+- 10. 19 PepsiCo, Inc. Executive Incentive Compensation Plan (as amended and restated effective February 4, 2021), which is incorporated by reference to Exhibit 10.20 to PepsiCo, Inc.’s Annual Report on Form 10-K for the fiscal year ended December 26, 2020.*
+
 - 10. 20 Form of Annual Long-Term Incentive Award Agreement, which is incorporated herein by reference to ’ -
+
+- Exhibit 10.1 to PepsiCo, Inc. s Quarterly Report on Form 10 Q for the quarterly period ended March 23, 2019.* 
+
+- 10. 21 PepsiCo Executive Income Deferral Program (Plan Document for the Pre-409A Program), amended and restated effective as of January 1, 2019, which is incorporated by reference to Exhibit 10.35 to PepsiCo, Inc.’s Annual Report on Form 10-K for the fiscal year ended December 28, 2019.*
 
 - 10. 22 Form of Annual Long-Term Incentive Award Agreement, which is incorporated herein by reference to ’ -
 
@@ -14409,13 +14319,17 @@ The following is a list of the exhibits filed as part of this Form 10-K. The doc
 
 - 104 The cover page from the Company’s Annual Report on Form 10-K for the fiscal year ended December 31, 2022, formatted in Inline XBRL and contained in Exhibit 101. 
 
-### SIGNATURES
+- Management contracts and compensatory plans or arrangements required to be filed as exhibits pursuant to Item 15(a)(3) of this report. 
+
+## SIGNATURES
 
 Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, PepsiCo has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
 
 Dated: February 8, 2023 PepsiCo, Inc.
 
-By: /s/ Ramon L. Laguarta Ramon L. Laguarta Chairman of the Board of Directors and Chief Executive Officer 127
+By: /s/ Ramon L. Laguarta Ramon L. Laguarta Chairman of the Board of Directors and Chief Executive Officer 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of PepsiCo and in the capacities and on the date indicated. 
 
 <table>
   <thead>
@@ -14429,19 +14343,17 @@ By: /s/ Ramon L. Laguarta Ramon L. Laguarta Chairman of the Board of Directors a
   </tbody>
 </table>
 
-128 
+## Description of Securities
 
-### Exhibit 4.65
+## Registered Pursuant to Section 12 of the Securities Exchange Act of 1934
 
-### Description of Securities
+As used below, the terms “PepsiCo,” the “Company,” “we,” “us,” and “our” refer to PepsiCo, Inc., as issuer of the following securities registered pursuant to Section 12 of the Securities Exchange Act of 1934, as amended: (i) common stock, par value one and two-thirds cents (1-2/3 cents) per share (the “common stock”), (ii)  0.250% Senior Notes due 2024 (the “2024 notes”), (iii) 2.625% Senior Notes due 2026 (the “2026 notes”), (iv) 0.750% Senior Notes due 2027 (the “2027 notes”), (v) 0.500% Senior Notes due 2028 (the “May 2028 notes”), (vi) 0.875% Senior Notes due 2028 (the “July 2028 notes”), (vii) 3.200% Senior Notes due 2029 (the “2029 notes”), (viii) 1.125% Senior Notes due 2031 (the “2031 notes”), (ix) 0.400% Senior Notes due 2032 (the “2032 notes”), (x) 0.750% Senior Notes due 2033 (the “2033 notes”), (xi) 3.550% Senior Notes due 2034 (the “2034 notes,” and together with the 2029 notes, the “sterling notes”), (xii) 0.875% Senior Notes due 2039 (the “2039 notes”) and (xiii) 1.050% Senior Notes due 2050 (the “2050 notes,” and together with the 2024 notes, 2026 notes, 2027 notes, May 2028 notes, July 2028 notes, 2031 notes, 2032 notes, 2033 notes and 2039 notes, the “euro notes,” and the euro notes together with the sterling notes, the “notes”). 
 
-### Registered Pursuant to Section 12 of the Securities Exchange Act of 1934
-
-### DESCRIPTION OF COMMON STOCK
+## DESCRIPTION OF COMMON STOCK
 
 The following description of our common stock is based upon our Amended and Restated Articles of Incorporation, effective as of May 1, 2019 (“Articles of Incorporation”), our By-Laws, as amended and restated, effective as of April 15, 2020 (“By-Laws”) and applicable provisions of law. We have summarized certain portions of the Articles of Incorporation and ByLaws below. The summary is not complete. The Articles of Incorporation and By-Laws are incorporated by reference as exhibits to the Annual Report on Form 10-K to which this exhibit is a part. You should read the Articles of Incorporation and By-Laws for the provisions that are important to you. 
 
-### General
+## General
 
 Our Articles of Incorporation authorize us to issue 3,600,000,000 shares of common stock, par value one and two-thirds cents (1-2/3 cents) per share. As of February 2, 2023, there were 1,377,251,316 shares of common stock outstanding which were held of record by 98,573 shareholders. 
 
@@ -14453,33 +14365,29 @@ _Rights Upon Liquidation._ Holders of our common stock are entitled to share pro
 
 _Preemptive Rights._ Holders of our common stock do not have the right to subscribe for, purchase or receive new or additional common stock or other securities. 
 
-### Transfer Agent and Registrar
+## Transfer Agent and Registrar
 
 Computershare Trust Company, N.A. is the transfer agent and registrar for our common stock. 
 
-2 
-
-### Stock Exchange Listing
+## Stock Exchange Listing
 
 The Nasdaq Global Select Market is the principal market for our common stock, where it is listed under the symbol “PEP,” and our common stock is also listed on the SIX Swiss Exchange. 
 
-### Certain Provisions of PepsiCo’s Articles of Incorporation and By Laws; Director Indemnification Agreements
+## Certain Provisions of PepsiCo’s Articles of Incorporation and By Laws; Director Indemnification Agreements
 
 _Advance Notice of Proposals and Nominations._ Our By-Laws provide that shareholders must provide timely written notice to bring business before an annual meeting of shareholders or to nominate candidates for election as directors at an annual meeting of shareholders. Notice for an annual meeting is generally timely if it is received at our principal office not less than 90 days nor more than 120 days prior to the first anniversary of the preceding year’s annual meeting. However, if the date of the annual meeting is advanced by more than 30 days or delayed more than 60 days from this anniversary date, or if no annual meeting was held in the preceding year, such notice by the shareholder must be delivered not earlier than the 120th day prior to the annual meeting and not later than the close of business on the later of the 90th day prior to such annual meeting or the tenth day following the day on which public announcement of the date of such annual meeting was first made. Shareholders utilizing “proxy access” must meet separate deadlines. The By-Laws also specify the form and content of a shareholder’s notice. These provisions may prevent shareholders from bringing matters before an annual meeting of shareholders or from nominating candidates for election as directors at an annual meeting of shareholders. 
 
 _Proxy Access._ Our By-Laws contain “proxy access” provisions which give an eligible shareholder (or a group of up to 20 shareholders aggregating their shares) that has owned 3% or more of the outstanding common stock continuously for at least three years the right to nominate the greater of two nominees and 20% of the number of directors to be elected at the applicable annual general meeting, and to have those nominees included in our proxy materials, subject to the other terms and conditions of our By-Laws. 
 
-3 
-
 _Special Meetings._ A special meeting of the shareholders may be called by the Chairman of the Board, by resolution of the Board or by our corporate secretary upon written request of one or more shareholders holding shares of record representing at least 20% in the aggregate of our outstanding common stock entitled to vote at such meeting. Any such special meeting called at the request of our shareholders will be held at such date, time and place (if any) as may be fixed by our Board, provided that the date of such special meeting may not be more than 90 days from the receipt of such request by the corporate secretary. The ByLaws specify the form and content of a shareholder’s request for a special meeting. 
 
 _Indemnification of Directors, Officers and Employees._ Our By-Laws provide that unless the Board determines otherwise, we shall indemnify, to the full extent permitted by law, any person who was or is, or who is threatened to be made, a party to an action, suit or proceeding (including appeals), whether civil, criminal, administrative, investigative or arbitrative, by reason of the fact that such person, such person’s testator or intestate, is or was one of our directors, officers or employees, or is or was serving at our request as a director, officer or employee of another enterprise, against expenses (including attorneys’ fees), judgments, fines and amounts paid in settlement actually and reasonably incurred by such person in connection with such action, suit or proceeding. Pursuant to our By-Laws this indemnification may, at the Board’s discretion, also include advancement of expenses prior to the final disposition of such action, suit or proceeding. 
 
-In addition, we have entered into indemnification agreements with each of our independent directors, pursuant to which we have agreed to indemnify and hold harmless, to the full extent permitted by law, each director against any and all liabilities and assessments (including attorneys’ fees and other costs, expenses and obligations) arising out of or related to any threatened, pending or completed action, suit, proceeding, inquiry or investigation, whether civil, criminal, administrative, or other, including, but not limited to, judgments, fines, penalties and amounts paid in settlement (whether with or without court approval), and any interest, assessments, excise taxes or other charges paid or payable in connection with or in respect of any of the foregoing, incurred by the independent director and arising out of his status as a director or 4
+In addition, we have entered into indemnification agreements with each of our independent directors, pursuant to which we have agreed to indemnify and hold harmless, to the full extent permitted by law, each director against any and all liabilities and assessments (including attorneys’ fees and other costs, expenses and obligations) arising out of or related to any threatened, pending or completed action, suit, proceeding, inquiry or investigation, whether civil, criminal, administrative, or other, including, but not limited to, judgments, fines, penalties and amounts paid in settlement (whether with or without court approval), and any interest, assessments, excise taxes or other charges paid or payable in connection with or in respect of any of the foregoing, incurred by the independent director and arising out of his status as a director or 
 
 member of a committee of our Board, or by reason of anything done or not done by the director in such capacities. After receipt of an appropriate request by an independent director, we will also advance all expenses, costs and other obligations (including attorneys’ fees) arising out of or related to such matters. We will not be liable for payment of any liability or expense incurred by an independent director on account of acts which, at the time taken, were known or believed by such director to be clearly in conflict with our best interests. 
 
-### Certain Anti
+Certain Anti
 
 **Takeover Effects of North Carolina Law**
 
@@ -14489,17 +14397,21 @@ The North Carolina Shareholder Protection Act generally requires the affirmative
 
 The North Carolina Shareholder Protection Act contains provisions that allowed a corporation to “opt out” of the applicability of the North Carolina Shareholder Protection Act’s voting provisions within specified time periods that generally have expired. The Act applies to PepsiCo since we did not opt out within these time periods. 
 
-This statute could discourage a third party from making a partial tender offer or otherwise attempting to obtain a substantial position in our equity securities or seeking to obtain control of us. It also might limit the price that certain investors might be willing to pay in the future for our 5
+This statute could discourage a third party from making a partial tender offer or otherwise attempting to obtain a substantial position in our equity securities or seeking to obtain control of us. It also might limit the price that certain investors might be willing to pay in the future for our 
 
 shares of common stock and may have the effect of delaying or preventing a change of control of us. 
 
-### DESCRIPTION OF NOTES
+## DESCRIPTION OF NOTES
 
-### General
+We have previously filed a registration statement on Form S-3 (File No. 333-177307), which was filed with the Securities and Exchange Commission (the “SEC”) on October 13, 2011 and covers the issuance of the 2026 notes, a registration statement on Form S-3 (File No. 333-197640), which was filed with the SEC on July 25, 2014 and covers the issuance of the July 2028 notes, a registration statement on Form S-3 (File No. 333-216082), which was filed with the SEC on February 15, 2017 and covers the issuance of the 2027 notes, 2031 notes and 2039 notes and a registration statement on Form S-3 (File No. 333234767), which was filed with the SEC on November 18, 2019 and covers the issuance of the sterling notes, 2024 notes, May 2028 notes, 2032 notes, 2033 notes and 2050 notes. 
+
+The notes were issued under an indenture dated as of May 21, 2007 between us and The Bank of New York Mellon, as trustee (the “indenture”). Below we have summarized certain terms and provisions of the indenture. The summary is not complete. The indenture has been incorporated by reference as an exhibit to the Annual Report on Form 10-K to which this exhibit is a part. You should read the indenture for the provisions which may be important to you. The indenture is subject to and governed by the Trust Indenture Act of 1939, as amended. 
+
+## General
 
 _Principal Amounts; Interest Payments and Record Dates; Listing_ . The 2024 notes were initially limited to an aggregate principal amount of €1,000,000,000. The 2024 notes bear interest, payable annually on each May 6, to the persons in whose names such notes are registered at the close of business on April 22 (whether or not a business day), immediately preceding such May 6. The 2024 notes will mature on May 6, 2024. The 2024 notes are listed on the Nasdaq Stock Market under the symbol “PEP24”. 
 
-6 
+The 2026 notes were initially limited to an aggregate principal amount of €500,000,000. The 2026 notes bear interest, payable annually on each April 28, to the persons in whose names such notes are registered at the close of business on April 13 (whether or not a business day), immediately preceding such April 28. The 2026 notes will mature on April 28, 2026. The 2026 notes are listed on the Nasdaq Stock Market under the symbol “PEP26”. 
 
 The 2027 notes were initially limited to an aggregate principal amount of €500,000,000. The 2027 notes bear interest, payable annually on each March 18, to the persons in whose names such notes are registered at the close of business on March 3 (whether or not a business day), immediately preceding such March 18. The 2027 notes will mature on March 18, 2027. The 2027 notes are listed on the Nasdaq Stock Market under the symbol “PEP27”. 
 
@@ -14507,7 +14419,7 @@ The May 2028 notes were initially limited to an aggregate principal amount of �
 
 The July 2028 notes were initially limited to an aggregate principal amount of €750,000,000. The July 2028 notes bear interest, payable annually on each July 18, to the persons in whose names such notes are registered at the close of business on July 3 (whether or not a business day), immediately preceding such July 18. The July 2028 notes will mature on July 18, 2028. The July 2028 notes are listed on the Nasdaq Stock Market under the symbol “PEP28”. 
 
-The 2029 notes were initially limited to an aggregate principal amount of £300,000,000. The 2029 notes bear interest, payable semi-annually on each January 22 and July 22, to the persons in whose names such notes are registered at the close of business on each January 8 and July 8, as the case may be (whether or not a business day), immediately preceding such January 7
+The 2029 notes were initially limited to an aggregate principal amount of £300,000,000. The 2029 notes bear interest, payable semi-annually on each January 22 and July 22, to the persons in whose names such notes are registered at the close of business on each January 8 and July 8, as the case may be (whether or not a business day), immediately preceding such January 
 
 22 and July 22. The 2029 notes will mature on July 22, 2029. The 2029 notes are listed on the Nasdaq Stock Market under the symbol “PEP29”. 
 
@@ -14515,9 +14427,11 @@ The 2031 notes were initially limited to an aggregate principal amount of €500
 
 The 2032 notes were initially limited to an aggregate principal amount of €750,000,000. The 2032 notes bear interest, payable annually on each October 9 to the persons in whose names such notes are registered at the close of business on September 25 (whether or not a business day), immediately preceding such October 9. The 2032 notes will mature on October 9, 2032. The 2032 notes are listed on the Nasdaq Stock Market under the symbol “PEP32”. 
 
+The 2033 notes were initially limited to an aggregate principal amount of €1,000,000,000. The 2033 notes bear interest, payable annually on each October 14 to the persons in whose names such notes are registered at the close of business on September 30 (whether or not a business day), immediately preceding such October 14. The 2033 notes will mature on October 14, 2033. The 2033 notes are listed on the Nasdaq Stock Market under the symbol “PEP33”. 
+
 The 2034 notes were initially limited to an aggregate principal amount of £450,000,000. The 2034 notes bear interest, payable semi-annually on each January 22 and July 22, to the persons in whose names such notes are registered at the close of business on each January 8 and July 8, as the case may be (whether or not a business day), immediately preceding such January 22 and July 22. The 2034 notes will mature on July 22, 2034. The 2034 notes are listed on the Nasdaq Stock Market under the symbol “PEP34”. 
 
-The 2039 notes were initially limited to an aggregate principal amount of €500,000,000. The 2039 notes bear interest, payable annually on each October 16, to the persons in whose 8
+The 2039 notes were initially limited to an aggregate principal amount of €500,000,000. The 2039 notes bear interest, payable annually on each October 16, to the persons in whose 
 
 names such notes are registered at the close of business on October 1 (whether or not a business day), immediately preceding such October 16. The 2039 notes will mature on October 16, 2039. The 2039 notes are listed on the Nasdaq Stock Market under the symbol “PEP39”. 
 
@@ -14533,7 +14447,7 @@ _Minimum Denominations_ . The sterling notes were issued in minimum denomination
 
 _Global Notes_ . The notes of each series are in the form of one or more global notes that we deposited with or on behalf of a common depositary for the accounts of Euroclear Bank S.A./N.V., or its successor, as operator of the Euroclear System (“Euroclear”) and Clearstream Banking, société anonyme (“Clearstream”) and are registered in the name of the nominee of the common depositary. 
 
-_Paying Agent_ . We have initially appointed The Bank of New York Mellon, London Branch to act as paying agent and transfer agent in connection with the notes as well as to serve 9
+_Paying Agent_ . We have initially appointed The Bank of New York Mellon, London Branch to act as paying agent and transfer agent in connection with the notes as well as to serve 
 
 as the common depositary for the notes. The Bank of New York Mellon, London Branch is an affiliate of the trustee. The term “paying agent” shall include The Bank of New York Mellon, London Branch and any successors appointed from time to time in accordance with the provisions of the indenture. 
 
@@ -14549,7 +14463,7 @@ The term “business day” with respect to the euro notes means any day, other 
 
 _Interest Payments_ . Each series of notes will bear interest at the per annum rate stated in its title. Interest on the notes will be computed on the basis of the actual number of days in the period for which interest is being calculated and the actual number of days from and including the date from which interest begins to accrue for the period to, but excluding, the next scheduled interest payment date. This payment convention is referred to as ACTUAL/ACTUAL (ICMA) as defined in the rulebook of the International Capital Markets Association. 
 
-### Optional Redemption
+## Optional Redemption
 
 ### Sterling Notes
 
@@ -14571,15 +14485,15 @@ date of the 2034 notes); provided, however, that, if such redemption date is not
 
 ### Euro Notes
 
-_2026 Notes_ . The 2026 notes are redeemable as a whole or in part, at our option at any time and from time to time prior to January 28, 2026 (three months prior to the maturity date of the 2026 notes), on at least 30 days, but not more than 60 days, prior notice mailed (or otherwise transmitted in accordance with the procedures of the depositary) to the registered address of each holder of the 2026 notes, at a redemption price equal to the greater of (i) 100% of the principal amount of such notes and (ii) the sum of the present values of the Remaining Scheduled Payments of principal and interest thereon (exclusive of interest accrued to the date of redemption), discounted to the redemption date on an annual basis (ACTUAL/ACTUAL (ICMA)) at the applicable Comparable Government Bond Rate plus 17 basis points, plus, in each case, accrued and unpaid interest to the date of redemption. The 2026 notes are redeemable as a whole or in part, at our option at any time and from time to time on or after January 28, 2026 (three months prior to the maturity date of the 2026 notes), at a redemption price equal to 100% 14
+_2024 Notes_ . The 2024 notes are redeemable as a whole or in part, at our option at any time and from time to time prior to April 6, 2024 (one month prior to the maturity date of the 2024 notes), at a redemption price equal to the greater of (i) 100% of the principal amount of such notes and (ii) the sum of the present values of the Remaining Scheduled Payments of principal and interest thereon (exclusive of interest accrued to the date of redemption), discounted to the redemption date on an annual basis (ACTUAL/ACTUAL (ICMA)) at the applicable Comparable Government Bond Rate plus 15 basis points, plus, in each case, accrued and unpaid interest to the date of redemption. The 2024 notes are redeemable as a whole or in part, at our option at any time and from time to time on or after April 6, 2024 (one month prior to the maturity date of the 2024 notes), at a redemption price equal to 100% of the principal amount of the 2024 notes being redeemed, plus accrued and unpaid interest to the date of redemption. 
+
+_2026 Notes_ . The 2026 notes are redeemable as a whole or in part, at our option at any time and from time to time prior to January 28, 2026 (three months prior to the maturity date of the 2026 notes), on at least 30 days, but not more than 60 days, prior notice mailed (or otherwise transmitted in accordance with the procedures of the depositary) to the registered address of each holder of the 2026 notes, at a redemption price equal to the greater of (i) 100% of the principal amount of such notes and (ii) the sum of the present values of the Remaining Scheduled Payments of principal and interest thereon (exclusive of interest accrued to the date of redemption), discounted to the redemption date on an annual basis (ACTUAL/ACTUAL (ICMA)) at the applicable Comparable Government Bond Rate plus 17 basis points, plus, in each case, accrued and unpaid interest to the date of redemption. The 2026 notes are redeemable as a whole or in part, at our option at any time and from time to time on or after January 28, 2026 (three months prior to the maturity date of the 2026 notes), at a redemption price equal to 100% 
 
 of the principal amount of the 2026 notes being redeemed, plus accrued and unpaid interest to the date of redemption. 
 
 _2027 Notes_ . The 2027 notes are redeemable as a whole or in part, at our option at any time and from time to time prior to December 18, 2026 (three months prior to the maturity date of the 2027 notes), at a redemption price equal to the greater of (i) 100% of the principal amount of such notes and (ii) the sum of the present values of the Remaining Scheduled Payments of principal and interest thereon (exclusive of interest accrued to the date of redemption), discounted to the redemption date on an annual basis (ACTUAL/ACTUAL (ICMA)) at the applicable Comparable Government Bond Rate plus 15 basis points, plus, in each case, accrued and unpaid interest to the date of redemption. The 2027 notes are redeemable as a whole or in part, at our option at any time and from time to time on or after December 18, 2026 (three months prior to the maturity date of the 2027 notes), at a redemption price equal to 100% of the principal amount of the 2027 notes being redeemed, plus accrued and unpaid interest to the date of redemption. 
 
 _May 2028 Notes_ . The May 2028 notes are redeemable as a whole or in part, at our option at any time and from time to time prior to February 6, 2028 (three months prior to the maturity date of the May 2028 notes), at a redemption price equal to the greater of (i) 100% of the principal amount of such notes and (ii) the sum of the present values of the Remaining Scheduled Payments of principal and interest thereon (exclusive of interest accrued to the date of redemption), discounted to the redemption date on an annual basis (ACTUAL/ACTUAL (ICMA)) at the applicable Comparable Government Bond Rate plus 20 basis points, plus, in each case, accrued and unpaid interest to the date of redemption. The May 2028 notes are redeemable as a whole or in part, at our option at any time and from time to time on or after February 6, 2028 (three months prior to the maturity date of the May 2028 notes), at a redemption price equal to 100% of the principal amount of the May 2028 notes being redeemed, plus accrued and unpaid interest to the date of redemption. 
-
-15 
 
 _July 2028 Notes_ . The July 2028 notes are redeemable as a whole or in part, at our option at any time and from time to time prior to April 18, 2028 (three months prior to the maturity date of the July 2028 notes), on at least 30 days, but not more than 60 days, prior notice mailed (or otherwise transmitted in accordance with the procedures of the depositary) to the registered address of each holder of notes, at a redemption price equal to the greater of (i) 100% of the principal amount of such notes and (ii) the sum of the present values of the Remaining Scheduled Payments of principal and interest thereon (exclusive of interest accrued to the date of redemption), discounted to the redemption date on an annual basis (ACTUAL/ACTUAL (ICMA)) at the applicable Comparable Government Bond Rate plus 20 basis points, plus, in each case, accrued and unpaid interest to the date of redemption. The July 2028 notes are redeemable as a whole or in part, at our option at any time and from time to time on or after April 18, 2028 (three months prior to the maturity date of the July 2028 notes), at a redemption price equal to 100% of the principal amount of the July 2028 notes being redeemed, plus accrued and unpaid interest to the date of redemption. 
 
@@ -14609,11 +14523,11 @@ _2050 Notes_ . The 2050 notes are redeemable as a whole or in part, at our optio
 
 On and after the applicable redemption date with respect to a series of notes, interest will cease to accrue on such notes or any portion of such notes called for redemption (unless we default in the payment of the redemption price and accrued interest). On or before the redemption date, we will deposit with the trustee or its agent money sufficient to pay the redemption price of and (unless the redemption date shall be an interest payment date) accrued and unpaid interest to the redemption date on the notes to be redeemed on such date. If less than all of the notes of a series are to be redeemed, the notes of such series to be redeemed shall be selected in accordance with applicable depositary procedures. Additionally, we may at any time repurchase notes in the open market and may hold or surrender such notes to the trustee for cancellation. 
 
-19 
+Notice of redemption will be transmitted at least 30 days (or 15 days with respect to the 2039 notes, or 10 days with respect to the 2024 notes, May 2028 notes, 2029 notes, 2032 notes, 2033 notes, 2034 notes and 2050 notes) but not more than 60 days before the applicable 
 
 redemption date to each holder of notes to be redeemed. We will be responsible for calculating the redemption price of the notes or portions thereof called for redemption. 
 
-### Payment of Additional Amounts
+## Payment of Additional Amounts
 
 We will, subject to the exceptions and limitations set forth below, pay as additional interest on the notes such additional amounts as are necessary in order that the net payment by us of the principal of and interest on the notes to a holder who is not a United States person (as defined below), after withholding or deduction for any present or future tax, assessment or other governmental charge imposed by the United States or a taxing authority in the United States, will not be less than the amount provided in the notes to be then due and payable; provided, however, that the foregoing obligation to pay additional amounts shall not apply: 
 
@@ -14626,8 +14540,6 @@ We will, subject to the exceptions and limitations set forth below, pay as addit
    - (b) having a current or former connection with the United States (other than a connection arising solely as a result of the ownership of the notes, the receipt of any payment or the enforcement of any rights hereunder), including being or having been a citizen or resident of the United States;
 
    - (c) being or having been a personal holding company, a passive foreign investment company or a controlled foreign corporation for United States federal income tax purposes or a corporation that has accumulated earnings to avoid United States federal income tax;
-
-20 
 
    - (d) being or having been a “10-percent shareholder” of the Company as defined in Section 871(h)(3) of the United States Internal Revenue Code of 1986, as amended (the “Code”) or any successor provision; or
 
@@ -14643,8 +14555,6 @@ We will, subject to the exceptions and limitations set forth below, pay as addit
 
 - (6) to any estate, inheritance, gift, sales, excise, transfer, wealth, capital gains or personal property tax or similar tax, assessment or other governmental charge;
 
-21 
-
 - (7) to any tax, assessment or other governmental charge required to be withheld by any paying agent from any payment of principal of or interest on any note, if such payment can be made without such withholding by at least one other paying agent;
 
 - (8) to any tax, assessment or other governmental charge that would not have been imposed but for the presentation by the holder of any note, where presentation is required, for payment on a date more than 30 days after the date on which payment became due and payable or the date on which payment thereof is duly provided for, whichever occurs later;
@@ -14659,8 +14569,6 @@ We will, subject to the exceptions and limitations set forth below, pay as addit
 
 - (1) to any tax, assessment or other governmental charge that is imposed by reason of the holder (or the beneficial owner for whose benefit such holder holds such note), or a fiduciary, settlor, beneficiary, member or shareholder of the holder if the holder is an estate, trust, partnership or corporation, or a person holding a power over an estate or trust administered by a fiduciary holder, being considered as:
 
-22 
-
    - (a) being or having been engaged in a trade or business in the United States or having or having had a permanent establishment in the United States;
 
    - (b) having a current or former connection with the United States (other than a connection arising solely as a result of the ownership of the notes, the receipt of any payment or the enforcement of any rights hereunder), including being or having been a citizen or resident of the United States;
@@ -14674,8 +14582,6 @@ We will, subject to the exceptions and limitations set forth below, pay as addit
 - (2) to any holder that is not the sole beneficial owner of the notes, or a portion of the notes, or that is a fiduciary, partnership or limited liability company, but only to the extent that a beneficial owner with respect to the holder, a beneficiary or settlor with respect to the fiduciary, or a beneficial owner or member of the partnership or limited liability company would not have been entitled to the payment of an additional amount had the beneficiary, settlor, beneficial owner or member received directly its beneficial or distributive share of the payment;
 
 - (3) to any tax, assessment or other governmental charge that would not have been imposed but for the failure of the holder or any other person to comply with certification, identification or information reporting requirements concerning the nationality, residence, identity or connection with the United States of the holder or beneficial owner of the notes, if compliance is required by statute, by regulation of the United States or any taxing authority therein or by an applicable income tax treaty to which the United States is a party as a precondition to exemption from such tax, assessment or other governmental charge;
-
-23 
 
 - (4) to any tax, assessment or other governmental charge that is imposed otherwise than by withholding by us or a paying agent from the payment;
 
@@ -14739,11 +14645,11 @@ As used under this heading “—Payment of Additional Amounts” and under the 
 
 States person under any applicable Treasury regulations), or any estate or trust the income of which is subject to United States federal income taxation regardless of its source. 
 
-### Redemption for Tax Reasons
+## Redemption for Tax Reasons
 
 If, as a result of any change in, or amendment to, the laws (or any regulations or rulings promulgated under the laws) of the United States (or any taxing authority in the United States), or any change in, or amendments to, an official position regarding the application or interpretation of such laws, regulations or rulings, which change or amendment is announced or becomes effective on or after the date of the prospectus supplement filed with the SEC for the applicable series of notes, we become or, based upon a written opinion of independent counsel selected by us, will become obligated to pay additional amounts as described herein under the heading “—Payment of Additional Amounts” with respect to the notes of any series, then we may at any time at our option redeem, in whole, but not in part, the outstanding notes of such series on not less than 30 nor more than 60 days’ prior notice, at a redemption price equal to 100% of their principal amount, together with accrued and unpaid interest on those notes to, but not including, the date fixed for redemption. 
 
-### Certain Covenants
+## Certain Covenants
 
 ### Limitation of Liens
 
@@ -14803,7 +14709,7 @@ In the event of any such consolidation, merger, conveyance, transfer or lease, a
 
 “Unrestricted subsidiary” means any subsidiary of ours (not at the time designated as our restricted subsidiary) (1) the major part of whose business consists of finance, banking, credit, leasing, insurance, financial services or other similar operations, or any combination thereof, (2) substantially all the assets of which consist of the capital stock of one or more subsidiaries engaged in the operations referred to in the preceding clause (1) , or (3) designated as an unrestricted subsidiary by our Board of Directors. 
 
-### Events of Default
+## Events of Default
 
 An “Event of Default” under the notes of a given series means: 
 
@@ -14831,7 +14737,7 @@ During the existence of an Event of Default, the trustee is required to exercise
 
 The trustee will, within 90 days after any default occurs, give notice of the default to the holders of the notes of that series, unless the default was already cured or waived. Unless there is a default in paying principal, interest or any premium when due, the trustee can withhold giving notice to the holders if it determines in good faith that the withholding of notice is in the interest of the holders. 
 
-### Modification and Waiver
+## Modification and Waiver
 
 The indenture may be amended or modified without the consent of any holder of notes in order to: 
 
@@ -14877,7 +14783,7 @@ modification or amendment may, without the consent of the holder of each outstan
 
 - release any guarantor from any of its obligations under its guarantee or the indenture, except in compliance with the terms of the indenture. 
 
-### Satisfaction, Discharge and Covenant Defeasance
+## Satisfaction, Discharge and Covenant Defeasance
 
 We may terminate our obligations under the indenture, when: 
 
@@ -14905,6 +14811,8 @@ We may elect to have our obligations under the indenture discharged with respect
 
 In addition, we may elect to have our obligations released with respect to certain covenants in the indenture (“covenant defeasance”). Any omission to comply with these obligations will not constitute a default or an event of default with respect to the notes of any series. In the event covenant defeasance occurs, certain events, not including non-payment, 
 
+bankruptcy and insolvency events, described under “Events of Default” above will no longer constitute an event of default for that series. 
+
 In order to exercise either legal defeasance or covenant defeasance with respect to outstanding notes of any series: 
 
 - we must irrevocably have deposited or caused to be deposited with the trustee as trust funds for the purpose of making the following payments, specifically pledged as security for, and dedicated solely to the benefit of the holders of the notes of a series: 
@@ -14917,11 +14825,13 @@ In order to exercise either legal defeasance or covenant defeasance with respect
 
 in each case sufficient, in the written opinion (with respect to U.S. or equivalent government obligations or a combination of money and U.S. or equivalent government obligations, as applicable) of a nationally recognized firm of independent registered public accountants, to pay and discharge, and which shall be applied by the trustee to pay and discharge, all of the principal (including mandatory sinking fund payments), interest and any premium at the due date or maturity; 
 
-- in the case of legal defeasance, we must have delivered to the trustee an opinion of counsel stating that, under then applicable federal income tax law, the holders of the notes of that series will not recognize income, gain or loss for federal income tax purposes as a result of the deposit, defeasance and discharge to be effected and will 37
+- in the case of legal defeasance, we must have delivered to the trustee an opinion of counsel stating that, under then applicable federal income tax law, the holders of the notes of that series will not recognize income, gain or loss for federal income tax purposes as a result of the deposit, defeasance and discharge to be effected and will 
 
 be subject to the same federal income tax as would be the case if the deposit, defeasance and discharge did not occur; 
 
 - in the case of covenant defeasance, we must have delivered to the trustee an opinion of counsel to the effect that the holders of the notes of that series will not recognize income, gain or loss for U.S. federal income tax purposes as a result of the deposit and covenant defeasance to be effected and will be subject to the same federal income tax as would be the case if the deposit and covenant defeasance did not occur; 
+
+- no event of default or default with respect to the outstanding notes of that series has occurred and is continuing at the time of such deposit after giving effect to the deposit or, in the case of legal defeasance, no default relating to bankruptcy or insolvency has occurred and is continuing at any time on or before the 91st day after the date of such deposit, it being understood that this condition is not deemed satisfied until after the 91st day; 
 
 - the legal defeasance or covenant defeasance will not cause the trustee to have a conflicting interest within the meaning of the Trust Indenture Act, assuming all notes of a series were in default within the meaning of such Act; 
 
@@ -14931,13 +14841,13 @@ be subject to the same federal income tax as would be the case if the deposit, d
 
 - we must have delivered to the trustee an officers’ certificate and an opinion of counsel stating that all conditions precedent with respect to the legal defeasance or covenant defeasance have been complied with. 
 
-### Book-Entry, Delivery and Settlement
+## Book-Entry, Delivery and Settlement
 
 We have obtained the information in this section concerning Clearstream and Euroclear and their book-entry systems and procedures from sources that we believe to be reliable. We take no responsibility for an accurate portrayal of this information. In addition, the description of the clearing systems in this section reflects our understanding of the rules and procedures of Clearstream and Euroclear as they are currently in effect. Those clearing systems could change their rules and procedures at any time. 
 
-The distribution of the notes was cleared through Clearstream and Euroclear. Any secondary market trading of book-entry interests in the notes will take place through Clearstream and Euroclear participants and will settle in same-day funds. Owners of book-entry interests in the notes will receive payments relating to their notes in sterling with respect to the sterling notes and euro with respect to the euro notes, except as described in the applicable prospectus supplement. 
+The notes of each series were initially represented by one or more fully registered global notes. Each such global note was deposited with, or on behalf of, a common depositary and registered in the name of the nominee of the common depositary for the accounts of Clearstream and Euroclear. Except as set forth below, the global notes may be transferred, in whole and not in part, only to Euroclear or Clearstream or their respective nominees. You may hold your interests in the global notes in Europe through Clearstream or Euroclear, either as a participant in such systems or indirectly through organizations which are participants in such systems. Clearstream and Euroclear will hold interests in the global notes on behalf of their respective participating organizations or customers through customers’ securities accounts in Clearstream’s or Euroclear’s names on the books of their respective depositaries. Book-entry interests in the notes and all transfers relating to the notes will be reflected in the book-entry records of Clearstream and Euroclear. The address of Clearstream is 42 Avenue JF Kennedy, L-1855 Luxembourg, Luxembourg and the address of Euroclear is 1 Boulevard Roi Albert II, B-1210 Brussels, Belgium. 
 
-39 
+The distribution of the notes was cleared through Clearstream and Euroclear. Any secondary market trading of book-entry interests in the notes will take place through Clearstream and Euroclear participants and will settle in same-day funds. Owners of book-entry interests in the notes will receive payments relating to their notes in sterling with respect to the sterling notes and euro with respect to the euro notes, except as described in the applicable prospectus supplement. 
 
 Clearstream and Euroclear have established electronic securities and payment transfer, processing, depositary and custodial links among themselves and others, either directly or through custodians and depositaries. These links allow the notes to be issued, held and transferred among the clearing systems without the physical transfer of certificates. Special procedures to facilitate clearance and settlement have been established among these clearing systems to trade securities across borders in the secondary market. 
 
@@ -14949,8 +14859,6 @@ Except as provided otherwise, owners of beneficial interests in the notes will n
 
 _Certificated Notes_ . Subject to certain conditions, the notes represented by the global notes are exchangeable for certificated notes in definitive form of like tenor in minimum denominations of £100,000 principal amount and integral multiples of £1,000 in excess thereof with respect to the sterling notes and €100,000 principal amount and integral multiples of €1,000 in excess thereof with respect to the euro notes if: 
 
-40 
-
 - (1) the common depositary provides notification that it is unwilling, unable or no longer qualified to continue as depositary for the global notes and a successor is not appointed within 90 days;
 
 - (2) we in our discretion at any time determine not to have all the notes of any series represented by the global note; or
@@ -14961,11 +14869,9 @@ Any note of any series that is exchangeable as above is exchangeable for certifi
 
 _Same-day Payment_ . Payments (including principal, interest and any additional amounts) and transfers with respect to notes of any series in certificated form may be executed at the office or agency maintained for such purpose within the City of London (initially the office of the paying agent maintained for such purpose) or, at our option, by check mailed to the holders thereof at the respective addresses set forth in the register of holders of the applicable notes of such series, provided that all payments (including principal, interest and any additional amounts) on notes in certificated form, for which the holders thereof have given wire transfer instructions, will be required to be made by wire transfer of immediately available funds to the accounts specified by the holders thereof. No service charge will be made for any registration of transfer, but payment of a sum sufficient to cover any tax or governmental charge payable in connection with that registration may be required. 
 
-41 
-
 # THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED BENEFIT PROGRAM
 
-**(PIRP-DB)** 
+# (PIRP-DB)
 
 **As Amended and Restated Effective as of January 1, 2023** 
 
@@ -15204,15 +15110,19 @@ _Same-day Payment_ . Payments (including principal, interest and any additional 
   </tbody>
 </table>
 
-ii 
+## ARTICLE I - HISTORY AND GENERAL INFORMATION
 
-### ARTICLE I - HISTORY AND GENERAL INFORMATION
+The Plan came into operation on and took effect from September 1, 1980, and was comprised of the “PepsiCo International Retirement Plan Trust Indenture” and the “Plan Rules”, and was later amended and restated in its entirety, effective September 2, 1982. 
 
 The Plan was further amended and restated in its entirety, effective October 1, 2003, whereupon the Plan Rules became the “Plan A Rules” (applicable to benefits funded by the Corporation’s contributions to the trust established by the PepsiCo International Retirement Plan Trust Indenture) and the “Plan B Rules” (applicable to benefits funded by the Corporation as they arise) took effect. 
 
 The Plan was further amended effective January 1, 2005, so that no person subject to taxation in the United States of America may in any way have their right to a benefit from the Plan come into existence, increase or in any way be enhanced, but instead will be determined as if they had left the Corporation and any Associated Company permanently before becoming subject to U.S. taxation. 
 
-1 
+Effective January 1, 2010, the Plan A Rules and Plan B Rules were amended and restated in their entirety to form a single governing legal document, as set forth herein. The terms of the Plan set forth in this amended and restated governing legal document are known as the “DB Program” (also known as “PIRP-DB”). This amended and restated governing legal document shall apply to Members who are in Membership from and after January 1, 2010, as well as any others who claim rights from and after January 1, 2010 that are derived from current or former Membership, including former Members and the Dependants and Eligible Spouses of Members and former Members. Notwithstanding any other provision of this Plan, the amendment and restatement of this Plan, the supersession of the prior documents by this Plan, and the prior existence of separate Plan A and Plan B Rules shall not at any time result in any duplication of benefits (nor shall duplication of benefits result from any other factor or circumstance related to this Plan or any prior version of this Plan). 
+
+Effective January 1, 2011, the Corporation established a new defined contribution structure (the “DC Program”) to benefit selected international employees for whom it has been determined to be appropriate (i.e., employees on assignments outside of their home countries for whom it is judged to be impracticable to have them participate in their home country retirement plans and employees who are among a selected group of senior globalists on United States tax equalized packages). The terms of the DC Program are set forth in a separate governing legal document. Together, the DC Program and the DB Program set forth the terms of a single Plan. 
+
+The DB Program was previously amended and restated, effective January 1, 2016. The DB Program was again amended and restated, effective January 1, 2019. The DB Program’s most recent prior restatement was effective January 1, 2021 and provided for freezing the DB Program effective as of the end of the day on December 31, 2025. As a result, effective on and after January 1, 2026, all accruals under the DB Program, as well as all Pensionable Service, Salary and other compensation that are recognized under the Plan, are treated as ending no later than at the end of the day on December 31, 2025, and where the DB Program requires that Salary or other compensation be averaged over a period of service, service after December 31, 2025 is not taken into account. Notwithstanding the foregoing, in accordance with the DB Program’s usual rules that would apply in the absence of the DB Program freeze, a Member shall continue to earn Service (for purposes of determining whether the Member has a vested right to a Pension) and entitlement Service (for purposes of applying more favorable early retirement factors under the DB Program) and shall be permitted to meet any related age threshold relevant to qualify for 
 
 such early retirement factors while still an Employee, even after December 31, 2025. In addition, the portion of the formula that requires projecting and prorating a Member’s benefit, the denominator of the applicable fraction is projected to include service after December 31, 2025 as if the DB Program were not going to freeze while the numerator of the fraction is calculated taking into account the December 31, 2025 freeze, and then the resulting fraction is frozen as of December 31, 2025; a Member shall continue to earn Service and shall be permitted to meet any related age threshold while still an Employee that would result in the inapplicability of the projecting and prorating formula even after December 31, 2025. 
 
@@ -15220,11 +15130,9 @@ The current restatement of the Plan is effective as of January 1, 2023 (the “R
 
 At all times, the Plan is unfunded and unsecured for purposes of the United States Internal Revenue Code and Employee Retirement Income Security Act of 1974, as amended (“ERISA”). The benefits of an executive are an obligation of that executive’s individual employer. With respect to his employer, the executive has the rights of an unsecured general creditor. The Plan is also intended to be exempt from ERISA as a plan maintained outside of the United States primarily for the benefit of persons substantially all of whom are nonresident aliens of the United States. 
 
-2 
+## ARTICLE II - DEFINITIONS AND CONSTRUCTION
 
-### ARTICLE II - DEFINITIONS AND CONSTRUCTION
-
-**2.01    Definitions.**
+### 2. 01    Definitions
 
 Where the following words and phrases appear in this governing legal document for the DB Program, they shall have the meaning set forth below, unless a different meaning is plainly required by the context: 
 
@@ -15248,8 +15156,6 @@ Where the following words and phrases appear in this governing legal document fo
 
    - (g) "Corporation" means PepsiCo, Inc., a corporation organized and existing under the laws of the State of North Carolina, or its successor or successors.
 
-3 
-
    - (h) "Dependant" means the person who shall receive any amounts with respect to a Member’s Pension payable upon the Member’s death, in such cases where the Member’s Pension is payable in one of the forms of payment under Sections 5.02 and 5.03 that include a survivor option.
 
       - (i) “DB Program” means the portion of the Plan that provides a program of defined benefits and that is described in the governing legal document entitled “The PepsiCo International Retirement Plan Defined Benefit Program (PIRPDB),” as it may be amended from time to time. The DB Program is also sometimes referred to as “PIRP-DB.”
@@ -15258,11 +15164,13 @@ Where the following words and phrases appear in this governing legal document fo
 
    - (k) “Eligible Domestic Partner” means, solely with respect to a Member who is actively employed by, or on an
 
+- Authorized Leave of Absence from, a member of the PepsiCo Organization on or after January 1, 2019, an individual who is of the same sex or opposite sex as the Member and who satisfies paragraph (1) , (2) or (3) , subject to the additional rules set forth in paragraph (4) , as determined by the Vice President. (1) Civil Union. If the Member has entered into a civil union or similar government-recognized status that is valid on the applicable date under the law of the location that is determined by the Vice President to be the Member’s principal residence, the Participant’s Domestic Partner (if any) is the individual with whom the Participant has entered into such status, provided that such individual submits a claim for benefits within 60 days of Member’s date of death (and if no such claim is submitted, the individual shall not be a Domestic Partner under this paragraph (1) ). 
+
 - (2) Benefits Enrollment. If the Member does not have a Domestic Partner pursuant to subsection (1) above, the Member’s Eligible Domestic Partner (if any) is the individual who, on the applicable date, was enrolled, as the Member’s domestic partner, in the Cigna International Health Program (or its successor) sponsored by the Corporation.
 
 - (3) Other Acceptable Evidence of Partnership. If the Member does not have a Domestic Partner under paragraph (1) or (2) above, such Member’s Domestic Partner, if any, is the individual who, as of the applicable date, satisfies such criteria of domestic partnership as the Vice President has specified in writing, provided that such individual submits a claim for benefits within 60 days of the Member’s date of death (and if no such claim is submitted, the individual shall not be a Domestic Partner under this paragraph (3) ).
 
-- (4) Additional Rules. For purposes of this definition, “applicable date” means the earlier of the Member’s Annuity Starting Date or the date of the Member’s death. The term “Eligible Domestic Partner” does not apply to a Member’s Eligible Spouse. A Member is not permitted to 4
+- (4) Additional Rules. For purposes of this definition, “applicable date” means the earlier of the Member’s Annuity Starting Date or the date of the Member’s death. The term “Eligible Domestic Partner” does not apply to a Member’s Eligible Spouse. A Member is not permitted to
 
 have more than one Eligible Domestic Partner at any point in time, and a Member who has an Eligible Spouse is not permitted to have an Eligible Domestic Partner. 
 
@@ -15282,8 +15190,6 @@ have more than one Eligible Domestic Partner at any point in time, and a Member 
 
    - (s) "Pension" means a series of level monthly payments or single lump sum payment payable to a person who is entitled to receive benefits under the DB Program.
 
-5 
-
    - (t) "Pensionable Service" means in relation to a Member the period, or where appropriate the aggregate of periods, of a Member’s Service as an Eligible Employee of an Approved Employer, which is counted for purposes of determining the amount of benefits under the DB Program payable to, or on behalf of, a Member. Pensionable Service shall also include any other period of employment with a member of the PepsiCo Organization or any Employer for which the Vice President determines to give credit under the DB Program to the Member. Absent special circumstances, as determined by the Vice President, such other period of such prior period of employment will only be counted as Pensionable Service if such Employer maintained a retirement plan to which it made contributions on behalf of eligible employees.
 
    - (u) "Plan" means the PepsiCo International Retirement Plan, which consists of the DB Program and DC Program.
@@ -15296,7 +15202,7 @@ have more than one Eligible Domestic Partner at any point in time, and a Member 
 
 - (2) All other amounts taxable as remuneration for personal services, including amounts received or deemed received under any other pension or welfare plan maintained by a member of the PepsiCo Organization or any Employer, premium bonuses, sign-on bonus or other one-time payments, income from stock option exercises and any special allowances (whether given in respect of residence, cost of living, education, transfer or otherwise).
 
-If a Member has Salary in accordance with the prior sentence and then ceases to be employed by an Employer (but the Member remains employed by a member of the PepsiCo Organization), compensation while employed by the member of the PepsiCo Organization that otherwise would qualify as Salary hereunder shall be considered Salary for purposes of the DB Program. In the event a Member’s Salary is either (i) paid in currency other than United States dollars or (ii) paid in United States dollars but not tied to the United States salary ranges established by the Corporation, as updated from time to time, such currency shall be converted to United States dollars according to procedures established by the Global Mobility Team, or if no so such procedures exist as of the time in question, as reasonably determined by the Vice President. Notwithstanding the 6
+If a Member has Salary in accordance with the prior sentence and then ceases to be employed by an Employer (but the Member remains employed by a member of the PepsiCo Organization), compensation while employed by the member of the PepsiCo Organization that otherwise would qualify as Salary hereunder shall be considered Salary for purposes of the DB Program. In the event a Member’s Salary is either (i) paid in currency other than United States dollars or (ii) paid in United States dollars but not tied to the United States salary ranges established by the Corporation, as updated from time to time, such currency shall be converted to United States dollars according to procedures established by the Global Mobility Team, or if no so such procedures exist as of the time in question, as reasonably determined by the Vice President. Notwithstanding the 
 
 foregoing provisions of this definition, the Vice President may exercise his discretion to determine a Member's Salary based on an alternative definition that is different than that set forth above. 
 
@@ -15312,59 +15218,69 @@ No determination of an individual’s Service shall result in any duplication, a
 
    - (aa) "Third Country National" means any individual who is not: (1) a U.S. Person, (2) employed in his home country, (3) employed in his hire country, except as permitted by the Vice President, nor (4) accruing benefits under a retirement plan sponsored by his Employer in his home country while abroad. An individual’s home or hire country as of any time shall be the country that is designated at that time as the individual’s home or hire country, respectively, on the records of the applicable entity (which shall be the Global Mobility Team, its successor (if any) or such other group within the PepsiCo Organization that is designated for this purpose by the Vice President), or is so designated in accordance with such rules as the applicable entity shall choose to apply from time to time. The records described in the preceding sentence are intended to be maintained outside the United States of America.
 
-7 
-
    - (bb) "U.S. Person" means: (1) a citizen of the United States of America; (2) a person lawfully admitted for permanent residence in the United States of America at any time during the calendar year, or who has applied for such permanent residence (within the meaning of United States Internal Revenue Code section 7701(b)(1) (A)); or (3) any other person who is a resident alien of the United States of America under United States Internal Revenue Code section 7701(b) (1) (A) because, for example, the person satisfies the substantial presence test under United States Internal Revenue Code section 7701(b)(3) or makes an election to be treated as a United States resident under United States Internal Revenue Code section 7701(b)(4) . In addition, a person shall be considered a U.S. Person for purposes of Section 9.14 in any year for which the person is required by the United States Internal Revenue Code to file an individual income tax return, unless the Vice President determines that it is clear that the person has no U.S. source earned income from a member of the PepsiCo Organization for such year.
 
    - (cc) "Vice President" means the Vice President, Global Benefits & Wellness of PepsiCo, Inc. but if such position is vacant or eliminated it shall be the person who is acting to fulfill the majority of the duties of the position (or plurality of the duties, if no one is fulfilling a majority), as such duties existed immediately prior to the vacancy or the position elimination.
+
+## 2. 02    Construction
+
+   - (a) Gender and Number: In this document for the DB Program where the context does not otherwise determine, words importing the masculine gender shall include the feminine gender and words importing the singular number shall include the plural number and vice versa.
+
+   - (b) Determining Periods of Years: For the purposes of the DB Program, any period of 365 consecutive days (or of 366 consecutive days, if the period includes 29th February) shall be deemed to constitute a year, but not so that in the calculation of a number of years any day is counted more than once. Where the amount of a benefit depends upon the calculation of a number of years or months without expressly requiring that these should be complete years or months, a proportionate amount ( _i.e._ , a number of days) may be given for any part of a year or month which would not otherwise be included in the calculation. Where the this document makes reference to months or parts of a year, or to any other period of time except a day, week or year the Vice President may authorize the period to be counted in days or complete calendar months with each calendar month counted as 1/12th of a year.
 
    - (c) Compounds of the Word “Here”: The words “hereof” and “hereunder” and other similar compounds of the word “here” shall mean and refer to the entire DB Program, not to any particular provision or section.
 
    - (d) Examples: Whenever an example is provided or the text uses the term “including” followed by a specific item or items, or there is a passage having a similar effect, such passages of the document shall be construed as if the phrase “without limitation” followed such example or term (or otherwise applied to such passage in a manner that avoids limitation on its breadth of application).
 
-   - (e) Subdivisions of This Document: This document is divided and subdivided using the following progression: articles, sections, subsections, paragraphs, subparagraphs and clauses. Articles are designated by capital roman numerals. Sections 8
+   - (e) Subdivisions of This Document: This document is divided and subdivided using the following progression: articles, sections, subsections, paragraphs, subparagraphs and clauses. Articles are designated by capital roman numerals. Sections
 
 are designated by Arabic numerals containing a decimal point. Subsections are designated by lower-case letters in parentheses. Paragraphs are designated by Arabic numerals in parentheses. Subparagraphs are designated by lower-case roman numerals in parentheses. Clauses are designated by upper-case letters in parentheses. Any reference in a section to a subsection (with no accompanying section reference) shall be read as a reference to the subsection with the specified designation contained in that same section. A similar rule shall apply with respect to paragraph references within a subsection and subparagraph references within a paragraph. 
 
-### ARTICLE III - MEMBERSHIP
+## ARTICLE III - MEMBERSHIP
 
 ### 3. 01    Eligibility for Membership
 
 Every person who the Vice President determines is an Eligible Employee shall be eligible for Membership. 
 
-### 3. 02    Admission to Membership
+## 3. 02    Admission to Membership
 
    - (a) Every person who was an Active Member of the DB Program immediately prior to January 1, 2021 shall continue as an Active Member of the DB Program from and after January 1, 2021, to the extent such Active Membership is and remains consistent with the provisions of the DB Program, as amended and in effect on and after January 1, 2021 (and thereafter, as amended and in effect on and after the Restatement Date). In addition, every person who was a Member but not an Active Member immediately prior to January 1, 2021 shall continue as a Member of the DB Program from and after the Restatement Date, to the extent such Membership is and remains consistent with the provisions of the DB Program, as amended and in effect on and after January 1, 2021 (and thereafter, as amended and in effect on and after the Restatement Date).
 
    - (b) Every person who is not a Member and who the Vice President determines is an Eligible Employee shall, following the approval of his Membership by the Vice President, be admitted to Membership, effective as of the Entry Date coinciding with or immediately following the date on which his Service commences or he becomes an Eligible Employee (as determined by the Vice President), whichever is later. No Eligible Employee or any other person shall be admitted to or continue in Membership without the approval of the Vice President.
 
-### ARTICLE IV - REQUIREMENTS FOR BENEFITS
+## ARTICLE IV - REQUIREMENTS FOR BENEFITS
 
-### 4. 02    Early Retirement Pension
+## 4. 01    Normal Retirement Pension
+
+A Member shall be entitled to a Normal Retirement Pension if his employment with both his Employer and the PepsiCo Organization terminates on his Normal Retirement Age. The Member’s Annuity Starting Date shall be the first day of the month coincident with or immediately following the day the Member terminates employment with both his Employer and the PepsiCo Organization. The Member’s Pension shall be paid in the normal form of payment applicable to the Member under Section 5.02 unless the Member elects an optional form of payment under Section 5.03. The Member’s Pension shall be calculated in accordance with Table A. 
+
+## 4. 02    Early Retirement Pension
 
 A Member shall be entitled to an Early Retirement Pension if his employment with both his Employer and the PepsiCo Organization terminates on or after age 55 but before his Normal Retirement Age, and after he has completed 10 or more years of Service. The Member’s Annuity Starting Date ordinarily shall be his Normal Retirement Date. The Member may, however, by filing a written election with the Vice President, direct that his Annuity Starting Date shall be the first day of any month after the Member terminates employment with both his Employer and the PepsiCo Organization but before the Member's Normal Retirement Date. The amount of such Pension shall be computed in accordance with Table A as if the Member retired at his Normal Retirement Date, but on the basis of the Member’s Highest Average Monthly Salary (as defined in Table A) and Pensionable Service as of his employment termination date; provided, however, that, in the case of a Member electing to receive his Pension prior to attaining his Normal Retirement Date, the amount of his Pension shall be reduced by 4/12 of 1 percent for each month by which the day on which the Pension commences precedes the date on which the Member would have attained age 62. 
 
-### 4. 03    Special Early Retirement Pension
+## 4. 03    Special Early Retirement Pension
 
 A Member may be entitled to receive a Special Early Retirement Pension if his employment with both his Employer and the PepsiCo Organization terminates on or after age 50 but before age 55 and after completion of not less than 10 years of Service and only if such Special Early Retirement Pension payments have been authorized by the Vice President. The Annuity Starting Date of such Special Early Retirement Pension shall be the first day of the month after the Vice President authorizes such Special Early Retirement Pension. The amount of such Pension shall be computed in accordance with Table A, as if the Member retired at his Normal Retirement Date, but on the basis of the Member's Highest Average Monthly Salary (as defined in Table A) and Pensionable Service as of his employment termination date; provided, however, that the amount of such Member's Pension so determined shall be reduced by 4/12 of 1 percent for each month by which the day on which the Pension commences precedes the date on which the Member would have attained age 62. 
 
-### 4. 04    Deferred Vested Pension
+## 4. 04    Deferred Vested Pension
 
    - (a) This Section 4.04 applies to a Member who terminates employment with both his Employer and the PepsiCo Organization before becoming eligible for a Normal Retirement Pension, Early Retirement Pension or Special Early Retirement Pension.
+
+   - (b) A Member described in (a) above who has met one of the requirement to be vested in Sections 4.06 and 4.07 shall be entitled to receive a Pension (hereinafter referred to as a “Deferred Vested Pension”). The amount of such Deferred Vested Pension shall be determined in accordance with Table A; provided, however, that in the case of a Member who remains in the employment of the PepsiCo Organization or any Employer after ceasing to be an Active Member, the amount of such Member’s Deferred Vested Pension shall be determined in accordance with Table A by reference to (i) the Member’s Highest Average Monthly Salary at the date the Member terminates employment with both his Employer and the PepsiCo Organization (but only to the extent permitted under Sections 9.13 and 9.14), and (ii) the Member’s Pensionable Service as of his termination of employment date.
 
    - (c) A Member’s Deferred Vested Pension shall commence at the later of (i) the Member’s termination of employment with both his Employer and the PepsiCo Organization, or (ii) the Member’s Normal Retirement Date. However, a Member may elect, by filing a written election with the Vice President to have his Deferred Vested Pension commence as of the first day of any month after the date he attains age 55 (or the date of his termination of employment with both his Employer and the PepsiCo Organization, if later). In the case of a Member electing to receive his Deferred Vested Pension prior to attaining his Normal Retirement Date, the amount of his Pension shall be reduced in accordance with the reduction factors applicable to early commencement of a “Vested Pension” under the PepsiCo Salaried Plan, not the percentage factors which apply to an Early and Special Early Retirement Pension as described in Sections 4.02 and 4.03.
 
    - (d) If Member becomes entitled to a Deferred Vested Pension under subsection (a) above and once again becomes an Eligible Employee, he shall be re-admitted to Active Membership in accordance with the provisions of Article III. His Service and Pensionable Service from his earlier period as an Active Member shall be aggregated with his subsequent period of Service and Pensionable Service for purposes of calculating his Pension upon his later retirement or other termination of employment with both his Employer and the PepsiCo Organization, but only if his Pension with respect to his earlier period of Pensionable Service was not previously cashed out under Section 5.05.
 
-### 4. 05    Late Retirement Pension
+## 4. 05    Late Retirement Pension
 
 A Member who continues employment with the PepsiCo Organization or any Employer after his Normal Retirement Age shall be entitled to a Late Retirement Pension. The Member’s Annuity Starting Date shall be the first day of the month coincident with or immediately following the day the Member terminates employment with both his Employer and the PepsiCo Organization. The Member shall be credited with his Salary and Pensionable Service after his Normal Retirement Date, unless otherwise prospectively determined by the Vice President. 
 
-### 4. 06    Vesting
+## 4. 06    Vesting
 
 Subject to Section 9.14 and to Table A (I)(c), a Member shall be fully vested in, and have a nonforfeitable right to, his Pension upon completing 5 years of Service, or if earlier, upon the death or disability of the Member while employed by the Employer or PepsiCo Organization. The determination of whether a Member has become disabled for this purpose shall be made by the Vice President in accordance with such standards that the Vice President deems to be appropriate as of the time in question. 
 
-### 4. 07    Special Vesting for Approved Transfers and Status Changes
+## 4. 07    Special Vesting for Approved Transfers and Status Changes
 
    - (a) Automatic Special Vesting for Approved Transfers. Notwithstanding Section 4.06 above, in the case of an Active Member who will have an Approved Transfer during a Plan Year, the Active Member shall automatically have special vesting apply as of the last business day before the earlier of – (a) the Active Member’s Approved Transfer, or (b) the day the Active Member would become a U.S. Person in connection with the Approved Transfer.
 
@@ -15372,13 +15288,13 @@ Subject to Section 9.14 and to Table A (I)(c), a Member shall be fully vested in
 
 Subject to the next sentence, the effect of special vesting applying to a Member in accordance with either subsection (a) or (b) above is that the Member will become vested, to the same extent as could apply under Section 4.06 if the Member vested under that Section, as of the date that the special vesting applies. Notwithstanding the preceding provisions of this Section 4.07, rights under this Section 4.07 are subject to the overriding requirement that benefits and other rights under the Plan must remain entirely exempt from Section 409A of the United States Internal Revenue Code, and this Section 4.07 shall not apply to the extent inconsistent with this requirement. 
 
-### 4. 08    Accruals After Benefit Commencement
+## 4. 08    Accruals After Benefit Commencement
 
 This section applies to a Member who earns Service and Pensionable Service for a period that is after his Annuity Starting Date under the preceding Sections of this Article IV (other than an Annuity Starting Date related to a cashout distribution under Section 5.05). Any prior benefits that have been suspended, and any additional benefits accrued by Member after his prior benefit commencement, shall be paid at his subsequent Annuity Starting Date. The suspension or continuation of a Member’s prior benefits, any adjustments to the Member’s benefits that are payable upon his subsequent Annuity Starting Date, and the election of a time and form of payment for benefits payable at the subsequent Annuity Starting Date, shall be subject to rules established by the Vice President for this purpose. Such rules shall be based upon the PepsiCo Salaried Plan’s rules for benefits accrued after the benefit commencement date of a participant in that plan, unless the Vice President determines that a modification of those rules is appropriate. 
 
-### ARTICLE V - DISTRIBUTION OPTIONS
+## ARTICLE V - DISTRIBUTION OPTIONS
 
-### 5. 01    Distribution Options
+## 5. 01    Distribution Options
 
    - (a) Section 5.02 sets forth the normal forms of payment for married and unmarried Members. For purposes of Section 5.02, a Member is considered married if he is married on his Annuity Starting Date.
 
@@ -15386,23 +15302,27 @@ This section applies to a Member who earns Service and Pensionable Service for a
 
    - (c) A distribution is only available under this Article V to the extent a Member has met the requirements for benefits under Article IV.
 
-### 5. 02    Normal Forms of Payment
+## 5. 02    Normal Forms of Payment
 
    - (a) Single Life Annuity for Unmarried Members: An unmarried Member shall be paid his Pension in the form of a Single Life Annuity unless he elects otherwise in accordance with Section 5.03. The Single Life Annuity provides monthly payments beginning at the Member's Annuity Starting Date and ending with the last monthly payment due prior to the Member's death.
 
-### 5. 03    Optional Forms of Payment
+   - (b) 50 Percent Survivor Annuity for Married Members: A married Member shall be paid his Pension in the form of a 50 Percent Survivor Annuity, as described herein, unless he elects otherwise in accordance with Section 5.03. The 50 Percent Survivor Annuity provides reduced monthly payments beginning at the Member’s Annuity Starting Date and ending with the last monthly payment due prior to the Member’s death, with a 50 percent contingent survivor annuity for the benefit of his Eligible Spouse beginning on the first day of the month following the Member’s death and ending with the last monthly payment due prior to the death of the Eligible Spouse. For Annuity Starting Dates on or After January 1, 2019, the amount of the Member’s Pension, determined in accordance with Table A, shall be reduced to its Actuarial Equivalent to reflect the survivor benefit payable. For earlier Annuity Starting Dates, subject to Section 5.03(f), the amount of the Member’s Pension, determined in accordance with Table A, shall be reduced by 10 percent. In the case of a Member who became entitled to a Pension under Section IV of the Plan, as in effect prior to January 1, 1990, the Member’s Pension accrued as of such date shall not be subject to this reduction to the extent provided under the Plan’s terms as of such date.
+
+## 5. 03    Optional Forms of Payment
 
    - (a) Optional Forms Available to Married Members: A married Member who elects not to receive benefits in the normal form may receive his Pension in the form of the Single Life Annuity described in Section 5.02(a) above or the 75 Percent Survivor Annuity described in (b)(2) below, regardless of whether he is eligible for the optional forms of payment described in (b), (c) and (d) below.
 
-   - (b) Survivor Options: A married or unmarried Member who elects not to receive benefits in the normal form may elect to receive payment of his Pension in accordance with one of the survivor options listed below. Such election shall be made on such form 14
+   - (b) Survivor Options: A married or unmarried Member who elects not to receive benefits in the normal form may elect to receive payment of his Pension in accordance with one of the survivor options listed below. Such election shall be made on such form
 
 and during such period prior to commencement of the Member’s Pension as may be required by the Vice President. The Member also may designate, prior to commencement, a Dependant to receive the survivor portion of his elected survivor option on such form as may be required by the Vice President; provided, however, that (1) the approval of the Vice President shall be necessary if the Member designates a Dependant other than the Member’s Eligible Spouse; and (2) if a married Member elects an option described in this subsection (b) and names a Dependant other than his Eligible Spouse, he must submit written evidence of the Eligible Spouse’s consent to such option and designation of a Dependant. A Member may not change his form of benefit or Dependant after his Pension has commenced. 
 
 - (1) 100 Percent Survivor Option: The Member shall receive a reduced Pension payable for his life and payments in the same reduced amount shall continue after the Member's death to his Dependant for life. The amount of the Member's reduced Pension shall be the Actuarial Equivalent (as defined in Section 2.01) of the Member’s Single Life Annuity benefit determined in accordance with Table A (or for Annuity Starting Dates before January 1, 2019, the Table A amount reduced by 20 percent, subject to subsection (f) below). In the case of a Member who became entitled to a Pension under the Plan as in effect prior to January 1, 1990, the above Pension reduction may be subject to a subsidy, as determined by the Vice President.
 
+- (2) 75 Percent Survivor Option: The Member shall receive a reduced Pension payable for his life and payments in the amount of 75 percent of such reduced Pension shall continue after the Member's death to his Dependant for life. The amount of the Member's reduced Pension shall be the Actuarial Equivalent (as defined in Section 2.01) of the Member’s Single Life Annuity benefit determined in accordance with Table A (or for Annuity Starting Dates before January 1, 2019, the Table A amount reduced by 15 percent, subject to subsection (f) below). In the case of a Member who became entitled to a Pension under the Plan as in effect prior to January 1, 1990, the above Pension reduction may be subject to a subsidy, as determined by the Vice President.
+
 - (3) 50 Percent Survivor Option: The Member shall receive a reduced Pension payable for his life and payments in the amount of 50 percent of such reduced Pension shall continue after the Member's death to his Dependant for life. The amount of the Member's reduced Pension shall be the Actuarial Equivalent (as defined in Section 2.01) of the Member’s Single Life Annuity benefit determined in accordance with Table A (or for Annuity Starting Dates before January 1, 2019, the Table A amount reduced by 10 percent, subject to subsection (f) below). In the case of a Member who became entitled to a Pension under the Plan as in effect prior to January 1, 1990, his Pension shall not be subject to this reduction.
 
-- (4) Ten-Year Certain and Life Option: Subject to Section 5.04, a Member may elect to receive a reduced Pension payable monthly for his lifetime but for not less than 120 months. If the Member dies before 120 payments have been made, the monthly Pension amount shall be paid for the remainder of the 120-month period to the Member's primary Dependant (if the primary Dependant has predeceased the Member, to the Member's contingent Dependant; and if there is no contingent Dependant, to the Member’s estate). If post-death payments commence to a Member’s primary or contingent Dependant and such Dependant 15
+- (4) Ten-Year Certain and Life Option: Subject to Section 5.04, a Member may elect to receive a reduced Pension payable monthly for his lifetime but for not less than 120 months. If the Member dies before 120 payments have been made, the monthly Pension amount shall be paid for the remainder of the 120-month period to the Member's primary Dependant (if the primary Dependant has predeceased the Member, to the Member's contingent Dependant; and if there is no contingent Dependant, to the Member’s estate). If post-death payments commence to a Member’s primary or contingent Dependant and such Dependant
 
 dies before all remaining payments due have been made, then the remaining payments shall be paid to such Dependant’s estate. Effective as of January 1, 2010, the Member’s Dependant or estate (as applicable) may elect by following the procedures set forth by the Vice President for this purpose, instead to receive a single lump sum payment that is the actuarial equivalent of the remaining payments due to such Dependant or estate (but computed without reduction for mortality), determined as of the date on which the lump sum payment is processed by the Vice President. The amount of the Member's reduced Pension shall be the Actuarial Equivalent (as defined in Section 2.01) of the Member's Single Life Annuity benefit determined in accordance with Table A (or for Annuity Starting Dates before January 1, 2019, the Table A amount reduced by 5 percent, subject to subsection (f) below). 
 
@@ -15418,9 +15338,13 @@ dies before all remaining payments due have been made, then the remaining paymen
 
 Eligible Spouse’s consent), and thereafter the Member dies after leaving employment but before such Pension becomes payable, then on the first day of the month next following his death such optional form of payment shall be deemed to be in effect. Such deemed effectiveness may only apply once and only to the initial election made by a Member (except as permitted by a decision of the Vice President that is made prior to the Member’s submission of a subsequent purported election). Notwithstanding the foregoing, in the case of the option under Section 5.03(b), if the Member’s specified Dependant has died or shall die before the date on which the first installment of the Member’s Pension was prospectively payable in accordance with the optional form of payment elected by the Member, the Member’s election of such optional form shall not be given effect. 
 
+   - (f) Reduction for Certain Younger Dependants: Notwithstanding the reduction factors specified in Sections 5.02(b) and 5.03, in the case of Annuity Starting Dates before January 1, 2019, a Member electing a form of payment that includes a survivor option shall have his Pension reduced in accordance with this subsection (f) in the event the Dependant under such survivor option is more than 10 years younger than the Member.
+
+- (1) Not More than 20 Years Younger: In the event the Dependant is more than 10 years younger than the Member, but not more than 20 years younger, the percentage reduction that otherwise would apply shall be increased by 5 percentage points.
+
 - (2) More than 20 Years Younger: In the event the Dependant is more than 20 years younger than the Member, the 5 percentage point increase in the reduction provided in (1) above shall be further increased by an additional 0.2 percent for each full year over 20.
 
-### 5. 04    Applicability of Certain Options
+## 5. 04    Applicability of Certain Options
 
 Notwithstanding the preceding provisions of this Article V, the availability of certain distribution options shall be restricted in accordance with the terms of this Section 5.04. 
 
@@ -15432,59 +15356,59 @@ Notwithstanding the preceding provisions of this Article V, the availability of 
 
 entitled under the last sentence of Section 5.02(b) (regarding the availability on favorable terms of the survivor benefit described in Section 5.02(b)). 
 
-### 5. 05    Cashout of Certain Benefits
+## 5. 05    Cashout of Certain Benefits
 
    - (a) Cashout of Small Benefits. Where the total Pension payable to any person under the DB Program is, in the opinion of the Vice President, of an amount that is relatively trivial (when considered by itself or in relation to the potential administrative burden of continuing to keep track of such Pension under the DB Program), he may commute the whole of such Pension to a lump sum payable following (i) the relevant Member’s termination of employment from both his Employer and the PepsiCo Organization, or (ii) a Member’s transfer within the PepsiCo Organization that results in the Member ceasing to actively accrue all benefits under the DB Program, on a date determined in the discretion of the Vice President, without the consent of the Member.
 
    - (b) Discretionary Cashout After Benefit Commencement. Effective January 1, 2019, the Vice President shall have the discretion to make a lump-sum payment to any Member whose benefit payments have commenced (in a form other than a lump-sum), if the present value of the Member’s remaining stream of payments is less than on equal to $75,000 on the payment date. The amount of the lump sum payment shall be the actuarial equivalent of the Member’s remaining stream of payments, determined utilizing the lump sum equivalent factors specified in Section 5.03(c) calculated as of the a payment date determined in the discretion of the Vice President.
 
-### 5. 06    Designation of Dependant
+## 5. 06    Designation of Dependant
 
 A Member who has elected to receive all or part of his pension in a form of payment that includes a survivor option shall designate a Dependant who will be entitled to any amounts payable on his death. A Member shall have the right to change or revoke his Dependant designation at any time prior to the effective date of his election. If the Member is married at the time he designates a Dependant, any designation under this section of a Dependant who is not the Member’s Eligible Spouse shall require the written consent of the Member’s Eligible Spouse. A revocation of a Dependant does not require consent by the Member’s Eligible Spouse. The designation of any Dependant, and any change or revocation thereof, and any written consent of a Member’s Eligible Spouse required by this Section shall be made in accordance with rules adopted by the Vice President, shall be made in writing on forms provided by the Vice President, and shall not be effective unless and until filed with the Vice President. In the case of the survivor option described in Section 5.03(b)(4) , the following shall apply: (i) the Member shall be entitled to name both a primary Dependant and a contingent Dependant, and (ii) if no Dependant is properly designated, then a Member’s election of such option will not be given effect. 
 
-### ARTICLE VI - DEATH BENEFITS
+## ARTICLE VI - DEATH BENEFITS
 
 The surviving Eligible Spouse or Eligible Domestic Partner, as applicable, of a Member who dies shall be entitled to certain survivor benefits if the requirements of this Article VI are satisfied. Except as provided in Sections 6.02 and 6.03, the amount of any such benefit shall be determined in accordance with Section II of Table A. 
 
-### 6. 01    Active and Retirement-Eligible Members
+## 6. 01    Active and Retirement-Eligible Members
 
 In the event of the death of an Active Member, a Member in Service after his Normal Retirement Date who had at his death completed at least 5 years of Service, or a Member entitled to an Early Retirement Pension under Section 4.02 or Special Early Retirement Pension under Section 4.03, if such Member is survived by an Eligible Spouse or an Eligible Domestic Partner and is not entitled at the time of death to the protection provided by Section 5.03(e), there shall be a Pre-Retirement Spouse’s Pension or Pre-Retirement Domestic Partner’s Pension payable to the Member’s surviving Eligible Spouse or Eligible Domestic Partner (as applicable), calculated in accordance with the provisions of Section II of Table A. 
 
-### 6. 02    Vested Members
+## 6. 02    Vested Members
 
 In the event of the death of a Member who is not described in Section 6.01 above, who is vested under Section 4.06 or Section 4.07 and who has not yet commenced or received the Member’s Pension, if such Member is survived by an Eligible Spouse or an Eligible Domestic Partner and is not entitled at the time of death to the protections provided by Section 5.03(e), there shall be payable a Pre-Retirement Spouse’s Pension or Pre-Retirement Domestic Partner’s Pension (as applicable), which shall be calculated based on the Member’s Salary and Pensionable Service as of the earlier of the Member’s death or termination of employment. The benefit shall be calculated as if the Member lived until the earliest date the Member’s vested benefit could have started, after having elected to start his benefit at that time in the form of a 50 Percent Survivor Annuity, and died that same day. 
 
 Coverage for this Pre-Retirement Spouse’s Pension or Pre-Retirement Domestic Partner’s Pension shall be paid for with a reduction to the monthly benefit otherwise payable to the Member. The reduction charged to the Member’s benefit shall be calculated in accordance with the methodology, and based on the same factors, provided for under the PepsiCo Salaried Plan, as in effect from time to time. The Member may only waive this Pre-Retirement Spouse’s Pension coverage or Pre-Retirement Domestic Partner’s Coverage (as applicable) with the approval of the Vice President. 
 
-### 6. 03    Form and Time of Payment of Death Benefits
+## 6. 03    Form and Time of Payment of Death Benefits
 
    - (a) Form of Payment: Any Pension payable pursuant to this Article VI shall be payable for the surviving Eligible Spouse’s or surviving Domestic Partner’s life only; however, in the case of a Pension payable to a surviving Eligible Spouse or surviving Domestic Partner where the Member was eligible for a Normal, Early or Special Early Retirement Pension at death, the Eligible Spouse or Eligible Domestic Partner may elect to receive the Pension in the form of a single lump sum payment in lieu of the annuity payment.
 
-   - (b) Time of Payment: Subject to Section 6.04, any Pension payable to the Eligible Spouse or Eligible Domestic Partner under this Article VI shall commence on the first day of the month coinciding with or next following the Member’s death, or if later, 19
+   - (b) Time of Payment: Subject to Section 6.04, any Pension payable to the Eligible Spouse or Eligible Domestic Partner under this Article VI shall commence on the first day of the month coinciding with or next following the Member’s death, or if later,
 
-### 6. 04    Disposition of Death Benefits
+the date on which the Member would have attained age 55. In the event a Pension payable to a Member’s Eligible Spouse commences before the Member would have reached Normal Retirement Age, the benefit will be reduced as set forth in Section 4.02, 4.03 or 4.04, as applicable based on the Pension to which the Member was entitled, to reflect early commencement. 
+
+## 6. 04    Disposition of Death Benefits
 
 Any benefit expressed to be subject to disposition in accordance with the provision of this Article VI shall be held by the Vice President with power to pay or apply the same to or for the benefit of such one or more of the Member’s Dependants, as the Vice President shall think fit and if more than one in such shares as they shall likewise think fit. Notwithstanding any other provision of the DC Program, the Vice President may direct that such benefit shall commence or be paid in a lump sum as soon as practicable after the Member’s date of death. 
 
-20 
+## ARTICLE VII - ADMINISTRATION
 
-### ARTICLE VII - ADMINISTRATION
-
-### 7. 01    Authority to Administer Plan
+## 7. 01    Authority to Administer Plan
 
    - (a) Administration by the Vice President: The Plan shall be administered by the Vice President, who shall have the authority to interpret the Plan and issue such regulations as he deems appropriate. All actions by the Vice President hereunder may be taken in his sole discretion, and all interpretations, determinations and regulations made or issued by the Vice President shall be final and binding on all persons and parties concerned.
 
    - (b) Authority to Delegate: The Vice President may delegate any of his responsibilities under the Plan to other persons or entities, or designate or employ other persons to carry out any of his duties, responsibilities or other functions under the Plan. Any reference in the Plan to an action by the Vice President shall, to the extent applicable, refer to such action by the Vice President’s delegate or other designated person.
 
-### 7. 02    Facility of Payment
+## 7. 02    Facility of Payment
 
 Whenever, in the opinion of the Vice President, a person entitled to receive any payment of a benefit or installment thereof hereunder is under a legal disability or is incapacitated in any way so as to be unable to manage his financial affairs, the Vice President may direct that payments from the Plan be made to such person’s legal representative for his benefit, or that the payment be applied for the benefit of such person in such manner as the Vice President considers advisable. Any payment of a benefit or installment thereof in accordance with the provisions of this section shall be a complete discharge of any liability for the making of such payment under the provisions of the Plan. 
 
-### 7. 03    Claims Procedure
+## 7. 03    Claims Procedure
 
 The Vice President shall have the exclusive discretionary authority to construe and to interpret the Plan, to decide all questions of eligibility for benefits and to determine the amount of such benefits, and his decisions on such matters are final and conclusive. As a result, benefits under this Plan will be paid only if the Vice President decides in his discretion that the person claiming such benefits is entitled to them. This discretionary authority is intended to be absolute, and in any case where the extent of this discretion is in question, the Vice President is to be accorded the maximum discretion possible. Any exercise of this discretionary authority shall be reviewed by a court, arbitrator or other tribunal under the arbitrary and capricious standard ( _i.e._ , the abuse of discretion standard). All decisions and determinations made by the Vice President shall be final, conclusive, and binding on all parties. The Vice President may consider the intent of the Corporation with respect to a Plan provision in making any determination with respect to the provision, notwithstanding the provisions set forth in any document that arguably do not contemplate considering such intent. 
 
-If, pursuant to this discretionary authority, an assertion of any right to a benefit or any other right related to the Plan (a “claim”), by or on behalf of a Member, putative Member, Dependant or putative Dependant (a “claimant”), is wholly or partially denied, the Vice President, or a party designated by the Vice President, will provide such claimant the claims procedure described in this section. The Vice President has the discretionary authority to modify the claims procedure described in this Section in any manner so long as the claims review process, as modified, includes the basic steps described in this Section. In the event of a claim by a claimant, the Vice 21
+If, pursuant to this discretionary authority, an assertion of any right to a benefit or any other right related to the Plan (a “claim”), by or on behalf of a Member, putative Member, Dependant or putative Dependant (a “claimant”), is wholly or partially denied, the Vice President, or a party designated by the Vice President, will provide such claimant the claims procedure described in this section. The Vice President has the discretionary authority to modify the claims procedure described in this Section in any manner so long as the claims review process, as modified, includes the basic steps described in this Section. In the event of a claim by a claimant, the Vice 
 
 President or the designated party shall provide the claimant within the 90-day period following the receipt of the claim by the Vice President, a comprehensible written notice setting forth: 
 
@@ -15500,21 +15424,19 @@ If the Vice President determines that special circumstances require an extension
 
 Any claim under the Plan that is reviewed by a court, arbitrator or any other tribunal shall be reviewed solely on the basis of the record before the Vice President at the time it made its determination. In addition, any such review shall be conditioned on the claimant’s having fully exhausted all rights under this section and in accordance with Section 7.07. 
 
-### 7. 04    Limitations on Actions
+## 7. 04    Limitations on Actions
 
 Any claim filed under Article VII and any action filed in any court or other tribunal by or on behalf of a former or current Employee, Member, Dependant or any other individual, person or entity (collectively, a “Petitioner”) for the alleged wrongful denial of Plan benefits must be brought within two years of the date the Petitioner’s cause of action first accrues. For purposes of this subsection, a cause of action with respect to a Petitioner’s benefits under the Plan shall be deemed to accrue not later than earlier of (i) when the Petitioner has received the calculation of the benefits that are the subject of the claim or legal action; (ii) the date identified to the Petitioner by the Vice President on which payments shall commence; or (iii) when he has actual or constructive knowledge of the facts that are the basis of his claim. Failure to bring any such claim or cause of action within this two-year time frame shall preclude a Petitioner, or any representative of the Petitioner, from filing the claim or cause of action. Correspondence or other communications following the mandatory appeals process described above shall have no effect on this two-year time frame. 
 
-22 
-
-### 7. 05    Restriction of Venue
+## 7. 05    Restriction of Venue
 
 Any claim or action filed in court or any other tribunal in connection with the Plan by or on behalf of a Petitioner shall only be brought or filed in the state or federal courts of New York, specifically the state or federal court, whichever applies, located nearest the Corporation’s headquarters. 
 
-### 7. 06    Effect of Specific References
+## 7. 06    Effect of Specific References
 
 Specific references in the Plan to the Vice President’s discretion shall create no inference that the Vice President’s discretion in any other respect, or in connection with any other provision, is less complete or broad. 
 
-### 7. 07    Claimant Must Exhaust the Plan’s Claims Procedures Before Filing in Court
+## 7. 07    Claimant Must Exhaust the Plan’s Claims Procedures Before Filing in Court
 
 Before filing any Claim (as defined below in this Section), including a suit or other action, in a court or in another tribunal, a Claimant (as defined below in this Section) must first fully exhaust all of the Claimant’s rights under the claims procedure in Section 7.03. 
 
@@ -15522,7 +15444,7 @@ Before filing any Claim (as defined below in this Section), including a suit or 
 
    - (b) The exhaustion requirement of this Section 7.06 shall apply: (i) regardless of whether other Disputes (as defined below in this Section) that are not Claims (including those that a court or other tribunal might consider at the same time) are of greater significance or relevance, (ii) to any rights the Vice President may choose to provide in connection with novel Disputes or in particular situations, (iii) regardless of whether the rights are actual or potential, and (iv) even if the Vice President has not previously defined or established specific claims procedures that directly apply to the submission and consideration of such Claim (in which case the Vice President, upon notice of the Claim) shall either promptly establish such claims procedures or shall apply (or act by analogy to) the claims procedures of Section 7.03 that apply to claims for benefits).
 
-   - (c) The Vice President may make special arrangements to consider a Claim on a class basis or to address unusual conflicts concerns, and such minimum arrangements in 23
+   - (c) The Vice President may make special arrangements to consider a Claim on a class basis or to address unusual conflicts concerns, and such minimum arrangements in
 
 these respects shall be made as are necessary to maximize the extent to which exhaustion is required. 
 
@@ -15554,47 +15476,47 @@ It is the Vice President’s intent to interpret and operate the Plan in good fa
 
 - (3) A “Claimant” is any actual or putative Eligible Employee, former Eligible Employee, Member, former Member, Dependant (or the spouse, former spouse, estate, heir or representative of any of the foregoing individuals), or any other individual, person, entity with a relationship to any of the foregoing individuals or the Plan, as well as any group of one or more of the foregoing, who has a Claim.
 
-### ARTICLE VIII - AMENDMENT AND TERMINATION
+## ARTICLE VIII - AMENDMENT AND TERMINATION
 
-### 8. 01    Continuation of the Plan
+## 8. 01    Continuation of the Plan
 
 While the Corporation intends to continue the Plan indefinitely, it assumes no contractual obligation as to its continuance. The Corporation hereby reserves the right, in its sole discretion, to amend, terminate, or partially terminate the Plan at any time provided, however, that no such amendment or termination shall adversely affect the amount of benefit to which a Member or his Dependant is entitled under the Plan on the date of such amendment or termination, unless the Member becomes entitled to an amount equal to such benefit under another plan or practice adopted by the Corporation. Specific forms of payment are not protected under the preceding sentence. 
 
-### 8. 02    Amendment
+## 8. 02    Amendment
 
 The Corporation may, in its sole discretion, make any amendment or amendments to the Plan from time to time, with or without retroactive effect, subject to Section 8.01. An Employer (other than the Corporation) shall not have the right to amend the Plan. 
 
-### 8. 03    Termination
+## 8. 03    Termination
 
 The Corporation may terminate the Plan, either as to its participation or as to the participation of one or more Employers. If the Plan is terminated with respect to fewer than all of the Employers, the Plan shall continue in effect for the benefit of the employees of the remaining Employers. 
 
-### ARTICLE IX - MISCELLANEOUS
+## ARTICLE IX - MISCELLANEOUS
 
-### 9. 01    Unfunded Plan
+## 9. 01    Unfunded Plan
 
 The Employers’ obligations under the Plan shall not be funded, but shall constitute liabilities by the Employer payable when due out of the Employer’s general funds. To the extent a Member or any other person acquires a right to receive benefits under this Plan, such right shall be no greater than the rights of any unsecured general creditor of the Employer. 
 
-### 9. 02    Costs of the Plan
+## 9. 02    Costs of the Plan
 
 Unless otherwise agreed by the Corporation, all costs, charges and expenses of or incidental to the administration and management of the Plan shall be the costs, charges and expenses of the Employers and shall be paid by each Employer based on the proportion of Members who are employed by such Employer as compared to the total number of Members at the time the cost or expense is incurred. 
 
-### 9. 03    Temporary Absence of Member
+## 9. 03    Temporary Absence of Member
 
 If a Member is absent from duty by reason other than death, discharge, retirement or quitting ( _e.g._ , sickness, accident, layoff, vacation), he shall be deemed to have terminated employment on the date that is 12 months after the date on which he is absent, unless the Vice President determines otherwise. If the Member’s absence from duty is by reason of his service as a fulltime member of the armed forces of any country or of any organization engaged in national service of any such country, he shall not be deemed to have terminated employment so long as he is regarded by the Employer as remaining in employment or until he shall resign permanently from employment, whichever shall first occur. 
 
-### 9. 04    Taxes, Etc
+## 9. 04    Taxes, Etc
 
 In the event any tax or assessment or other duty is determined by the Vice President to be owing in respect of any benefit payable from the Plan, the Plan shall be entitled to withhold an amount not exceeding the amount of any such tax or assessment or other duty from the benefit payable and shall apply the same in satisfaction of said tax or assessment or other duty. 
 
-### 9. 05    Nonguarantee of Employment
+## 9. 05    Nonguarantee of Employment
 
 Nothing in the Plan shall be construed as a contract of employment between an Employer and any of its employees, or as a right of any such employee to continue in the employment of the Employer, or as a limitation of the right of an Employer to discharge any of its employees, with or without cause. 
 
-### 9. 06    No Right to Benefits
+## 9. 06    No Right to Benefits
 
 No person, whether or not being a Member, shall have any claim, right or interest under the Plan except as provided by the terms of the Plan. In the event of a Member’s termination of employment by an Employer, the resulting cessation of his Active Membership shall not be grounds for any damages or any increase in damages in any action brought against the Employer or any member of the PepsiCo Organization with respect to such termination. 
 
-### 9. 07    Charges on Benefits and Recovery of Excess Payments
+## 9. 07    Charges on Benefits and Recovery of Excess Payments
 
 All benefits in respect of a Member under the Plan shall stand charged with and be subject to deductions therefrom of all sums in respect of losses to a member of the PepsiCo Organization or Employer or otherwise caused by misdemeanor of the Member and on production by the member of the PepsiCo Organization or Employer of proof satisfactory to the Vice President that any such loss ought to be made good by a Member. The relevant amount shall be deductible from the Member’s benefits and be payable to the Employer or member of the PepsiCo Organization whose receipt shall be a valid discharge for the same. 
 
@@ -15608,7 +15530,7 @@ Payments to, for or in connection with a Member that are made (as of a point in 
 
 Any party receiving an Excess Payment shall promptly take all actions requested by the Vice President that are in furtherance of the Plan’s recovery of the Excess Payment with appropriate interest. In all cases, this subsection shall maximize the rights of the Plan to recover improper payments and shall not restrict the rights of the Plan in any way, including with respect to any improper payment that is not addressed above. 
 
-### 9. 08    Termination for Cause; Prohibited Misconduct
+## 9. 08    Termination for Cause; Prohibited Misconduct
 
    - (a) Notwithstanding any other provision of this Plan to the contrary, if the Vice President determines that a Member has been terminated for cause or engaged in Prohibited Misconduct at any time prior to the second anniversary of the date his or her employment with the PepsiCo Organization terminates, the Member shall forfeit his Pension (whether paid previously, being paid currently or payable in the future), and his or her Pension shall be adjusted to reflect such forfeiture and any previously paid Pension payments shall be recovered. As a condition to Membership in this Plan, each Member
 
@@ -15630,45 +15552,47 @@ Notwithstanding the foregoing and for the avoidance of doubt, nothing in this Pl
 
 For purposes of this subsection, “Participation” shall be construed broadly to include: (i) serving as a director, officer, employee, consultant or contractor with respect to such a business entity; (ii) providing input, advice, guidance or suggestions to such a business entity; or (iii) providing a recommendation or testimonial on behalf of such a business entity or one or more products it produces. For purposes of this subsection, “Covered Products” shall mean any product that falls into one or more of the following categories, so long as the PepsiCo Organization is producing, marketing, selling or licensing such product anywhere in the world – beverages, including without limitation carbonated soft drinks, tea, water, juice drinks, sports drinks, coffee drinks, energy drinks, and value-added dairy drinks; juices and juice products; dairy products; snacks, including salty snacks, sweet snacks meat snacks, granola and cereal bars, and cookies; hot cereals; pancake mixes; value-added rice products; pancake syrups; value-added pasta products; ready-to-eat cereals; dry pasta products; or any product or service that the Member had reason to know was under development by the PepsiCo Organization during the Member’s employment with the PepsiCo Organization. 
 
-### 9. 09    Notices
+## 9. 09    Notices
 
 Any notice which under the Plan is required to be given to or served upon the Plan shall be deemed to be sufficiently given to or served upon the Plan if it is in writing and delivered to the Vice President. In any case where under the Plan any notice shall be required to be given to Members, it shall be sufficient if such notice is delivered to the Member’s last known address on file in the records of the Employer or delivered to the Member pursuant to any other method ( _e.g._ , electronically) that the Vice President determines is reasonably available to the Member. 
 
-### 9. 10    Plan Documentation
+## 9. 10    Plan Documentation
 
 Every Member shall on demand be entitled to a copy of the governing legal document for the DB Program. 
 
-### 9. 11    Currency of Payment
+## 9. 11    Currency of Payment
 
 Payment of benefits under the Plan shall be made in United States dollars, or other "eligible currency," as approved by the Vice President. For both annuity and lump sum payments, the amount otherwise payable in United States dollars would be converted to the 
 
 selected currency using the exchange rate, based on the methodology approved by the Vice President from time to time. 
 
-### 9. 12    Governing Law
+## 9. 12    Governing Law
 
 The Plan shall in all respects be governed by and interpreted according to the laws of the State of New York. 
 
-### 9. 13    Exemption from ERISA
+## 9. 13    Exemption from ERISA
 
 The Plan is intended to be exempt from the Employee Retirement Income Security Act of 1974, as amended (“ERISA”), as a plan maintained outside of the United States primarily for the benefit of persons substantially all of whom are nonresident aliens of the United States. In order to preserve this exemption from ERISA, both Active Membership in the Plan and the opportunity to increase Highest Average Monthly Earnings after ceasing to be an Active Member, in accordance with Section 4.04(b), shall be limited to individuals who are nonresident aliens of the United States and whose assigned work locations are outside the United States, and it is intended that all permanent records and documentation relating to the administration of the Plan shall be kept at a location that is outside of the United States. 
 
-### 9. 14    Exemption from Section 409A
+## 9. 14    Exemption from Section 409A
 
 In order to permit this Plan to be completely exempt from United States Internal Revenue Code section 409A (“Section 409A”), this Plan shall be subject to the special operating rules and limitations in this Section 9.14, effective for any period to which Section 409A applies. It is the intent of the Plan that no Member who is a U.S. Person may in any way have their benefit from the Plan vest, increase or in any way be enhanced (collectively, a “Benefit Enhancement”) as a result of their compensation or service while a U.S. Person. Accordingly, no Member shall become entitled to a Benefit Enhancement with respect to a calendar year until it is determined, following the close of such year, that the Member was not a U.S. Person with respect to such year. Notwithstanding the preceding sentence, in the calendar year a Member’s benefit under this Plan is scheduled to commence, the Vice President may authorize a Benefit Enhancement for the calendar year of benefit commencement to the extent the Vice President determines satisfactorily that the Member will not be a U.S. Person for such year. In other cases, the Member’s benefit will commence under this Plan without any Benefit Enhancement related to the calendar year of commencement, and appropriate adjustments will be made to the Member’s benefit in the following year if it is determined that the Member was not a U.S. Person in such calendar year of commencement. This Section 9.14 shall at all times be interpreted and applied in accordance with the overriding requirement that benefits and any other rights under the Plan must remain entirely exempt from Section 409A, and the Vice President shall have such unrestricted authority as is necessary to ensure that it is applied in accordance with this requirement. 
 
-### ARTICLE X - SIGNATURE
+## ARTICLE X - SIGNATURE
 
 The PepsiCo International Retirement Plan, DB Program document, as amended and restated, is hereby adopted as of this 19th day of December, 2022, to be effective as of January 1, 2023 or as otherwise stated herein. 
 
 PEPSICO, INC. 
 
-### By:_/s/ Ronald Schellekens___________________ Ronald Schellekens Executive Vice President and Chief Human Resources Officer Date: December 19, 2022
+## By:_/s/ Ronald Schellekens___________________ Ronald Schellekens Executive Vice President and Chief Human Resources Officer Date: December 19, 2022
 
 Law Department Approval 
 
-By:    _/s/ Jeffrey Arnold______________ Jeffrey Arnold Legal Director, Employee Benefits Counsel Date:    December 9, 2022
+## By:    _/s/ Jeffrey Arnold______________ Jeffrey Arnold Legal Director, Employee Benefits Counsel
 
-### TABLE A - CALCULATION OF PENSIONS
+Date:    December 9, 2022 
+
+## TABLE A - CALCULATION OF PENSIONS
 
 This section sets forth the formulas for calculating the Pension payable to a Member under Article IV or the Death Benefit payable to a Member’s Eligible Spouse or Eligible Domestic Partner, as applicable, under Article VI, but subject in all cases to the freeze of the Plan described in Article I. Any benefits accrued under the DB Program by a Member while a part-time employee, following such Member’s designation by the Vice President as an Eligible Employee pursuant to the last sentence of the definition of Eligible Employee in Section 2.01, shall be prorated as determined by the Vice President to reflect the approximate ratio of the Member’s level of services during such part-time status to the level required for full-time status at the Member’s work location. 
 
@@ -15712,6 +15636,8 @@ No such deduction shall be made in respect of any such benefits as are derived f
 
    - (f) In determining the amount of a Deferred Vested Pension for the purposes of Section 4.04, the Pension shall be equal to the greatest of the amounts determined under subsection (1) , (2) or (3) below:
 
+- (1) The Pension calculated as provided in (b) above, but based on the Pensionable Service the Member would have earned had he remained an Active Member until his Normal Retirement Age (subject to a maximum of 35 years) and Highest Average Monthly Salary as of September 30, 2003, reduced by a fraction, the numerator of which is the Member’s actual years of Pensionable Service prior to October 1, 2003 (subject to a maximum of 35 years) and the denominator of which is the years of Pensionable Service he would have earned had he remained an Active Member until his Normal Retirement Age.
+
 ### (2)    The aggregate of:
 
       - (i) The Pension calculated as provided in (b) above, but based on the Pensionable Service the Member would have earned had he remained an Active Member until his Normal Retirement Date and Highest Average Monthly Salary as of September 30, 2003, reduced by a fraction, the numerator of which is the Member’s actual years of Pensionable Service prior to October 1, 2003 and the denominator of which is the years of Pensionable Service he would have earned had he remained an Active Member until his Normal Retirement Date; and
@@ -15726,21 +15652,23 @@ All deductions set out in (c) above that are applicable to a Member entitled to 
 
 ## (II)    Pre-Retirement Spouse’s Pension or Pre-Retirement Domestic Partner’s Pension
 
-### APPENDIX ERW - EARLY RETIREMENT WINDOWS
+If a Member covered by Section 6.01 dies after the date he would have been entitled to retire early under Section 4.02, the PreRetirement Spouse’s Pension or Pre-Retirement Domestic Partner’s Pension, as applicable, shall be 50 percent of the Pension to which the Member would have been entitled if he had retired on the day preceding his death (having elected a 50 Percent Survivor Annuity calculated in accordance with Section 5.02(b)) and reduced in accordance with Section 4.02 if the Eligible Spouse or Eligible Domestic Partner commences the Pre-Retirement Souse’s Pension or Pre-Retirement Domestic Partner’s Pension, as applicable, prior to the date the Member would have attained age 62. If a Member covered by Section 6.01 dies before the date he would have been entitled to retire early under Section 4.02, the Pre-Retirement Spouse’s Pension or PreRetirement Domestic Partner’s Pension, as applicable, shall be 50 percent of the Pension to which the Member would have been entitled if he had attained the right to receive a 50 Percent Survivor Annuity calculated in accordance with Section 5.02(b)), payable as of the first of the month following the later of death or the date the Member would have attained age 55, and reduced in accordance with Section 4.04(c) if the Eligible Spouse or Eligible Domestic Partner commences the Pre-Retirement Souse’s Pension or Pre-Retirement Domestic Partner’s Pension, as applicable, prior to the date the Member would have attained age 65. 
 
-### ERW.1    Scope
+## APPENDIX ERW - EARLY RETIREMENT WINDOWS
+
+## ERW.1    Scope
 
 This Appendix ERW supplements the main portion of the DB Program with respect to the rights and benefits of Covered Employees. 
 
-### ERW.2    Definitions and Program Specific Rules
+## ERW.2    Definitions and Program Specific Rules
 
 This section provides definitions for the following words or phrases in boldface and underlined. Where they appear in this Appendix ERW with initial capitals they shall have the meaning set forth below. Except as otherwise provided in this Appendix ERW, all defined terms shall have the meaning given to them in Section 2.01 of the DB Program. 
 
-### ## (a) Appendix ERW:
+## (a) Appendix ERW:
 
 This Appendix ERW to the DB Program.
 
-### ## (b) Covered Employee:
+## (b) Covered Employee:
 
 An Active Member who:
 
@@ -15760,20 +15688,25 @@ An Active Member who:
 
 Any Active Member who does not meet all of the foregoing requirements is not a “Covered Employee” and is not eligible for the benefits under this Appendix ERW. 
 
-### (c) Reorganization:
+(c) Reorganization:
 
-The reorganization, plant closing, or other event that triggered the applicable Severance (d) Severance Date:
+The reorganization, plant closing, or other event that triggered the applicable Severance
 
+   - Program. 
+
+(d) Severance Date:
 
 An Active Member’s final day of employment with the Employer pursuant to the Reorganization.
 
-### (e) Severance Program and Effective Date:
+(e) Severance Program and Effective Date:
 
 The Terms Severance Program and Effective Date are defined as follows, separately for each Severance Program:
 
+- (1) 2007/2008 Restructuring. For purposes of the 2007/2008 Restructuring, Severance Program means both the “PepsiCo Transition Severance Program for the 2007 Restructuring for Salaried Employees Below Band 1” and the “PepsiCo Transition Severance Program for the Equipment & Service Management Restructuring for Salaried Employees below Band 1” and Effective Date means February 4, 2008 (that is, the first date an Active Member would be able to retire under this paragraph (1) ).
+
 - (2) 2008/2009 Restructuring. For purposes of the 2008/2009 Restructuring, Severance Program means both the “PepsiCo Transition Severance Program for the 2008/2009 Restructuring for Salaried Employees Below Band I” and the “PepsiCo Transition Severance Program for the 2008/2009 Restructuring for Salaried Employees Band I” and Effective Date means April 3, 2009 (that is, the first date an Active Member would be able to retire under this paragraph (2) ).
 
-### ERW.3     Special Early Retirement
+## ERW.3     Special Early Retirement
 
 Any Covered Employee who meets the eligibility requirements of subsection (a) below shall be treated as eligible for a Special Early Retirement Pension under Section 4.03. 
 
@@ -15797,21 +15730,17 @@ Any Covered Employee who meets the eligibility requirements of subsection (a) be
 
       - (iv) not be otherwise eligible for Normal or Early Retirement Pension.
 
-37 
-
    - (b) Amount of Reduction: In determining the amount of the Special Early Retirement Pension provided under this Appendix ERW, the 4/12ths of 1 percent per month early commencement reduction of Section 4.03 shall apply. The Special Early Retirement Pension provided under this section is otherwise subject to all the usual limitations set forth in the DB Program.
 
    - (c) Non-Duplication of Benefits: For the avoidance of doubt, the Special Early Retirement Pension made available pursuant to this Appendix ERW shall be in lieu of the Special Early Retirement Pension pursuant to Rule 4.03 of the DB Program. Covered Employees shall not be entitled to, and shall not receive, a Special Early Retirement Pension pursuant to Section 4.03 of the DB Program. In addition, the Special Early Retirement Pension under this Appendix ERW shall not be available to any individual who is eligible for special early retirement under the PepsiCo Salaried Plan (or who claims such special early retirement, unless a release of such claim acceptable to the Corporations is provided). By accepting benefits pursuant to this Appendix ERW, a Covered Employee is conclusively presumed to have waived irrevocably any and all right to a Special Early Retirement Pension under Section 4.03 or to special early retirement benefits under the PepsiCo Salaried Plan (or any other plan maintained or contributed to by the Corporation or an Associated Company).
 
    - (d) LTIP Awards: Any Covered Employee who is treated as eligible for an Early Retirement Pension pursuant to this Rule ERW shall also be deemed to qualify for “Retirement” for purposes of such Covered Employee’s outstanding stock option and restricted stock unit awards under the PepsiCo Inc. Long-Term Incentive Plan, the PepsiCo, Inc. 2003 Long-Term Incentive Plan, the PepsiCo, Inc. 1994 Long-Term Incentive Plan, the PepsiCo, Inc. 1995 Stock Option Incentive Plan and the PepsiCo SharePower Stock Option Plan.
 
-### Exhibit 10.7
-
 # THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM
 
-**(PIRP-DC)** 
+# (PIRP-DC)
 
-**As Amended and Restated Effective as of January 1, 2022** 
+## As Amended and Restated Effective as of January 1, 2022
 
 <table>
   <thead>
@@ -16024,9 +15953,7 @@ Any Covered Employee who meets the eligibility requirements of subsection (a) be
   </tbody>
 </table>
 
-ii 
-
-### ARTICLE I – HISTORY AND GENERAL INFORMATION
+## ARTICLE I – HISTORY AND GENERAL INFORMATION
 
 PepsiCo, Inc. (the “Corporation”) first established the PepsiCo International Retirement Plan effective as of September 1, 1980. The Plan at that time was comprised of the “PepsiCo International Retirement Plan Trust Indenture” and the “Plan Rules.” The Plan was amended and restated in its entirety, effective September 2, 1982. 
 
@@ -16044,13 +15971,11 @@ The DC Program was again amended and restated effective as of January 1, 2019. A
 
 The DC Program is now hereby amended and restated effective as of January 1, 2022. 
 
-At all times, the Plan is unfunded and unsecured for purposes of the United States Internal Revenue Code and Employee Retirement Income Security Act of 1974, as amended (“ERISA”). The benefits of an executive are an obligation of that executive’s individual employer. With respect to his employer, the executive has the rights of an unsecured general creditor. The Plan is also intended to be exempt from ERISA as a plan maintained outside of the 1
+At all times, the Plan is unfunded and unsecured for purposes of the United States Internal Revenue Code and Employee Retirement Income Security Act of 1974, as amended (“ERISA”). The benefits of an executive are an obligation of that executive’s individual employer. With respect to his employer, the executive has the rights of an unsecured general creditor. The Plan is also intended to be exempt from ERISA as a plan maintained outside of the 
 
 United States primarily for the benefit of persons substantially all of whom are nonresident aliens of the United States. 
 
-2 
-
-### ARTICLE II – DEFINITIONS AND CONSTRUCTION
+## ARTICLE II – DEFINITIONS AND CONSTRUCTION
 
 ### 2. 01    Definitions
 
@@ -16074,7 +15999,7 @@ Where the following words and phrases appear in this governing document for the 
 
    - (f) “DC Program” means the portion of the Plan that provides a program of defined contributions and that is described in the governing legal document entitled “The PepsiCo International Retirement Plan Defined Contribution Program (PIRP-DC), as it may be amended from time to time. The DC Program is also sometimes referred to as “PIRPDC.”
 
-   - (g) “Distribution Valuation Date” means the date as specified by the Vice President from time to time as of which PIRP-DC Accounts are valued for purposes of distributions under Article VI. Currently, the Distribution Valuation Date for a Member is the month end that occurs just after the event specified in Article VI that triggers the Member’s distribution. Accordingly, if the trigger event occurs on December 30 of a year, the current Distribution Valuation Date is December 31 of that year, and if the 3
+   - (g) “Distribution Valuation Date” means the date as specified by the Vice President from time to time as of which PIRP-DC Accounts are valued for purposes of distributions under Article VI. Currently, the Distribution Valuation Date for a Member is the month end that occurs just after the event specified in Article VI that triggers the Member’s distribution. Accordingly, if the trigger event occurs on December 30 of a year, the current Distribution Valuation Date is December 31 of that year, and if the
 
 trigger event occurs on December 31 of a year, the current Distribution Valuation Date is January 31 of the following year. The Vice President may change any current Distribution Valuation Date. Values are determined as of the close of a Distribution Valuation Date or, if such date is not a business day, as of the close of the preceding business day. 
 
@@ -16110,7 +16035,7 @@ The Vice President shall have the discretion to designate as an Eligible Employe
 
    - (n) “Interest Credit” means the credit made annually to a Member’s PIRP-DC Account pursuant to Section 4.01(b).
 
-   - (o) “Interest Rate” means the annualized rate of interest used to determine a Member’s Interest Credit. As of the Effective Date, the Interest Rate is the rate of interest on 30-year Treasury securities as prescribed by the Commissioner of the United States Internal Revenue Service for the month of September immediately preceding the first day of the Plan Year to which an Interest Credit relates. The Vice President shall have the discretion to change from time to time the basis for determining the Interest Rate as necessary to ensure that the Interest Rate is readily determinable and administrable, and that it can be reasonably expected to provide substantially a market rate of interest 5
+   - (o) “Interest Rate” means the annualized rate of interest used to determine a Member’s Interest Credit. As of the Effective Date, the Interest Rate is the rate of interest on 30-year Treasury securities as prescribed by the Commissioner of the United States Internal Revenue Service for the month of September immediately preceding the first day of the Plan Year to which an Interest Credit relates. The Vice President shall have the discretion to change from time to time the basis for determining the Interest Rate as necessary to ensure that the Interest Rate is readily determinable and administrable, and that it can be reasonably expected to provide substantially a market rate of interest
 
 over time. At all times the Interest Rate shall not exceed a level that may be considered to constitute earnings under Treasury Regulation § 1.409A-1(o). 
 
@@ -16140,11 +16065,9 @@ Eligible Employee to the status of an Eligible Employee of an Approved Employer,
 
    - (aa) “Vice President” means the Vice President, Global Benefits & Wellness of PepsiCo, Inc., but if such position is vacant or eliminated it shall be the person who is acting to fulfill the majority of the duties of the position (or plurality of the duties, if no one is fulfilling a majority), as such duties existed immediately prior to the vacancy or the position elimination.
 
-### 2. 02    Construction
+## 2. 02    Construction
 
    - (a) Gender and Number: Unless the context clearly indicates to the contrary, (i) a reference to one or more genders shall include a reference to all the other genders, and (ii) the singular may include the plural, and the plural may include the singular..
-
-7 
 
    - (b) Determining Periods of Years: For the purposes of the DC Program, any period of 365 consecutive days (or of 366 consecutive days, if the period includes 29th February) shall be deemed to constitute a year, but not so that in the calculation of a number of years any day is counted more than once. Where the amount of a benefit depends upon the calculation of a number of years or months without expressly requiring that these should be complete years or months, a proportionate amount ( _i.e._ , a number of days) may be given for any part of a year or month which would not otherwise be included in the calculation. Where this document makes reference to months or parts of a year, or to any other period of time except a day, week or year the Vice President may authorize the period to be counted in days or complete calendar months with each calendar month counted as 1/12th of a year.
 
@@ -16154,27 +16077,23 @@ Eligible Employee to the status of an Eligible Employee of an Approved Employer,
 
    - (e) Subdivisions of this Document: This document is divided and subdivided using the following progression: articles, sections, subsections, paragraphs, subparagraphs and clauses. Articles are designated by capital roman numerals. Sections are designated by Arabic numerals containing a decimal point. Subsections are designated by lower-case letters in parentheses. Paragraphs are designated by Arabic numerals in parentheses. Subparagraphs are designated by lower-case roman numerals in parentheses. Clauses are designated by upper-case letters in parentheses. Any reference in a section to a subsection (with no accompanying section reference) shall be read as a reference to the subsection with the specified designation contained in that same section. A similar rule shall apply with respect to paragraph references within a subsection and subparagraph references within a paragraph.
 
-8 
-
-### ARTICLE III – MEMBERSHIP
+## ARTICLE III – MEMBERSHIP
 
 ### 3. 01    Eligibility for Membership
 
 Every person who the Vice President determines is an Eligible Employee shall be eligible for Membership. 
 
-### 3. 02    Admission to Membership
+## 3. 02    Admission to Membership
 
 Every person who the Vice President determines is an Eligible Employee, and who is not during the relevant time a U.S. Person, shall, following the approval of his Membership by the Vice President, be admitted to Membership effective as of his Entry Date. For this purpose, the relevant time includes a sufficient period before the Eligible Employee’s Proposed Entry Date as is necessary to avoid PIRP-DC Accounts being considered deferred compensation that is subject to Section 409A of the United States Internal Revenue Code. No Eligible Employee or any other person shall be admitted to Membership without the approval of the Vice President. 
 
-### 3. 03    Active and Inactive Membership
+## 3. 03    Active and Inactive Membership
 
 A Member shall be an Active Member during the period that he is – (a) employed as an Eligible Employee, (b) not a U.S. Person, and (c) currently approved for status as an Active Member by the Vice President. A Member shall be an Inactive Member during any period that he does not currently meet all of the requirements to be an Active Member. 
 
-9 
+## ARTICLE IV – CONTRIBUTIONS
 
-### ARTICLE IV – CONTRIBUTIONS
-
-### 4. 01    Contributions
+## 4. 01    Contributions
 
 To the extent provided in subsections (a) and (b) below, the Employer shall allocate Pay Credits and Interest Credits to a Member’s PIRP-DC Account, each determined by the Vice President as follows – 
 
@@ -16207,7 +16126,7 @@ Vice President by multiplying the Interest Rate for the period since the last Va
 
 A Member’s Pay Credit and Interest Credit shall be determined by the Vice President as soon as administratively practicable after each Valuation Date. If a Member has less than one full year of Active Membership since such last Valuation Date ( _e.g.,_ as may apply in the Member’s first and last year of Membership), the Member’s Pay Credit as otherwise determined under subsection (a) above shall be prorated for such period based upon the Member’s fractional year of Active Membership. If a Member has less than one full year of Membership since such last Valuation Date, any Interest Credit as otherwise available and determined under subsection (b) above shall be prorated for such period based upon the Member’s fractional year of Membership ( _e.g._ , as may apply in the Member’s last year of Membership). A fractional year shall be computed by dividing the Member’s days of Membership or Active Membership (as applicable) during the Plan Year by the total number of days in such Plan Year. A period of paid leave of absence during a Plan Year shall be considered a period of Active Membership for purposes of determining a Member’s Pay Credit for the Plan Year in accordance with the prior sentence. However, a period of unpaid leave of absence during a Plan Year shall not be considered a period of Active Membership for purposes of determining a Member’s Pay Credit for the Plan Year in accordance with the prior sentence (and as a result, the Pay Credit for the Plan Year containing the unpaid leave shall be prorated, or there shall be no Pay Credit, all as necessary to limit Pay Credits to the Member’s period of Active Membership during the Plan Year). In the event a prorated Pay Credit and Interest Credit relate to the Member’s final year of Membership, the Pay Credit and Interest Credit shall be determined as of the Member’s Distribution Valuation Date (with proration based upon the Member’s fractional final year of Membership). The calculation of the Pay Credit and Interest Credit by the Vice President shall be conclusive and binding on all Members (and their Dependants). 
 
-### 4. 02    Offsets
+## 4. 02    Offsets
 
 Notwithstanding Section 4.01, the Corporation may reduce the amount of any payment or benefit that is or would become payable to or on behalf of a Member by the amount of any obligation of the Member to the Corporation or by the amount of – 
 
@@ -16217,15 +16136,17 @@ Notwithstanding Section 4.01, the Corporation may reduce the amount of any payme
 
 Consistent with the foregoing, appropriate reductions may be made in the Pay Credits and Interest Credits that otherwise would be provided to the Member under Sections 4.01 and 4.02, the balance in the Member’s PIRP-DC Account under Article V, or the Member’s distributions under Article VI. The determination of whether a benefit is material and all other aspects of the application of this Section 4.02 is solely in the independent discretion of the Vice President. 
 
-### ARTICLE V – MEMBER ACCOUNTS
+## ARTICLE V – MEMBER ACCOUNTS
+
+## 5. 01    Accounting for Members’ Interests
 
 Pay Credits and Interest Credits shall be credited to a Member’s PIRP-DC Account as of the Valuation Date to which such credits relate (or, in the case of Pay Credits and Interest Credits that relate to the Member’s final year of Membership, as of the Member’s Distribution Valuation Date) or as soon as administratively practicable thereafter. A Member’s PIRP-DC Account is a bookkeeping device to track the notional value of the Member’s Pay Credits and Interest Credits (and his Employer’s liability for such credits). No assets shall be reserved or segregated in connection with any PIRP-DC Account, and no PIRP-DC Account shall be funded, insured or otherwise secured. 
 
-### 5. 02    Vesting
+## 5. 02    Vesting
 
 Subject to Sections 4.02 and 9.14, a Member shall be fully vested in, and have a nonforfeitable right to, his PIRP-DC Account upon completing 3 years of Service, or if earlier, upon the death or disability of the Member while employed by the Employer or PepsiCo Organization. The determination of whether a Member has become disabled for this purpose shall be made by the Vice President in accordance with such standards as the Vice President deems to be appropriate as of the time in question. 
 
-### 5. 03    Special Vesting for Approved Transfers and Status Changes
+## 5. 03    Special Vesting for Approved Transfers and Status Changes
 
    - (a) Automatic Special Vesting for Approved Transfers. Notwithstanding Section 5.02 above, in the case of an Active Member who will have an Approved Transfer during a Plan Year, the Active Member shall automatically have special vesting apply as of the last business day before the earlier of – (a) the Active Member’s Approved Transfer, or (b) the day the Active Member would become a U.S. Person in connection with the Approved Transfer.
 
@@ -16233,45 +16154,45 @@ Subject to Sections 4.02 and 9.14, a Member shall be fully vested in, and have a
 
 Subject to the next sentence, the effect of special vesting applying to a Member in accordance with either subsection (a) or (b) above is that the Member will become vested, to the same extent as could apply under Section 5.02 if the Member vested under that Section, as of the date that the special vesting applies. Notwithstanding the preceding provisions of this Section 5.03, rights under this Section 5.03 are subject to the overriding requirement that allocations, benefits and other rights under the Plan must remain entirely exempt from Section 409A of the United States Internal Revenue Code, and this Section 5.03 shall not apply to the extent inconsistent with this requirement. 
 
-### ARTICLE VI – DISTRIBUTION OF BENEFITS
+## ARTICLE VI – DISTRIBUTION OF BENEFITS
 
-### 6. 01    Distribution Rules Generally
+## 6. 01    Distribution Rules Generally
 
 A Member’s PIRP-DC Account shall be distributed based upon first to occur of the Member’s termination of employment with the PepsiCo Organization or death, as provided in Sections 6.02 and 6.03 respectively, subject to Section 4.06 (vesting). All distributions shall be made in cash. 
 
-### 6. 02    Distributions Upon Termination of Employment
+## 6. 02    Distributions Upon Termination of Employment
 
 If a Member’s PIRP-DC Account becomes distributable based upon his termination of employment with the PepsiCo Organization, such distribution shall be made in a single lump sum payment on the first of the month that immediately follows the Member’s Distribution Valuation Date. In the case of a Member whose termination of employment with the PepsiCo Organization occurs as a result of the Member becoming disabled, for purposes of this Section, the determination of whether such Member is disabled and the date on which such Member’s termination of employment is considered to occur shall be made by the Vice President. 
 
-### 6. 03    Distributions Upon Death
+## 6. 03    Distributions Upon Death
 
 If a Member’s PIRP-DC Account becomes distributable based upon his death, such distribution shall be made in a single lump sum payment on the first day of the month that immediately follows the Member’s Distribution Valuation Date. Amounts paid following a Member’s death shall be paid to the Member’s Dependant; provided, however, that if no Dependant designation is in effect at the time of the Member’s death (as determined by the Vice President), or if all persons designated as Dependants have predeceased the Member, then the payments to be made pursuant to this Section shall be distributed to the Member’s Eligible Spouse or Eligible Domestic Partner, as applicable, or, if the Member does not have an Eligible Spouse or an Eligible Domestic Partner at the time of his death, to his estate. 
 
-### 6. 04    Valuation
+## 6. 04    Valuation
 
 In determining the amount of any individual distribution pursuant to this Article, the Member’s PIRP-DC Account shall continue to be credited with Interest Credits (and debited for expenses) as specified in Article V until the Member’s Distribution Valuation Date. 
 
-### 6. 05    Designation of Dependant
+## 6. 05    Designation of Dependant
 
 A Member shall designate one or more Dependants who will be entitled to any amounts payable on his death. A Member shall have the right to change or revoke his Dependant designation at any time prior to the effective date of such election. If the Member is married at the time he or she designates a Dependant(s), any designation under this section of a Dependant(s) who is not the Member’s Eligible Spouse shall require the written consent of the Member’s Eligible Spouse. A revocation of a Dependant(s) does not require consent by the Member’s Eligible Spouse. The designation of any Dependant(s), and any change or revocation thereof, and any written consent of a Member’s Eligible Spouse required by this Section shall be made in accordance with rules adopted by the Vice President, shall be made in writing on forms provided by the Vice President, and shall not be effective unless and until filed with the Vice President. 
 
-### ARTICLE VII – ADMINISTRATION
+## ARTICLE VII – ADMINISTRATION
 
-### 7. 01    Authority to Administer Plan
+## 7. 01    Authority to Administer Plan
 
    - (a) Administration by the Vice President: The Plan shall be administered by the Vice President, who shall have the authority to interpret the Plan and issue such regulations as he deems appropriate. All actions by the Vice President hereunder may be taken in his sole discretion, and all interpretations, determinations and regulations made or issued by the Vice President shall be final and binding on all persons and parties concerned.
 
    - (b) Authority to Delegate: The Vice President may delegate any of his responsibilities under the Plan to other persons or entities, or designate or employ other persons to carry out any of his duties, responsibilities or other functions under the Plan. Any reference in the Plan to an action by the Vice President shall, to the extent applicable, refer to such action by the Vice President’s delegate or other designated person.
 
-### 7. 02    Facility of Payment
+## 7. 02    Facility of Payment
 
 Whenever, in the opinion of the Vice President, a person entitled to receive any payment of a benefit hereunder is under a legal disability or is incapacitated in any way so as to be unable to manage his financial affairs, the Vice President may direct that payments from the Plan be made to such person’s legal representative for his benefit, or that the payment be applied for the benefit of such person in such manner as the Vice President considers advisable. Any payment of a benefit in accordance with the provisions of this section shall be a complete discharge of any liability for the making of such payment under the provisions of the Plan. 
 
-### 7. 03    Claims Procedure
+## 7. 03    Claims Procedure
 
 The Vice President shall have the exclusive discretionary authority to construe and to interpret the Plan, to decide all questions of eligibility for benefits and to determine the amount of such benefits, and his decisions on such matters are final and conclusive. As a result, benefits under this Plan will be paid only if the Vice President decides in his discretion that the person claiming such benefits is entitled to them. Any decisions or determinations hereunder shall be made in the absolute and unrestricted discretion of the Vice President, even if (i) such discretion is not expressly granted by the Plan provisions in question, or (ii) a decision or determination is not expressly called for by the Plan provisions in question, and even though other Plan provisions expressly grant discretion or expressly call for a decision or determination. This discretionary authority is intended to be absolute, and in any case where the extent of this discretion is in question, the Vice President is to be accorded the maximum discretion possible. Any exercise of this discretionary authority shall be reviewed by a court, arbitrator or other tribunal under the arbitrary and capricious standard ( _i.e._ , the abuse of discretion standard). All decisions and determinations made by the Vice President shall be final, conclusive, and binding on all parties. The Vice President may consider the intent of the Corporation with respect to a Plan provision in making any determination with respect to the provision, notwithstanding the provisions set forth in any document that arguably do not contemplate considering such intent. 
 
-If, pursuant to this discretionary authority, an assertion of any right to a benefit or any other right related to the Plan (a “claim”), by or on behalf of a Member, putative Member, Dependant or putative Dependant (a “claimant”), is wholly or partially denied, the Vice President, or a party designated by the Vice President, will provide such claimant the claims procedure described in this section. The Vice President has the discretionary authority to modify 14
+If, pursuant to this discretionary authority, an assertion of any right to a benefit or any other right related to the Plan (a “claim”), by or on behalf of a Member, putative Member, Dependant or putative Dependant (a “claimant”), is wholly or partially denied, the Vice President, or a party designated by the Vice President, will provide such claimant the claims procedure described in this section. The Vice President has the discretionary authority to modify 
 
 the claims procedure described in this Section in any manner so long as the claims review process, as modified, includes the basic steps described in this Section. In the event of a claim by a claimant, the Vice President or the designated party shall provide the claimant within the 90-day period following the receipt of the claim by the Vice President, a comprehensible written notice setting forth: 
 
@@ -16287,21 +16208,21 @@ If the Vice President determines that special circumstances require an extension
 
 Any claim under the Plan that is reviewed by a court, arbitrator or any other tribunal shall be reviewed solely on the basis of the record before the Vice President at the time it made its determination. In addition, any such review shall be conditioned on the claimant’s having fully exhausted all rights under this section and in accordance with Section 7.07. 
 
-### 7. 04    Limitations on Actions
+## 7. 04    Limitations on Actions
 
-Any claim filed under Article VII and any action filed in any court or other tribunal by or on behalf of a former or current Employee, Member, Dependant or any other individual, person or entity (collectively, a “Petitioner”) for the alleged wrongful denial of Plan benefits must be brought within two years of the date the Petitioner’s cause of action first accrues. For purposes of this subsection, a cause of action with respect to a Petitioner’s benefits under the Plan shall be deemed to accrue not later than earlier of (i) when the Petitioner has received the calculation of the benefits that are the subject of the claim or legal action; (ii) the date identified to the Petitioner by the Vice President on which payments shall commence; or (iii) when he has actual or constructive knowledge of the facts that are the basis of his claim. Failure to bring any such claim or cause of action within this two-year time frame shall preclude a Petitioner, or any representative of the Petitioner, from filing the claim or cause of action. Correspondence or 15
+Any claim filed under Article VII and any action filed in any court or other tribunal by or on behalf of a former or current Employee, Member, Dependant or any other individual, person or entity (collectively, a “Petitioner”) for the alleged wrongful denial of Plan benefits must be brought within two years of the date the Petitioner’s cause of action first accrues. For purposes of this subsection, a cause of action with respect to a Petitioner’s benefits under the Plan shall be deemed to accrue not later than earlier of (i) when the Petitioner has received the calculation of the benefits that are the subject of the claim or legal action; (ii) the date identified to the Petitioner by the Vice President on which payments shall commence; or (iii) when he has actual or constructive knowledge of the facts that are the basis of his claim. Failure to bring any such claim or cause of action within this two-year time frame shall preclude a Petitioner, or any representative of the Petitioner, from filing the claim or cause of action. Correspondence or 
 
 other communications following the mandatory appeals process described above shall have no effect on this two-year time frame. 
 
-### 7. 05    Restriction of Venue
+## 7. 05    Restriction of Venue
 
 Any claim or action filed in court or any other tribunal in connection with the Plan by or on behalf of a Petitioner shall only be brought or filed in the state or federal courts of New York, specifically the state or federal court, whichever applies, located nearest the Corporation’s headquarters. 
 
-### 7. 06    Effect of Specific References
+## 7. 06    Effect of Specific References
 
 Specific references in the Plan to the Vice President’s discretion shall create no inference that the Vice President’s discretion in any other respect, or in connection with any other provision, is less complete or broad. 
 
-### 7. 07    Claimant Must Exhaust the Plan’s Claims Procedures Before Filing in Court
+## 7. 07    Claimant Must Exhaust the Plan’s Claims Procedures Before Filing in Court
 
 Before filing any Claim (as defined below in this Section), including a suit or other action, in a court or in another tribunal, a Claimant (as defined below in this Section) must first fully exhaust all of the Claimant’s rights under the claims procedure in Section 7.03. 
 
@@ -16341,49 +16262,47 @@ It is the Vice President’s intent to interpret and operate the Plan in good fa
 
 - (3) A “Claimant” is any actual or putative Eligible Employee, former Eligible Employee, Member, former Member, Dependant (or the spouse, former spouse, estate, heir or representative of any of the foregoing individuals), or any other individual, person, entity with a relationship to any of the foregoing individuals or the Plan, as well as any group of one or more of the foregoing, who has a Claim.
 
-### ARTICLE VIII – AMENDMENT AND TERMINATION
+## ARTICLE VIII – AMENDMENT AND TERMINATION
 
-### 8. 01    Continuation of the Plan
+## 8. 01    Continuation of the Plan
 
 While the Corporation intends to continue the Plan indefinitely, it assumes no contractual obligation as to its continuance. The Corporation hereby reserves the right, in its sole discretion, to amend, terminate, or partially terminate the Plan at any time provided, however, that no such amendment or termination shall reduce the balance (determined as of the date of such amendment or termination) in the Plan account maintained for the benefit of a Member or his Dependant, except to the extent the Member becomes entitled to an amount under another plan or practice maintained by an Employer. Specific forms (including times) of payment are not protected under the preceding sentence. The Corporation’s rights under this Article VIII shall be as broad as permissible under applicable law. 
 
-### 8. 02    Amendment
+## 8. 02    Amendment
 
 The Corporation may, in its sole discretion, make any amendment or amendments to this Plan from time to time, with or without retroactive effect, subject to Section 8.01. An Employer (other than the Corporation) shall not have the right to amend the Plan. 
 
-### 8. 03    Termination
+## 8. 03    Termination
 
 The Corporation may terminate the Plan, either as to its participation or as to the participation of one or more Employers. If the Plan is terminated with respect to fewer than all of the Employers, the Plan shall continue in effect for the benefit of the employees of the remaining Employers. 
 
-### ARTICLE IX – MISCELLANEOUS
+## ARTICLE IX – MISCELLANEOUS
 
-### 9. 01    Unfunded Plan
+## 9. 01    Unfunded Plan
 
 The Employers’ obligations under the Plan shall not be funded, but shall constitute liabilities by the Employer payable when due out of the Employer’s general funds. To the extent a Member or any other person acquires a right to receive benefits under this Plan, such right shall be no greater than the rights of any unsecured general creditor of the Employer. 
 
-### 9. 02    Costs of the Plan
+## 9. 02    Costs of the Plan
 
 Unless otherwise agreed by the Corporation, all costs, charges and expenses of or incidental to the administration and management of the Plan shall be the costs, charges and expenses of the Employers and shall be paid by each Employer based on the proportion of Members who are employed by such Employer as compared to the total number of Members at the time the cost or expense is incurred. 
 
-### 9. 03    Temporary Absence of Member
+## 9. 03    Temporary Absence of Member
 
 If a Member is absent from duty by reason other than death, discharge, retirement or quitting ( _e.g._ , sickness, accident, layoff, vacation), he shall be deemed to have terminated employment on the date that is 12 months after the date on which he is absent, unless the Vice President determines otherwise. If the Member’s absence from duty is by reason of his service as a fulltime member of the armed forces of any country or of any organization engaged in national service of any such country, he shall not be deemed to have terminated employment so long as he is regarded by the Employer as remaining in employment or until he shall resign permanently from employment, whichever shall first occur. 
 
-### 9. 04    Taxes, Etc
+## 9. 04    Taxes, Etc
 
 In the event any tax or assessment or other duty is determined by the Vice President to be owing in respect of any benefit payable from the Plan, the Plan shall be entitled to withhold an amount not exceeding the amount of any such tax or assessment or other duty from the benefit payable and shall apply the same in satisfaction of said tax or assessment or other duty. 
 
-### 9. 05    Nonguarantee of Employment
+## 9. 05    Nonguarantee of Employment
 
 Nothing in the Plan shall be construed as a contract of employment between an Employer and any of its employees, or as a right of any such employee to continue in the employment of the Employer, or as a limitation of the right of an Employer to discharge any of its employees, with or without cause. 
 
-### 9. 06    No Right to Benefits
+## 9. 06    No Right to Benefits
 
 No person, whether or not being a Member, shall have any claim, right or interest under the Plan except as provided by the terms of the Plan. In the event of a Member’s termination of employment by an Employer, the resulting cessation of his Membership shall not be grounds for any damages or any increase in damages in any action brought against the Employer or any member of the PepsiCo Organization with respect to such termination. 
 
-19 
-
-### 9. 07    Charges on Benefits and Recovery of Excess Payments
+## 9. 07    Charges on Benefits and Recovery of Excess Payments
 
 All benefits in respect of a Member under the Plan shall stand charged with and be subject to deductions therefrom of all sums in respect of losses to a member of the PepsiCo Organization or Employer or otherwise caused by misdemeanor of the Member and on production by the member of the PepsiCo Organization or Employer of proof satisfactory to the Vice President that any such loss ought to be made good by a Member. The relevant amount shall be deductible from the Member’s benefits and be payable to the Employer or member of the PepsiCo Organization whose receipt shall be a valid discharge for the same. 
 
@@ -16397,9 +16316,9 @@ Payments to, for or in connection with a Member that are made (as of a point in 
 
 Any party receiving an Excess Payment shall promptly take all actions requested by the Vice President that are in furtherance of the Plan’s recovery of the Excess Payment with appropriate interest. In all cases, this subsection shall maximize the rights of the Plan to recover improper payments and shall not restrict the rights of the Plan in any way, including with respect to any improper payment that is not addressed above. 
 
-### 9. 08    Prohibited Misconduct
+## 9. 08    Prohibited Misconduct
 
-   - (a) Notwithstanding any other provision of this Plan to the contrary, if the Vice President determines that a Member has engaged in Prohibited Misconduct at any time prior to the second anniversary of his termination of employment with the PepsiCo Organization, the Member shall forfeit all Pay Credits and Interest Credits (whether paid previously, being paid currently or payable in the future), and his PIRP-DC Account shall be adjusted to reflect such forfeiture and previously paid Pay Credits and Interest Credits 20
+   - (a) Notwithstanding any other provision of this Plan to the contrary, if the Vice President determines that a Member has engaged in Prohibited Misconduct at any time prior to the second anniversary of his termination of employment with the PepsiCo Organization, the Member shall forfeit all Pay Credits and Interest Credits (whether paid previously, being paid currently or payable in the future), and his PIRP-DC Account shall be adjusted to reflect such forfeiture and previously paid Pay Credits and Interest Credits
 
 shall be recovered. As a condition to Membership in this Plan, each Member agrees to this and each Member agrees to repay PepsiCo the amounts it seeks to recover under this Section 9.08. 
 
@@ -16415,65 +16334,65 @@ shall be recovered. As a condition to Membership in this Plan, each Member agree
 
 - (5) The Member engaging in any activity that constitutes fraud.
 
-21 
-
 Notwithstanding the foregoing and for the avoidance of doubt, nothing in this Plan shall prohibit the Member from communicating with government authorities concerning any possible legal violations without notice to the Corporation, participating in government investigations, and/or receiving any applicable award for providing information to government authorities. The Corporation nonetheless asserts and does not waive its attorney-client privilege over any information appropriately protected by the privilege. Further, pursuant to the Defend Trade Secrets Act, an individual shall not be held criminally or civilly liable under any federal or state trade secret law for the disclosure of a trade secret that (A) is made (i) in confidence to a federal, state, or local government official, either directly or indirectly, or to an attorney; and (ii) solely for the purpose of reporting or investigating a suspected violation of law; or (B) is made in a complaint or other document filed in a lawsuit or other proceeding, if such filing is made under seal. An individual who files a lawsuit for retaliation by an employer for reporting a suspected violation of law may disclose the trade secret to the attorney of the individual and use the trade secret information in the court proceeding, if the individual (A) files any document containing the trade secret under seal; and (B) does not disclose the trade secret, except pursuant to court order. 
 
 For purposes of this subsection, “Participation” shall be construed broadly to include: (i) serving as a director, officer, employee, consultant or contractor with respect to such a business entity; (ii) providing input, advice, guidance or suggestions to such a business entity; or (iii) providing a recommendation or testimonial on behalf of such a business entity or one or more products it produces. For purposes of this subsection, “Covered Products” shall mean any product that falls into one or more of the following categories, so long as the PepsiCo Organization is producing, marketing, selling or licensing such product anywhere in the world – beverages, including without limitation carbonated soft drinks, tea, water, juice drinks, sports drinks, coffee drinks, energy drinks, and value-added dairy drinks; juices and juice products; dairy products; snacks, including salty snacks, sweet snacks meat snacks, granola and cereal bars, and cookies; hot cereals; pancake mixes; value-added rice products; pancake syrups; value-added pasta products; ready-to-eat cereals; dry pasta products; or any product or service that the Member had reason to know was under development by the PepsiCo Organization during the Member’s employment with the PepsiCo Organization. 
 
-### 9. 09    Notices
+## 9. 09    Notices
 
 Any notice which under the Plan is required to be given to or served upon the Plan shall be deemed to be sufficiently given to or served upon the Plan if it is in writing and delivered to the Vice President. In any case where under the Plan any notice shall be required to be given to Members, it shall be sufficient if such notice is delivered to the Member’s last known address on file in the records of the Employer or delivered to the Member pursuant to any other method ( _e.g._ , electronically) that the Vice President determines is reasonably available to the Member. 
 
-### 9. 10    Plan Documentation
+## 9. 10    Plan Documentation
 
 Every Member shall on demand be entitled to a copy of the Plan. 
 
-### 9. 11    Currency of Payment
+## 9. 11    Currency of Payment
 
 Payment of benefits under the Plan shall be made in United States dollars, or other "eligible currency," as approved by the Vice President. The amount otherwise payable in United States dollars would be converted to the selected currency using the exchange rate, based on the methodology approved by the Vice President from time to time. 
 
-22 
-
-### 9. 12    Governing Law
+## 9. 12    Governing Law
 
 The Plan shall in all respects be governed by and interpreted according to the laws of the State of New York and any applicable federal law as would be applied in cases that arise in the United States District Courts that sit in the State of New York. 
 
-### 9. 13    Exemption from ERISA
+## 9. 13    Exemption from ERISA
 
 The Plan is intended to be exempt from the Employee Retirement Income Security Act of 1974, as amended (“ERISA”), as a plan maintained outside of the United States primarily for the benefit of persons substantially all of whom are nonresident aliens of the United States. In order to preserve this exemption from ERISA, Active Membership in the Plan shall be limited to individuals who are nonresident aliens of the United States and whose assigned work locations are outside the United States, and it is intended that all permanent records and documentation relating to the administration of the Plan shall be kept at a location that is outside of the United States. 
 
-### 9. 14    Exemption from Section 409A
+## 9. 14    Exemption from Section 409A
 
 In order to permit this Plan to be completely exempt from United States Internal Revenue Code section 409A (“Section 409A”), this Plan shall be subject to the special operating rules and limitations in this Section 9.14, effective for any period to which Section 409A applies. It is the intent of the Plan that no Member who is a U.S. Person may in any way have their benefit from the Plan vest, increase or in any way be enhanced (collectively, a “Benefit Enhancement”) as a result of their compensation or service while a U.S. Person. However, Interest Credits may be provided on the PIRP-DC Account of a Member who is a U.S. Person, but only to the extent the balance in the PIRP-DC Account is derived from Pay Credits that relate to Service completed while the Member was not a U.S. Person (and Interest Credits on such Pay Credits). Accordingly, no Member shall become entitled to a Benefit Enhancement with respect to a calendar year until it is determined, following the close of such year, that the Member was not a U.S. Person with respect to such year. Notwithstanding the preceding sentence, in the calendar year a Member’s benefit under this Plan is scheduled to commence, the Vice President may authorize a Benefit Enhancement for the calendar year of benefit commencement to the extent the Vice President determines satisfactorily that the Member will not be a U.S. Person for such year. In other cases, the Member’s benefit will commence under this Plan without any Benefit Enhancement related to the calendar year of commencement, and appropriate adjustments will be made to the Member’s benefit in the following year if it is determined that the Member was not a U.S. Person in such calendar year of commencement. This Section 9.14 shall at all times be interpreted and applied in accordance with the overriding requirement that allocations, benefits and rights under the Plan must remain entirely exempt from Section 409A, and the Vice President shall have such unrestricted authority as is necessary to ensure that it is applied in accordance with this requirement. Further, to ensure the continuation of such exemption from Section 409A, the preceding sentence shall be applied and given overriding effect notwithstanding any other provision or language in this Plan. 
 
-### 9. 15     Electronic Signatures
+## 9. 15     Electronic Signatures
 
 The words “signed,” “signature,” and words of like import in or related to this Plan or any other document or record to be signed in connection with or related to this Plan by the Corporation Vice President, Eligible Employee, Dependant, or any other individual shall be deemed to include electronic signatures and the keeping of records in electronic form, each of which shall be of the same legal effect, validity and enforceability as a manually executed signature or the use of a paper-based recordkeeping system, as the case may be, to the fullest extent permissible under applicable law. 
 
-23 
-
-### ARTICLE X – SIGNATURE
+## ARTICLE X – SIGNATURE
 
 The PepsiCo International Retirement Plan, DC Program document, as amended and restated, is hereby adopted as of this 19th day of December, 2022, to be effective as of January 1, 2022 or as otherwise stated herein. 
 
 PEPSICO, INC. 
 
-### By:_/s/ Ronald Schellekens___________________ Ronald Schellekens Executive Vice President and Chief Human Resources Officer Date: December 19, 2022
+## By:_/s/ Ronald Schellekens___________________ Ronald Schellekens Executive Vice President and Chief Human Resources Officer Date: December 19, 2022
 
 Law Department Approval 
 
-### By:    _/s/ Jeffrey A. Arnold______________ Jeffrey A. Arnold Legal Director, Employee Benefits Counsel
+## By:    _/s/ Jeffrey A. Arnold______________ Jeffrey A. Arnold Legal Director, Employee Benefits Counsel
 
 Date:    December 9, 2022 
 
-### APPENDIX
+## APPENDIX
 
 Effective January 1, 2013, the Vice President, in his or her sole discretion, may establish Pay Credit Schedules other than those provided for in Section 4.01 of the DC Program to apply in the case of a Member (or Members) specifically designated by the Vice President for this purposes, provided that each such arrangement otherwise meets all applicable requirements of the Plan. 
 
-### Exhibit 10.10
+## PEPSICO
 
-_Plan Document for the Section 409A Program January 1, 2022 Restatement_ - i -
+## PENSION EQUALIZATION PLAN
+
+## (PEP)
+
+_Plan Document for the Section 409A Program January 1, 2022 Restatement_ 
+
+## PEPSICO PENSION EQUALIZATION PLAN
 
 <table>
   <thead>
@@ -16898,17 +16817,13 @@ _Plan Document for the Section 409A Program January 1, 2022 Restatement_ - i -
   </tbody>
 </table>
 
-- v - ARTICLE I
-
-Foreword 
-
 The PepsiCo Pension Equalization Plan (“PEP” or “Plan”) has been established by PepsiCo for the benefit of salaried employees of the PepsiCo Organization who participate in the Salaried Plan. PEP provides benefits for eligible employees whose pension benefits under the Salaried Plan are limited by the provisions of the Internal Revenue Code of 1986, as amended. In addition, PEP provides benefits for certain eligible employees based on the pre-1989 Salaried Plan formula (see, for example, Part B thereof). 
 
 1989 Restatement. The Plan was amended and restated in its entirety in 1989. 
 
 409A Program Document 2005 Restatement. The Plan was last amended and restated in its entirety effective as of January 1, 2005. The 2005 restatement sets forth the terms of the Plan that are applicable to benefits that are subject to Section 409A, _i.e._ , generally, benefits that are earned or vested after December 31, 2004 or materially modified within the meaning of Treas. Reg. § 1.409A-6(a)(4) (the “409A Program”). 
 
-Amendments to the 2005 Restatement. The 2005 restatement was amended to reflect the merger into this Plan of the PBG Pension Equalization Plan (“PBG PEP”), effective at the end of the day on December 31, 2011. The PBG PEP document that was in effect on April 1, 2009, as amended through January 1, 2011 (the “409A PBG PEP Document”) is attached hereto as Appendix Article PBG 409A and shall continue to govern PBG PEP benefits that were subject to the 409A PBG PEP Document prior to the Plan merger, except for certain administrative provisions that are now governed by the main portion of the 409A PepsiCo PEP Document as is explained in Appendix Article PBG 409A. There has been no change to the time or form of payment of benefits that are subject to Internal Revenue Code Section 409A (“Section 409A”) - 1 -
+Amendments to the 2005 Restatement. The 2005 restatement was amended to reflect the merger into this Plan of the PBG Pension Equalization Plan (“PBG PEP”), effective at the end of the day on December 31, 2011. The PBG PEP document that was in effect on April 1, 2009, as amended through January 1, 2011 (the “409A PBG PEP Document”) is attached hereto as Appendix Article PBG 409A and shall continue to govern PBG PEP benefits that were subject to the 409A PBG PEP Document prior to the Plan merger, except for certain administrative provisions that are now governed by the main portion of the 409A PepsiCo PEP Document as is explained in Appendix Article PBG 409A. There has been no change to the time or form of payment of benefits that are subject to Internal Revenue Code Section 409A (“Section 409A”) 
 
 under either the PepsiCo PEP or PBG PEP Documents as a result of the merger or the revisions to the 409A PepsiCo PEP Document and 409A PBG PEP Document. 
 
@@ -16916,29 +16831,31 @@ under either the PepsiCo PEP or PBG PEP Documents as a result of the merger or t
 
 - Interplay of this 409A Program and Pre 409A Program. All benefits under the Plan that are not subject to the 409A Program (i.e., generally, benefits that are earned or vested before January 1, 2005 and not materially modified thereafter within the meaning of Treas. Reg. § 1.409A-6(a)(4) ) shall be governed by the Plan Document for the Pre-Section 409 Program (the “Pre-409A Program”). Together, this document and the document for the Pre-409A Program describe the terms of a single plan. However, amounts subject to the terms of this 409A Program and amounts subject to the terms of the Pre-409A Program shall be tracked separately at all times. The preservation of the terms of the Pre-409A Program, without material modification, and the separation between the 409A Program amounts and the Pre-409A Program amounts are intended to be sufficient to permit the pre-409A Program to remain exempt from Section 409A as grandfathered benefits. 
 
-Freeze of the Salaried Plan. In general, the Plan provides benefits that make up for benefits that would accrue under the Salaried Plan but for certain Code limitations on benefits and compensation that apply to the Salaried Plan. As a result, a Participant’s accrual of Plan benefits and a Participant’s growing into certain benefit enhancements (such as more favorable early commencement factors) are generally tied to the Participant’s accrual of benefits and growing into benefit enhancements under the Salaried Plan. For certain - 2 -
+Freeze of the Salaried Plan. In general, the Plan provides benefits that make up for benefits that would accrue under the Salaried Plan but for certain Code limitations on benefits and compensation that apply to the Salaried Plan. As a result, a Participant’s accrual of Plan benefits and a Participant’s growing into certain benefit enhancements (such as more favorable early commencement factors) are generally tied to the Participant’s accrual of benefits and growing into benefit enhancements under the Salaried Plan. For certain 
 
 Participants, there are special provisions in Section 5.2 (the “PEP Guarantee”) or the Appendix that provide a benefit accrual opportunity that goes beyond providing a make up for the application of certain Code limitations to the Salaried Plan. Regardless, however, the freeze on accruals under the Salaried Plan that is effective as of the end of the day on December 31, 2025 also freezes all accruals under this Plan effective as of that time. In addition, the Salaried Plan’s operational rules with respect to the ability to grow into benefit enhancements after December 31, 2025 govern the ability to grow into benefit enhancements after December 31, 2025 under this Plan. 
 
-- 3 - 
+## ARTICLE II
 
-### ARTICLE II
-
-### Definitions and Construction
+## Definitions and Construction
 
 - 2. 1 Definitions: This section provides definitions for certain words and phrases listed below. Where the following words and phrases, in boldface and underlined, appear in this Plan document (including the Foreword) with initial capitals they shall have the meaning set forth below, unless a different meaning is plainly required by the context.
 
-**Accrued Benefit** : The Pension payable at Normal Retirement Date determined in accordance with Article V, based on the Participant’s Highest Average Monthly Earnings and Credited Service at the date of determination. 
+### Accrued Benefit
 
-**Actuarial Equivalent** : Except as otherwise specifically set forth in the Plan or any Appendix to the Plan with respect to a specific benefit determination, a benefit of equivalent value computed on the basis of the factors set forth below. The application of the following assumptions to the computation of benefits payable under the Plan shall be done in a uniform and consistent manner. In the event the Plan is amended to provide new rights, features or benefits, the following actuarial factors shall not apply to these new elements unless specifically adopted by the amendment. 
+: The Pension payable at Normal Retirement Date determined in accordance with Article V, based on the Participant’s Highest Average Monthly Earnings and Credited Service at the date of determination.
 
-- (1) Annuities and Inflation Protection: To determine the amount of a Pension payable in the form of a Qualified Joint and Survivor Annuity or optional form of survivor annuity, as an annuity with inflation protection, or as a period certain and life annuity, the Plan Administrator shall select the factors that are to be used. Effective January 1, 2009, the factors selected by the Plan Administrator are set forth in Schedule 1, below (prior factors appear in the Appendix). Thereafter, the Plan Administrator shall review - 4 -
+### Actuarial Equivalent
 
-such factors for forms of payment (including for annuities and lump sums) from time to time and shall amend such factors in its discretion. In general, a Participant shall have no right to have any of the actuarial factors specified for forms of payment under the Plan from time to time applied to his benefit (or any portion thereof), except to the extent that a particular factor is currently in effect at the time it is to be applied under the Plan. For the avoidance of doubt, it is expressly intended and binding upon Participants that any actuarial factors for forms of payment selected by the Plan Administrator from time-to-time may be applied retroactively to already accrued benefits, and without regard to the actuarial factors that may have applied previously for such purpose. However, in adjusting benefits under the Plan using those factors in Schedule 1 (below) that become effective for Annuity Starting Dates on or after January 1, 2019, the right to receive a benefit that is not less than would have applied under the prior basis for this adjustment shall apply to the same extent (and in the same manner) as applies under the Salaried Plan with respect to the 2019 Salaried Plan Factors. For this purpose, the phrase “2019 Salaried Plan Factors” refers to the new factors that appear in the Salaried Plan’s definition of “Actuarial Equivalent” effective for annuity starting dates (as defined under the Salaried Plan) on or after January 1, 2019. Effective for Annuity Starting Dates on or after January 1, 2019, if a Participant elects a survivor, period certain annuity or other death benefit annuity with inflation protection, Schedule 1(b) shall apply to adjust the Single Life Annuity for the survivor benefit, period certain or other death benefit, and Schedule 1(c) or (d) shall apply solely to adjust for the - 5 -
+: Except as otherwise specifically set forth in the Plan or any Appendix to the Plan with respect to a specific benefit determination, a benefit of equivalent value computed on the basis of the factors set forth below. The application of the following assumptions to the computation of benefits payable under the Plan shall be done in a uniform and consistent manner. In the event the Plan is amended to provide new rights, features or benefits, the following actuarial factors shall not apply to these new elements unless specifically adopted by the amendment.
+
+- (1) Annuities and Inflation Protection: To determine the amount of a Pension payable in the form of a Qualified Joint and Survivor Annuity or optional form of survivor annuity, as an annuity with inflation protection, or as a period certain and life annuity, the Plan Administrator shall select the factors that are to be used. Effective January 1, 2009, the factors selected by the Plan Administrator are set forth in Schedule 1, below (prior factors appear in the Appendix). Thereafter, the Plan Administrator shall review
+
+such factors for forms of payment (including for annuities and lump sums) from time to time and shall amend such factors in its discretion. In general, a Participant shall have no right to have any of the actuarial factors specified for forms of payment under the Plan from time to time applied to his benefit (or any portion thereof), except to the extent that a particular factor is currently in effect at the time it is to be applied under the Plan. For the avoidance of doubt, it is expressly intended and binding upon Participants that any actuarial factors for forms of payment selected by the Plan Administrator from time-to-time may be applied retroactively to already accrued benefits, and without regard to the actuarial factors that may have applied previously for such purpose. However, in adjusting benefits under the Plan using those factors in Schedule 1 (below) that become effective for Annuity Starting Dates on or after January 1, 2019, the right to receive a benefit that is not less than would have applied under the prior basis for this adjustment shall apply to the same extent (and in the same manner) as applies under the Salaried Plan with respect to the 2019 Salaried Plan Factors. For this purpose, the phrase “2019 Salaried Plan Factors” refers to the new factors that appear in the Salaried Plan’s definition of “Actuarial Equivalent” effective for annuity starting dates (as defined under the Salaried Plan) on or after January 1, 2019. Effective for Annuity Starting Dates on or after January 1, 2019, if a Participant elects a survivor, period certain annuity or other death benefit annuity with inflation protection, Schedule 1(b) shall apply to adjust the Single Life Annuity for the survivor benefit, period certain or other death benefit, and Schedule 1(c) or (d) shall apply solely to adjust for the 
 
 elected inflation protection (for this purpose and as applies generally when determining an Actuarial Equivalent, the adjustment resulting from applying these factors from separate Schedules shall be determined using an actuarial computation method that is reasonable and applied consistently to similarly situated participants). 
 
-### SCHEDULE 1
+## SCHEDULE 1
 
 <table>
   <thead>
@@ -17009,35 +16926,59 @@ elected inflation protection (for this purpose and as applies generally when det
 
 the 2019 Salaried Plan Factors shall be effective hereunder for Annuity Starting Dates (as defined under this Plan) on or after January 1, 2019. These factors are subject to change in accordance with paragraph (1) above. 
 
-**Annuity** : A Pension payable as a series of monthly payments for at least the life of the 
+### Annuity
+
+: A Pension payable as a series of monthly payments for at least the life of the
 
    - Participant. 
 
-**Annuity Starting Date** : The Annuity Starting Date shall be the first day of the first period for which an amount is payable under this Plan as an annuity or in any other form. A Participant who: (1) is reemployed after his initial Annuity Starting Date, and (2) is entitled to benefits hereunder after his reemployment, shall have a subsequent Annuity Starting Date for such benefits only to the extent provided in Section 6.3(b). 
+### Annuity Starting Date
 
-**Cashout Limit** : The annual dollar limit on elective deferrals under Code section 402(g)(1) (B), as in effect from time to time. 
+: The Annuity Starting Date shall be the first day of the first period for which an amount is payable under this Plan as an annuity or in any other form. A Participant who: (1) is reemployed after his initial Annuity Starting Date, and (2) is entitled to benefits hereunder after his reemployment, shall have a subsequent Annuity Starting Date for such benefits only to the extent provided in Section 6.3(b).
 
-**Code** : The Internal Revenue Code of 1986, as amended from time to time. All references herein to particular Code Sections shall also refer to any successor provisions and shall include all related regulations, interpretations and other guidance. 
+### Cashout Limit
 
-**Company** : PepsiCo, Inc., a corporation organized and existing under the laws of the State of North Carolina or its successor or successors. 
+: The annual dollar limit on elective deferrals under Code section 402(g)(1) (B), as in effect from time to time.
 
-**Covered Compensation** : “Covered Compensation” as that term is defined in Part B of the Salaried Plan.
+### Code
 
-**Credited Service** : The period of a Participant’s employment, calculated in accordance with 
+: The Internal Revenue Code of 1986, as amended from time to time. All references herein to particular Code Sections shall also refer to any successor provisions and shall include all related regulations, interpretations and other guidance.
+
+### Company
+
+: PepsiCo, Inc., a corporation organized and existing under the laws of the State of North Carolina or its successor or successors.
+
+### Covered Compensation
+
+: “Covered Compensation” as that term is defined in Part B of the Salaried Plan.
+
+### Credited Service
+
+: The period of a Participant’s employment, calculated in accordance with
 
 Section 3.3, which is counted for purposes of determining the amount of benefits payable to, or on behalf of, the Participant. 
 
-**Disability Retirement Pension** : The Retirement Pension available to a Participant under Section 4.5.
+### Disability Retirement Pension
 
-**Early 409A Retirement Pension** : The 409A Retirement Pension available to a Participant under Section 4.2.
+: The Retirement Pension available to a Participant under Section 4.5.
 
-**Elapsed Time Service** : The period of time beginning with a Participant’s first date of 
+### Early 409A Retirement Pension
+
+: The 409A Retirement Pension available to a Participant under Section 4.2.
+
+### Elapsed Time Service
+
+: The period of time beginning with a Participant’s first date of
 
 employment with the PepsiCo Organization and ending with the Participant’s Final Separation from Service, irrespective of any breaks in service between those two dates. By way of illustration, if a Participant began employment with the PepsiCo Organization on January 1, 2000, left the employment of the PepsiCo Organization from January 1, 2001 until December 31, 2004, and was then reemployed by the PepsiCo Organization on January 1, 2005 until he had a Final Separation from Service on December 31, 2008, the Participant would have eight years of Elapsed Time Service as of his Final Separation from Service. 
 
-**Eligible Domestic Partner.** The definition in this Section 2.1 is effective for applicable dates on and after January 1, 2019, and applies solely to a Participant who is actively employed by, or on an Authorized Leave of Absence from, a member of the PepsiCo Organization on or after January 1, 2019. For other dates or Participants, see Appendix Article H. 
+### Eligible Domestic Partner
 
-- (1) **Definition** . For applicable dates on or after January 1, 2019, “Eligible Domestic Partner” means an individual who is of the same sex or opposite sex as the Participant and who satisfies paragraph (a), (b) or (c), subject to the additional rules set forth in paragraph (e).
+The definition in this Section 2.1 is effective for applicable dates on and after January 1, 2019, and applies solely to a Participant who is actively employed by, or on an Authorized Leave of Absence from, a member of the PepsiCo Organization on or after January 1, 2019. For other dates or Participants, see Appendix Article H.
+
+(1) Definition
+
+For applicable dates on or after January 1, 2019, “Eligible Domestic Partner” means an individual who is of the same sex or opposite sex as the Participant and who satisfies paragraph (a), (b) or (c), subject to the additional rules set forth in paragraph (e).
 
    - (a) Civil Union. If on the applicable date the Participant has entered into a civil union that is valid on the applicable date in the state in which it was entered into, the Participant’s Eligible Domestic Partner (if any) is the individual with whom the Participant has entered into such a civil union.
 
@@ -17049,39 +16990,51 @@ employment with the PepsiCo Organization and ending with the Participant’s Fin
 
 applicable date a Participant does not have an Eligible Domestic Partner under paragraph (a), (b), or (c) above, such Participant is not eligible to have an Eligible Domestic Partner. 
 
-   - (e) Additional Rules. The term “Eligible Domestic Partner” does not apply to a Participant’s Eligible Spouse. A Participant is not permitted to have more than one Eligible Domestic Partner at any point in
+   - (e) Additional Rules. The term “Eligible Domestic Partner” does not apply to a Participant’s Eligible Spouse. A Participant is not permitted to have more than one Eligible Domestic Partner at any point in - 9 -
 
 time, and a Participant who has an Eligible Spouse is not permitted to have an Eligible Domestic Partner. 
 
-- (2) **Terms Used in this Definition** . For purposes of the definition of “Eligible Domestic Partner” in this Section 2.1, the following definitions apply: “applicable date” means the earlier of the Participant’s Annuity Starting Date and date of death, and “state” means any domestic or foreign jurisdiction having the legal authority to sanction civil unions .
+(2) Terms Used in this Definition
 
-**Eligible Spouse** : The spouse of a Participant to whom the Participant is considered lawfully 
+For purposes of the definition of “Eligible Domestic Partner” in this Section 2.1, the following definitions apply: “applicable date” means the earlier of the Participant’s Annuity Starting Date and date of death, and “state” means any domestic or foreign jurisdiction having the legal authority to sanction civil unions .
+
+### Eligible Spouse
+
+: The spouse of a Participant to whom the Participant is considered lawfully
 
 married for purposes of Federal tax law on the earlier of the Participant’s Annuity Starting Date or the date of the Participant’s death and who, solely for periods before September 16, 2013, is of the opposite sex. 
 
-**Employee** : An individual who qualifies as an “Employee” as that term is defined in Part B of the Salaried Plan. 
+### Employee
 
-**Employer** : An entity that qualifies as an “Employer” as that term is defined in Part B of the Salaried Plan. 
+: An individual who qualifies as an “Employee” as that term is defined in Part B of the Salaried Plan.
 
-**ERISA** : Public Law No. 93-406, the Employee Retirement Income Security Act of 1974, including any amendments thereto, any similar subsequent federal laws, and any rules and regulations from time to time in effect under any of such laws. 
+### Employer
 
-**FICA Amount** : The Participant’s share of the Federal Insurance Contributions Act (FICA) tax imposed on the 409A Pension and Pre-409A Pension of the Participant under Code Sections 3101, 3121(a) and 3121(v)(2) . 
+: An entity that qualifies as an “Employer” as that term is defined in Part B of the Salaried Plan.
 
-### 409A Program
+### ERISA
+
+: Public Law No. 93-406, the Employee Retirement Income Security Act of 1974, including any amendments thereto, any similar subsequent federal laws, and any rules and regulations from time to time in effect under any of such laws.
+
+### FICA Amount
+
+: The Participant’s share of the Federal Insurance Contributions Act (FICA) tax imposed on the 409A Pension and Pre-409A Pension of the Participant under Code Sections 3101, 3121(a) and 3121(v)(2) .
+
+## 409A Program
 
 : The program described in this document. The term “409A Program” is used to identify the portion of the Plan that is subject to Section 409A.
 
-### Guiding Principles Regarding Benefit Plan Committee Appointments
+#### Guiding Principles Regarding Benefit Plan Committee Appointments
 
 : The guiding principles
 
 as set forth in Common Appendix Article PAC to be applied by the Chair of the PAC when selecting the members of the PAC. 
 
-### Highest Average Monthly Earnings
+## Highest Average Monthly Earnings
 
 : “Highest Average Monthly Earnings” as that term is defined in the Part B of the Salaried Plan, but without regard to the limitation imposed by section 401(a)(17) of the Code (as such limitation is interpreted and applied under the Salaried Plan). Notwithstanding the foregoing, to the extent that a Participant receives, during an authorized leave of absence related to a Company severance program or agreement, earnings that would be counted as Highest Average Monthly Earnings if they were received during a period of active service, but that will be received after the Participant’s Separation from Service, the Plan Administrator may provide for determining the Participant’s 409A Pension at Separation from Service by projecting the benefit the Participant would have if all such earnings were taken into account under the Plan (any such determination shall divide the projected earnings between Plan Years as determined by the Plan Administrator, in order to avoid any bunching of the earnings in a Plan Year).
 
-### Key Employee :
+## Key Employee :
 
 The individuals identified in accordance with the following paragraphs. 
 
@@ -17117,49 +17070,79 @@ Notwithstanding the foregoing, for the 12-month periods beginning on the April 1
 
       - (ii) For the twelve-month period that begins on April 1, 2011, and for each twelvemonth period that begins on April 1 in subsequent years through March 31, 2017, an employee shall be a Key Employee (subject to subparagraph (iii) below) if the employee was an employee of the PepsiCo Organization who was classified as Band IV or above on the December 31 that immediately precedes such April 1.
 
-- 14 - 
-
       - (iii) For the period covered by this paragraph (5) notwithstanding the rule of administrative convenience in paragraph (3) above, an employee shall be a Key Employee for the 12-month period that begins on any April 1, if as of the preceding December 31 the employee would be a specified employee, within the meaning of Treasury Regulation 1.409A-1(i), or any successor, by applying as of such December 31 the default rules that apply under such regulation for determining the minimum number of a service recipient’s specified employees. If the preceding sentence and the methods for identifying Key Employees set forth in subparagraph (i) or (ii) above, taken together, would result in more than 200 individuals being counted as Key Employees as of any December 31 determination date, then the number of individuals treated as Key Employees pursuant to subparagraph (i) or (ii), who are not described in the first sentence of this subparagraph (iii), shall be reduced to 200 by eliminating from consideration those employees otherwise added by such subparagraph in order of their base compensation, from the lowest base compensation to the highest.
 
-      - (iv) For purposes of this paragraph (5) , “PAS Business” means each employer, division of an employer or other organizational subdivision of an employer that the Company classifies as part of the PAS business; “PBG Business” means each employer, division of an employer or other organizational subdivision of an employer that the Company classifies as part of the PBG business; and “PepsiCo Business” means each - 15 -
+      - (iv) For purposes of this paragraph (5) , “PAS Business” means each employer, division of an employer or other organizational subdivision of an employer that the Company classifies as part of the PAS business; “PBG Business” means each employer, division of an employer or other organizational subdivision of an employer that the Company classifies as part of the PBG business; and “PepsiCo Business” means each
 
 employer, division of an employer or other organizational subdivision of an employer that the Company classifies as part of the PepsiCo business. 
 
 The method for identifying Key Employees set forth in this definition is intended as an alternative method of identifying Key Employees under Treas. Reg. § 1.409A-1(i)(5) , and is adopted herein and shall be interpreted and applied consistently with the rules applicable to such alternative arrangements. 
 
-**Late 409A Retirement Pension** : The 409A Retirement Pension available to a Participant under Section 4.4. 
+### Late 409A Retirement Pension
 
-**Late Retirement Date** : The Late Retirement Date shall be the first day of the month coincident with or immediately following a Participant’s actual Retirement Date occurring after his Normal Retirement Age. 
+: The 409A Retirement Pension available to a Participant under Section 4.4.
 
-**Normal 409A Retirement Pension** : The Retirement Pension available to a Participant under Section 4.1. 
+### Late Retirement Date
 
-**Normal Retirement Age** : The Normal Retirement Age under the Plan is age 65 or, if later, the age at which a Participant first has 5 Years of Elapsed Time Service. 
+: The Late Retirement Date shall be the first day of the month coincident with or immediately following a Participant’s actual Retirement Date occurring after his Normal Retirement Age.
 
-**Normal Retirement Date** : A Participant’s Normal Retirement Date shall be the first day of the month coincident with or immediately following a Participant’s Normal Retirement Age. 
+### Normal 409A Retirement Pension
 
-**Participant** : An Employee participating in the Plan in accordance with the provisions of Section 3.1.
+: The Retirement Pension available to a Participant under Section 4.1.
 
-**Pension** : One or more payments that are payable by the Plan to a person who is entitled to receive benefits under the Plan. The term “409A Pension” shall be 
+### Normal Retirement Age
+
+: The Normal Retirement Age under the Plan is age 65 or, if later, the age at which a Participant first has 5 Years of Elapsed Time Service.
+
+### Normal Retirement Date
+
+: A Participant’s Normal Retirement Date shall be the first day of the month coincident with or immediately following a Participant’s Normal Retirement Age.
+
+### Participant
+
+: An Employee participating in the Plan in accordance with the provisions of Section 3.1.
+
+### Pension
+
+: One or more payments that are payable by the Plan to a person who is entitled to receive benefits under the Plan. The term “409A Pension” shall be
 
 used to refer to the portion of a Pension that is derived from the 409A Program. The term “Pre-409A Pension” shall be used to refer to the portion of a Pension that is derived from the Pre-409A Program. 
 
-**PepsiCo Administration Committee or PAC** : The committee that has the responsibility for the administration and operation of the Plan, as set forth in the Plan, as well as any other duties set forth therein. As of any time, the Chair of the PAC shall be the person who is then the Company’s Senior Vice President, Total Rewards, but if such position is vacant or eliminated, the Chair shall be the person who is acting to fulfill the majority of the duties of the position (or plurality of the duties, if no one is fulfilling a majority), as such duties existed immediately prior to the vacancy or the position elimination.  The Chair shall appoint the other members of the PAC, applying the principles set forth in the Guiding Principles Regarding Benefit Plan Committee Appointments and acting promptly from time to time to ensure that there are four other members of the PAC, each of whom shall have experience and expertise relevant to the responsibilities of the PAC.  At least two times each year, the PAC shall prepare a written report of its significant activities that shall be available to any U.S.-based executive of the Company who is at least a senior vice president. 
+### PepsiCo Administration Committee or PAC
 
-**PepsiCo Organization** : The controlled group of organizations of which the Company is a part, as defined by Code section 414 and regulations issued thereunder. An entity shall be considered a member of the PepsiCo Organization only during the period it is one of the group of organizations described in the preceding sentence. 
+: The committee that has the responsibility for the administration and operation of the Plan, as set forth in the Plan, as well as any other duties set forth therein. As of any time, the Chair of the PAC shall be the person who is then the Company’s Senior Vice President, Total Rewards, but if such position is vacant or eliminated, the Chair shall be the person who is acting to fulfill the majority of the duties of the position (or plurality of the duties, if no one is fulfilling a majority), as such duties existed immediately prior to the vacancy or the position elimination.  The Chair shall appoint the other members of the PAC, applying the principles set forth in the Guiding Principles Regarding Benefit Plan Committee Appointments and acting promptly from time to time to ensure that there are four other members of the PAC, each of whom shall have experience and expertise relevant to the responsibilities of the PAC.  At least two times each year, the PAC shall prepare a written report of its significant activities that shall be available to any U.S.-based executive of the Company who is at least a senior vice president.
 
-**Plan** : The PepsiCo Pension Equalization Plan, the Plan set forth herein and in the Pre-409A Program document(s), as the Plan may be amended from time to time (subject to the limitations on amendment that are applicable hereunder and under the Pre-409A Program). The Plan is also sometimes referred to as PEP, or as the PepsiCo Pension Benefit Equalization Plan. 
+### PepsiCo Organization
 
-**Plan Administrator** : The PAC, or its delegate or delegates. The Plan Administrator shall have authority to administer the Plan as provided in Article VII. 
+: The controlled group of organizations of which the Company is a part, as defined by Code section 414 and regulations issued thereunder. An entity shall be considered a member of the PepsiCo Organization only during the period it is one of the group of organizations described in the preceding sentence.
 
-**Plan Year** : The 12-month period commencing on January 1 and ending on December 31. 
+### Plan
 
-**Pre-409A Program** : The portion of the Plan that governs deferrals that are not subject to Section 409A. The terms of the Pre-409A Program are set forth in a separate document (or separate set of documents). 
+: The PepsiCo Pension Equalization Plan, the Plan set forth herein and in the Pre-409A Program document(s), as the Plan may be amended from time to time (subject to the limitations on amendment that are applicable hereunder and under the Pre-409A Program). The Plan is also sometimes referred to as PEP, or as the PepsiCo Pension Benefit Equalization Plan.
 
-**Pre-Retirement Domestic Partner’s Pension** : The Pension available to an Eligible Domestic Partner under the Plan. The term “Pre-Retirement Domestic Partner’s 409A Pension” shall be used to refer to the Pension available to an Eligible Domestic Partner under Section 4.12 of this document. 
+### Plan Administrator
 
-**Pre-Retirement Spouse’s Pension** : The Pension available to an Eligible Spouse under the Plan. The term “Pre-Retirement Spouse’s 409A Pension” shall be used to refer to the Pension available to an Eligible Spouse under Section 4.6 of this document. 
+: The PAC, or its delegate or delegates. The Plan Administrator shall have authority to administer the Plan as provided in Article VII.
 
-**Primary Social Security Amount** : In determining Pension amounts, Primary Social Security Amount shall mean:
+### Plan Year
+
+: The 12-month period commencing on January 1 and ending on December 31.
+
+### Pre-409A Program
+
+: The portion of the Plan that governs deferrals that are not subject to Section 409A. The terms of the Pre-409A Program are set forth in a separate document (or separate set of documents).
+
+### Pre-Retirement Domestic Partner’s Pension
+
+: The Pension available to an Eligible Domestic Partner under the Plan. The term “Pre-Retirement Domestic Partner’s 409A Pension” shall be used to refer to the Pension available to an Eligible Domestic Partner under Section 4.12 of this document.
+
+### Pre-Retirement Spouse’s Pension
+
+: The Pension available to an Eligible Spouse under the Plan. The term “Pre-Retirement Spouse’s 409A Pension” shall be used to refer to the Pension available to an Eligible Spouse under Section 4.6 of this document.
+
+### Primary Social Security Amount
+
+: In determining Pension amounts, Primary Social Security Amount shall mean:
 
 - (1) For purposes of determining the amount of a Retirement, Vested, Pre-Retirement Spouse’s Pension or Pre-Retirement Domestic Partner’s Pension, the Primary Social Security Amount shall be the estimated monthly amount that may be payable to a Participant commencing at age 65 as an old-age insurance benefit under the provisions of Title II of the Social Security Act, as amended. Such estimates of the old-age insurance benefit to which a Participant would be entitled at age 65 shall be based upon the following assumptions:
 
@@ -17169,17 +17152,17 @@ used to refer to the portion of a Pension that is derived from the 409A Program.
 
 However, in computing a Vested Pension under Formula A of Section 5.2, the estimate of the old-age insurance benefit to which a Participant would be entitled at age 65 shall be based upon the assumption that he continued to receive social security wages until age 65 at the same rate as the Taxable Wage Base in effect at his Separation from Service. For purposes of this subsection, “social security wages” shall mean wages within the meaning of the Social Security Act. 
 
-- (2) For purposes of determining the amount of a Disability Pension, the Primary Social Security Amount shall be (except as provided in the next sentence) the initial monthly amount actually received by the disabled - 19 -
+- (2) For purposes of determining the amount of a Disability Pension, the Primary Social Security Amount shall be (except as provided in the next sentence) the initial monthly amount actually received by the disabled
 
 Participant as a disability insurance benefit under the provisions of Title II of the Social Security Act, as amended and in effect at the time of the Participant’s Retirement due to disability. Notwithstanding the preceding sentence, for any period that a Participant receives a Disability Pension before receiving a disability insurance benefit under the provisions of Title II of the Social Security Act, then the Participant’s Primary Social Security Amount for such period shall be determined pursuant to paragraph (1) above. 
 
 - (3) For purposes of paragraphs (1) and (2) , the Primary Social Security Amount shall exclude amounts that may be available because of the spouse or any dependent of the Participant or any amounts payable on account of the Participant’s death. Estimates of Primary Social Security Amounts shall be made on the basis of the Social Security Act as in effect at the Participant’s Separation from Service, without regard to any increases in the social security wage base or benefit levels provided by such Act which take effect thereafter.
 
-**Prohibited Misconduct** : Any of the following activities engaged in, directly or indirectly, by a Participant shall constitute Prohibited Misconduct: 
+### Prohibited Misconduct
+
+: Any of the following activities engaged in, directly or indirectly, by a Participant shall constitute Prohibited Misconduct:
 
 - (1) The Participant accepting any employment, assignment, position or responsibility, or acquiring any ownership interest, which involves the Participant’s “Participation” (as defined below) in a business entity that markets, sells, distributes or produces “Covered Products” (as defined below), unless such business entity makes retail sales or consumes Covered Products without in any way competing with the PepsiCo Organization.
-
-- 20 - 
 
 - (2) The Participant, directly or indirectly (including through someone else acting on the Participant’s recommendation, suggestion, identification or advice), soliciting any PepsiCo Organization employee to leave the PepsiCo Organization’s employment or to accept any position with any other entity.
 
@@ -17189,31 +17172,41 @@ Participant as a disability insurance benefit under the provisions of Title II o
 
 - (5) The Participant engaging in any activity that constitutes fraud.
 
-- 21 - 
-
-Notwithstanding the foregoing and for the avoidance of doubt, nothing in this Plan shall prohibit the Participant from communicating with government authorities concerning any possible legal violations without notice to the Company, participating in government investigations, and/or receiving any applicable award for providing information to government authorities. The Company nonetheless asserts and does not waive its attorneyclient privilege over any information appropriately protected by the privilege. Further, pursuant to the Defend Trade Secrets Act, an individual shall not be held criminally or civilly liable under any federal or state trade secret law for the disclosure of a trade secret that (A) is made (i) in confidence to a federal, state, or local government official, either directly or indirectly, or to an attorney; and (ii) solely for the purpose of reporting or investigating a suspected violation of law; or (B) is made in a complaint or other document filed in a lawsuit or other proceeding, if such filing is made under seal. An individual who files a lawsuit for retaliation by an employer for reporting a suspected violation of law may disclose the trade secret to the attorney of the individual and use the trade secret information in the court proceeding, if the individual (A) files any document containing the trade secret under seal; and (B) does not disclose the trade secret, except pursuant to court order. For purposes of this subsection, “Participation” shall be construed broadly to include: (i) serving as a director, officer, employee, consultant or contractor with respect to such a business entity; (ii) providing input, advice, guidance or suggestions to such a business entity; or (iii) providing a recommendation or testimonial on behalf of such a business entity or one or more products it produces. For purposes of this subsection, “Covered Products” shall mean any product that falls into one or more of the following categories, so long as the - 22 -
+Notwithstanding the foregoing and for the avoidance of doubt, nothing in this Plan shall prohibit the Participant from communicating with government authorities concerning any possible legal violations without notice to the Company, participating in government investigations, and/or receiving any applicable award for providing information to government authorities. The Company nonetheless asserts and does not waive its attorneyclient privilege over any information appropriately protected by the privilege. Further, pursuant to the Defend Trade Secrets Act, an individual shall not be held criminally or civilly liable under any federal or state trade secret law for the disclosure of a trade secret that (A) is made (i) in confidence to a federal, state, or local government official, either directly or indirectly, or to an attorney; and (ii) solely for the purpose of reporting or investigating a suspected violation of law; or (B) is made in a complaint or other document filed in a lawsuit or other proceeding, if such filing is made under seal. An individual who files a lawsuit for retaliation by an employer for reporting a suspected violation of law may disclose the trade secret to the attorney of the individual and use the trade secret information in the court proceeding, if the individual (A) files any document containing the trade secret under seal; and (B) does not disclose the trade secret, except pursuant to court order. For purposes of this subsection, “Participation” shall be construed broadly to include: (i) serving as a director, officer, employee, consultant or contractor with respect to such a business entity; (ii) providing input, advice, guidance or suggestions to such a business entity; or (iii) providing a recommendation or testimonial on behalf of such a business entity or one or more products it produces. For purposes of this subsection, “Covered Products” shall mean any product that falls into one or more of the following categories, so long as the 
 
 PepsiCo Organization is producing, marketing, selling or licensing such product anywhere in the world – beverages, including without limitation carbonated soft drinks, tea, water, juice drinks, sports drinks, coffee drinks and value-added dairy drinks; juices and juice products; snacks, including salty snacks, sweet snacks meat snacks, granola and cereal bars, and cookies; hot cereals; pancake mixes; value-added rice products; pancake syrups; value-added pasta products; ready-to-eat cereals; dry pasta products; or any product or service that the Participant had reason to know was under development by the PepsiCo Organization during the Participant’s employment with the PepsiCo Organization. 
 
-**Qualified Joint and Survivor Annuity** : An Annuity which is payable to the Participant for life with 50 percent of the amount of such Annuity payable after the Participant’s death to his surviving Eligible Spouse or Eligible Domestic Partner for life. If the Eligible Spouse or Eligible Domestic Partner (as applicable) predeceases the Participant, no survivor benefit under a Qualified Joint and Survivor Annuity shall be payable to any person. The amount of a Participant’s monthly payment under a Qualified Joint and Survivor Annuity shall be reduced to the extent provided in Sections 5.1 and 5.2, as applicable. 
+### Qualified Joint and Survivor Annuity
 
-**Retirement** : Separation from Service for reasons other than death after a Participant has fulfilled the requirements for either a Normal, Early, Late, or Disability Retirement Pension under Article IV. 
+: An Annuity which is payable to the Participant for life with 50 percent of the amount of such Annuity payable after the Participant’s death to his surviving Eligible Spouse or Eligible Domestic Partner for life. If the Eligible Spouse or Eligible Domestic Partner (as applicable) predeceases the Participant, no survivor benefit under a Qualified Joint and Survivor Annuity shall be payable to any person. The amount of a Participant’s monthly payment under a Qualified Joint and Survivor Annuity shall be reduced to the extent provided in Sections 5.1 and 5.2, as applicable.
 
-**Retirement Date** : The date immediately following the Participant’s Retirement. 
+### Retirement
 
-- 23 - 
+: Separation from Service for reasons other than death after a Participant has fulfilled the requirements for either a Normal, Early, Late, or Disability Retirement Pension under Article IV.
 
-**Retirement Pension** : The Pension payable to a Participant upon Retirement under the Plan.
+## Retirement Date
+
+: The date immediately following the Participant’s Retirement.
+
+## Retirement Pension
+
+: The Pension payable to a Participant upon Retirement under the Plan.
 
 The term “409A Retirement Pension” shall be used to refer to the portion of a Retirement Pension that is derived from the 409A Program. The term “Pre-409A Retirement Pension” shall be used to refer to the portion of a Retirement Pension that is derived from the Pre-409A Program. 
 
-**Salaried Plan** : The program of pension benefits set forth in Part B of the PSERP Component of 
+#### Salaried Plan
+
+: The program of pension benefits set forth in Part B of the PSERP Component of
 
 the PepsiCo Employees Retirement Plan A (“PERP-A”), the PepsiCo Employees Retirement Plan I (“PERP-I”), and the PepsiCo Employees Retirement Plan H (“PERP-H”) and successor plans to the foregoing, as such program of benefits may be amended from time to time, and as it was set forth prior to January 1, 2017 in predecessor plans to PERP-A and PERP-I. 
 
-**Section 409A** : Section 409A of the Code. 
+#### Section 409A
 
-**Separation from Service** : A Participant’s separation from service with the PepsiCo 
+: Section 409A of the Code.
+
+#### Separation from Service
+
+: A Participant’s separation from service with the PepsiCo
 
 Organization, within the meaning of Section 409A(a)(2) (A)(i). The term may also be used as a verb ( _i.e._ , “Separates from Service”) with no change in meaning. Notwithstanding the preceding sentence, a Participant’s transfer to an entity owned 20% or more by the Company will not constitute a Separation of Service to the extent permitted by Section 409A. A Participant’s “Final Separation from Service” is the date of his Separation from Service that most recently precedes his Annuity Starting Date; provided, however, that to the extent a Participant is reemployed after an Annuity Starting Date, he will have a new Final Separation from Service with respect to any benefits to which he becomes entitled as a result of his reemployment. The following principles shall generally apply in determining when a Separation from Service occurs: 
 
@@ -17225,11 +17218,17 @@ continuous period of not less than six months, where such impairment causes the 
 
 - (3) If an Employee provides services both an as employee and as a member of the Board of Directors of the Company, the services provided as a Director are generally not taken into account in determining whether the Employee has Separated from Service as an Employee for purposes of the Plan, in accordance with final regulations under Section 409A.
 
-**Service** : The period of a Participant’s employment calculated in accordance with Section 3.2 for purposes of determining his entitlement to benefits under the Plan. 
+#### Service
 
-**Single Life Annuity** : A level monthly Annuity payable to a Participant for his life only, with no survivor benefits to his Eligible Spouse or any other person. 
+: The period of a Participant’s employment calculated in accordance with Section 3.2 for purposes of determining his entitlement to benefits under the Plan.
 
-**Single Lump Sum** : The distribution of a Participant’s total 409A Pension in the form of a single payment, which payment shall be the Actuarial Equivalent of the Participant’s 409A Pension as of the Participant’s Normal Retirement Date (or Late Retirement Date, if applicable), but not less than the Actuarial Equivalent of the Participant’s 409A Pension as of the Participant’s Early Retirement Date, in the case of a Participant who is entitled to an immediate Early 409A Retirement Pension. 
+#### Single Life Annuity
+
+: A level monthly Annuity payable to a Participant for his life only, with no survivor benefits to his Eligible Spouse or any other person.
+
+#### Single Lump Sum
+
+: The distribution of a Participant’s total 409A Pension in the form of a single payment, which payment shall be the Actuarial Equivalent of the Participant’s 409A Pension as of the Participant’s Normal Retirement Date (or Late Retirement Date, if applicable), but not less than the Actuarial Equivalent of the Participant’s 409A Pension as of the Participant’s Early Retirement Date, in the case of a Participant who is entitled to an immediate Early 409A Retirement Pension.
 
 **Social Security Act** : The Social Security Act of the United States, as amended, an enactment providing governmental benefits in connection with events such as old age, death and disability. Any reference herein to the Social Security Act (or 
 
@@ -17251,9 +17250,7 @@ limitation” followed such example or term (or otherwise applied to such passag
 
    - (d) Subdivisions of the Plan Document: This Plan document is divided and subdivided using the following progression: articles, sections, subsections, paragraphs, subparagraphs, clauses, and subclauses. Articles are designated by capital roman numerals. Sections are designated by Arabic numerals containing a decimal point. Subsections are designated by lower-case letters in parentheses. Paragraphs are designated by Arabic numerals in parentheses. Subparagraphs are designated by lower-case roman numerals in parentheses. Clauses are designated by upper-case letters in parentheses. Sub-clauses are designated by upper-case roman numerals in parentheses. Any reference in a section to a subsection (with no accompanying section reference) shall be read as a reference to the subsection with the specified designation contained in that same section. A similar rule shall apply with respect to paragraph references within a subsection and subparagraph references within a paragraph.
 
-ARTICLE III 
-
-### Participation and Service
+## Participation and Service
 
 ### 3. 1 Participation: An Employee shall be a Participant in the Plan during the period:
 
@@ -17277,7 +17274,7 @@ apply to this Plan before January 1, 2015, unless such earlier application avoid
 
    - (b) Leaves of Absence. If a Participant’s period of Credited Service (as so determined) would extend beyond the Participant’s Separation from Service date because of an authorized leave of absence related to a Company severance program or agreement, the Plan Administrator may provide for determining the Participant’s 409A Pension at Separation from Service by projecting the benefit the Participant would have if all such Service were taken into account under the Plan.
 
-### ARTICLE IV
+## ARTICLE IV
 
 ### Requirements for Benefits
 
@@ -17357,7 +17354,7 @@ Not later than November 30, the Plan Administrator shall memorialize in writing 
 
 Any lump sum distributed under this section shall be in lieu of the Pension that otherwise would be distributable to the Participant, Eligible Spouse or Eligible Domestic Partner hereunder. The cashout provisions described in subsections (a) through (d) above are intended to be “limited cashout” features within the meaning of Treasury Regulation § 1.409A-3(j)(4) (v), and they shall be interpreted and applied consistently with this regulation. Accordingly, in determining if an applicable dollar limit is satisfied, a Participant’s entire benefit under this Plan that is subject to Section 409A and all benefits subject to Section 409A under all other nonaccount balance plans (within the meaning of Treasury Regulation § 1.409A-1(c)(2) (i)(C)) shall be taken into account (the “accountable benefit”), and a 
 
-Participant’s entire accountable benefit must be cashed out as of the time in question as a condition to any payout under this Section. In addition, a cashout under this Section shall not cause an accountable benefit to be paid out before completing any applicable six-month delay (see, _e.g._ , Section 6.6). No Participant, Eligible Spouse or Eligible Domestic Partner shall be given a direct or indirect election with respect to whether the Participant’s Vested Pension, Pre-Retirement Spouse’s - 37 -
+Participant’s entire accountable benefit must be cashed out as of the time in question as a condition to any payout under this Section. In addition, a cashout under this Section shall not cause an accountable benefit to be paid out before completing any applicable six-month delay (see, _e.g._ , Section 6.6). No Participant, Eligible Spouse or Eligible Domestic Partner shall be given a direct or indirect election with respect to whether the Participant’s Vested Pension, Pre-Retirement Spouse’s 
 
 409A Pension or Pre-Retirement Eligible Domestic Partner’s 409A Pension will be cashed out under this section. 
 
@@ -17374,8 +17371,6 @@ Retirement Domestic Partner’s 409A Pension shall continue monthly for the life
    - (a) Active, Disabled and Retired Employees: A Pre-Retirement Domestic Partner’s 409A Pension shall be payable under this subsection to a Participant’s Eligible Domestic Partner (if any) who is entitled under Part B of the Salaried Plan to the pre-retirement domestic partner’s pension for survivors of active, disabled and retired employees. The amount (if any) of such Pension shall be determined in accordance with the provisions of Section 5.8 (with the 409A Pension, if any, determined after application of Section 5.6).
 
    - (b) Vested Employees: A Pre-Retirement Domestic Partner’s 409A Pension shall be payable under this subsection to a Participant’s Eligible Domestic Partner (if any) who is entitled under Part B of the Salaried Plan to the pre-retirement domestic partner’s pension for survivors of vested terminated Employees. The amount (if any) of such Pension shall be determined in accordance with the provisions of Section 5.8 (with the 409A Pension, if any, determined after application of Section 5.6). If, pursuant to this Section 4.12(b), a Participant has Pre-Retirement Domestic Partner’s Pension coverage in effect for his Eligible Domestic Partner, any Pension calculated for the Participant under Section 5.2(b) shall be reduced for each year such coverage is in effect by the applicable percentage set forth below (based on the Participant’s age at the time the coverage is in effect) with a pro rata reduction for any portion of a year. No reduction shall be made for coverage in effect within the 180-day period following a Participant’s termination of employment.
-
-- 39 - 
 
 <table>
   <thead>
@@ -17416,11 +17411,7 @@ Retirement Domestic Partner’s 409A Pension shall continue monthly for the life
   </tbody>
 </table>
 
-- 40 - 
-
-ARTICLE V 
-
-### Amount of Retirement Pension
+## Amount of Retirement Pension
 
 When a 409A Pension becomes payable to or on behalf of a Participant under this Plan, the amount of such 409A Pension shall be determined under Section 5.1 or 5.3 (whichever is applicable), subject to any adjustments required under Sections 4.6(b) and 5.4 and subject to the freeze of the Plan described in Article I. 
 
@@ -17438,7 +17429,7 @@ When a 409A Pension becomes payable to or on behalf of a Participant under this 
 
 determined on a basis that (i) takes into account applicable reductions for early or late commencement as of the Annuity Starting Date of the 409A Pension, (ii) reflects, if applicable and customary, the relative value of forms of payment, and (iii) otherwise adjusts the reductions in (a)(2) and (3) above to their Actuarial 
 
-Equivalent, in each such respect as appropriate and customary under the circumstances and in accordance with rules authorized by the Plan Administrator, including to take account the time and form of any prior payments and to eliminate all duplication of benefits as - 41 -
+Equivalent, in each such respect as appropriate and customary under the circumstances and in accordance with rules authorized by the Plan Administrator, including to take account the time and form of any prior payments and to eliminate all duplication of benefits as 
 
 determined by the Plan Administrator, and (iii) effective for Annuity Starting Dates after December 31, 2018, allows a Participant’s 409A Pension to provide a makeup (as appropriate under the circumstances under rules authorized by the Plan Administrator) for the application of early commencement reduction factors to the Participant’s Pre-409A Pension that apply a greater early commencement reduction to such Pre-409A Pension than would apply under the 2019 Salaried Plan Factors (including with respect to any portion of the Participant’s Pre-409A Pension that is derived from the PEP Guarantee). 
 
@@ -17452,8 +17443,6 @@ determined by the Plan Administrator, and (iii) effective for Annuity Starting D
 
 As necessary to ensure the Participant’s receipt of a “greater of” benefit, the foregoing comparison shall be made by reflecting, as applicable, the relative value of forms of payment. 
 
-- 42 - 
-
 - (2) A Participant’s “Salaried Plan Pension” means the amount of the Participant’s
 
 pension determined under the terms of Part B of the Salaried Plan. 
@@ -17466,7 +17455,7 @@ pension determined under the terms of Part B of the Salaried Plan.
 
    - (b) PEP Guarantee Formula: The amount of a Participant’s PEP Guarantee shall be determined under the applicable formula in paragraph (1) , subject to the special rules in paragraph (2) .
 
-- (1) Formulas: The amount of a Participant’s Pension under this paragraph shall be determined in accordance with subparagraph (i) below. However, if the Participant was actively employed by the PepsiCo Organization in a classification eligible for the Salaried Plan prior to July 1, 1975, the amount of his Pension under this paragraph shall be the greater of the amounts - 43 -
+- (1) Formulas: The amount of a Participant’s Pension under this paragraph shall be determined in accordance with subparagraph (i) below. However, if the Participant was actively employed by the PepsiCo Organization in a classification eligible for the Salaried Plan prior to July 1, 1975, the amount of his Pension under this paragraph shall be the greater of the amounts
 
 determined under subparagraphs (i) and (ii), provided that subparagraph (ii)(B) shall not apply in determining the amount of a Vested Pension. 
 
@@ -17480,7 +17469,7 @@ determined under subparagraphs (i) and (ii), provided that subparagraph (ii)(B) 
 
 multiplied by years of Credited Service not in excess of 30 years. 
 
-In determining the amount of a Vested Pension under this Formula A, the Pension shall first be calculated on the basis of (I) the Credited Service the Participant would have earned had he remained in the employ of the Employer until his Normal Retirement Age, and (II) his Highest Average Monthly Earnings and Primary Social Security Amount at his Separation from Service, and then shall be reduced by multiplying the resulting amount by a fraction, the numerator of which is the Participant’s actual years of Credited Service on his Separation from Service and the denominator of which is the years of Credited Service he would have - 44 -
+In determining the amount of a Vested Pension under this Formula A, the Pension shall first be calculated on the basis of (I) the Credited Service the Participant would have earned had he remained in the employ of the Employer until his Normal Retirement Age, and (II) his Highest Average Monthly Earnings and Primary Social Security Amount at his Separation from Service, and then shall be reduced by multiplying the resulting amount by a fraction, the numerator of which is the Participant’s actual years of Credited Service on his Separation from Service and the denominator of which is the years of Credited Service he would have 
 
 earned had he remained in the employ of an Employer until his Normal Retirement Age. 
 
@@ -17496,7 +17485,7 @@ In determining the amount of a Disability Pension under Formula A or B above, th
 
 paragraph (1) above, subject to the following special rules: 
 
-      - (i) Surviving Eligible Spouse’s or Eligible Domestic Partner’s Annuity:    Subject to subparagraph (iii) below and the last sentence of this subparagraph, if the Participant has an Eligible Spouse or Eligible Domestic Partner, the Participant’s Eligible Spouse or Eligible - 45 -
+      - (i) Surviving Eligible Spouse’s or Eligible Domestic Partner’s Annuity:    Subject to subparagraph (iii) below and the last sentence of this subparagraph, if the Participant has an Eligible Spouse or Eligible Domestic Partner, the Participant’s Eligible Spouse or Eligible
 
 Domestic Partner shall be entitled to receive a survivor annuity equal to 50 percent of the Participant’s Annuity under this section, with no corresponding reduction in such Annuity for the Participant. Annuity payments to a surviving Eligible Spouse or Eligible Domestic Partner shall begin on the first day of the month coincident with or following the Participant’s death and shall end with the last monthly payment due prior to the Eligible Spouse’s or Eligible Domestic Partner’s death. If the Eligible Spouse or Eligible Domestic Partner is more than 10 years younger than the Participant, the survivor benefit payable under this subparagraph shall be adjusted as provided below. 
 
@@ -17506,15 +17495,13 @@ Domestic Partner shall be entitled to receive a survivor annuity equal to 50 per
 
       - (ii) Reductions: The following reductions shall apply in determining a Participant’s PEP Guarantee.
 
-- 46 - 
-
    - (A) If the Participant will receive an Early Retirement Pension, the payment amount shall be reduced by 3/12ths of 1 percent for each month by which the benefit commencement date precedes the date the Participant would attain his Normal Retirement Date.
 
    - (B) If the Participant is entitled to a Vested Pension, the payment amount shall be reduced to the actuarial equivalent of the amount payable at his Normal Retirement Date (if payment commences before such date), and the Section 4.6(b) reductions for any Pre Retirement Spouse’s coverage and Section 4.12(b) reductions for any Pre-Retirement Domestic Partner’s coverage shall apply.
 
    - (C) This clause applies if the Participant will receive his Pension in a form that provides an Eligible Spouse or Eligible Domestic Partner benefit, continuing for the life of the surviving Eligible Spouse or surviving Eligible Domestic Partner, that is greater than that provided under subparagraph (i). In this instance, the Participant’s Pension under this section shall be reduced so that the total value of the benefit payable on the Participant’s behalf is the actuarial equivalent of the Pension otherwise payable under the foregoing provisions of this section.
 
-   - (D) This clause applies if the Participant will receive his Pension in a form that provides a survivor annuity for a - 47 -
+   - (D) This clause applies if the Participant will receive his Pension in a form that provides a survivor annuity for a
 
 beneficiary who is not his Eligible Spouse or Eligible Domestic Partner. In this instance, the Participant’s Pension under this section shall be reduced so that the total value of the benefit payable on the Participant’s behalf is the actuarial equivalent of a Single Life Annuity for the Participant’s life. 
 
@@ -17522,7 +17509,7 @@ beneficiary who is not his Eligible Spouse or Eligible Domestic Partner. In this
 
       - (iii) Lump Sum Conversion: The amount of the Retirement Pension determined under this section for a Participant whose Retirement Pension will be distributed in the form of a lump sum shall be the actuarial equivalent of the Participant’s PEP Guarantee determined under this section, taking into account the value of any survivor benefit under subparagraph (i) above and any early retirement reductions under subparagraph (ii)(A) above.
 
-For purposes of this paragraph (2) , actuarial equivalence shall be determined taking into account the PEP Guarantee’s purpose to preserve substantially the value of a benefit under the pre-1989 terms of the Plan and the 409A Plan’s design that offers alternative annuities that are considered actuarial equivalent - 48 -
+For purposes of this paragraph (2) , actuarial equivalence shall be determined taking into account the PEP Guarantee’s purpose to preserve substantially the value of a benefit under the pre-1989 terms of the Plan and the 409A Plan’s design that offers alternative annuities that are considered actuarial equivalent 
 
 for purposes of Section 409A (taking into account, without limitation, the special rule for subsidized joint and survivor annuities in Treasury Regulation § 1.409A-3(b)(ii)(C)). 
 
@@ -17538,13 +17525,13 @@ Spouse’s 409A Pension payable to a surviving Eligible Spouse under Section 4.6
 
 - (3) The Eligible Spouse’s Pre-Retirement Spouse’s Pension derived from the Pre-409A
 
+   - Program. 
+
    - (b) Basis for Determining: The Pre-Retirement Spouse’s 409A Pension amount in subsection
 
    - (a) above shall be determined on a basis (i) that takes into account applicable reductions for early or late commencement, and (ii) otherwise adjusts the reductions in (a)(2) and (3) above to their Actuarial Equivalent as appropriate under the circumstances and pursuant to rules of the Plan Administrator, including to take account the time and form of any prior payments.
 
    - (c) Definitions: The following definitions apply for purposes of this section.
-
-- 49 - 
 
 - (1) An Eligible Spouse’s “Total Pre-Retirement Spouse’s Pension” means the greater of:
 
@@ -17586,19 +17573,17 @@ Principles similar to those applicable under – (i) Section 5.1(b), and (ii) th
 
 Guarantee under Section 5.2 is adjusted for in-service distributions and prior distributions in the same manner as benefits are adjusted under the Salaried Plan, but by taking into account benefits under this Plan and any specified plans. 
 
-   - (b) Adjustment for Increased Pension Under Other Plans: If the benefit paid under a specified plan on behalf of a Participant is increased after PEP benefits on his behalf have been determined (whether the increase is by order of a - 52 -
+   - (b) Adjustment for Increased Pension Under Other Plans: If the benefit paid under a specified plan on behalf of a Participant is increased after PEP benefits on his behalf have been determined (whether the increase is by order of a
 
 court, by agreement of the plan administrator of the specified plan, or otherwise), then the PEP benefit for the Participant shall be recalculated to the maximum extent permissible under Section 409A. If the recalculation identifies an overpayment hereunder, the Plan Administrator shall take such steps as it deems advisable to recover the overpayment. It is specifically intended that there shall be no duplication of payments under this Plan and any specified plans to the maximum extent permissible under Section 409A. 
 
    - (c) No Benefit Offsets That Would Violate Section 409A. Effective as of January 1, 2009, if a Participant has earned a benefit under a plan maintained by a member of the PepsiCo Organization that is a “qualifying plan” for purposes of the “Non-Duplication” rule in Section 3.8 of Part A of the Salaried Plan and the “Transfers and Non-Duplication” rule in Section 3.5 of Part B of the Salaried Plan, such Transfers and NonDuplication rules shall apply when calculating the Participant’s Total Pension under Section 5.1(c)(1) above only to the extent the application of such rule to the Participant’s 409A Pension will not result in a change in the time or form of payment of such pension that is prohibited by Section 409A. For purposes of the limit on offsets in the preceding sentence, it is the Company’s intent to undertake to make special arrangements with respect to the payment of the benefit under the qualifying plan that are legally permissible under the qualifying plan and compliant with Section 409A, in order to avoid such a change in time or form of payment to the maximum extent possible; to the extent that Section 409A compliant special arrangements are timely put into effect in a particular situation, the limit on offsets in the prior sentence will not apply.
 
-- 53 - 
-
 - 5. 5 Excludable Employment: An executive who has signed a written agreement with the Company pursuant to which the individual either (i) waives eligibility under the Plan (even if the individual otherwise meets the definition of Employee under the Plan), or (ii) agrees not to participate in the Plan, shall not thereafter become entitled to a benefit or to any increase in benefits in connection with such employment (whichever applies). Written agreements may be entered into either before or after the executive becomes eligible for or begins participation in the Plan, and such written agreement may take any form that is deemed effective by the Company. This Section 5.5 shall apply with respect to agreements that are entered into on or after January 1, 2009.
 
 - 5. 6 Pre-409A Pension: A Participant’s Pre-409A Pension is the portion of the Participant’s Pension that is grandfathered under Treasury Regulation § 1.409A-6(a)(3) (i) and (iv). Principles similar to those applicable under – (i) Section 5.1(b), and (ii) the last sentence of Section 5.2(b)(2) shall apply in determining the Pre-409A Pension under this section.
 
-- 5. 7 Offsets: Notwithstanding any other provision of the Plan, the Company may reduce the amount of any payment or benefit that is or would be payable to or on behalf of a Participant by the amount of any obligation of the Participant to the Company that is or becomes due and payable, provided that (1) the obligation of the Participant to the Company was incurred during the employment relationship, (2) the reduction during any Plan Year may not exceed the amount allowed under Code Section 409A and (3) the reduction is made at the same time and in the same amount as the obligation otherwise would have been due and collectable from the Participant. In addition, in the event a Participant has earned a 409A Benefit (a “Prior 409A Benefit”) that was paid before, or will become payable either before or under different payment terms than, an additional 409A Benefit for the Participant, the - 54 -
+- 5. 7 Offsets: Notwithstanding any other provision of the Plan, the Company may reduce the amount of any payment or benefit that is or would be payable to or on behalf of a Participant by the amount of any obligation of the Participant to the Company that is or becomes due and payable, provided that (1) the obligation of the Participant to the Company was incurred during the employment relationship, (2) the reduction during any Plan Year may not exceed the amount allowed under Code Section 409A and (3) the reduction is made at the same time and in the same amount as the obligation otherwise would have been due and collectable from the Participant. In addition, in the event a Participant has earned a 409A Benefit (a “Prior 409A Benefit”) that was paid before, or will become payable either before or under different payment terms than, an additional 409A Benefit for the Participant, the
 
 calculation of the Participant’s additional 409A Benefit shall include an offset for the Prior 409A Benefit. This offset shall be determined as of the Annuity Starting Date of the additional 409A Benefit on a basis that (i) takes into account applicable reductions for early or late commencement as of the Annuity Starting Date of the additional 409A Pension, (ii) reflects, if applicable and customary, the relative value of forms of payment, and (iii) otherwise adjusts the offset to its Actuarial Equivalent, in each such respect as appropriate and customary under the circumstances and in accordance with rules authorized by the Plan Administrator. Therefore, by way of example, but not by way of limitation, when pursuant to Section 4.5 a Participant is entitled to Post-Disability Accruals after having become entitled to Pre-Separation Accruals, such an offset of the Pre-Separation Accruals will apply in determining the PostDisability Accruals. 
 
@@ -17615,8 +17600,6 @@ calculation of the Participant’s additional 409A Benefit shall include an offs
 
 - (3) The Eligible Domestic Partner’s Pre-Retirement Domestic Partner’s Pension derived - from the Pre-409A Program.
 
-- 55 - 
-
    - (b) Basis for Determining: The Pre-Retirement Domestic Partner’s 409A Pension amount in subsection (a) above shall be determined on a basis (i) that takes into account applicable reductions for early or late commencement, and (ii) otherwise adjusts the reductions in (a)(2) and (3) above to their Actuarial Equivalent as appropriate under the circumstances and pursuant to rules of the Plan Administrator, including to take account the time and form of any prior payments.
 
    - (c) Definitions: The following definitions apply for purposes of this section:
@@ -17625,7 +17608,7 @@ calculation of the Participant’s additional 409A Benefit shall include an offs
 
       - (i) The amount of the Eligible Domestic Partner’s pre-retirement domestic partner’s pension determined under the terms of the Salaried Plan, but without regard to: (A) the limitations imposed by sections 401(a)(17) and 415 of the Code (as such limitations are interpreted and applied under the Salaried Plan), and (B) the actuarial adjustment under Section 5.7(d) of Part B of the Salaried Plan, or
 
-      - (ii) The amount (if any) of the Eligible Domestic Partner’s PEP Guarantee PreRetirement Domestic Partner’s 409A Pension determined under subsection (c). In making this comparison, the benefits in subparagraphs (i) and (ii) above shall be calculated as if payable as of what would be the Normal Retirement Date of the Participant related to the Eligible Domestic Partner. The greater benefit - 56 -
+      - (ii) The amount (if any) of the Eligible Domestic Partner’s PEP Guarantee PreRetirement Domestic Partner’s 409A Pension determined under subsection (c). In making this comparison, the benefits in subparagraphs (i) and (ii) above shall be calculated as if payable as of what would be the Normal Retirement Date of the Participant related to the Eligible Domestic Partner. The greater benefit
 
 determined under the prior sentence shall then be reduced/increased for commencement before/after, as applicable, such Normal Retirement Date. 
 
@@ -17639,8 +17622,6 @@ determined under the prior sentence shall then be reduced/increased for commence
 
       - (i) Separated from Service on the date of death (or, if earlier, his actual Separation from Service);
 
-- 57 - 
-
       - (ii) Commenced a Qualified Joint and Survivor Annuity on the same date payments of the Qualified Pre Retirement Domestic Partner’s Pension are to commence; and
 
       - (iii) Died on the day immediately following such commencement.
@@ -17649,9 +17630,7 @@ determined under the prior sentence shall then be reduced/increased for commence
 
 Principles similar to those applicable under (i) Section 5.1(b), and (ii) the last sentence of Section 5.2(b)(2) shall apply in determining the Pre-Retirement Domestic Partner’s 409A Pension under this section. 
 
-- 58 - 
-
-### ARTICLE VI
+## ARTICLE VI
 
 ### Distribution of Benefits
 
@@ -17663,11 +17642,11 @@ The terms of this Article govern (i) the distribution of benefits to a Participa
 
 - (1) Generally: A Participant’s 409A Retirement Pension shall be distributed as a Single Lump Sum on the first day of the month that is coincident with or next follows the Participant’s Retirement Date, subject to paragraph (2) and Section 6.6 (delay for Key Employees).
 
-- (2) Prior Payment Election: Notwithstanding paragraph (1) , a Participant who is entitled to a 409A Retirement Pension and who made an election (i) up to and including December 31, 2007, and (ii) at least six months prior to and in a calendar year prior to the Participant’s Annuity Starting Date shall receive his benefit in accordance with such payment election. A payment election allowed a Participant to choose either (i) to receive a distribution of his - 59 -
+- (2) Prior Payment Election: Notwithstanding paragraph (1) , a Participant who is entitled to a 409A Retirement Pension and who made an election (i) up to and including December 31, 2007, and (ii) at least six months prior to and in a calendar year prior to the Participant’s Annuity Starting Date shall receive his benefit in accordance with such payment election. A payment election allowed a Participant to choose either (i) to receive a distribution of his
 
 benefit in an Annuity form, (ii) to commence distribution of his benefit at a time other than as provided in paragraph 6.1(a)(1) , or both (i) and (ii). A payment election made by a Participant who is only eligible to receive a Vested Pension on his Separation from Service shall be disregarded. Subject to Section 4.9 (cashouts), a Participant who has validly elected to receive an Annuity shall receive his benefit as a Qualified Joint and Survivor Annuity if he is married or as a Single Life Annuity if he is unmarried, unless he elects one of the optional forms of payment described in Section 6.2 in accordance with the election procedures in Section 6.3(a). A Participant shall be considered married if he is married on his Annuity Starting Date (with such Annuity Starting Date determined taking into account any election applicable under this subsection). To the extent a Participant’s benefit commences later than it would under paragraph 6.1(a)(1) as a result of an election under this paragraph 6.1(a)(2) , the Participant’s benefit will be increased for earnings at the interest rate used to compute the Actuarial Equivalent lump sum value through the date the check for payment is prepared, which interest shall be paid at the time elected by the Participant under this paragraph 6.1(a)(2) . 
 
-   - (b) 409A Vested Pension: Subject to Section 4.9, Section 6.6 and subsection (c) below, a Participant’s 409A Vested Pension shall be distributed in accordance with paragraph (1) or (2) below, unless, in the case of a Participant who is married (as determined under the standards in paragraph 6.1(a)(2) , above) or has an Eligible Domestic Partner on his Annuity Starting Date, he elects one of the optional - 60 -
+   - (b) 409A Vested Pension: Subject to Section 4.9, Section 6.6 and subsection (c) below, a Participant’s 409A Vested Pension shall be distributed in accordance with paragraph (1) or (2) below, unless, in the case of a Participant who is married (as determined under the standards in paragraph 6.1(a)(2) , above) or has an Eligible Domestic Partner on his Annuity Starting Date, he elects one of the optional
 
 forms of payment distributions in Section 6.2 in accordance with the election procedures in Section 6.3(a): 
 
@@ -17675,13 +17654,11 @@ forms of payment distributions in Section 6.2 in accordance with the election pr
 
 - (2) Separation at Ages 55 Through 64: In the case of a Participant who Separates from Service with at least five years but less than ten years of Service and on or after attaining age 55 but prior to attaining age 65, the Participant’s 409A Vested Pension shall be distributed as an Annuity (as provided in paragraph (1) above) commencing on the first of the month that follows his Separation from Service.
 
-- 61 - 
-
    - (c) Disability Pension: The portion of a Participant’s 409A Disability Pension representing PreSeparation Accruals shall be paid on the first day of the month following the later of (i) the Participant’s attainment of age 55 and (ii) the Participant’s Separation from Service. The available forms of payment for the portion of a Participant’s 409A Disability Pension representing Pre-Separation Accruals (as defined in Section 4.5) shall be those forms available to a Participant who is entitled to a Vested Pension or a Retirement Pension, as set forth in Section 6.2, below (including, to the extent applicable, the different forms available to a married Participant / Participant with a domestic partner versus a single Participant). The portion of a Participant’s 409A Disability Pension representing Post-LTD Accruals shall be paid on the first day of the month following the Participant’s attainment of age 65 in a lump sum.
 
 - 6. 2 Available Forms of Payment: This section sets forth the payment options available to a Participant who is entitled to a Retirement Pension under paragraph 6.1(a)(2) above or a Vested Pension under subsection 6.1(b) above.
 
-   - (a) Basic Forms: A Participant who is entitled to a Retirement Pension may choose one of the following optional forms of payment by making a valid election in accordance with the election procedures in Section 6.3(a). A Participant who is entitled to a Vested Pension and who is married on his Annuity Starting Date may choose one of the optional forms of payment available under paragraph (1) , (2) (ii) or (2) (iii) below with his Eligible Spouse as his beneficiary (and no other optional form of payment available under this subsection (a) shall be permitted to such a Participant). A Participant who is entitled to a Vested Pension, who is not married and who has an Eligible Domestic Partner on his Annuity Starting Date may choose one of the optional - 62 -
+   - (a) Basic Forms: A Participant who is entitled to a Retirement Pension may choose one of the following optional forms of payment by making a valid election in accordance with the election procedures in Section 6.3(a). A Participant who is entitled to a Vested Pension and who is married on his Annuity Starting Date may choose one of the optional forms of payment available under paragraph (1) , (2) (ii) or (2) (iii) below with his Eligible Spouse as his beneficiary (and no other optional form of payment available under this subsection (a) shall be permitted to such a Participant). A Participant who is entitled to a Vested Pension, who is not married and who has an Eligible Domestic Partner on his Annuity Starting Date may choose one of the optional
 
 forms available under paragraph (2) (ii) or (2) (iii) below with his Eligible Domestic Partner as his beneficiary (and no other optional forms of payment available under this subsection shall be permitted to such a Participant). A Participant who is entitled to a Vested Pension and who is not married and does not have an Eligible Domestic Partner on his Annuity Starting Date shall receive a Single Life Annuity. Each optional annuity is the actuarial equivalent of the Single Life Annuity: 
 
@@ -17691,7 +17668,7 @@ forms available under paragraph (2) (ii) or (2) (iii) below with his Eligible Do
 
       - (i) 100 Percent Survivor Option: The Participant shall receive a reduced 409A Pension payable for life, ending with the last monthly payment due prior to his death. Payments in the same reduced amount shall continue after the Participant’s death to his beneficiary for life, beginning on the first day of the month coincident with or following the Participant’s death and ending with the last monthly payment due prior to the beneficiary’s death.
 
-      - (ii) 75 Percent Survivor Option: The Participant shall receive a reduced 409A Pension payable for life, ending with the last monthly payment due prior to his death. Payments in the amount of 75 percent of such reduced 409A Pension shall be continued after the Participant’s death to his beneficiary for life, beginning on the first day of - 63 -
+      - (ii) 75 Percent Survivor Option: The Participant shall receive a reduced 409A Pension payable for life, ending with the last monthly payment due prior to his death. Payments in the amount of 75 percent of such reduced 409A Pension shall be continued after the Participant’s death to his beneficiary for life, beginning on the first day of
 
 the month coincident with or following the Participant’s death and ending with the last monthly payment due prior to the beneficiary’s death. 
 
@@ -17701,8 +17678,6 @@ the month coincident with or following the Participant’s death and ending with
 
    - (b) Inflation Protection: The following levels of inflation protection may be provided to any Participant who elects to receive all or a part of his 409A Retirement Pension as an Annuity:
 
-- 64 - 
-
 - (1) 5 Percent Inflation Protection: A Participant’s monthly benefit shall be initially reduced, but thereafter shall be increased if inflation in the prior year exceeds 5 percent. The amount of the increase shall be the difference between inflation in the prior year and 5 percent.
 
 - (2) 7 Percent Inflation Protection: A Participant’s monthly benefit shall be initially reduced, but thereafter shall be increased if inflation in the prior year exceeds 7 percent. The amount of the increase shall be the difference between inflation in the prior year and 7 percent.
@@ -17711,13 +17686,11 @@ Benefits shall be subject to increase in accordance with this subsection each Ja
 
 - 6. 3 Procedures for Elections: This section sets forth the procedures for making Annuity Starting Date elections ( _i.e._ , elections under Section 6.2). Subsection (a) sets forth the procedures for making a valid election of an optional form of payment under Section 6.2 and subsection (b) includes special rules for Participants with multiple Annuity Starting Dates. An election under this Article VI shall be treated as received on a particular day if it is: (i) postmarked that day, or (ii) actually received by the Plan Administrator on that day.
 
-- 65 - 
-
 Receipt under (ii) must occur by the close of business on the date in question, which time is to be determined by the Plan Administrator. Spousal consent is not required for an election to be valid. 
 
    - (a) Election of an Optional Form of Payment: To be valid, an election of an optional form of Annuity under Section 6.2, for (i) a Participant’s 409A Retirement Pension (if a proper election was made under paragraph 6.1(a)(2) ) or (ii) a Participant’s 409A Vested Terminated Pension, must be in writing, signed by the Participant, and received by the Plan Administrator at least one day prior to the Annuity Starting Date that applies to the Participant’s Pension in accordance with Section 6.1. In addition, an election under this subsection must specify one of the optional forms of payment available under Section 6.2 and a beneficiary, if applicable, in accordance with Section 6.5 below. To the extent permitted by the Plan Administrator, an election made through electronic media shall be considered to satisfy the requirement for a written election, and an electronic affirmation of such an election shall be considered to satisfy the requirement for a signed election.
 
-   - (b) Multiple Annuity Starting Dates: When amounts become payable to a Participant in accordance with Article IV, they shall be payable as of the Participant’s Annuity Starting Date and the election procedures (in this section and Sections 6.1 and 6.5) shall apply to all of the Participant’s unpaid accruals as of such Annuity Starting Date, with the following exception. In the case of a Participant who is rehired after his initial Annuity Starting Date and who (i) is currently receiving an Annuity that remained in pay status upon rehire, or (ii) was previously paid a lump sum distribution (other than a cashout distribution described in Section 4.9(a)), the - 66 -
+   - (b) Multiple Annuity Starting Dates: When amounts become payable to a Participant in accordance with Article IV, they shall be payable as of the Participant’s Annuity Starting Date and the election procedures (in this section and Sections 6.1 and 6.5) shall apply to all of the Participant’s unpaid accruals as of such Annuity Starting Date, with the following exception. In the case of a Participant who is rehired after his initial Annuity Starting Date and who (i) is currently receiving an Annuity that remained in pay status upon rehire, or (ii) was previously paid a lump sum distribution (other than a cashout distribution described in Section 4.9(a)), the
 
 Participant’s subsequent Annuity Starting Date (as a result of his subsequent Separation from Service), and the election procedures at such subsequent Annuity Starting Date, shall apply only to the portion of his benefit that accrues after his rehire. Any prior accruals that remain to be paid as of the Participant’s subsequent Annuity Starting Date shall continue to be payable in accordance with the elections made at his initial Annuity Starting Date. 
 
@@ -17725,7 +17698,7 @@ Participant’s subsequent Annuity Starting Date (as a result of his subsequent 
 
 - 6. 4 Special Rules for Survivor Options: The following special rules shall apply for the survivor options available under Section 6.2.
 
-   - (a) Effect of Certain Deaths: If a Participant makes an election under Section 6.3(a) to receive his 409A Retirement Pension in the form of an optional Annuity that includes a benefit for a surviving beneficiary under Section 6.2 and the Participant or his beneficiary (beneficiaries in the case of the optional form of payment in Section - 67 -
+   - (a) Effect of Certain Deaths: If a Participant makes an election under Section 6.3(a) to receive his 409A Retirement Pension in the form of an optional Annuity that includes a benefit for a surviving beneficiary under Section 6.2 and the Participant or his beneficiary (beneficiaries in the case of the optional form of payment in Section
 
 - 6. 2(a)(2) (iv)) dies prior to the Annuity Starting Date of such Annuity, the election shall be disregarded. If the Participant dies after this Annuity Starting Date but before his 409A Retirement Pension actually commences, the election shall be given effect and the amount payable to his surviving Eligible Spouse, Eligible Domestic Partner or other beneficiary (as applicable) shall commence on the first day of the month following his death (any back payments due the Participant shall be payable to his estate). In the case of a Participant who has elected the form of payment described in Section 6.2(a)(2) (iv), if such Participant: (i) dies after his Annuity Starting Date, (ii) without a surviving primary or contingent beneficiary, and (iii) before receiving 120 payments under the form of payment, then the remaining payments due under such form of payment shall be paid to the Participant’s estate. If payments have commenced under such form of payment to a Participant’s primary or contingent beneficiary and such beneficiary dies before payments are completed, then the remaining payments due under such form of payment shall be paid to such beneficiary’s estate.
 
@@ -17735,21 +17708,19 @@ Participant’s subsequent Annuity Starting Date (as a result of his subsequent 
 
 - (2) The 75 percent survivor option described in Section 6.2(a)(2) (ii) if his beneficiary is more than 19 years younger than he is.
 
-- 6. 5 Designation of Beneficiary: A Participant who has elected under Section 6.2 to receive all or part of his Retirement Pension in a form of payment that includes a survivor - 68 -
+- 6. 5 Designation of Beneficiary: A Participant who has elected under Section 6.2 to receive all or part of his Retirement Pension in a form of payment that includes a survivor
 
 option shall designate a beneficiary who will be entitled to any amounts payable on his death. Such designation shall be made on the election form used to choose such optional form of payment or an approved election form filed under the Salaried Plan, whichever is applicable. In the case of the survivor option described in Section 6.2(a)(2) (iv), the Participant shall be entitled to name both a primary beneficiary and a contingent beneficiary. A Participant (whether active or former) shall have the right to change or revoke his beneficiary designation at any time prior to his Annuity Starting Date. The designation of any beneficiary, and any change or revocation thereof, shall be made in accordance with rules adopted by the Plan Administrator. A beneficiary designation shall not be effective unless and until filed with the Plan Administrator. If no beneficiary is properly designated and a Participant’s elects a survivor’s option described in Section 6.2(a)(2) , the Participant’s beneficiary shall be his Eligible Spouse or Eligible Domestic Partner, as applicable. A Participant entitled to a Vested Pension does not have the right or ability to name a beneficiary; if the Participant is permitted under Section 6.2 to elect an optional form of payment, then his beneficiary shall be his Eligible Spouse or Eligible Domestic Partner, as applicable, on his Annuity Starting Date. 
 
 - 6. 6 Required Delay for Key Employees: Notwithstanding Section 6.1 above, if a Participant is classified as a Key Employee upon his Separation from Service (or at such other time for determining Key Employee status as may apply under Section 409A), then distributions to the Participant shall commence as follows:
 
-   - (a) Distribution of a Retirement Pension: In the case of a Key Employee Participant who is entitled to a 409A Retirement Pension, distributions shall commence on the earliest first of the month that is at least six months after the date the Participant Separates from Service (or, if earlier, the Participant’s death). For periods - 69 -
+   - (a) Distribution of a Retirement Pension: In the case of a Key Employee Participant who is entitled to a 409A Retirement Pension, distributions shall commence on the earliest first of the month that is at least six months after the date the Participant Separates from Service (or, if earlier, the Participant’s death). For periods
 
 before 2009, commencement of distributions, however, shall not be delayed under the preceding sentence if the Participant’s 409A Retirement Pension commences at the same time as his pension under the Salaried Plan in accordance with Section 6.1(b)(3) (i). 
 
    - (b) Distribution of a Vested Pension. In the case of a Participant who is entitled to a 409A Vested Pension, distributions shall commence as provided in Section 6.1(b), or if later, on the earliest first of the month that is at least six months after the Participant’s Separation from Service (or, if earlier, the Participant’s death). For periods before 2009, commencement of distributions, however, shall not be delayed under the preceding sentence if the Participant’s 409A Vested Pension commences at the same time as his pension under the Salaried Plan in accordance with Section 6.1(b)(3) (i).
 
    - (c) Interest Paid for Delay. Any payments to the Participant that are delayed in accordance with the provisions of this Section 6.6 shall be increased for earnings at the interest rate used to compute the Actuarial Equivalent lump sum value through the date the check for payment is prepared, with such delayed payment and accumulated interest paid as a lump sum payment to the Participant on the date payment occurs in accordance with subsection (a) or (b) above, whichever is applicable. If a Participant’s beneficiary or estate is paid under subsection (a) or (b) above as a result of his death, then any payments that would have been made to the Participant and that were delayed in accordance with the provisions of this Section 6.6 shall be paid as otherwise provided in the Plan, with interest at the rate specified in the preceding sentence through the date the check for payment is prepared.
-
-- 70 - 
 
 - 6. 7 Payment of FICA and Related Income Taxes: As provided in subsections (a) through (c) below, a portion of a Participant’s 409A Pension shall be paid as a single lump sum and remitted directly to the Internal Revenue Service (“IRS”) in satisfaction of the Participant’s FICA Amount and the related withholding of income tax at source on wages (imposed under Code Section 3401 or the corresponding withholding provisions of the applicable state, local or foreign tax laws as a result of the payment of the FICA Amount) and the additional withholding of income tax at source on wages that is attributable to the pyramiding of wages and taxes.
 
@@ -17763,17 +17734,17 @@ occur effective as of a date that is after the date payment of a Participant’s
 
    - (A) No Effect on Commencement of 409A Pension. The Participant’s 409A Pension shall commence in accordance with the terms of this Plan. The lump sum payment to satisfy the Participant’s FICA Amount and related income tax withholding shall not affect the time of payment of the Participant’s actuarially reduced 409A Pension, including not affecting any required delay in payment to a Participant who is classified as a Key Employee.
 
-- 72 - 
-
 ## ARTICLE VII
 
 ### Administration
 
+- 7. 1 Authority to Administer Plan: The Plan shall be administered by the Plan Administrator, which shall have the authority to interpret the Plan and issue such regulations as it deems appropriate. The Plan Administrator shall maintain Plan records and make benefit calculations, and may rely upon information furnished it by the Participant in writing, including the Participant’s current mailing address, age and marital status. The Plan Administrator’s interpretations, determinations, regulations and calculations shall be final and binding on all persons and parties concerned. Neither the Company nor the Plan Administrator shall be a fiduciary of the Plan, and any restrictions that might apply to a party in interest under section 406 of ERISA shall not apply under the Plan, including with respect to the Company or the Plan Administrator.
+
 - 7. 2 Facility of Payment: Whenever, in the Plan Administrator’s opinion, a person entitled to receive any payment of a benefit or installment thereof hereunder is under a legal disability or is incapacitated in any way so as to be unable to manage his financial affairs, the Plan Administrator may make payments to such person or to the legal representative of such person for his benefit, or the Plan Administrator may apply the payment for the benefit of such person in such manner as it considers advisable. Any payment of a benefit or installment thereof in accordance with the provisions of this section shall be a complete discharge of any liability for the making of such payment under the provisions of the Plan.
 
-- 7. 3 Claims Procedure: The Plan Administrator, or a party designated by the Plan Administrator, shall have the exclusive discretionary authority to construe and to interpret - 73 -
+- 7. 3 Claims Procedure: The Plan Administrator, or a party designated by the Plan Administrator, shall have the exclusive discretionary authority to construe and to interpret
 
-- 74 - 
+the Plan, to decide all questions of eligibility for benefits and to determine the amount of such benefits. As a result, benefits under this Plan will be paid only if the Plan Administrator decides in its discretion that the Participant (or other applicant) is entitled to them. Any decisions or determinations hereunder shall be made in the absolute and unrestricted discretion of the Plan Administrator, even if (i) such discretion is not expressly granted by the Plan provisions in question, or (ii) a decision or determination is not expressly called for by the Plan provisions in question, and even though other Plan provisions expressly grant discretion or expressly call for a decision or determination. All decisions and determinations made by the Plan Administrator will be final, conclusive, and binding on all parties. The Plan Administrator may consider the intent of the Company with respect to a Plan provision in making any determination with respect to the provision, notwithstanding the provisions set forth in any document that arguably do not contemplate considering such intent. The Plan Administrator’s discretion is absolute, and in any case where the breadth of the Plan Administrator’s discretion is at issue, it is expressly intended that the Plan Administrator (or its delegate) be accorded the maximum possible discretion. Any exercise by the Plan Administrator of its discretionary authority shall be reviewed by a court under the arbitrary and capricious standard (i.e., abuse of discretion). If, pursuant to this discretionary authority, an assertion of any right to a benefit by or on behalf of a Participant or beneficiary (a “claimant”) is wholly or partially denied, the Plan Administrator, or a party designated by the Plan Administrator, will provide such claimant the claims review process described in this Section. The Plan Administrator has the discretionary right to modify the claims process described in this Section in any manner so long as the claims review process, as modified, includes the steps described below. A claim shall be made in writing or in such other form as is acceptable to the Plan Administrator. Within a 90-day response period 
 
 following the receipt of the claim by the Plan Administrator, the Plan Administrator will notify the claimant of: 
 
@@ -17787,23 +17758,29 @@ to perfect the claim and an explanation of why such material or information is n
 
    - (d) A description of the Plan’s claim review procedure (including the time limits applicable to such process and a statement of the claimant’s right to bring a civil action under ERISA following a further denial on review).
 
-- 75 - 
+If the Plan Administrator determines that special circumstances require an extension of time for processing the claim it may extend the response period from 90 to 180 days. If this occurs, the Plan Administrator will notify the claimant before the end of the initial 90-day period, indicating the special circumstances requiring the extension and the date by which the Plan Committee expects to make the final decision. The claim review procedure is available upon written request by the claimant to the Plan Administrator, or the designated party, within 60 days after receipt by the claimant of written notice of the denial of the claim. Upon review, the Plan Administrator shall provide the claimant a full and fair review of the claim, including the opportunity to submit to the Plan Administrator comments, document, records and other information relevant to the claim, and the Plan Administrator’s review shall take into account such comments, documents, records and information regardless of whether it was submitted or considered at the initial determination. The decision on review will be made within 60 days 
 
 after receipt of the request for review, unless circumstances warrant an extension of time not to exceed an additional 60 days. If this occurs, notice of the extension will be furnished to the claimant before the end of the initial 60-day period, indicating the special circumstances requiring the extension and the date by which the Plan Administrator expects to make the final decision. The final decision shall be in writing and drafted in a manner calculated to be understood by the claimant; include specific reasons for the decision with references to the specific Plan provisions on which the decision is based; and provide that the claimant is entitled to receive, upon request ad free of charge, reasonable access to, and copies of, all documents, records, and other information relevant to his or her claim for benefits. Any special extension, which is required by ERISA and applies to one or more deadlines applicable under this claims procedure, shall apply under this Plan to the same extent that special extension applies under the Salaried Plan. 
 
+Any claim under the Plan that is reviewed by a court, arbitrator or any other tribunal shall be reviewed solely on the basis of the record before the Plan Administrator at the time it made its determination. In addition, any such review shall be conditioned on the claimant’s having fully exhausted all rights under this section as is more fully explained in Section 7.5. Any notice or other notification that is required to be sent to a claimant under this section may be sent pursuant to any method approved under Department of Labor Regulation Section 2520.104b-1 or other applicable guidance. 
+
 - 7. 4 Effect of Specific References: Specific references in the Plan to the Plan Administrator’s discretion shall create no inference that the Plan Administrator’s discretion in any other respect, or in connection with any other provision, is less complete or broad.
 
-- 76 - 
+- 7. 5 Claimant Must Exhaust the Plan’s Claims Procedures Before Filing in Court : Before filing any Claim (including a suit or other action) in court or in another tribunal, a Claimant must first fully exhaust all of the Claimant’s rights under the claims procedures of Section 7.3.
 
    - (a) Upon review by any court or other tribunal, the exhaustion requirement of this Section 7.5 is intended to be interpreted to require exhaustion in as many circumstances as possible (and any steps necessary to clarify or effect this intent may be taken). For example, exhaustion may not be excused (i) for failure to respond to a Claim unless the purported claimant took sufficient steps to make it reasonably clear to the Plan Administrator that the purported claimant was submitting a Claim with respect to the Plan, or (ii) for failure to fulfill a request for documents unless (A) ERISA requires the documents to be provided in response to the request, (B) the Claimant requests such documents in a writing that is addressed to and actually received by the Plan Administrator, (C) the Plan Administrator fails to provide the requested documents within 6 months after the date the request is received, or within such longer period as may be reasonable under the facts and circumstances, and (D) the requestor took sufficient steps to make it reasonably clear to the Plan Administrator that the requestor was asserting an ERISA right to the documents. Accordingly, but without limitation, a purported claimant or requestor who was not treated as a Participant shall not be deemed to have taken sufficient steps for purposes of the prior sentence unless he makes it reasonably clear to the Plan Administrator that he is claiming to have been entitled to be a Participant.
 
-- 77 - 
+   - (b) In any action or consideration of a Claim in court or in another tribunal following exhaustion of the Plan’s claims procedure as described in this Section 7.5, the subsequent action or consideration shall be limited, to the maximum extent permissible, to the record that was before Plan Administrator in the claims procedure.
 
    - (c) The exhaustion requirement of this Section 7.5 shall apply: (i) regardless of whether other Disputes that are not Claims (including those that a court might consider at the same time) are of greater significance or relevance, (ii) to any rights the Plan Administrator may choose to provide in connection with novel Disputes or in particular situations, (iii) regardless of whether the rights are actual or potential and (iv) even if the Plan Administrator has not previously defined or established specific claims procedures that directly apply to the submission and consideration of such Claim (in which case the Plan Administrator (upon notice of the Claim) shall either promptly establish such claims procedures or shall apply (or act by analogy to) the claims procedures of Section 7.3 that apply to claims for benefits).
 
    - (d) The Plan Administrator may make special arrangements to consider a Claim on a class basis or to address unusual conflicts concerns, and such minimum arrangements in these respects shall be made as are necessary to maximize the extent to which exhaustion is required.
 
-   - (e) For example, exhaustion may not be excused (i) for failure to respond to a claim unless the purported Claimant took steps that were sufficient to make it reasonably clear to the Plan Administrator that the purported Claimant was submitting a claim with respect to the Plan, or (ii) for failure to fulfill a request for documents unless (A) the Claimant is lawfully entitled to receive a copy of the requested - 78 -
+   - (e) For example, exhaustion may not be excused (i) for failure to respond to a claim unless the purported Claimant took steps that were sufficient to make it reasonably clear to the Plan Administrator that the purported Claimant was submitting a claim with respect to the Plan, or (ii) for failure to fulfill a request for documents unless (A) the Claimant is lawfully entitled to receive a copy of the requested
+
+document from the Plan Administrator at the time and in the form requested, (B) the Claimant requests such documents in a writing that is addressed to and actually received by the Plan Administrator, (C) the Plan Administrator fails to provide the requested documents within 6 months after the date the request is received, or within such longer period as may be reasonable under the facts and circumstances, (D) the Claimant took steps that were sufficient to make it reasonably clear to the Plan Administrator that the requestor was actually entitled to receive the requested documents at the time and in the form requested (i.e., generally the Claimant must provide sufficient information to place the Plan Administrator on notice of a colorable claim for benefits), and (E) the documents requested and not provided are material to the determination of one or more colorable claims of which the Claimant has informed the Plan Administrator. 
+
+   - (f) For purposes of this Section 7.5, the following definitions apply.
 
       - (i) A “Dispute” is any claim, dispute, issue, assertion, action or other matter.
 
@@ -17833,8 +17810,6 @@ Administrator, or (ii) relates to the Plan in any way.
 
 It is the Plan Administrator’s intent to interpret and operate the Plan in good faith and at all times consistently with ERISA. Therefore, as a condition for any right or recovery related to the Plan, the Plan imposes a contractual obligation for complete exhaustion under this Section with respect to any Claim (as defined above) in order to allow for the efficient and uniform resolution of such Claims and to protect the Plan from potentially substantial and unnecessary litigation expenses that exhaustion could obviate. 
 
-- 80 - 
-
       - (iii) A “Claimant” is any actual or putative Employee, former Employee, Participant, former Participant, beneficiary (or the spouse, former spouse, domestic partner, estate, heir or representative of any of the foregoing individuals), or any other individual, person, entity with a relationship to any of the foregoing individuals or the Plan, as well as any group of one or more of the foregoing, who has a Claim.
 
 - 7. 6 Limitations on Actions: Any claim filed under section 7.3 and any action filed in state or federal court by or on behalf of a former or current Employee, Participant, beneficiary or any other individual, person or entity (collectively, a “Petitioner”) for the alleged wrongful denial of Plan benefits or for the alleged interference with or violation of ERISA-protected rights must be brought within two years of the date the Petitioner’s cause of action first accrues.
@@ -17843,17 +17818,13 @@ It is the Plan Administrator’s intent to interpret and operate the Plan in goo
 
    - (b) For purposes of this subsection, a cause of action with respect to the alleged interference with ERISA-protected rights shall be deemed to accrue when the claimant has actual or constructive knowledge of the acts or failures to act (or the other facts) that are alleged to constitute interference with ERISA-protected rights.
 
-- 81 - 
-
    - (c) For purposes of this subsection, a cause of action with respect to any other claim, action or suit not covered by subsection (a) or (b) above must be brought within two years of the date when the claimant has actual or constructive knowledge of the acts or failures to act (or the other facts) that are alleged to give rise to the claim, action or suit.
 
 Failure to bring any such claim or cause of action within this two-year time frame shall preclude a Petitioner, or any representative of the Petitioner, from filing the claim or cause of action. Correspondence or other communications pursuant to or following the mandatory appeals process described in Section 7.3 shall have no effect on this two-year time frame. 
 
 - 7. 7 Restriction on Venue: Any claim or action filed in court or any other tribunal in connection with the Plan by or on behalf of a Petitioner (as defined in Section 7.6 above) shall only be brought or filed in the United States District Court for the Southern District of New York, effective for claims or actions filed on or after January 1, 2011.
 
-- 82 - 
-
-### ARTICLE VIII
+## ARTICLE VIII
 
 ### Miscellaneous
 
@@ -17871,7 +17842,7 @@ Board of Directors, with a report of any actions taken by it to the Board of Dir
 
 Company shall indemnify, to the full extent permitted by law, any employee acting in good faith within the scope of his employment in carrying out the administration of the Plan. 
 
-#### 8. 6 Compliance with Section 409A:
+### 8. 6 Compliance with Section 409A:
 
    - (a) General: It is the intention of the Company that the Plan shall be construed in accordance with the applicable requirements of Section 409A. Further, in the event that the Plan shall be deemed not to comply with Section 409A, then neither the Company, the Board of Directors, the Plan Administrator nor its or their designees or agents shall be liable to any Participant or other person for actions, decisions or determinations made in good faith.
 
@@ -17893,7 +17864,7 @@ enhancements to the Participant’s Pension relating to –
 
 (collectively, “Benefit Enhancement”) will not be credited to the Participant until the last day of the Plan Year in which the Participant renders the Service or has the age attainment that results in such Benefit Enhancement, and then only to the extent permissible under subsection (c) below at that time; and 
 
-   - (c) The Participant shall have no legal right to (and the Participant shall not receive) any Benefit Enhancement that relates to Service or age attainment - 85 -
+   - (c) The Participant shall have no legal right to (and the Participant shall not receive) any Benefit Enhancement that relates to Service or age attainment
 
 from and after the Covered Transfer to the extent such Benefit Enhancement would constitute compensation that is includable in income under Section 457A. 
 
@@ -17901,13 +17872,11 @@ Notwithstanding the foregoing, subsection (a) above shall not apply to a Partici
 
 - 8. 8 Authorized Transfers: If a Participant transfers to an entity that is not part of the PepsiCo Organization, the liability for any benefits accrued while the Participant was employed by the PepsiCo Organization shall remain with the Company, except as otherwise expressly provided by an agreement between the Company and the Participant’s new employer.
 
-- 8. 9 Electronic Signatures: The words “signed,” “signature,” and words of like import in or related to this Plan or any other document or record to be signed in connection with or related to this Plan by the Company, Plan Administrator, Employee or other individual shall be deemed to include electronic signatures and the keeping of records in electronic form, each of which shall be of the same legal effect, validity and enforceability as a manually - 86 -
+- 8. 9 Electronic Signatures: The words “signed,” “signature,” and words of like import in or related to this Plan or any other document or record to be signed in connection with or related to this Plan by the Company, Plan Administrator, Employee or other individual shall be deemed to include electronic signatures and the keeping of records in electronic form, each of which shall be of the same legal effect, validity and enforceability as a manually
 
 executed signature or the use of a paper-based recordkeeping system, as the case may be, to the fullest extent permissible under applicable law. 
 
-- 87 - 
-
-### ARTICLE IX
+## ARTICLE IX
 
 ### Amendment and Termination
 
@@ -17917,31 +17886,29 @@ This Article governs the Company’s right to amend and or terminate the Plan. T
 
 - 9. 2 Amendments: The Company may, in its sole discretion, make any amendment or amendments to this Plan from time to time, with or without retroactive effect, including any amendment necessary to ensure continued compliance with Section 409A. An Employer (other than the Company) shall not have the right to amend the Plan.
 
-- 9. 3 Termination: The Company may terminate the Plan, (i) either as to its participation or as to the participation of one or more Employers, (ii) with respect to a group of - 88 -
+- 9. 3 Termination: The Company may terminate the Plan, (i) either as to its participation or as to the participation of one or more Employers, (ii) with respect to a group of
+
+Employees who experience a change in control in accordance with Treasury Regulation §1.409A-3(j)(4) (ix)(B), or (iii) as otherwise permitted under Code Section 409A. If the Plan is terminated with respect to fewer than all of the Employers, the Plan shall continue in effect for the benefit of the Employees of the remaining Employers. Upon termination, the distribution of Participants’ 409A Pensions shall be subject to restrictions applicable under Section 409A. 
 
 - 9. 4 Change in Control: The Company intends to have the maximum discretionary authority to terminate the Plan and make distributions in connection with a Change in Control (defined as provided in Section 409A), and the maximum flexibility with respect to how and to what extent to carry this out following a Change in Control as is permissible under Section 409A. The previous sentence contains the exclusive terms under which a distribution shall be made in connection with any Change in Control in the case of benefits that are derived from this 409A Program.
 
-- 89 - 
-
-### ARTICLE X
+## ARTICLE X
 
 ### ERISA Plan Structure
 
 This Plan document in conjunction with the plan document(s) for the Pre-409A Program encompasses three separate plans within the meaning of ERISA, as are set forth in subsections (a), (b) and (c). This division into separate plans became effective as of July 1, 1996; previously the plans set forth in subsections (b) and (c) were a single plan within the meaning of ERISA. 
 
+   - (a) Excess Benefit Plan: An excess benefit plan within the meaning of section 3(36) of ERISA, maintained solely for the purpose of providing benefits for Salaried Plan participants in excess of the limitations on benefits imposed by section 415 of the Code.
+
    - (b) Excess Compensation Top Hat Plan: A plan maintained by the Company primarily for the purpose of providing deferred compensation for a select group of management or highly compensated employees within the meaning of sections 201(2) and 401(a)(1) of ERISA. The plan provides benefits for Salaried Plan participants in excess of the limitations imposed by section 401(a)(17) of the Code on benefits under the Salaried Plan (after taking into account any benefits under the Excess Benefit Plan). For ERISA reporting purposes, this portion of PEP may be referred to as the PepsiCo Pension Equalization Plan I.
 
-   - (c) Preservation Top Hat Plan: A plan maintained by the Company primarily for the purpose of providing deferred compensation for a select group of management or highly compensated employees within the meaning of sections 201(2) and 401(a)(1) of ERISA. The plan provides preserves benefits for those Salaried Plan - 90 -
+   - (c) Preservation Top Hat Plan: A plan maintained by the Company primarily for the purpose of providing deferred compensation for a select group of management or highly compensated employees within the meaning of sections 201(2) and 401(a)(1) of ERISA. The plan provides preserves benefits for those Salaried Plan
 
 participants described in section 5.2(a) hereof, by preserving for them the pre-1989 level of benefit accrual that was in effect before the Salaried Plan’s amendment effective January 1, 1989 (after taking into account any benefits under the Excess Benefit Plan and Excess Compensation Top Hat Plan). For ERISA reporting purposes, this portion of PEP shall be referred to as the PepsiCo Pension Equalization Plan II. Benefits under this Plan shall be allocated first to the Excess Benefit Plan, to the extent of benefits paid for the purpose indicated in (a) above; then any remaining benefits shall be allocated to the Excess Compensation Top Hat Plan, to the extent of benefits paid for the purpose indicated in (b) above; then any remaining benefits shall be allocated to the Preservation Top Hat Plan. These three plans are severable for any and all purposes as directed by the Company. 
 
 In addition to the above, to the extent that lump sum termination benefits are paid under this Plan in connection with a severed employee’s Special Early Retirement (as defined in Appendix Article D) under a temporary severance program sponsored by the Company, this portion of the Plan shall be a component of the Company’s unfunded severance plan that includes the temporary program of severance benefits in question. As a component of a severance plan, the lump sum termination benefits are welfare benefits, and this portion is part of a “welfare benefit plan” under ERISA section 3(1) . This severance plan component shall exist solely (i) for the duration of the temporary severance program in question, and (ii) for the purpose of paying severance benefits. As a portion of an ERISA welfare plan, any such temporary severance benefits hereunder shall not be subject to the reporting requirements for top hat plans under ERISA or any of the ERISA requirements for pension plans. 
 
-- 91 - 
-
-ARTICLE XI 
-
-### Applicable Law
+## Applicable Law
 
 The provisions of this Plan shall be construed and administered according to, and its validity and enforceability shall be governed by, enforced in accordance with, and determined under (1) ERISA and any other applicable federal law as would be applied in cases that arise in the United States District Court for the Southern District of New York, and (2) to the extent ERISA does not preempt state law, the internal laws of the state of New 
 
@@ -17949,9 +17916,7 @@ The provisions of this Plan shall be construed and administered according to, an
 
 If any provision of this Plan is, or is hereafter declared to be, void, voidable, invalid or otherwise unlawful, the remainder of the Plan shall not be affected thereby. 
 
-- 92 - 
-
-### ARTICLE XII
+## ARTICLE XII
 
 ### Signature
 
@@ -17961,25 +17926,21 @@ PEPSICO, INC.
 
 By: /s/ Ronald Schellekens Ronald Schellekens Executive Vice President and Chief Human Resources Officer 
 
-#### APPROVED
+## APPROVED
 
 By: /s/ Jeffrey Arnold Jeffrey Arnold Legal Director, Employee Benefits Counsel Law Department 
 
 By: /s/ Christine Griff Christine Griff Vice President, Tax Counsel Tax Department 
 
-- 93 - 
-
-### APPENDIX
+## APPENDIX
 
 The following Appendix articles modify particular terms of the Plan. Except as specifically modified in the Appendix, the foregoing main provisions of the Plan shall fully apply in determining the rights and benefits of Participants and beneficiaries (and of any other individual claiming a benefit through or under the foregoing). In the event of a conflict between the Appendix and the foregoing main provision of the Plan, the Appendix shall govern. 
 
-- 94 - 
-
-### APPENDIX ARTICLE A
+## APPENDIX ARTICLE A
 
 ### Transition Provisions
 
-#### A.1 Scope.
+A.1 Scope.
 
 This Article A provides the transition rules for the Plan that were effective at some time during the period beginning January 1, 2005 and ending December 31, 2008 (the “Transition Period”). The time period during which each provision in this Article A was effective is set forth below. 
 
@@ -17991,8 +17952,6 @@ This Article A provides the transition rules for the Plan that were effective at
 
 - (1) Operating Rules for 2005. To ensure that the Company did not fail to identify any Key Employees, in the case of Separation from Service distributions during the 2005 Plan Year, the Company treated as Key Employees all Participants (and former Participants) classified (or grandfathered) for any portion of the 2005 Plan Year as Band IV and above.
 
-- 95 - 
-
 - (2) Operating Rules for 2006 and 2007. To ensure that the Company did not fail to identify any Key Employees, in the case of Separation from Service distributions during the 2006 Plan Year and 2007 Plan Year, the Company treated as Key Employees for such applicable Plan Year of their Separation from Service those individuals who met the provisions of (3) or (4) below (or both).
 
 - (3) The Company shall treat as Key Employees all Participants (and former Participants) who are classified (or grandfathered) as Band IV and above for any portion of the Plan Year prior to the Plan Year of their Separation from Service; and
@@ -18001,7 +17960,7 @@ This Article A provides the transition rules for the Plan that were effective at
 
    - (A) If the determination is in connection with a Separation from Service in the first calendar quarter of a Plan Year, the determination shall be made using compensation earned in the calendar year that is two years prior to the current calendar year ( _e.g_ ., for a determination made in the first quarter of 2006, compensation earned in the 2004 calendar year shall be used); and
 
-   - (B) If the determination is in connection with a Separation from Service in the second, third or fourth calendar quarter of a Plan Year, the determination shall be made using the compensation earned in - 96 -
+   - (B) If the determination is in connection with a Separation from Service in the second, third or fourth calendar quarter of a Plan Year, the determination shall be made using the compensation earned in
 
 the prior calendar year ( _e.g_ ., for a determination made in the second quarter of 2006, compensation earned in the 2005 calendar year shall be used). 
 
@@ -18015,9 +17974,9 @@ main body of the Plan (but for the application of permissible transition rules u
 
 Effective during the Transition Period, the language of Section 8.6(a) shall be replaced in its entirety with the following language:
 
-#### “8.6(a) Compliance with Section 409A:
+“8.6(a) Compliance with Section 409A:
 
-At all times during each Plan Year, this Plan shall be operated (i) in accordance with the requirements of Section 409A, and (ii) to preserve the status of deferrals under the Pre-409A Program as being exempt from Section 409A, i.e., to preserve the grandfathered status of the Pre-409A Program. Any action that may be taken (and, to the extent possible, any action actually taken) by the Plan Administrator or the Company shall not be taken (or shall be void and without effect), if such action violates the requirements of Section 409A or if such action would adversely affect the grandfather of the Pre-409A Program. If the failure to take an action under the Plan would violate Section 409A, then to the extent it is possible thereby to avoid a violation of Section 409A, the rights and effects under the Plan shall be altered to avoid such violation. A corresponding rule shall apply with respect to a failure to take an action that would adversely affect the grandfather of the Pre409A Program. Any provision in this Plan - 97 -
+At all times during each Plan Year, this Plan shall be operated (i) in accordance with the requirements of Section 409A, and (ii) to preserve the status of deferrals under the Pre-409A Program as being exempt from Section 409A, i.e., to preserve the grandfathered status of the Pre-409A Program. Any action that may be taken (and, to the extent possible, any action actually taken) by the Plan Administrator or the Company shall not be taken (or shall be void and without effect), if such action violates the requirements of Section 409A or if such action would adversely affect the grandfather of the Pre-409A Program. If the failure to take an action under the Plan would violate Section 409A, then to the extent it is possible thereby to avoid a violation of Section 409A, the rights and effects under the Plan shall be altered to avoid such violation. A corresponding rule shall apply with respect to a failure to take an action that would adversely affect the grandfather of the Pre409A Program. Any provision in this Plan 
 
 document that is determined to violate the requirements of Section 409A or to adversely affect the grandfather of the Pre-409A Program shall be void and without effect. In addition, any provision that is required to appear in this Plan document to satisfy the requirements of Section 409A, but that is not expressly set forth, shall be deemed to be set forth herein, and the Plan shall be administered in all respects as if such provision were expressly set forth. A corresponding rule shall apply with respect to a provision that is required to preserve the grandfather of the Pre-409A Program. In all cases, the provisions of this Section shall apply notwithstanding any contrary provision of the Plan that is not contained in this Section.” 
 
@@ -18025,21 +17984,21 @@ document that is determined to violate the requirements of Section 409A or to ad
 
 Effective during the Transition Period, the following provisions shall apply according to their specified terms. 
 
-#### (a) Definitions:
+(a) Definitions:
 
 - (1) Where the following words and phrases, in boldface and underlined, appear in this Section A.5 with initial capitals they shall have the meaning set forth below, unless a different meaning is plainly required by the context. Any terms used in this Article A of the Appendix with initial capitals and not defined herein shall have the same meaning as in the main Plan, unless a different meaning is plainly required by the context.
 
-- (2) “ **Special Early Retirement** ” shall mean the Participant’s attainment of at least age 50 but less than age 55 with 10 years of Elapsed Time Service as of the date of his Retirement, provided, however, that with respect to the 2008 Severance at Section A.5(d), for purposes of determining whether a - 98 -
+- (2) “ **Special Early Retirement** ” shall mean the Participant’s attainment of at least age 50 but less than age 55 with 10 years of Elapsed Time Service as of the date of his Retirement, provided, however, that with respect to the 2008 Severance at Section A.5(d), for purposes of determining whether a
 
 Participant has met the age and service requirements, a Participant’s age and years of Elapsed Time Service are rounded up to the nearest whole year. 
 
-#### ## (b) 2005 Severance:
+## (b) 2005 Severance:
 
 - (1) Non-Retirement Eligible Employees: With respect to any Participant who terminated in 2005 as a result of a severance window program and who was not eligible for Retirement as of the date of his Separation from Service, the Participant’s 409A Pension shall be paid as a Vested Pension under Section 6.1(b) of the Plan document, provided, however, that the Participant’s 409A Pension will be paid at the same time as his Salaried Plan benefit. The available forms of payment shall be those forms available to a Participant who is entitled to a Vested Pension, as set forth in Section 6.2 of the Plan document.
 
 - (2) Non-Retirement Eligible Employees with Payments in 2007: With respect to any Participant who terminated in 2005 as a result of a severance window program, who was not eligible for Retirement as of the date of his Separation from Service, and whose 409A Pension Payment would otherwise be paid during 2007, the Participant’s 409A Pension shall be paid as a Vested Pension under Section 6.1(b) of the Plan document, provided, however, that the Participant’s 409A Pension will be paid at the later of (i) January 1, 2007 or (ii) when the Participant attained age 55. The available forms of payment shall be those forms available to a Participant who is entitled to a Vested Pension, as set forth in Section 6.2 of the Plan document.
 
-- (3) Retirement Eligible Employees: With respect to any Participant who terminated in 2005 as a result of a severance window program and who - 99 -
+- (3) Retirement Eligible Employees: With respect to any Participant who terminated in 2005 as a result of a severance window program and who
 
 fulfilled the requirements for either a Normal or Early Retirement Pension under Article IV of the Plan document as of February 5, 2006, the Participant’s 409A Pension shall be paid on the first day of the month following the Participant’s Separation from Service in a lump sum. 
 
@@ -18049,7 +18008,7 @@ fulfilled the requirements for either a Normal or Early Retirement Pension under
 
    - (c) 2007 Severance:
 
-- (1) Non-Retirement Eligible Employees: With respect to any Participant who terminated in 2007 as a result of a severance window program and who was not eligible for Retirement as of the date of his Separation from Service, the Participant’s 409A Pension shall be paid as a Vested Pension under Section 6.1(b) of the Plan document. The available forms of payment shall be - 100 -
+- (1) Non-Retirement Eligible Employees: With respect to any Participant who terminated in 2007 as a result of a severance window program and who was not eligible for Retirement as of the date of his Separation from Service, the Participant’s 409A Pension shall be paid as a Vested Pension under Section 6.1(b) of the Plan document. The available forms of payment shall be
 
 those forms available to a Participant who is entitled to a Vested Pension, as set forth in Section 6.2 of the Plan document. 
 
@@ -18059,15 +18018,13 @@ those forms available to a Participant who is entitled to a Vested Pension, as s
 
       - (i) 409A Pension: With respect to any Participant who terminated in 2007 as a result of a severance window program and who fulfilled the requirements for either a Normal or Early Retirement Pension under Article IV of the Plan document between his Separation from Service and the last day of his paid leave of absence (if any), the Participant’s 409A Pension shall be paid on the first day of the month following the later of (i) Participant’s attainment of age 55 and (ii) his Separation from Service; the 409A Pension shall be paid as a Vested Pension under Section 6.1(b) of the Plan document. The available forms of payment shall be those forms available to a Participant who is entitled to a Vested Pension, as set forth in Section 6.2 of the Plan document.
 
-- 101 - 
-
       - (ii) PEP Kicker: Any amount paid to a Participant otherwise described under this paragraph (3) as a replacement for benefits that the Participant could have earned under the Plan but for his Separation from Service shall be paid as a single lump sum, provided, however, that if a Participant made a valid Prior Payment Election under Section 6.1(a)(2) of the Plan document, the amounts described in this subparagraph (ii) shall be paid according to such election. All amounts to be paid shall be paid on the first day of the month following the later of (i) the Participant’s attainment of age 55 or (ii) the Participant’s Separation from Service.
 
 - (4) Special Retirement Eligible Employees:
 
       - (i) 409A Pension: With respect to any Participant who terminated in 2007 as a result of a severance window program and who fulfilled the requirements to be eligible for Special Early Retirement as of his Separation from Service, the Participant’s 409A Pension shall be paid on the first day of the month following the Participant’s attainment of age 55 as a Vested Pension under Section 6.1(b) of the Plan document. The available forms of payment shall be those forms available to a Participant who is entitled to a Vested Pension, as set forth in Section 6.2 of the Plan document.
 
-      - (ii) PEP Kicker: Any amount paid to a Participant otherwise described under this paragraph (4) as a replacement for benefits that the Participant could have earned under the Plan but for his Separation from Service shall be paid as a single lump sum, provided, however, that if a - 102 -
+      - (ii) PEP Kicker: Any amount paid to a Participant otherwise described under this paragraph (4) as a replacement for benefits that the Participant could have earned under the Plan but for his Separation from Service shall be paid as a single lump sum, provided, however, that if a
 
 Participant made a valid Prior Payment Election under Section 6.1(a)(2) of the Plan document, the amounts described in this subparagraph (ii) shall be paid according to such election. All amounts to be paid shall be paid on the first day of the month following the Participant’s attainment of age 55. 
 
@@ -18075,7 +18032,7 @@ Participant made a valid Prior Payment Election under Section 6.1(a)(2) of the P
 
       - (i) 409A Pension: With respect to any Participant who terminated in 2007 as a result of a severance window program and who fulfilled the requirements to be eligible for Special Early Retirement during the period between his Separation from Service and the last day of his paid leave of absence (if any), the Participant’s 409A Pension shall be paid on the first day of the month following the Participant’s attainment of age 55 as a Vested Pension under Section 6.1(b) of the Plan document. The available forms of payment shall be those forms available to a Participant who is entitled to a Vested Pension, as set forth in Section 6.2 of the Plan document.
 
-      - (ii) PEP Kicker: Any amount paid to a Participant otherwise described under this paragraph (5) as a replacement for benefits that the Participant could have earned under the Plan but for his Separation from Service shall be paid as a single lump sum, provided, however, that if a Participant made a valid Prior Payment Election under Section 6.1(a)(2) of the Plan document, the amounts described in this subparagraph (ii) shall be paid according to such election. All amounts to be paid shall be paid - 103 -
+      - (ii) PEP Kicker: Any amount paid to a Participant otherwise described under this paragraph (5) as a replacement for benefits that the Participant could have earned under the Plan but for his Separation from Service shall be paid as a single lump sum, provided, however, that if a Participant made a valid Prior Payment Election under Section 6.1(a)(2) of the Plan document, the amounts described in this subparagraph (ii) shall be paid according to such election. All amounts to be paid shall be paid
 
 on the first day of the month following the Participant’s attainment of age 55. 
 
@@ -18087,7 +18044,7 @@ on the first day of the month following the Participant’s attainment of age 55
 
 - (3) Employee Who Become Retirement Eligible:
 
-      - (i) 409A Pension: With respect to any Participant who terminated in 2008 as a result of a severance window program and who fulfilled the requirements for either a Normal or Early Retirement Pension under Article IV of the Plan document between his Separation - 104 -
+      - (i) 409A Pension: With respect to any Participant who terminated in 2008 as a result of a severance window program and who fulfilled the requirements for either a Normal or Early Retirement Pension under Article IV of the Plan document between his Separation
 
 from Service and the last day of his paid leave of absence (if any), the Participant’s 409A Pension shall be paid on the first day of the month following the later of (i) Participant’s attainment of age 55 and (ii) his Separation from Service; the 409A Pension shall be paid as a Vested Pension under Section 6.1(b) of the Plan document. The available forms of payment shall be those forms available to a Participant who is entitled to a Vested Pension, as set forth in Section 6.2 of the Plan document. 
 
@@ -18095,7 +18052,7 @@ from Service and the last day of his paid leave of absence (if any), the Partici
 
 - (4) Employees Who Are or Become Special Retirement Eligible:
 
-      - (i) 409A Pension: With respect to any Participant who terminated in 2008 as a result of a severance window program and who fulfilled the requirements to be eligible for Special Early Retirement as of his Separation from Service or during the period between his Separation from Service and the last day of his paid leave of absence (if any), the Participant’s 409A Pension shall be paid on the first day of the month - 105 -
+      - (i) 409A Pension: With respect to any Participant who terminated in 2008 as a result of a severance window program and who fulfilled the requirements to be eligible for Special Early Retirement as of his Separation from Service or during the period between his Separation from Service and the last day of his paid leave of absence (if any), the Participant’s 409A Pension shall be paid on the first day of the month
 
 following the Participant’s attainment of age 55 as a Vested Pension under Section 6.1(b) of the Plan document. The available forms of payment shall be those forms available to a Participant who is entitled to a Vested Pension, as set forth in Section 6.2 of the Plan document. 
 
@@ -18103,11 +18060,13 @@ following the Participant’s attainment of age 55 as a Vested Pension under Sec
 
    - (e) Delay for Key Employees: To the extent that a Participant is a Key Employee (as defined in Section A.2(b), above) with respect to any payment provided under this Section A.5, and to the extent that payment of his 409A Pension is on account of his Separation from Service, his 409A Pension shall be subject to the delay in payment provided under Section 6.6 of the main Plan document.
 
-- 106 - 
+   - (f) Compliance with 19(c): All payments that are to be made under this Section A.5 were scheduled to made during the calendar year in which the Participant terminated employment, with payments to be made as provided herein. All elections made by the Company with respect to such payments were made in compliance with Notice 2005-1 and other provisions of Code Section 409A.
 
 ### A.6 Certain Participants
 
 The following transition rules shall apply only with respect to the following described Participants: 
+
+   - (a) A Participant’s PEP Credited Service shall be deemed to be five years if the Participant terminates employment in 2005 while classified as Band VI (or equivalent), and his employment with an Employer was for a limited duration assignment of less than five years. A Participant shall be deemed to be vested for purposes of this Plan if the Participant terminates employment in 2005 while classified as Band VI (or equivalent), and his employment with an Employer was for a limited duration assignment of less than five years.
 
    - (b) In the case of a Participant who on October 9, 2007 selects an Annuity Starting Date of November 1, 2007 for the Participant’s Pension under the Salaried Plan which is payable in a single lump sum (after taking into account the special rule in Section 6.3(a)(2) , if necessary), the portion of the Participant’s benefit under the Plan that is not subject to Section 409A of the Code shall be paid in a single lump sum six months after the Participant’s Annuity Starting Date under the Salaried Plan.
 
@@ -18115,7 +18074,7 @@ The following transition rules shall apply only with respect to the following de
 
 - (1) Such fixed date shall be the commencement date for the Participant’s benefit under the Plan, and
 
-- (2) The calculation of the Participant’s benefit under the Plan shall be made taking into account service to be performed during any period for which - 107 -
+- (2) The calculation of the Participant’s benefit under the Plan shall be made taking into account service to be performed during any period for which
 
 the Participant is to provide consulting services to the Company, even if such services are to be performed after the payment date specified in paragraph (1) . 
 
@@ -18123,17 +18082,15 @@ the Participant is to provide consulting services to the Company, even if such s
 
    - (a) Distribution: The portion of a Participant’s 409A Disability Pension representing Pre-Separation Accruals that would have been paid out during the Transition Period under the provisions set forth in the main body of the Plan (but for the application of permissible transition rules under Section 409A) shall commence on March 1, 2009. The available forms of payment of a Participant’s 409A Disability Pension representing PreSeparation Accruals shall be those forms available to a Participant who is entitled to a Vested Pension, as set forth in Section 6.2 of the Plan (including the different forms available to a married versus an unmarried Participant).
 
-- 108 - 
+   - (b) Additional Benefit: If a Participant who is paid the Pre-Separation Accruals of his 409A Disability Pension under the provisions of subsection A.7(a) of this Appendix Article A dies prior to his expected mortality date (based on the mortality table specified by Schedule 1 of Section 2.1(b) (Actuarial Equivalent) of the Plan document as of January 1, 2009), his beneficiary shall be paid the lump sum actuarial equivalent of the annuity payments that would have been made from the date of the Participant’s death until his expected mortality date (had the Participant not died). The payment to the beneficiary shall be made within 30 days following the Participant’s death. Notwithstanding anything else in Section 6.5 of the Plan, a Participant subject to this subsection shall be permitted to name a beneficiary (in a form and manner acceptable to the Plan Administrator) for purposes of receiving the additional benefit described in this subsection. If the Participant fails to name a beneficiary for this
 
 purpose, his beneficiary shall be the beneficiary selected under Section 6.5 of the Plan, or if none, then his Eligible Spouse or Eligible Domestic Partner (as applicable). If the Participant does not have an Eligible Spouse or Eligible Domestic Partner as of the date of his death, then his beneficiary shall be his estate. 
 
-- 109 - 
-
-### APPENDIX ARTICLE B
+## APPENDIX ARTICLE B
 
 ### Computation of Earnings and Service During Certain Severance Windows
 
-#### B.1 Definitions:
+B.1 Definitions:
 
 Where the following words and phrases, in boldface and underlined, appear in this Appendix B with initial capitals they shall have the meaning set forth below, unless a different meaning is plainly required by the context. Any terms used in this Article B of the Appendix with initial capitals and not defined herein shall have the same meaning as in the main Plan, unless a different meaning is plainly required by the context. 
 
@@ -18141,9 +18098,9 @@ Where the following words and phrases, in boldface and underlined, appear in thi
 
    - (b) “ **Eligible Bonus** ” shall mean an annual incentive payment that is payable to the Participant under the Severance Program and that is identified under the terms of the Severance Program as eligible for inclusion in determining the Participant’s Highest Average Monthly Earnings.
 
-#### B.2 Inclusion of Salary and Eligible Bonus:
+### B.2 Inclusion of Salary and Eligible Bonus:
 
-The Plan Administrator may specify that, pursuant to a Participant’s participation in a severance window program provided by the Company, if a Participant receives a severance benefit pursuant to a Severance Program, all salary continuation and any Eligible Bonus that is payable during the first 12 months of a leave of absence period provided to the Participant under such Severance Program will be counted toward the Participant’s Highest Average Monthly Earnings, even if such salary or other earnings are to be received after a Participant’s - 110 -
+The Plan Administrator may specify that, pursuant to a Participant’s participation in a severance window program provided by the Company, if a Participant receives a severance benefit pursuant to a Severance Program, all salary continuation and any Eligible Bonus that is payable during the first 12 months of a leave of absence period provided to the Participant under such Severance Program will be counted toward the Participant’s Highest Average Monthly Earnings, even if such salary or other earnings are to be received after a Participant’s 
 
 Separation from Service. In particular, if payment of a Participant’s 409A Pension is to be made at Separation from Service and prior to the Participant’s receipt of all of the salary continuation or Eligible Bonus that is payable to the Participant from the Severance Program, the Participant’s Highest Average Monthly Earnings shall be determined by taking into account the full salary continuation and eligible bonus that is projected to be payable to the Participant during the first 12 months of a period of leave of absence that is granted to the Participant under the Severance Program. This determination shall divide the projected earnings between Plan Years as determined by the Plan Administrator, in order to avoid any bunching of the earnings in a Plan Year. 
 
@@ -18153,7 +18110,7 @@ The Plan Administrator may specify that, pursuant to a Participant’s participa
 
 ### B.4 Inclusion of Service:
 
-The Plan Administrator may specify that, pursuant to a Participant’s participation in a severance window program provided by the Company, if a Participant receives a severance benefit under a Severance Program, all Service earned or to be earned during the first 12 months of the period of severance will be counted toward the Participant’s Service for purposes - 111 -
+The Plan Administrator may specify that, pursuant to a Participant’s participation in a severance window program provided by the Company, if a Participant receives a severance benefit under a Severance Program, all Service earned or to be earned during the first 12 months of the period of severance will be counted toward the Participant’s Service for purposes 
 
 of determining the Participant’s Pension and a Pre-Retirement Spouse’s Pension or Pre-Retirement Eligible Domestic Partner’s Pension, even if the period of time counted as Service under the Severance Program occurs after a Participant’s Separation from Service. 
 
@@ -18161,13 +18118,11 @@ of determining the Participant’s Pension and a Pre-Retirement Spouse’s Pensi
 
 If the Participant receives either (1) additional Credited Service or (2) additional earnings that are included in Highest Average Monthly Earnings under Sections B.2 or B.3 of this Article B, as a result of a severance benefit provided under a Severance Program and such additional Credited Service or earnings are included in the calculation of the Participant’s Pension prior to the time that the Credited Service is actually performed by the Participant, or the earnings are actually paid to the Participant, the Pension paid to the Participant shall be adjusted actuarially to reflect the receipt of the portion of the Pension attributable to such Credited Service or earnings received on account of the Severance Program prior to the time such Credited Service is performed or such earnings are actually paid to the Participant. For purposes of determining the adjustment to be made, the Plan shall use the rate provided under the Salaried Plan for early payment of benefits. 
 
-- 112 - 
-
-### APPENDIX ARTICLE C
+## APPENDIX ARTICLE C
 
 ### International and PIRP Transfer Participants
 
-#### C.1 Scope:
+C.1 Scope:
 
 This Article provides special rules for calculating the benefit of an individual who is either an “International Transfer Participant” under Section C.2 below or a “PIRP Transfer Participant” under Section C.4 below. The benefit of an International Transfer Participant shall be determined under Section C.3 below, subject to Section C.6 below. The benefit of a PIRP Transfer Participant shall be determined under Section C.5 below. Once a benefit is determined for an International Transfer Participant or a PIRP Transfer Participant under this Article, such benefit shall be subject to the Plan’s normal conditions and shall be paid in accordance with the Plan’s normal terms. All benefits paid under this Article are subject to Code section 409A, including any accrued prior to January 1, 2005. The provisions of this Article relating to International Transfer Participants are effective April 1, 2007. The provisions of this Article relating to PIRP Transfer Participants are effective January 1, 2016 (but they may take into account years that precede January 1, 2016). 
 
@@ -18175,7 +18130,7 @@ This Article provides special rules for calculating the benefit of an individual
 
 An “International Transfer Participant” is a Participant who is: 
 
-   - (a) General Rule: An individual who, following a transfer to an April 2007 Foreign Subsidiary (as defined in paragraph (5) of the Employer definition in Section 2.1 of Part B of the Salaried Plan, as in effect on January 1, 2014)), would qualify as an Employee within the meaning of paragraph (2) (vi) of the Employee definition in Section 2.1 of Part B of the Salaried Plan, as in effect on January 1, 2014 (U.S. citizen or resident alien on qualifying temporary international assignment) but for the fact that his - 113 -
+   - (a) General Rule: An individual who, following a transfer to an April 2007 Foreign Subsidiary (as defined in paragraph (5) of the Employer definition in Section 2.1 of Part B of the Salaried Plan, as in effect on January 1, 2014)), would qualify as an Employee within the meaning of paragraph (2) (vi) of the Employee definition in Section 2.1 of Part B of the Salaried Plan, as in effect on January 1, 2014 (U.S. citizen or resident alien on qualifying temporary international assignment) but for the fact that his
 
 assignment with the April 2007 Foreign Subsidiary is in a position of employment that is classified as Band 4 (or its equivalent) or higher; or 
 
@@ -18197,8 +18152,6 @@ An individual described in subsection (a) or (b) above may still qualify as an I
 
 Except as provided in this Section C.3, an International Transfer Participant’s benefit under the Plan shall be determined using a calculation methodology that is substantially similar to that which applies under Section 5.1 of the Plan. 
 
-- 114 - 
-
    - (a) Total Pension for International Transfer Participant: Notwithstanding the preceding sentence, an International Transfer Participant’s “Total Pension” (as defined in Section 5.1(c)(1) of the Plan) shall be calculated as if he continued to receive Credited Service and Earnings under the Salaried Plan while working for the April 2007 Foreign Subsidiary to which he transferred following his employment with an Employer based in the United States, without regard to the actual date on which he ceased receiving Credited Service and Earnings under the Salaried Plan. However, the Total Pension of an International Transfer Participant whose transfer to an April 2007 Foreign Subsidiary occurred prior to 1992 shall not take into account Credited Service and Earnings for employment with the April 2007 Foreign Subsidiary prior to 1992.
 
    - (b) Calculation of International Transfer Participant’s Benefit: The International Transfer Participant’s benefit under the Plan shall be calculated by reducing his Total Pension as determined under subsection (a) above (expressed as a lump sum as of his benefit commencement date under the Plan) by the following amounts:
@@ -18210,8 +18163,6 @@ Except as provided in this Section C.3, an International Transfer Participant’
 - 3. 5(c)(4) of Part B of the Salaried Plan (Transfers and Non-Duplication) with respect to his assignment with the April 2007 Foreign Subsidiary (with such amounts expressed as a lump sum on his benefit commencement date under this Plan).
 
    - C. 4 Definitions Related to PIRP Transfer Participants:
-
-- 115 - 
 
 The following definitions apply for purposes of Sections C.1, C.4 and C.5 of this Article. 
 
@@ -18229,7 +18180,7 @@ The following definitions apply for purposes of Sections C.1, C.4 and C.5 of thi
 
 - (1) Incoming PIRP Transfer Participant: An individual – (i) who is employed during a year (including a year preceding 2016) by a PIRP-DB Employer in a position that is eligible to accrue benefits under PIRP-DB (or would be eligible if Section 9.14 of PIRP-DB did not apply), (ii) who is then
 
-transferred by the Company during the year from such position to a position that is eligible to accrue benefits under the Salaried Plan, (iii) whose PIRP-DB accrual for the Year of Transfer is blocked by Section 9.14 of PIRP-DB, (iv) who would otherwise be entitled to a PIRP-DB benefit enhancement for the Year of Transfer that relates - 116 -
+transferred by the Company during the year from such position to a position that is eligible to accrue benefits under the Salaried Plan, (iii) whose PIRP-DB accrual for the Year of Transfer is blocked by Section 9.14 of PIRP-DB, (iv) who would otherwise be entitled to a PIRP-DB benefit enhancement for the Year of Transfer that relates 
 
 to PIRP-DB Salary or PIRP-DB-Pensionable Service for the year of the transfer, and (v) whose PIRPDB benefit was not already paid out by December 1, 2016 (but disregarding any such paid-out PIRP-DB benefit for this purpose that the PIRP-DB Vice President determines should be treated under this clause as if it had not been paid out). 
 
@@ -18251,11 +18202,11 @@ Except as provided in this Section C.5, a PIRP Transfer Participant’s benefit 
 
 - (1) First, a PIRP Transfer Participant’s Total Pension shall be calculated as if he were an eligible employee under the Salaried Plan for the entire Year of Transfer, and as if he received Credited Service and Earnings under the Salaried Plan for the Year of Transfer equal to – (i) his actual Credited Service and Earnings under the Salaried Plan for the Year of Transfer, increased by (ii) any other compensation and service for the Year of Transfer that would have been recognized as PIRP-DB Salary and PIRP DB Pensionable Service, if Section 9.14 of PIRP-DB did not apply for the Year of Transfer.
 
-- (2) If (during a year a PIRP Transfer Participant is otherwise accruing benefits under this Plan) the PIRP Transfer Participant would be credited with PIRP-DB Salary that cannot be recognized under PIRP as a result of Section 9.14 of PIRP-DB, and if this PIRP-DB Salary would be considered for accrual purposes under PIRP-DB in connection with PIRP-DB Pensionable Service that is not recognized under this Plan, the increase in the PIRP Transfer Participant’s - 118 -
+- (2) If (during a year a PIRP Transfer Participant is otherwise accruing benefits under this Plan) the PIRP Transfer Participant would be credited with PIRP-DB Salary that cannot be recognized under PIRP as a result of Section 9.14 of PIRP-DB, and if this PIRP-DB Salary would be considered for accrual purposes under PIRP-DB in connection with PIRP-DB Pensionable Service that is not recognized under this Plan, the increase in the PIRP Transfer Participant’s
 
 Accrued Benefit under PIRP that is related to this PIRP-DB Pensionable Service and that is blocked by Section 9.14 of PIRP-DB shall be added to the PIRP Transfer Participant’s Accrued Benefit under this Plan. In the case of a PIRP Transfer Participant who has a Separation from Service on or after January 1, 2017, this increase in the PIRP Transfers Participant’s Accrued Benefit under this Plan shall result in an appropriate increase, determined in the Company’s discretion, in the Total Pension determined under paragraph (1) above. Notwithstanding the foregoing, in determining Credited Service and Earnings under this subsection (a), no compensation or service shall be taken into account more than once, and a PIRP Transfer Participant’s Total Pension shall be determined in a way that avoids any duplication of benefits that will be provided to or on behalf of the PIRP Transfer Participant under PIRPDB (after applying Section 9.14 of PIRP-DB) or another plan maintained or contributed to by the Company or an affiliate, but without applying any offset that would violate Code Section 409A. 
 
-   - (b) Calculation of PIRP Transfer Participant’s Benefit: The PIRP Transfer Participant’s benefit under the Plan shall be calculated by reducing his Total Pension as determined under subsection (a) above by the reductions that are normally applicable under Article V. In addition, in the case of a PIRP Transfer Participant who has a Separation from Service on or after January 1, 2017, if (during a year a PIRP Transfer Participant is otherwise accruing benefits under this Plan) the value of the PIRP Transfer Participant’s benefit under PIRPDB would increase (if Section 9.14 of PIRP-DB did not apply) as a result of the PIRP Transfer Participant becoming eligible for early retirement - 119 -
+   - (b) Calculation of PIRP Transfer Participant’s Benefit: The PIRP Transfer Participant’s benefit under the Plan shall be calculated by reducing his Total Pension as determined under subsection (a) above by the reductions that are normally applicable under Article V. In addition, in the case of a PIRP Transfer Participant who has a Separation from Service on or after January 1, 2017, if (during a year a PIRP Transfer Participant is otherwise accruing benefits under this Plan) the value of the PIRP Transfer Participant’s benefit under PIRPDB would increase (if Section 9.14 of PIRP-DB did not apply) as a result of the PIRP Transfer Participant becoming eligible for early retirement
 
 under PIRP-DB, then the projected increase in value of the PIRP-DB benefit at the PIRP Transfer Participant’s retirement under PIRP-DB, which will be blocked by Section 9.14 of PIRP, shall result in an appropriate increase, determined in the Company’s discretion, in the Participant’s benefit under this Plan that is payable at the time and in the form applicable under this Plan. The appropriate increase shall be determined net of any expected increase in the value of the benefit under this Plan related to becoming eligible for Early Retirement under this Plan. In addition, a PIRP Transfer Participant’s appropriate increase shall be determined in a way that avoids any duplication of benefits that will be provided to or on behalf of the PIRP Transfer Participant under PIRP-DB (after applying Section 9.14 of PIRP-DB) or another plan maintained or contributed to by the Company or an affiliate, but without applying any offset that would violate Code Section 409A. 
 
@@ -18263,23 +18214,19 @@ under PIRP-DB, then the projected increase in value of the PIRP-DB benefit at th
 
 Notwithstanding any provision of this Article or the Plan to the contrary, the Company and a Participant who would qualify as an International Transfer Participant under Section C.2 above may agree in writing to disregard the provisions of this Article in favor of another mutually agreed upon benefit arrangement under the Plan that complies with Code Section 409A, in which case this Article shall not apply. 
 
-- 120 - 
-
-### APPENDIX ARTICLE D
+## APPENDIX ARTICLE D
 
 ### Band 4 or Higher Rehired Yum Participants
 
-#### D.1 Scope:
+D.1 Scope:
 
 Effective May 1, 2009, this Article provides special rules for calculating the benefit of a transferred Participant whose transfer would be an Eligible Transfer under Section TRI.2(e) of the Part B of the Salaried Plan but for the fact that such individual is reemployed by the Company on or after May 1, 2009, into a position that is classified as Band 4 (or its equivalent) or higher. For purposes of determining such Participant’s Total Pension within the meaning of Section 5.1(c)(1) , but not for purposes of determining such Participant’s Salaried Plan Pension within the meaning of Section 5.1(c)(2) , such Participant’s position on reemployment will be deemed to be classified as below Band 4 (or its equivalent), so that the Participant’s transfer is eligible to be treated as an Eligible Transfer (subject to the other conditions thereof) and the Participant is eligible for the imputed service provisions of Section TRI.4(b) and (c). Such Participant’s benefit otherwise shall be subject to the Plan’s usual conditions and shall be paid in accordance with the Plan’s usual terms. All benefits paid under this Article are subject to Code section 409A. 
 
-- 121 - 
-
-### APPENDIX ARTICLE E
+## APPENDIX ARTICLE E
 
 ### Time and Form of Payment for Benefits Paid During Severance Windows
 
-#### E.1 Scope.
+E.1 Scope.
 
 This Article E sets forth the time and form of payment provisions that apply to benefits under the Plan that are paid to a Covered Participant (as defined in Section E.2 below). This Article is effective for Participants who are terminated in a Severance Program or under circumstances that qualify them for an Individual Severance Agreement (each as defined in Section E.2 below) on or after January 1, 2009 (or in the case of Participants covered by Appendix Article PBG, on or after January 1, 2012). Nothing in this Article E shall make any of the additional benefits that are made available under the Plan in any Severance Program or pursuant to any Individual Severance Agreement a permanent feature of the Plan. 
 
@@ -18290,6 +18237,8 @@ Where the following words and phrases appear in this Appendix E with initial cap
    - (a) “Applicable Summary Plan Description” means the summary plan description that sets forth the terms and conditions of a particular Severance Program.
 
    - (b) “Covered Participant” means a Participant whose employment with the Company is terminated and who is eligible for Special Early Retirement either (i) under a Severance Program and pursuant to the terms of the Applicable Summary Plan Description, or (ii) pursuant to the terms of an Individual Severance Agreement.
+
+- 122 - 
 
    - (c) “Individual Severance Agreement” means an agreement between the Company and a Covered Participant that – (i) sets forth the terms and conditions of the Covered Participant’s termination of employment and (ii) expressly either (A) provides that the termination qualifies the Covered Participant for Special Early Retirement under PEP, or (B) describes the pension benefits the Covered Participant will receive in connection with the termination of employment.
 
@@ -18345,19 +18294,19 @@ after meeting the requirements for a PEP Kicker but before it is paid, the PEP K
 
 Notwithstanding any provision of this Appendix E to the contrary, if a Participant is determined to be a Key Employee, any payment under this Article E that is made on account of his Separation from Service shall be subject to the required delay in payment for Key Employees under Section 6.6, except to the extent that the payment qualifies for an exemption from the application of Section 409A. 
 
-#### ==> picture [32 x 9] intentionally omitted <==
+## ==> picture [32 x 9] intentionally omitted <==
 
-### APPENDIX ARTICLE F
+## APPENDIX ARTICLE F
 
 ### U.K. Supplementary Appendix Participants with U.S. Service
 
-#### F.1    Scope:
+F.1    Scope:
 
 This Article applies to “Covered U.K. Employees” as defined in Section F.2 below. The benefit of a Covered U.K. Employee shall be determined as provided in Section F.3 below. Once a benefit is determined for a Covered U.K. Employee under this Article, it shall be paid in accordance with the Plan’s normal terms regarding the time and form of payment. All benefits payable under this Article are subject to Code section 409A. This Article has been restated effective January 1, 2016 (the original version of this Article was effective January 1, 2011, and it applied, in accordance with its prior terms, to periods of service before January 1, 2016). 
 
    - F. 2 “Covered U.K. Employee” Defined:
 
-A “Covered U.K. Employee” is a participant in the PepsiCo U.K. Pension Plan (“U.K. Participant”) who – (i) becomes subject to United States income taxes, _e.g._ , by transferring to a position with the Company in the United States or otherwise (hereinafter referenced as “Engages in U.S. Service”), (ii) continues to accrue benefits under the PepsiCo U.K. Pension Plan after he Engages in U.S. Service, (iii) would have also accrued a benefit under the U.K. Supplementary Pension Appendix for such period following when he Engages in U.S. Service (except for the unavailability of accruals under such Appendix for the period a U.K. Participant Engages in U.S. Service), (iv) subsequently either – (A) is localized in the United States as an employee of the PepsiCo Organization, or (B) terminates employment with the PepsiCo Organization (provided this occurs before the date the U.K. Participant commences an assignment with the PepsiCo Organization that is located outside the United States, as defined in the Code), and (v) only after fully satisfying all of the preceding clauses, is then designated by - 128 -
+A “Covered U.K. Employee” is a participant in the PepsiCo U.K. Pension Plan (“U.K. Participant”) who – (i) becomes subject to United States income taxes, _e.g._ , by transferring to a position with the Company in the United States or otherwise (hereinafter referenced as “Engages in U.S. Service”), (ii) continues to accrue benefits under the PepsiCo U.K. Pension Plan after he Engages in U.S. Service, (iii) would have also accrued a benefit under the U.K. Supplementary Pension Appendix for such period following when he Engages in U.S. Service (except for the unavailability of accruals under such Appendix for the period a U.K. Participant Engages in U.S. Service), (iv) subsequently either – (A) is localized in the United States as an employee of the PepsiCo Organization, or (B) terminates employment with the PepsiCo Organization (provided this occurs before the date the U.K. Participant commences an assignment with the PepsiCo Organization that is located outside the United States, as defined in the Code), and (v) only after fully satisfying all of the preceding clauses, is then designated by 
 
 the Company (in its completely unfettered discretion) as a Covered U.K. Employee and thereby granted a legally binding right to a benefit under this Article F at the time of the designation. The period that a U.K. Participant Engages in U.S. Service shall begin on the first day that he becomes subject to United States income taxes (his “U.S. Commencement Date”), and it shall end on the date he is no longer subject to U.S. income taxes or, if earlier, the date his Plan benefits under this Article F commence (his “U.S. Cessation Date”). 
 
@@ -18367,7 +18316,7 @@ A Covered U.K. Employee’s benefit under the Plan shall be determined by calcul
 
    - (a) “Modified U.S. Cessation Date” is the earliest of the following – (i) the date he is no longer subject to U.S. income taxes, (ii) the date he first satisfies clause (iv) of Section F.2, (iii) the date he commences an assignment with the PepsiCo Organization that is located outside the United States (as defined in the Code), or (iv) the date his Plan benefits under this Article F commence.
 
-   - (b) “Total U.K. Supplementary Benefit” is equal to the total benefit that he would have under the terms of the U.K. Supplementary Pension Appendix, calculated based on all service and compensation with the Company through his Modified U.S. Cessation Date that is counted in the calculation of his benefit under the PepsiCo U.K. Pension Plan (or that would be counted but for a limitation applicable to the plan under U.K. law), and with such total benefit expressed in the form of a single lump sum that is payable as of the date his benefits under this Article F commence, and - 129 -
+   - (b) “Total U.K. Supplementary Benefit” is equal to the total benefit that he would have under the terms of the U.K. Supplementary Pension Appendix, calculated based on all service and compensation with the Company through his Modified U.S. Cessation Date that is counted in the calculation of his benefit under the PepsiCo U.K. Pension Plan (or that would be counted but for a limitation applicable to the plan under U.K. law), and with such total benefit expressed in the form of a single lump sum that is payable as of the date his benefits under this Article F commence, and
 
    - (c) “Frozen U.K. Supplementary Benefit” is equal to the total benefit that he had under the terms of the U.K. Supplementary Pension Appendix as of immediately before his U.S. Commencement Date, and with such total benefit expressed in the form of a single lump sum that is payable as of the date his benefits under this Article F commence.
 
@@ -18379,7 +18328,7 @@ The following operating rules apply to the calculation in Section F.3. above.
 
    - (a) In general, accruals under the PepsiCo U.K. Pension Plan for the period after a Covered U.K. Employee’s U.S. Cessation Date shall not reduce the benefit under this Article F determined under Section F.3. Notwithstanding the prior sentence and anything in Section F.3 to the contrary, to the extent a Covered U.K. Employee’s accruals under the PepsiCo U.K. Pension Plan for the period after a Covered U.K. Employee’s U.S. Cessation Date have more than fully offset the Covered U.K. Employee’s accruals under the U.K. Supplementary Pension Appendix (and the excess would have been offset against the benefit under this Article F had such benefit accrued under the U.K. Supplementary Appendix), then any such excess as of the date benefits under this Article F commence (expressed as a lump sum as of such date) shall be offset against the benefits under this Article F to the extent such offset would not violate Code Section 409A.
 
-   - (b) In determining the value of a lump sum under this Article F, the actuarial assumptions that are used shall be actuarial assumptions that comply with Section - 130 -
+   - (b) In determining the value of a lump sum under this Article F, the actuarial assumptions that are used shall be actuarial assumptions that comply with Section
 
 417(e) of the Code and, specifically, are the Code Section 417(e) assumptions that would be used under the Salaried Plan to pay a retirement lump sum as of the date applicable that the lump sum in question is to be determined under this Article F. 
 
@@ -18389,21 +18338,17 @@ The following operating rules apply to the calculation in Section F.3. above.
 
    - (e) In the event a Covered U.K. Employee (i) has earned a benefit under this Article F, (ii) has reached his U.S. Cessation Date, and (iii) then again Engages in U.S. Service and meets all of the requirements to be a Covered U.K. Employee when he again Engages in U.S. Service, the foregoing terms shall be applied again to determine if he earns a benefit for the new period that he Engages in U.S. Service, except that any resulting benefit from this new period shall be reduced by the lump sum value of any prior benefit under this Article F (as necessary to completely avoid any duplication of benefits).
 
-- 131 - 
-
    - (f) In the event a Covered U.K. Employee (i) has earned a benefit under this Article F, (ii) has reached his U.S. Cessation Date, and (iii) then is employed by the PepsiCo Organization in a classification that would be eligible for an accrual under the provisions of the Plan other than this Article F (the “Other Provisions”), then the Other Provisions shall be applied to determine if he earns a benefit under the Other Provisions for the new period of service, except that any resulting benefit from this new period of service shall be reduced by the lump sum value of any prior benefit under this Article F (as necessary to completely avoid any duplication of benefits).
 
 ### F.5 No Other Benefits:
 
 A Covered U.K. Employee shall not be entitled to any other benefits under this Plan or the Salaried Plan while he is a Covered U.K. Employee (or while he would be a Covered U.K. Employee if clauses (iv) and (v) of Section F.2. were not included in the definition of Covered U.K. Employee). In addition, prior to the time that an individual has satisfied all of the requirements to be considered a Covered U.K. Employee, the individual has no legally binding right to a benefit under this Article F. Accordingly, for the avoidance of doubt, at any point before such time, the Company may take action that prevents the individual from becoming entitled to a benefit under this Article F ( _e.g._ , by deciding that it will not designate the individual as a Covered U.K. Employee, in an unfettered exercise of the Company’s discretion), regardless of the services performed or other actions taken by the individual through this point in time, and regardless of any other factor. 
 
-- 132 - 
-
-### APPENDIX ARTICLE G
+## APPENDIX ARTICLE G
 
 ### Delay Election For Certain Pre-2018 Terminees
 
-#### G.1 Scope:
+G.1 Scope:
 
 This Article provides an opportunity for certain Participants, who Separated from Service before January 1, 
 
@@ -18427,7 +18372,7 @@ To be effective, a request for a Delay Election must:
 
    - (a) Become fully effective and irrevocable at least 12 months in advance of the Scheduled Payment Date that was previously in effect, and
 
-   - (b) Specify a new scheduled date for payment commencement that is at least 5 years later than the Participant’s Scheduled Payment Date (but that is not later - 133 -
+   - (b) Specify a new scheduled date for payment commencement that is at least 5 years later than the Participant’s Scheduled Payment Date (but that is not later
 
 than the first of the month coincident with or immediately following the Participant’s 65th birthday) (the “New Scheduled Payment Date”).
 
@@ -18446,13 +18391,11 @@ Determining”)) of the benefit, which is subject to the Delay Election, shall b
 
 A benefit to which an effective Delay Election applies remains subject to the cashout distribution provisions in Section 4.9.
 
-- 134 - 
-
-### APPENDIX ARTICLE H
+## APPENDIX ARTICLE H
 
 ### Definitions of Eligible Domestic Partner Applicable Prior to January 1, 2019
 
-#### H.1 Scope.
+H.1 Scope.
 
 This Article H provides the definition of Eligible Domestic Partner for periods prior to January 1, 2019. 
 
@@ -18466,9 +18409,9 @@ Paragraphs a, b, c and d are effective for the dates indicated in the paragraph.
 
 - 1. Limited Exception for 2016 Plan Year. Notwithstanding the foregoing, and solely for applicable dates in 2016, in the case of a Participant who (i) has a relationship with an individual on December 31, 2015 that is recognized as an eligible domestic partner or civil union relationship under paragraph (2) below and (ii) on any date during the 2015 Plan Year, is either an Employee who is actively employed or on an Authorized Leave of Absence from the PepsiCo Organization or a Participant, Eligible Domestic Partner means the individual with whom the Participant has entered into such an arrangement that was valid on the applicable date.
 
-#### b) June 26, 2013 through December 31, 2015 Provisions.
+b) June 26, 2013 through December 31, 2015 Provisions.
 
-- 1. Civil Unions. If on the applicable date the Participant resides in a state that does not permit same-sex marriage and the Participant has entered - 135 -
+- 1. Civil Unions. If on the applicable date the Participant resides in a state that does not permit same-sex marriage and the Participant has entered
 
 into a same-sex civil union that is valid on the applicable date in the state in which it was entered into, the Participant’s Eligible Domestic Partner (if any) is the individual with whom the 
 
@@ -18478,7 +18421,7 @@ Participant has entered into such a same-sex civil union. If a Participant resid
 
 - c) January 1, 2013 through June 25, 2013 Provisions. For applicable dates from January 1, 2013 through 
 
-June 25, 2013, Eligible Domestic Partner means an individual described in paragraph (3) above, and also includes the following: If on the applicable date the Participant has entered into a same-sex marriage that is valid on the applicable date in the state in which it was entered into, the Participant’s Eligible Domestic Partner (if any) is the Participant’s spouse pursuant to - 136 -
+June 25, 2013, Eligible Domestic Partner means an individual described in paragraph (3) above, and also includes the following: If on the applicable date the Participant has entered into a same-sex marriage that is valid on the applicable date in the state in which it was entered into, the Participant’s Eligible Domestic Partner (if any) is the Participant’s spouse pursuant to 
 
 such same-sex marriage. If the Participant resides in a state that permits same-sex marriage, the Participant is not eligible to have an Eligible Domestic Partner unless either (a) the Participant is in a valid same-sex marriage or (b) such state did not start to permit same-sex marriages until less than 12 months before the applicable date. 
 
@@ -18488,13 +18431,11 @@ such same-sex marriage. If the Participant resides in a state that permits same-
 
 - f) Defined Terms. For purposes of the definition of “Eligible Domestic Partner” in this Article H, the following definitions apply: “applicable date” means the earlier of the Participant’s Annuity Starting Date and date of death, and “state” means any domestic or foreign jurisdiction having the legal authority to sanction marriages or civil unions. 
 
-- 137 - 
-
-### APPENDIX ARTICLE I
+## APPENDIX ARTICLE I
 
 ### 409A PEP Makeup for Certain Pre-409A Benefits
 
-#### I.1 Scope:
+I.1 Scope:
 
 To ensure there will be no “material modification” of the Pre-409A Program, this Article provides a makeup benefit under the 409A Program that applies to certain participants in the Pre-409A Program (“Pre409A Participants”) in lieu of updating the Pre-409A Program’s actuarial factors for early commencement of Vested Pensions to be consistent with the “2019 Salaried Program Factors” (as that term is defined in the definition of Actuarial Equivalent). In the case of participants in the Pre-409A Program who are also Participants in the 409A Program (without regard to this Article), this makeup relating to the early commencement reduction of Vested Pensions payable as annuities is provided under the main text of the Plan. However, this makeup is provided under this Article in the case of affected Pre-409A Participants who are otherwise not entitled to a benefit under the 409A Program. 
 
@@ -18508,7 +18449,7 @@ To be eligible under this Article, an individual must be a Pre-409A Participant:
 
    - (b) Whose Pre-409A Pension annuity under subsection (a) above is reduced for early
 
-commencement under the terms of the Pre-409A Program by more - 138 -
+commencement under the terms of the Pre-409A Program by more 
 
 than it would be if the early commencement reduction were calculated using the 2019 Salaried Plan Factors; and 
 
@@ -18522,7 +18463,7 @@ The benefit amount for an Eligible Person under this Article shall be the single
 
    - (a) The Single Life Annuity that would be payable to the Eligible Person under the Pre-409A Program as of the Eligible Person’s Annuity Starting Date under the Pre-409A Program if the 2019 Salaried Program Factors for early commencement applied in calculating such Single Life Annuity (including with respect to any portion of the Participant’s Pre-409A Pension that is derived from the PEP Guarantee), and
 
-   - (b) The Single Life Annuity that is actually applicable to the Eligible Person under the Pre-409A Program as of the Eligible Person’s Annuity Starting Date under the Pre-409A Program, because of the early commencement factors that - 139 -
+   - (b) The Single Life Annuity that is actually applicable to the Eligible Person under the Pre-409A Program as of the Eligible Person’s Annuity Starting Date under the Pre-409A Program, because of the early commencement factors that
 
 are actually applicable in calculating such Single Life Annuity (including with respect to any portion of the Participant’s Pre-409A Pension that is derived from the PEP Guarantee). 
 
@@ -18536,7 +18477,7 @@ The lump sum benefit calculated under this Appendix shall be payable as of the E
 
    - (a) The first of the month following the Eligible Person’s Separation from Service,
 
-   - (b) December 1, 2019, or - 140 -
+   - (b) December 1, 2019, or
 
    - (c) The first of the month following the Eligible Person’s attainment of age 55 (except that this subsection (c) shall not apply to the extent that the Eligible Person’s benefit is derived from Article PBG of this Appendix).
 
@@ -18544,20 +18485,20 @@ In the event that the Eligible Person’s applicable commencement date is the da
 
 ### I.5 Non-Duplication of Benefits:
 
-The foregoing Sections of this Article are intended to provide a make-up benefit under the 409A Program for applying an early commencement reduction under the Pre-409A Program using factors that predate the 2019 Salaried Plan Factors, with respect to a Pre-409A Pension that is paid in the form of an annuity and that has an Annuity Starting Date of January 1, 2019 or later. However, no duplication of benefits may occur at any time under the Plan. Therefore, to the extent an Eligible Person has received or will receive a 409A Pension that, without regard to this Article, effectively provides some or all of such makeup ( _e.g._ , because the Eligible Person’s 409A Pension was reduced for early commencement using Early Retirement reduction factors), or to the extent that the Plan Administrator concludes that providing the makeup under this Article would otherwise result in a duplication of benefits, the makeup benefit under this Article shall be reduced (but not below zero) as the Plan Administrator deems appropriate to eliminate all - 141 -
+The foregoing Sections of this Article are intended to provide a make-up benefit under the 409A Program for applying an early commencement reduction under the Pre-409A Program using factors that predate the 2019 Salaried Plan Factors, with respect to a Pre-409A Pension that is paid in the form of an annuity and that has an Annuity Starting Date of January 1, 2019 or later. However, no duplication of benefits may occur at any time under the Plan. Therefore, to the extent an Eligible Person has received or will receive a 409A Pension that, without regard to this Article, effectively provides some or all of such makeup ( _e.g._ , because the Eligible Person’s 409A Pension was reduced for early commencement using Early Retirement reduction factors), or to the extent that the Plan Administrator concludes that providing the makeup under this Article would otherwise result in a duplication of benefits, the makeup benefit under this Article shall be reduced (but not below zero) as the Plan Administrator deems appropriate to eliminate all 
 
 duplication of benefits. This provision shall govern over any contrary provision of this Article or the Plan that might be interpreted to support a duplication of benefits. 
 
 **==> picture [32 x 8] intentionally omitted <==**
 
 **----- Start of picture text -----**<br>
-### - 142 -<br>**----- End of picture text -----**<br>
+## - 142 -<br>**----- End of picture text -----**<br>
 
-### APPENDIX ARTICLE J
+## APPENDIX ARTICLE J
 
-#### Certain International Employees Who Are U.S. Persons
+### Certain International Employees Who Are U.S. Persons
 
-### J.1 Scope:
+J.1 Scope:
 
 This Article applies to “Covered International Employees” as defined in Section J.2 below. The benefit of a Covered International Employee shall be determined as provided in Section J.3 below. A benefit determined for a Covered International Employee under this Article shall be distributed as provided in Section J.4 below. 
 
@@ -18579,7 +18520,7 @@ based on the existence of special circumstances regarding his ability to receive
 
 - (4) Is subsequently determined by the Vice President to be entitled to status as a Covered - International Employee.
 
-The selection in paragraph (3) above and the determination in paragraph (4) above shall be made in the unfettered discretion of the Vice President. In addition, the - 143 -
+The selection in paragraph (3) above and the determination in paragraph (4) above shall be made in the unfettered discretion of the Vice President. In addition, the 
 
 determination in paragraph (4) shall be made in conjunction with a Selected International Employee’s Retirement (but not before the year of a Selected International Employee’s distribution date under Section J.4). Prior to the time of the determination in paragraph (4) above, a Selected International Employee shall not have a legally binding right (within the meaning of Code Sections 409A and 457A) to a Pension or any distribution under this Article J. 
 
@@ -18595,8 +18536,6 @@ determination in paragraph (4) shall be made in conjunction with a Selected Inte
 
    - (f) The “Vice President” is the Company executive who has the role of the “Vice President” under the terms of PIRP-DB.
 
-- 144 - 
-
 ### J.3 Benefit for Covered International Employees:
 
 A Covered International Employee’s benefit under the Plan shall be determined by calculating the Pension to which he would be entitled under the main part of the Plan (which shall include treating the Covered International Employee as a Plan Participant and reflecting the differences in the calculation of a Participant’s Pension that is a Vested Pension versus a Retirement Pension), but giving effect to the following modifications. 
@@ -18607,7 +18546,7 @@ A Covered International Employee’s benefit under the Plan shall be determined 
 
    - (c) The PEP Guarantee formula of Section 5.2 shall not apply with respect to a Covered International Employee.
 
-   - (d) If a “Service Start Date” is indicated in the Benefit Information Table below, such Service Start Date shall be used to determine the Covered International Employee’s Pension rather than the Covered International Employee’s actual service - 145 -
+   - (d) If a “Service Start Date” is indicated in the Benefit Information Table below, such Service Start Date shall be used to determine the Covered International Employee’s Pension rather than the Covered International Employee’s actual service
 
 commencement date. Accordingly, in such a case, any service by the Covered International Employee before the indicated Service Start Date shall be disregarded in calculating the Covered International Employee’s Pension under this Appendix J. 
 
@@ -18655,23 +18594,21 @@ to Section 6.6 of the main part of the Plan (delay for Key Employees).
 
 ### J.5 Operating Rules:
 
-- 146 - 
-
 The following operating rules apply to the calculation of a Covered International Employee’s Pension under this Appendix J.
 
    - (a) In determining the value of a Single Lump Sum under this Article J, the actuarial assumptions that are used shall be actuarial assumptions that comply with Section 417(e) of the Code and, specifically, are the Code Section 417(e) assumptions that would be used under the Salaried Plan to pay a retirement lump sum as of the date when the Single Lump Sum in question is to be determined under this Article J.
+
+   - (b) A Covered International Employee’s Pension is subject in all respects to the freeze of the Salaried Plan that is effective December 31, 2025, and accruals of (and rights and benefits with respect to) a Covered International Employee’s Pension under this Appendix J shall be frozen fully and in all respects to the same extent that Salaried Plan accruals, rights and benefits are frozen as of that date.
 
 ### J.6 No Other Benefits:
 
 A Designated/Covered International Employee shall not be entitled to any other benefits under this Plan, the Salaried Plan, PIRP-DB or a termination indemnity arrangement while he is a Designated International Employee or a Covered International Employee. 
 
-- 147 - 
-
-### APPENDIX ARTICLE K
+## APPENDIX ARTICLE K
 
 ### Termination of 409A Program with Respect to Participants Affected by the Tiger Transaction
 
-#### K.1 Scope.
+K.1 Scope.
 
 This Article K provides for the termination and liquidation, in accordance with Treasury Regulation § 1.409A3(j)(4) (ix)(B), of the portion of the 409A Program that relates to certain Participants who are affected by the “Closing” of the “Tiger Transaction” (as those terms are defined below). This Article is effective as of the Closing. K.2 Definitions. 
 
@@ -18683,49 +18620,47 @@ Where the following words and phrases appear in this Appendix Article K with ini
 
    - (c) “Closing” means the consummation of the Tiger Transaction as specified in Section 2.3 of the Agreement.
 
-- 148 - 
-
    - (d) “Related Amendments” means other amendments that provide for the termination and liquidation of certain Code Section 409A nonqualified deferred compensation arrangements, _i.e._ , arrangements that are treated, pursuant to Treasury Regulation § 1.409A-3(c)(2) , as providing compensation that is considered deferred under a single plan along with the deferred compensation provided by this 409A Program.
 
    - (e) “Tiger Transaction” means the set of transactions contemplated by the Agreement that result in a change in control, within the meaning of Treasury Regulation § 1.409A-3(i)(5) , with respect to certain businesses that were part of the PepsiCo Organization prior to the change in control.
 
 ### K.3 The Termination.
 
-Contingent only upon the occurrence of the Closing, the 409A Program is hereby irrevocably terminated with respect to all Affected Participants. Therefore, the adoption of this Article and the Related Amendments by the Plan sponsor constitutes, as of the Closing, the irrevocable taking of all necessary action to accomplish the termination and liquidation of the Affected Participant’s entire interest under the 409A Program pursuant to Treasury Regulation § 1.409A-3(j)(4) (ix)(B). Accordingly, to carry out the liquidation of the Affected Participants’ entire interests, each Affected Participant will be paid the Participant’s entire interest under the 409A Program as a single lump sum within 12 months of the Closing (and in all other respects in full conformity with Treasury Regulation § 1.409A-3(j)(4) (ix)(B)). An Affected Participant’s interest will be determined by treating the Affected Participant as having a Separation from Service as of the Closing and calculating each Affected Participant’s single lump sum as of the specific distribution date during the 12-month period following the Closing that the Plan - 149 -
+Contingent only upon the occurrence of the Closing, the 409A Program is hereby irrevocably terminated with respect to all Affected Participants. Therefore, the adoption of this Article and the Related Amendments by the Plan sponsor constitutes, as of the Closing, the irrevocable taking of all necessary action to accomplish the termination and liquidation of the Affected Participant’s entire interest under the 409A Program pursuant to Treasury Regulation § 1.409A-3(j)(4) (ix)(B). Accordingly, to carry out the liquidation of the Affected Participants’ entire interests, each Affected Participant will be paid the Participant’s entire interest under the 409A Program as a single lump sum within 12 months of the Closing (and in all other respects in full conformity with Treasury Regulation § 1.409A-3(j)(4) (ix)(B)). An Affected Participant’s interest will be determined by treating the Affected Participant as having a Separation from Service as of the Closing and calculating each Affected Participant’s single lump sum as of the specific distribution date during the 12-month period following the Closing that the Plan 
 
 Administrator, in its discretion, selects for this purpose in conformance with Treasury Regulation § 1.409A-3(j)(4) (ix) 
 
    - (B) .
 
-- 150 - 
-
-### APPENDIX ARTICLE PBG
+## APPENDIX ARTICLE PBG
 
 Effective as of the end of the day on December 31, 2011, the PBG PEP is hereby merged with and into the PepsiCo PEP, with the PepsiCo PEP as the surviving plan after the merger. The following Appendix Article PBG governs PBG PEP benefits that were subject to the 409A PBG PEP Document prior to the merger, except as follows: (i) Articles VII (Administration), VIII (Miscellaneous), IX (Amendment and Termination), X (ERISA Plan Structure) and XI (Applicable Law) of the main section of this document shall govern PBG PEP benefits that were subject to the 409A PBG PEP Document, and (ii) effective for Annuity Starting Dates on or after January 1, 2019, if a Participant elects a survivor, period certain annuity or other death benefit annuity (or an annuity with other optional features), the adjustment of the Single Life Annuity to Actuarial Equivalent optional annuity shall be determined under the provisions of the main section of this document. There shall be no change to the time or form of payment of benefits that are subject to Code section 409A under either the PepsiCo PEP or PBG PEP Document as a result of the plan merger or the revisions made to the 409A PBG PEP Document when it was incorporated into this Appendix. 
 
-### ARTICLE I TO APPENDIX ARTICLE PBG - HISTORY AND PURPOSE
+## ARTICLE I TO APPENDIX ARTICLE PBG - HISTORY AND PURPOSE
 
 ### 1. 1 History of Plan
 
-The Pepsi Bottling Group, Inc. (“PBG”) established the PBG Pension Equalization Plan (“PEP” or “Plan”) effective April 6, 1999 for the benefit of salaried employees of the PBG Organization who participate in the PBG Salaried Employees Retirement Plan (“Salaried Plan”). The Plan was initially established as a successor plan to the PepsiCo Pension Equalization Plan, due to PBG’s April 6, 1999 initial public offering, and the Plan included historical PepsiCo provisions which are relevant for eligibility and benefit determinations under the Plan. The Plan provides benefits for eligible employees whose pension benefits under the - 151 -
+The Pepsi Bottling Group, Inc. (“PBG”) established the PBG Pension Equalization Plan (“PEP” or “Plan”) effective April 6, 1999 for the benefit of salaried employees of the PBG Organization who participate in the PBG Salaried Employees Retirement Plan (“Salaried Plan”). The Plan was initially established as a successor plan to the PepsiCo Pension Equalization Plan, due to PBG’s April 6, 1999 initial public offering, and the Plan included historical PepsiCo provisions which are relevant for eligibility and benefit determinations under the Plan. The Plan provides benefits for eligible employees whose pension benefits under the
 
 Salaried Plan are limited by the provisions of the Internal Revenue Code of 1986, as amended. In addition, the Plan provides benefits for certain eligible employees based on the pre-1989 Salaried Plan formula. Effective April 1, 2009, the Plan also provides benefits for employees whose eligible pay under the Salaried Plan is reduced due to the employees’ elective deferrals under the PBG Executive Income Deferral Program and for certain executives who would be “Grandfathered Participants” under the Salaried Plan but for their classification as salary band E3-E8 or MP (or its equivalent, for periods on and after the Effective Time). The Plan is intended as a nonqualified unfunded deferred compensation plan for federal income tax purposes. For purposes of the Employee Retirement Income Security Act of 1974 (“ERISA”), the Plan is structured as two plans. The portion of the Plan that provides benefits based on limitations imposed by Section 415 of the Internal Revenue Code (the “Code”) is intended to be an “excess benefit plan” as described in Section 4(b)(5) of ERISA. The remainder of the Plan is intended to be a plan described in Sections 201(2) , 301(a)(3) and 401(a)(1) of ERISA providing benefits to a select group of management or highlycompensated employees. 
 
-- 1. 2 _**Effect of Amendment and Restatement**_ . The Plan as in effect on October 3, 2004 is referred to herein as the Prior Plan.
+The Plan has been amended from time to time, most recently in the form of an amendment and complete restatement effective as of April 1, 2009 (“2009 Restatement”). PBG further amended the Plan as a result of the merger of PBG with and into Pepsi-Cola Metropolitan Bottling Company, Inc., a wholly-owned subsidiary of PepsiCo, Inc. (the “Company”), pursuant to the Agreement and Plan of Merger dated as of August 3, 2009 among PBG, the Company and Pepsi-Cola Metropolitan Company, Inc., and to facilitate the Company’s assumption of PBG’s role as the Plan’s sponsor. 
 
-- 152 - 
+### 1. 2 Effect of Amendment and Restatement
+
+The Plan as in effect on October 3, 2004 is referred to herein as the Prior Plan.
 
 Except as otherwise explicitly provided in Section 6.1(b)(3) of this Plan, a Participant’s benefit (including death benefits), determined under the terms of the Plan as in effect on October 3, 2004 as if the Participant had terminated employment on December 31, 2004, without regard to any compensation paid or services rendered after 2004, or any other events affecting the amount of or the entitlement to benefits (other than the Participant’s survival or the Participant’s election under the terms of the Plan with respect to the time or form of benefit) (the “Grandfathered Benefit”) shall be paid at the time and in the form provided by the terms of the Plan as in effect on October 3, 2004. The benefit of a Participant accrued under this Plan based on all compensation and services taken into account by the Prior Plan and this Plan, less the Participant’s Grandfathered Benefit, shall be paid in the times and in the form as provided in this Plan. Except as otherwise explicitly provided in this Plan, this Plan superseded the Prior Plan effective January 1, 2009, with respect to amounts accrued and vested after 2004 by Participants who had not commenced receiving benefits as of January 1, 2009. The Plan was administered in accordance with a good faith interpretation of Section 409A of the Internal Revenue Code and IRS regulations and guidance thereunder from January 1, 2005 through December 31, 2008. Amounts accrued under this Plan after 2004 shall be treated as payable under a separate Plan for purposes of Section 409A of the Internal Revenue Code. 
 
-### ARTICLE II TO APPENDIX ARTICLE PBG - DEFINITIONS AND CONSTRUCTION
+## ARTICLE II TO APPENDIX ARTICLE PBG - DEFINITIONS AND CONSTRUCTION
 
 ### 2. 1 Definitions
 
 The following words and phrases, when used in this Plan, shall have the meaning set forth below unless the context clearly indicates otherwise. Unless otherwise expressly qualified by the terms or the context of this Plan, the terms used in this Plan shall have the same meaning as those terms in the Salaried Plan.
 
-- 153 - 
+(a) Actuarial Equivalent
 
-   - (a) **Actuarial Equivalent** . Except as otherwise specifically set forth in the Plan or any Appendix to the
+Except as otherwise specifically set forth in the Plan or any Appendix to the
 
 Plan with respect to a specific benefit determination, a benefit of equivalent value computed on the basis of the factors applicable for such purposes under the Salaried Plan. 
 
@@ -18751,8 +18686,6 @@ limitations on the maximum amount of compensation which may be considered in det
 
    - (j) **Employee** . An individual who qualifies as an “Employee” as that term is defined in the Salaried Plan.
 
-- 154 - 
-
    - (k) **Employer** . An entity that qualifies as an “Employer” as that term is defined in the Salaried Plan.
 
    - (l) **ERISA** . Public Law No. 93-406, the Employee Retirement Income Security Act of 1974, as amended from time to time.
@@ -18769,8 +18702,6 @@ limitations on the maximum amount of compensation which may be considered in det
 
    - (q) **Plan** . Effective January 1, 2012, Appendix Article PBG to the PepsiCo Pension Equalization Plan, as set forth herein, and as amended from time to time. Prior to January 1, 2012, the PBG Pension Equalization Plan, as amended from time to time. In these documents, the Plan is also sometimes referred to as PEP. For periods before April 6, 1999, references to the Plan refer to the PepsiCo Prior Plan.
 
-- 155 - 
-
    - (r) **Plan Administrator** . The PepsiCo Administration Committee (PAC), which shall have authority to
 
 administer the Plan as provided in Article VII of the main portion of the document. 
@@ -18785,7 +18716,7 @@ st (s) **Plan Year** . The 12-month period ending on each December 31 .
 
       - (ii) That he will not receive any social security wages after Retirement or severance.
 
-However, in computing a Vested Pension under Section 4.2, the estimate of the old-age insurance benefit to which a Participant would be entitled at age 65 shall be based upon the assumption that he continued to receive social security wages until age 65 at the same rate as the Taxable Wage Base in effect at the earlier of his severance from employment or the date such participant - 156 -
+However, in computing a Vested Pension under Section 4.2, the estimate of the old-age insurance benefit to which a Participant would be entitled at age 65 shall be based upon the assumption that he continued to receive social security wages until age 65 at the same rate as the Taxable Wage Base in effect at the earlier of his severance from employment or the date such participant 
 
 ceased to accrue benefits under both the Salaried Plan and this Plan. For purposes of this subsection, 
 
@@ -18825,7 +18756,7 @@ For purposes of (i) above, no more than 50 employees identified in the order of 
 
 - (3) Rule of Administrative Convenience. In addition to the foregoing, the Plan Administrator shall treat all other Employees classified as E5 and above on the applicable determination date prescribed in subsection (2) (i.e., the last day of each calendar year) as a Specified Employee for purposes of the Plan for the twelve-month period commencing of the applicable April 1st date. However, if there are at least 200 Specified Employees without regard to this provision, then it shall not apply. If there are less than 200 Specified Employees without regard to this provision, but full application of this provision would cause there to be more than 200 Specified Employees, then (to the extent necessary to avoid exceeding 200 Specified Employees) those Employees classified as E5 and above who have the lowest base salaries on such applicable determination date shall not be Specified Employees.
 
-- (4) Identification of Specified Employees Between February 26, 2010 and March 31, 2010. Notwithstanding the foregoing, for the period between February 26, 2010 and March 31, 2010, Specified Employees shall be identified by combining the lists of Specified Employees of all Employers as in effect immediately prior to the Effective Time. The foregoing method of identifying Specified Employees is intended to comply with Treas. Reg. § 1.409A-1(i)(6) (i), - 159 -
+- (4) Identification of Specified Employees Between February 26, 2010 and March 31, 2010. Notwithstanding the foregoing, for the period between February 26, 2010 and March 31, 2010, Specified Employees shall be identified by combining the lists of Specified Employees of all Employers as in effect immediately prior to the Effective Time. The foregoing method of identifying Specified Employees is intended to comply with Treas. Reg. § 1.409A-1(i)(6) (i),
 
 which authorizes the use of an alternative method of identifying Specified Employees that complies with Treas. Reg. §§ 1.409A-1(i)(5) and -1(i)(8) and Section VII.C.4.d of the Preamble to the Final Regulations under Section 409A of the Code, which permits “service recipients to simply combine the pre-transaction separate lists of specified employees where it is determined that such treatment would be administratively less burdensome.” 
 
@@ -18843,7 +18774,7 @@ foregoing, for the periods on after April 1, 2010, Key Employees shall be identi
 
       - (iv) For purposes of this paragraph (5) , “PAS Business” means each employer, division of an employer or other organizational subdivision of an employer that the Company classifies as part of the PAS business; “PBG Business” means each employer, division of an employer or other organizational subdivision of an employer that the Company classifies as part of the PBG business; and “PepsiCo Business” means each employer, division of an employer or other organizational subdivision of an employer that the Company classifies as part of the PepsiCo business.
 
-The method for identifying Specified Employees set forth in this definition is intended as an alternative method of identifying Specified Employees under Treas. Reg. § 1.409A-1(i)(5) , - 161 -
+The method for identifying Specified Employees set forth in this definition is intended as an alternative method of identifying Specified Employees under Treas. Reg. § 1.409A-1(i)(5) , 
 
 and is adopted herein and shall be interpreted and applied consistently with the rules applicable to such alternative arrangements. 
 
@@ -18855,17 +18786,19 @@ and is adopted herein and shall be interpreted and applied consistently with the
 
 **“ ”** (b) **Compounds of the Word Here** . The words “hereof”, “hereunder” and other similar compounds of the word “here” shall mean and refer to the entire Plan, not to any particular provision or section. 
 
-**ARTICLE III TO APPENDIX ARTICLE PBG - PARTICIPATION**
+### ARTICLE III TO APPENDIX ARTICLE PBG - PARTICIPATION
 
 - 3. 1    Each Salaried Plan Participant whose benefit under the Salaried Plan is curtailed by the Compensation Limitation or the Section 415 Limitation, or both, and each other Salaried Plan Participant (i) who is a Grandfathered Employee as defined in Section 3.7 of the Salaried Plan and who made elective deferrals to the EID on or after April 1, 2009 and before January 1, 2011 (inclusively); (ii) who would have been considered a Grandfathered Participant as defined in Section 3.7 of the Salaried Plan during the period April 1, 2009 through December 31, 2010 if the Participant had not been classified by the Employer as salary band E3-E8 or MP on March 31, 2009; or (iii) whose 1988 pensionable “earnings” under the Salaried Plan, as described in Section 4.2(a), were $75,000 or more, shall participate in this Plan.
 
-- 162 - 
+## ARTICLE IV TO APPENDIX ARTICLE PBG - AMOUNT OF RETIREMENT PENSION
 
-**ARTICLE IV TO APPENDIX ARTICLE PBG - AMOUNT OF RETIREMENT PENSION**
+### 4. 1 PEP Pension
 
-- 4. 1 _**PEP Pension**_ . Subject to Sections 4.5 and 8.7, a Participant’s PEP Pension shall equal the amount determined under (a) or (b) of this Section 4.1, whichever is applicable. Such amount shall be determined as of the date of the Participant’s Separation from Service.
+Subject to Sections 4.5 and 8.7, a Participant’s PEP Pension shall equal the amount determined under (a) or (b) of this Section 4.1, whichever is applicable. Such amount shall be determined as of the date of the Participant’s Separation from Service.
 
-   - (a) **Same Form as Salaried Plan** . If a Participant’s PEP Pension will be paid in the same form and will commence as of the same time as his pension under the Salaried Plan, then his monthly PEP Pension shall be equal to the excess of:
+(a) Same Form as Salaried Plan
+
+If a Participant’s PEP Pension will be paid in the same form and will commence as of the same time as his pension under the Salaried Plan, then his monthly PEP Pension shall be equal to the excess of:
 
 - (1) The greater of:
 
@@ -18875,11 +18808,11 @@ and is adopted herein and shall be interpreted and applied consistently with the
 
 - (2) The amount of the monthly pension benefit that is in fact payable to such Salaried Plan Participant under the Salaried Plan, expressed in such form and payable as of such time.
 
-- 163 - 
-
 The amount of the monthly pension benefit so determined, less the portion of such benefit that is the Participant’s Grandfathered Benefit, shall be payable as provided in Section 6.2. 
 
-   - (b) **Different Form than Salaried Plan** . If a Participant’s PEP Pension will be paid in a different form
+### (b) Different Form than Salaried Plan
+
+If a Participant’s PEP Pension will be paid in a different form
 
 (whether in whole or in part) or will commence as of a different time than his pension benefit under the Salaried Plan, his PEP Pension shall be the product of: 
 
@@ -18891,7 +18824,7 @@ The amount of the monthly pension benefit so determined, less the portion of suc
 
 - (2) A fraction, the numerator of which is the value of the amount determined in Section 4.1(b)
 
-- (1) , reduced by the value of his pension under the - 164 -
+- (1) , reduced by the value of his pension under the
 
 Salaried Plan, and the denominator of which is the value of the amount determined in Section 4.1(b)(1) (with value determined on a reasonable and consistent basis, in the discretion of the Plan Administrator, with respect to similarly situated employees). 
 
@@ -18899,13 +18832,17 @@ The amount of the monthly pension benefit so determined, less the portion of suc
 
 Notwithstanding the above, in the event any portion of the accrued benefit of a Participant under this Plan or the Salaried Plan is awarded to an alternate payee pursuant to a qualified domestic relations order, as such terms are defined in Section 414(p) of the Code, the Participant’s total PEP Pension shall be adjusted, as the Plan Administrator shall determine, so that the combined benefit payable to the Participant and the alternate payee from this Plan and the Salaried Plan is the amount determined pursuant to subsections 4.1(a) and (b) above, as applicable. 
 
-- 4. 2 _**PEP Guarantee**_ . Subject to Section 8.7, a Participant who is eligible under subsection (a) below shall be entitled to a PEP Guarantee benefit determined under subsection (b) below, if any.
+### 4. 2 PEP Guarantee
 
-   - (a) **Eligibility** . A Participant shall be covered by this section if the Participant has 1988 pensionable earnings from an Employer of at least $75,000. For purposes of this section, “1988 pensionable earnings” means the Participant’s remuneration for the 1988 calendar year that was recognized for benefit accrual received under the Salaried Plan as in effect in 1988. “1988 pensionable earnings” does not include remuneration from an entity attributable to any period when that entity was not an Employer.
+Subject to Section 8.7, a Participant who is eligible under subsection (a) below shall be entitled to a PEP Guarantee benefit determined under subsection (b) below, if any.
 
-- 165 - 
+(a) Eligibility
 
-   - (b) **PEP Guarantee Formula** . The amount of a Participant’s PEP Guarantee shall be determined under paragraph (1) , subject to the special rules in paragraph (2) .
+A Participant shall be covered by this section if the Participant has 1988 pensionable earnings from an Employer of at least $75,000. For purposes of this section, “1988 pensionable earnings” means the Participant’s remuneration for the 1988 calendar year that was recognized for benefit accrual received under the Salaried Plan as in effect in 1988. “1988 pensionable earnings” does not include remuneration from an entity attributable to any period when that entity was not an Employer.
+
+### (b) PEP Guarantee Formula
+
+The amount of a Participant’s PEP Guarantee shall be determined under paragraph (1) , subject to the special rules in paragraph (2) .
 
 - (1) Formula. The amount of a Participant’s PEP Guarantee under this paragraph shall be determined as follows:
 
@@ -18915,7 +18852,7 @@ Notwithstanding the above, in the event any portion of the accrued benefit of a 
 
       - (iii) One and two-thirds percent of the Participant’s Primary Social Security Amount multiplied by years of Credited Service not in excess of 30 years.
 
-In determining the amount of a Vested Pension, the PEP Guarantee shall first be calculated on the basis of (I) the Credited Service the Participant would have earned had he continued to accrue Credited Service until his Normal Retirement Age, and (II) his Highest Average Monthly Earnings and Primary Social Security Amount at the earlier of his Severance from Service Date or the date such Participant ceased to accrue additional benefits under both the Salaried Plan and this Plan, and then shall be reduced by multiplying the resulting amount by a fraction, the numerator of which is the Participant’s actual years of Credited Service on the earlier of his Severance from Service Date or the date such Participant ceased to accrue additional benefits under both the Salaried Plan and this Plan and the denominator of which is the years of Credited Service - 166 -
+In determining the amount of a Vested Pension, the PEP Guarantee shall first be calculated on the basis of (I) the Credited Service the Participant would have earned had he continued to accrue Credited Service until his Normal Retirement Age, and (II) his Highest Average Monthly Earnings and Primary Social Security Amount at the earlier of his Severance from Service Date or the date such Participant ceased to accrue additional benefits under both the Salaried Plan and this Plan, and then shall be reduced by multiplying the resulting amount by a fraction, the numerator of which is the Participant’s actual years of Credited Service on the earlier of his Severance from Service Date or the date such Participant ceased to accrue additional benefits under both the Salaried Plan and this Plan and the denominator of which is the years of Credited Service 
 
 he would have earned had he continued to accrue Credited Service until his Normal Retirement Age. 
 
@@ -18925,7 +18862,7 @@ he would have earned had he continued to accrue Credited Service until his Norma
 
       - (i) Surviving Eligible Spouse’s or Eligible Domestic Partner’s Annuity: Subject to subparagraph (iii) below and the last sentence of this subparagraph, if the Participant has an Eligible Spouse or Eligible Domestic Partner and has commenced receipt of an Annuity under this section, the Participant’s Eligible Spouse or Eligible Domestic Partner shall be entitled to receive a survivor annuity equal to 50 percent of the Participant’s Annuity under this section, with no corresponding reduction in such Annuity for the Participant. Annuity payments to a surviving Eligible Spouse or Eligible Domestic Partner shall begin on the first day of the month coincident with or following the Participant’s death and shall end with the last monthly payment due prior to the Eligible Spouse’s or Eligible Domestic Partner’s death. If the Eligible Spouse or Eligible Domestic Partner is more than 10 years younger than the Participant, the survivor benefit payable under this subparagraph shall be adjusted as provided below.
 
-   - (A) For each full year more than 10 but less than 21 that the surviving Eligible Spouse or Eligible Domestic Partner is younger than the Participant, the survivor benefit payable to such - 167 -
+   - (A) For each full year more than 10 but less than 21 that the surviving Eligible Spouse or Eligible Domestic Partner is younger than the Participant, the survivor benefit payable to such
 
 Eligible Spouse or Eligible Domestic Partner shall be reduced by 0.8 percent. 
 
@@ -18939,15 +18876,13 @@ This subparagraph applies only to a Participant who retires on or after his Earl
 
    - (B) If the Participant is entitled to a Vested Pension, the payment amount shall be reduced to the Actuarial Equivalent of the amount payable at his Normal Retirement Date (if payment commences before such date), and the reductions set forth in the Salaried Plan for any Pre-Retirement Spouse’s coverage or Pre-Retirement Domestic Partner’s coverage shall apply.
 
-- 168 - 
-
    - (C) This clause applies if the Participant will receive his PEP Guarantee in a form that provides an Eligible Spouse or Eligible Domestic Partner benefit, continuing for the life of the surviving spouse or surviving domestic partner, that is greater than that provided under subparagraph (i). In this instance, the Participant’s PEP Guarantee under this section shall be reduced so that the total value of the benefit payable on the Participant’s behalf is the Actuarial Equivalent of the PEP Guarantee otherwise payable under the foregoing provisions of this section.
 
    - (D) This clause applies if the Participant will receive his PEP Guarantee in a form that provides a survivor annuity for a beneficiary who is not his Eligible Spouse or Eligible Domestic Partner. In this instance, the Participant’s PEP Guarantee under this section shall be reduced so that the total value of the benefit payable on the Participant’s behalf is the Actuarial Equivalent of a Single Life Annuity for the Participant’s life.
 
    - (E) This clause applies if the Participant will receive his PEP Guarantee in an Annuity form that includes inflation protection described in the Salaried Plan. In this instance, the Participant’s PEP Guarantee under this section shall be reduced so that the total value of the benefit payable on the Participant’s behalf is the Actuarial Equivalent of the elected Annuity without such protection.
 
-      - (iii) Lump Sum Conversion. The amount of the PEP Guarantee determined under this section for a Participant whose Retirement Pension will - 169 -
+      - (iii) Lump Sum Conversion. The amount of the PEP Guarantee determined under this section for a Participant whose Retirement Pension will
 
 be distributed in the form of a lump sum shall be the Actuarial Equivalent of the Participant’s PEP Guarantee determined under this section, taking into account the value of any survivor benefit under subparagraph (i) above and any early retirement reductions under subparagraph (ii)(A) above. 
 
@@ -18957,47 +18892,71 @@ be distributed in the form of a lump sum shall be the Actuarial Equivalent of th
 
    - (B) Highest Average Monthly Earnings shall be determined without regard to the exclusion from Earnings under the Salaried Plan of amounts deferred at the election of the Participant under the EID on or after April 1, 2009 and before January 1, 2011.
 
-- 4. 3 _**Certain Adjustments**_ . Pensions determined under the foregoing sections of this Article are subject to adjustment as provided in this section. For purposes of this section, “specified plan” shall mean the Salaried Plan or a nonqualified pension plan similar to this Plan. A nonqualified pension plan is similar to this Plan if it is sponsored by a member of the PBG Organization and if its benefits are not based on participant pay deferrals (this category of similar plans includes the PepsiCo Prior Plan).
+### 4. 3 Certain Adjustments
 
-- 170 - 
+Pensions determined under the foregoing sections of this Article are subject to adjustment as provided in this section. For purposes of this section, “specified plan” shall mean the Salaried Plan or a nonqualified pension plan similar to this Plan. A nonqualified pension plan is similar to this Plan if it is sponsored by a member of the PBG Organization and if its benefits are not based on participant pay deferrals (this category of similar plans includes the PepsiCo Prior Plan).
 
-   - (a) **Adjustments for Rehired Participants** . This subsection shall apply to a current or former
+## (a) Adjustments for Rehired Participants
 
-   - (b) **Adjustment for Increased Pension Under Other Plans** . If the benefit paid under a specified plan on behalf of a Participant is increased after PEP benefits on his behalf have been determined (whether the increase is by order of a court, by agreement of the plan administrator of the specified plan, or otherwise), the PEP benefit for the Participant shall be recalculated. If the recalculation identifies an overpayment hereunder, the Plan Administrator shall take such steps as it deems advisable to recover the overpayment. It is specifically intended that there shall be no duplication of payments under this Plan and any specified plans.
+This subsection shall apply to a current or former
 
-**==> picture [32 x 9] intentionally omitted <==**
+Participant who is reemployed after his Annuity Starting Date and (i) whose benefit under the Salaried Plan is recalculated based on an additional period of Credited Service, or (ii) whose benefit under the Salaried Plan would have been recalculated, based on an additional period of Credited Service if the Participant would have been considered a Grandfathered Participant as defined in Section 3.7 of the Salaried Plan if the Participant was not classified by the Employer as salary band E3-E8 or MP. In such event, the Participant’s PEP Pension shall be recalculated hereunder. For this purpose, the PEP Guarantee under Section 4.2 is adjusted for inservice distributions and prior distributions in the same manner as benefits are adjusted under the Salaried Plan, but by taking into account benefits under this Plan and any specified plans. 
 
-- 4. 4 _**Reemployment of Certain Participants**_ . In the case of a current or former Participant who is reemployed and is eligible to reparticipate in the Salaried Plan after his Annuity Starting Date, payment of his nonGrandfathered PEP Pension will not be suspended. If such Participant accrues an additional PEP Pension for service after such reemployment, his PEP Pension on his subsequent Separation from Service shall be reduced by the present value of PEP benefits previously distributed to such Participant, as determined by the Plan Administrator.
+(b) Adjustment for Increased Pension Under Other Plans
 
-- 4. 5 _**Vesting; Misconduct**_ . Subject to Section 8.7, a Participant shall be fully vested in his Accrued Benefit at the time he becomes fully vested in his accrued benefit under the Salaried Plan. Notwithstanding the preceding, or any other provision of the Plan to the contrary, a Participant shall forfeit his or her entire PEP Pension if the Plan Administrator determines that such Participant has engaged in “Misconduct” as defined below, determined - 172 -
+If the benefit paid under a specified plan on behalf of a Participant is increased after PEP benefits on his behalf have been determined (whether the increase is by order of a court, by agreement of the plan administrator of the specified plan, or otherwise), the PEP benefit for the Participant shall be recalculated. If the recalculation identifies an overpayment hereunder, the Plan Administrator shall take such steps as it deems advisable to recover the overpayment. It is specifically intended that there shall be no duplication of payments under this Plan and any specified plans.
+
+(c) No Benefit Offsets That Would Violate Section 409A
+
+If a Participant has earned a benefit under a plan maintained by a member of the PepsiCo/PBG Organization that is a “qualifying plan” for purposes of the “Non-Duplication” rule in Section 3.8 of Part A of the Salaried Plan and the “Transfers and Non-Duplication” rule in
+
+### ==> picture [32 x 9] intentionally omitted <==
+
+Section 3.6 of Part C of the Salaried Plan, such Transfers and Non-Duplication rules shall apply when calculating the amount determined under Section 4.1(a)(1) or 4.1(b)(1) above (as applicable) only to the extent the application of such rule will not result in a change in the time or form of payment of such pension that is prohibited by Section 409A. For purposes of the limit on offsets in the preceding sentence, it is the Company’s intent to undertake to make special arrangements with respect to the payment of the benefit under the qualifying plan that are legally permissible under the qualifying plan, and compliant with Section 409A, in order to avoid such a change in time or form of payment to the maximum extent possible; to the extent that Section 409A compliant special arrangements are timely put into effect in a particular situation, the limit on offsets in the prior sentence will not apply. 
+
+### 4. 4 Reemployment of Certain Participants
+
+In the case of a current or former Participant who is reemployed and is eligible to reparticipate in the Salaried Plan after his Annuity Starting Date, payment of his nonGrandfathered PEP Pension will not be suspended. If such Participant accrues an additional PEP Pension for service after such reemployment, his PEP Pension on his subsequent Separation from Service shall be reduced by the present value of PEP benefits previously distributed to such Participant, as determined by the Plan Administrator.
+
+### 4. 5 Vesting; Misconduct
+
+Subject to Section 8.7, a Participant shall be fully vested in his Accrued Benefit at the time he becomes fully vested in his accrued benefit under the Salaried Plan. Notwithstanding the preceding, or any other provision of the Plan to the contrary, a Participant shall forfeit his or her entire PEP Pension if the Plan Administrator determines that such Participant has engaged in “Misconduct” as defined below, determined
 
 without regard to whether the Misconduct occurred before or after the Participant’s Severance from Service. The Plan Administrator may, in its sole discretion, require the Participant to pay to the Employer any PEP Pension paid to the Participant within the twelve month period immediately preceding a date on which the Participant has engaged in such Misconduct, as determined by the Plan Administrator. 
 
-“Misconduct” means any of the following, as determined by the Plan Administrator in good faith: (i) violation of any agreement between the Company or Employer and the Participant, including but not limited to a violation relating to the disclosure of confidential information or trade secrets, the solicitation of employees, customers, suppliers, licensors or contractors, or the performance of competitive services, (ii) violation of any duty to the Company or Employer, including but not limited to violation of the Company’s Code of Conduct; (iii) making, or causing or attempting to cause any other person to make, any statement (whether written, oral or electronic), or conveying any information about the Company or Employer which is disparaging or which in any way reflects negatively upon the Company or Employer unless required by law or pursuant to a Company or Employer policy; (iv) improperly disclosing or otherwise misusing any confidential information regarding the Company or Employer; (v) unlawful trading in the securities of the Company or of another company based on information garnered as a result of that Participant’s employment or other relationship with the Company; (vi) engaging in any act which is considered to be contrary to the best interests of the Company or Employer, including but not limited to recruiting or soliciting employees of the Employer; or (vii) commission of a felony or other serious crime or engaging in any activity which constitutes gross misconduct. Notwithstanding the foregoing and for the avoidance of doubt, nothing in this Plan shall prohibit the Participant from communicating with government - 173 -
+“Misconduct” means any of the following, as determined by the Plan Administrator in good faith: (i) violation of any agreement between the Company or Employer and the Participant, including but not limited to a violation relating to the disclosure of confidential information or trade secrets, the solicitation of employees, customers, suppliers, licensors or contractors, or the performance of competitive services, (ii) violation of any duty to the Company or Employer, including but not limited to violation of the Company’s Code of Conduct; (iii) making, or causing or attempting to cause any other person to make, any statement (whether written, oral or electronic), or conveying any information about the Company or Employer which is disparaging or which in any way reflects negatively upon the Company or Employer unless required by law or pursuant to a Company or Employer policy; (iv) improperly disclosing or otherwise misusing any confidential information regarding the Company or Employer; (v) unlawful trading in the securities of the Company or of another company based on information garnered as a result of that Participant’s employment or other relationship with the Company; (vi) engaging in any act which is considered to be contrary to the best interests of the Company or Employer, including but not limited to recruiting or soliciting employees of the Employer; or (vii) commission of a felony or other serious crime or engaging in any activity which constitutes gross misconduct. Notwithstanding the foregoing and for the avoidance of doubt, nothing in this Plan shall prohibit the Participant from communicating with government 
 
 authorities concerning any possible legal violations.  The Company nonetheless asserts and does not waive its attorney-client privilege over any information appropriately protected by the privilege. 
 
-**ARTICLE V TO APPENDIX ARTICLE PBG - DEATH BENEFITS**
+## ARTICLE V TO APPENDIX ARTICLE PBG - DEATH BENEFITS
 
-- 5. 1 _**Death Benefits** ._ Each Participant entitled to a PEP Pension under this Plan who dies before his Annuity Starting Date shall be entitled to a death benefit equal in amount to the additional death benefit to which the Participant would have been entitled under the Salaried Plan if the PEP Pension as determined under Article IV was payable under the Salaried Plan instead of this Plan. The death benefit with respect to a Participant’s PEP Pension in excess of the Grandfathered Benefit shall become payable on the Participant’s date of death in a Single Lump Sum payment.
+### 5. 1 Death Benefits
 
-**ARTICLE VI TO APPENDIX ARTICLE PBG - DISTRIBUTIONS**
+_ Each Participant entitled to a PEP Pension under this Plan who dies before his Annuity Starting Date shall be entitled to a death benefit equal in amount to the additional death benefit to which the Participant would have been entitled under the Salaried Plan if the PEP Pension as determined under Article IV was payable under the Salaried Plan instead of this Plan. The death benefit with respect to a Participant’s PEP Pension in excess of the Grandfathered Benefit shall become payable on the Participant’s date of death in a Single Lump Sum payment.
+
+Payment of any death benefit of a Participant who dies before his Annuity Starting Date under the Plan shall be made to the persons and in the proportions to which any death benefit under the Salaried Plan is or would be paid (including to a Participant’s Eligible Domestic Partner to whom pre-retirement death benefits are payable under the Salaried Plan, if any, with respect to deaths occurring on or after January 1, 2013). 
+
+## ARTICLE VI TO APPENDIX ARTICLE PBG - DISTRIBUTIONS
 
 The terms of this Article govern the distribution of benefits to a Participant who becomes entitled to payment of a PEP Pension under the Plan.
 
-- 6. 1 _**Form and Timing of Distributions**_ . Subject to Section 6.5, this Section shall govern the form and timing of PEP Pensions.
+### - 6.1 Form and Timing of Distributions
 
-- 174 - 
+Subject to Section 6.5, this Section shall govern the form and timing of PEP Pensions.
 
-   - (a) **Time and Form of Payment of Grandfathered Benefit** . The Grandfathered Benefit of a
+## (a) Time and Form of Payment of Grandfathered Benefit
+
+The Grandfathered Benefit of a
 
 Participant shall be paid in the form and at the time or times provided by the terms of the Plan as in effect on October 3, 2004. 
 
-   - (b) **Time and Form of Payment of Non-Grandfathered Benefit** . Except as provided below, the PEP Pension payable to a Participant in excess of the Grandfathered Benefit shall be become payable in a Single Lump Sum on the Separation from Service of the Participant.
+(b) Time and Form of Payment of Non-Grandfathered Benefit
+
+Except as provided below, the PEP Pension payable to a Participant in excess of the Grandfathered Benefit shall be become payable in a Single Lump Sum on the Separation from Service of the Participant.
 
 - (1) Certain Vested Pensions. A Participant (i) who incurred a Separation from Service during the period January 1, 2005 through December 31, 2008 (other than a Participant described in (3) below); and (ii) whose Annuity Starting Date has not occurred as of January 1, 2009, shall receive his PEP Pension in excess of his Grandfathered Benefit in a Single Lump Sum which shall become payable on January 1, 2009.
 
-- (2) Annuity Election. A Participant who (i) attained age 50 on or before January 1, 2009, (ii) on or before December 31, 2008 irrevocably elected to receive a Single Life Annuity, a 50%, 75% or 100% Joint and Survivor Annuity, or a 10 Year Certain and Life Annuity; and (iii) incurs a Termination of Employment on or after July 1, 2009 after either attainment of age 55 and the tenth anniversary of the Participant’s initial employment date or attainment of age 65 and the fifth anniversary of the Participant’s initial employment date, shall receive his PEP Pension in excess of his Grandfathered Benefit in the form elected commencing on the first day of the month coincident with or next following his Separation from Service. If such Participant Separates from Service - 175 -
+- (2) Annuity Election. A Participant who (i) attained age 50 on or before January 1, 2009, (ii) on or before December 31, 2008 irrevocably elected to receive a Single Life Annuity, a 50%, 75% or 100% Joint and Survivor Annuity, or a 10 Year Certain and Life Annuity; and (iii) incurs a Termination of Employment on or after July 1, 2009 after either attainment of age 55 and the tenth anniversary of the Participant’s initial employment date or attainment of age 65 and the fifth anniversary of the Participant’s initial employment date, shall receive his PEP Pension in excess of his Grandfathered Benefit in the form elected commencing on the first day of the month coincident with or next following his Separation from Service. If such Participant Separates from Service
 
 prior to July 1, 2009 or prior to attainment of age 55 and the tenth anniversary of the Participant’s employment date, or prior to attainment of age 65 and the fifth anniversary of the Participant’s employment, the Participant’s PEP Pension in excess of his Grandfathered Pension shall be payable in a Single Lump Sum on the Participant’s Separation from Service. 
 
@@ -19005,17 +18964,19 @@ prior to July 1, 2009 or prior to attainment of age 55 and the tenth anniversary
 
 - (4) Specified Employees. If a Participant is classified as a Specified Employee at the time of the Participant’s Separation from Service (or at such other time for determining Specified Employee status as may apply under Section 409A), then no amount shall be payable pursuant to this Section 6.1(b) until at least six (6) months after such a Separation from Service. Any payment otherwise due in such six month period shall be suspended and become payable at the end of such six month period, with interest at the applicable interest rates used for computing a Single Lump Sum payment on the date of Separation from Service.
 
-- 176 - 
-
 - (5) Actual Date of Payment. An amount payable on a date specified in this Article VI or in Article V shall be paid as soon as administratively feasible after such date; but no later than the later of (a) the end of the calendar year in which the specified date occurs; or (b) the 15th day of the third calendar month following such specified date and the Participant (or beneficiary) is not permitted to designate the taxable year of the payment. The payment date may be postponed further if calculation of the amount of the payment is not administratively practicable due to events beyond the control of the Participant (or beneficiary), and the payment is made in the first calendar year in which the calculation of the amount of the payment is administratively practicable.
 
-- 6. 2 _**Special Rules for Survivor Options**_ .
+### ## 6.2 Special Rules for Survivor Options
 
-   - (a) **Effect of Certain Deaths** . If a Participant makes an Annuity election described in Section 6.1(b)(2) and the Participant dies before his Separation from Service, the election shall be disregarded. Such a Participant may change his coannuitant of a Joint and Survivor Annuity at any time prior to his Separation from Service, and may change his beneficiary of a Ten Years Certain and Life Annuity at any time. If the Participant dies after such election becomes effective but before his non-Grandfathered PEP Pension actually commences, the election shall be given effect and the amount payable to his surviving Eligible Spouse, surviving Eligible Domestic Partner or other beneficiary shall commence on the first day of the month following his death (any back payments due the Participant shall be payable to his estate). In the case of a Participant who elected a 10 Year Certain and Life Annuity, if such Participant - 177 -
+### (a) Effect of Certain Deaths
+
+If a Participant makes an Annuity election described in Section 6.1(b)(2) and the Participant dies before his Separation from Service, the election shall be disregarded. Such a Participant may change his coannuitant of a Joint and Survivor Annuity at any time prior to his Separation from Service, and may change his beneficiary of a Ten Years Certain and Life Annuity at any time. If the Participant dies after such election becomes effective but before his non-Grandfathered PEP Pension actually commences, the election shall be given effect and the amount payable to his surviving Eligible Spouse, surviving Eligible Domestic Partner or other beneficiary shall commence on the first day of the month following his death (any back payments due the Participant shall be payable to his estate). In the case of a Participant who elected a 10 Year Certain and Life Annuity, if such Participant
 
 dies: (i) after benefits have commenced; (ii) without a surviving primary or contingent beneficiary, and (iii) before receiving 120 payments under the form of payment, then the remaining payments due under such form of payment shall be paid to the Participant’s estate. If payments have commenced under such form of payment to a Participant’s primary or contingent beneficiary and such beneficiary dies before payments are completed, then the remaining payments due under such form of payment shall be paid to such beneficiary’s estate. 
 
-   - (b) **Beneficiary Other Than Eligible Spouse or Eligible Domestic Partner** . If a Participant’s
+## (b) Beneficiary Other Than Eligible Spouse or Eligible Domestic Partner
+
+If a Participant’s
 
 beneficiary is not his Eligible Spouse or Eligible Domestic Partner, he may not elect: 
 
@@ -19023,43 +18984,65 @@ beneficiary is not his Eligible Spouse or Eligible Domestic Partner, he may not 
 
 - (2) The 75 percent survivor option described in Section 6.1(b)(2) with a beneficiary more than 19 years younger than he is.
 
-- 6. 3 _**Designation of Beneficiary**_ . A Participant who has elected to receive all or part of his pension in a form of payment that includes a survivor option shall designate a beneficiary who will be entitled to any amounts payable on his death. Such designation shall be made on a PEP Election Form. A Participant shall have the right to change or revoke his beneficiary designation at any time prior to when his election is finally effective. The designation of any beneficiary, and any change or revocation thereof, shall be made in accordance with rules adopted by the Plan Administrator. A beneficiary designation shall not be effective unless and until filed with the Plan Administrator - 178 -
+### 6. 3 Designation of Beneficiary
 
-- 6. 4 _**Determination of Single Lump Sum Amounts** ._ Except as otherwise provided below, a Single Lump Sum payable under Article V or Section 6.1 shall be determined in the same manner as the single lump sum payment option prescribed in Section 6.1(b)(3) of the Salaried Plan.
+A Participant who has elected to receive all or part of his pension in a form of payment that includes a survivor option shall designate a beneficiary who will be entitled to any amounts payable on his death. Such designation shall be made on a PEP Election Form. A Participant shall have the right to change or revoke his beneficiary designation at any time prior to when his election is finally effective. The designation of any beneficiary, and any change or revocation thereof, shall be made in accordance with rules adopted by the Plan Administrator. A beneficiary designation shall not be effective unless and until filed with the Plan Administrator
 
-   - (a) **Vested Pensions** . If on the date of Separation from Service of a Participant such Participant is not entitled to retire with an immediate pension under the Salaried Plan, the Single Lump Sum payable to the Participant under Section 6.1 shall be determined in the same manner as the single lump sum payment option prescribed in Section 6.1(b)(3) of the Salaried Plan but substituting (for Plan Years beginning before 2012) the applicable segment rates for the blended 30 year Treasury and segment rates that would otherwise be applicable.
+### 6. 4 Determination of Single Lump Sum Amounts
 
-   - (b) **2008 Reorganization** . Notwithstanding subsection (a) above, the Single Lump Sum payment for a Participant whose employment was involuntarily terminated as a result of the 2008 Reorganization on or after November 1, 2008 and on or before December 19, 2008 shall be determined based on the applicable interest rates and mortality used by the Salaried Plan for optional lump sum distributions in December 2008, provided that in no event shall such Single Lump Sum payment be less than the Single Lump Sum determined based on the applicable interest rates and mortality used by the Salaried Plan for lump sum distributions for the month in which the Single Lump Sum is distributed to the Participant.
+_ Except as otherwise provided below, a Single Lump Sum payable under Article V or Section 6.1 shall be determined in the same manner as the single lump sum payment option prescribed in Section 6.1(b)(3) of the Salaried Plan.
 
-- 6. 5 _**Section 162(m) Postponement** ._ Notwithstanding any other provision of this Plan to the contrary, no PEP Pension shall be paid to any Participant prior to the earliest date on which the Company’s federal income tax deduction for such payment is not precluded by - 179 -
+(a) Vested Pensions
+
+If on the date of Separation from Service of a Participant such Participant is not entitled to retire with an immediate pension under the Salaried Plan, the Single Lump Sum payable to the Participant under Section 6.1 shall be determined in the same manner as the single lump sum payment option prescribed in Section 6.1(b)(3) of the Salaried Plan but substituting (for Plan Years beginning before 2012) the applicable segment rates for the blended 30 year Treasury and segment rates that would otherwise be applicable.
+
+(b) 2008 Reorganization
+
+Notwithstanding subsection (a) above, the Single Lump Sum payment for a Participant whose employment was involuntarily terminated as a result of the 2008 Reorganization on or after November 1, 2008 and on or before December 19, 2008 shall be determined based on the applicable interest rates and mortality used by the Salaried Plan for optional lump sum distributions in December 2008, provided that in no event shall such Single Lump Sum payment be less than the Single Lump Sum determined based on the applicable interest rates and mortality used by the Salaried Plan for lump sum distributions for the month in which the Single Lump Sum is distributed to the Participant.
+
+### 6. 5 Section 162(m) Postponement
+
+_ Notwithstanding any other provision of this Plan to the contrary, no PEP Pension shall be paid to any Participant prior to the earliest date on which the Company’s federal income tax deduction for such payment is not precluded by
 
 Section 162(m) of the Code. In the event any payment is delayed solely as a result of the preceding restriction, such payment shall be made as soon as administratively feasible following the first date as of which Section 162(m) of the Code no longer precludes the deduction by the Company of such payment. Amounts deferred because of the Section 162(m) deduction limitation shall be increased by simple interest for the period of delay at the annual rate of six percent (6%). 
 
-**APPENDIX TO ARTICLE PBG** **Foreword**
+## APPENDIX TO ARTICLE PBG
+
+### Foreword
 
 This Appendix sets forth additional provisions applicable to individuals specified in the Articles of this Appendix. In any case where there is a conflict between the Appendix and the main text of the Plan, the Appendix shall govern. 
 
-**Article A (Article IPO) – Transferred and Transition Individuals**
+## Article A (Article IPO) – Transferred and Transition Individuals
 
-   - IPO. 1 _**Scope**_ . This Article supplements the main portion of the Plan document with respect to the rights and benefits of Transferred and Transition Individuals following the spinoff of this Plan from the PepsiCo Prior Plan. IPO.2 _**Definitions**_ . This section provides definitions for the following words or phrases in boldface and underlined. Where they appear in this Article with initial capitals they shall have the meaning set forth below. Except as otherwise provided in this Article, all defined terms shall have the meaning given to them in Section 2.1 of the Plan.
+### IPO.1 Scope
 
-   - (a) **Agreement** . The 1999 Employee Programs Agreement between PepsiCo, Inc. and The Pepsi Bottling Group, Inc.
+This Article supplements the main portion of the Plan document with respect to the rights and benefits of Transferred and Transition Individuals following the spinoff of this Plan from the PepsiCo Prior Plan. IPO.2 _**Definitions**_ . This section provides definitions for the following words or phrases in boldface and underlined. Where they appear in this Article with initial capitals they shall have the meaning set forth below. Except as otherwise provided in this Article, all defined terms shall have the meaning given to them in Section 2.1 of the Plan.
+
+(a) Agreement
+
+The 1999 Employee Programs Agreement between PepsiCo, Inc. and The Pepsi Bottling Group, Inc.
 
 - 180 - 
 
-   - (b) **Close of the Distribution Date** . This term shall take the definition given it in the Agreement.
+- (b) Close of the Distribution Date
 
-   - (c) **Transferred Individual** . This term shall take the definition given it in the Agreement.
+This term shall take the definition given it in the Agreement.
 
-   - (d) **Transition Individual** . This term shall take the definition given it in the Agreement.
+- (c) Transferred Individual
 
-   - IPO. 3 _**Rights of Transferred and Transition Individuals**_ . All Transferred Individuals who participated in the PepsiCo Prior Plan immediately prior to the Effective Date shall be Participants in this Plan as of the Effective Date. The spinoff of this Plan from the PepsiCo Prior Plan shall not result in a break in the Service or Credited Service of Transferred Individuals or Transition Individuals. Notwithstanding anything in the Plan to the contrary, and as provided in Section 2.04 of the Agreement, all service, all compensation, and all other benefit-affecting determinations for Transferred Individuals that, as of the Close of the Distribution Date, were recognized under the PepsiCo Prior Plan for periods immediately before such date, shall as of the Effective Date continue to receive full recognition, credit and validity and shall be taken into account under this Plan as if such items occurred under this Plan, except to the extent that duplication of benefits would result. Similarly, notwithstanding anything to the contrary in the Plan, the benefits of Transition Individuals shall be determined in accordance with section 8.02 of the Agreement.
+This term shall take the definition given it in the Agreement.
 
-**Article B – Special Cases**
+- (d) Transition Individual
+
+This term shall take the definition given it in the Agreement.
+
+## IPO.3 Rights of Transferred and Transition Individuals
+
+All Transferred Individuals who participated in the PepsiCo Prior Plan immediately prior to the Effective Date shall be Participants in this Plan as of the Effective Date. The spinoff of this Plan from the PepsiCo Prior Plan shall not result in a break in the Service or Credited Service of Transferred Individuals or Transition Individuals. Notwithstanding anything in the Plan to the contrary, and as provided in Section 2.04 of the Agreement, all service, all compensation, and all other benefit-affecting determinations for Transferred Individuals that, as of the Close of the Distribution Date, were recognized under the PepsiCo Prior Plan for periods immediately before such date, shall as of the Effective Date continue to receive full recognition, credit and validity and shall be taken into account under this Plan as if such items occurred under this Plan, except to the extent that duplication of benefits would result. Similarly, notwithstanding anything to the contrary in the Plan, the benefits of Transition Individuals shall be determined in accordance with section 8.02 of the Agreement.
+
+### Article B – Special Cases
 
    - B. 1    This Article B of the Appendix supplements the main portion of the Plan document and is effective as of January 28, 2002.
-
-- 181 - 
 
    - B. 2    This Article shall apply to certain highly compensated management individuals who were (i) hired as a Band IV on or about January 28, 2002 and (ii) designated by the Senior Vice President of Human Resources as eligible to receive a supplemental retirement benefit (the “Participant”).
 
@@ -19067,13 +19050,11 @@ This Appendix sets forth additional provisions applicable to individuals specifi
 
    - B. 4    In the event of the death of such individual while employed by the Company, the individual’s beneficiary shall be entitled to a death benefit as provided in Article V, determined based on the formula for the total benefit described above, and reduced by the survivor benefits payable by the Salaried Plan and the other plans described above. The net amount so determined shall be payable in a Single Lump Sum as prescribed in Article V.
 
-   - B. 5    The Plan Administrator shall, in its sole discretion, adjust any benefit determined pursuant to this Article B to the extent necessary or appropriate to ensure that such individual’s benefit in the aggregate does not exceed the Company’s intent to ensure overall pension - 182 -
+   - B. 5    The Plan Administrator shall, in its sole discretion, adjust any benefit determined pursuant to this Article B to the extent necessary or appropriate to ensure that such individual’s benefit in the aggregate does not exceed the Company’s intent to ensure overall pension
 
 benefits equal to the benefits that would be applicable if such individual had been continuously employed by the Company for the period commencing September 10, 1990 to the date of Separation from Service. 
 
-- 183 - 
-
-**Article C – Transfers From/To PepsiCo, Inc.**
+## Article C – Transfers From/To PepsiCo, Inc
 
 The provisions of this Article C shall only apply to transfers that occur before February 26, 2010 and shall not apply to any transfer to PepsiCo, Inc. or from PepsiCo, Inc. that occurs on or after such date. 
 
@@ -19083,15 +19064,13 @@ The provisions of this Article C shall only apply to transfers that occur before
 
    - C. 3 Transfers to PepsiCo, Inc. The PEP Pension of a Participant who transfers to PepsiCo, Inc. shall be determined as of the date of such transfer in the manner described in Article IV, including the Salaried Plan offset regardless of whether such benefit under the Salaried Plan is transferred to a qualified plan of PepsiCo, Inc. On such Participant’s Separation from Service, the PEP Pension so determined shall become payable in accordance with Article VI.
 
-   - C. 4 Transfers from PepsiCo., Inc. The PEP Pension of a Participant who transfers from PepsiCo, Inc. shall be determined as of the date of the Participant’s Separation from Service in the manner described in Article IV and shall be reduced by any benefit accrued by the Participant under any qualified or nonqualified plan maintained by PepsiCo, Inc. that is based on credited service included in the determination of the Participant’s benefit under this Plan so that the total benefit from all plans does not exceed the benefit the Participant would have received had the Participant been solely employed by the Company. Notwithstanding the - 184 -
+   - C. 4 Transfers from PepsiCo., Inc. The PEP Pension of a Participant who transfers from PepsiCo, Inc. shall be determined as of the date of the Participant’s Separation from Service in the manner described in Article IV and shall be reduced by any benefit accrued by the Participant under any qualified or nonqualified plan maintained by PepsiCo, Inc. that is based on credited service included in the determination of the Participant’s benefit under this Plan so that the total benefit from all plans does not exceed the benefit the Participant would have received had the Participant been solely employed by the Company. Notwithstanding the
 
 preceding, effective for transfers on or after January 1, 2005, in no event shall such benefit be less than the benefit the Participant would have received based solely on the Participant’s employment by the Company. The Plan Administrator shall make such adjustments as the Plan Administrator deems appropriate to effectuate the intent of this Section C.4. 
 
-- 185 - 
+## APPENDIX ARTICLE PAC
 
-**APPENDIX ARTICLE PAC**
-
-**Guiding Principles Regarding Benefit Plan Committee Appointments**
+## Guiding Principles Regarding Benefit Plan Committee Appointments
 
    - PAC. 1 Scope. This Article PAC supplements the PepsiCo Pension Equalization Plan document with respect to
 
@@ -19119,17 +19098,11 @@ guidelines will also apply to the PAC membership:
 
 the Controller, CFO and CHRO, in connection with his identification of well qualified candidates for committee membership. 
 
-- 186 - 
-
    - PAC. 5 Role of the Guidelines. The foregoing guidelines in this Article PAC are intended to guide the Chair of the PAC in the selection of committee members; however, they neither diminish nor enlarge the legal standard applicable under ERISA.
 
-- 187 - 
+# PEPSICO EXECUTIVE INCOME DEFERRAL PROGRAM
 
-**Exhibit 10.14** 
-
-**PEPSICO EXECUTIVE INCOME DEFERRAL PROGRAM**
-
-**Plan Document for the 409A Program Amended and Restated Effective as of January 1, 2022** 
+## Plan Document for the 409A Program Amended and Restated Effective as of January 1, 2022
 
 <table>
   <thead>
@@ -19534,9 +19507,7 @@ the Controller, CFO and CHRO, in connection with his identification of well qual
   </tbody>
 </table>
 
--iii- 
-
-### ARTICLE I – INTRODUCTION
+## ARTICLE I – INTRODUCTION
 
 PepsiCo, Inc. (the “Company”) established the PepsiCo Executive Income Deferral Program (the “Plan”) in 1972 to permit eligible executives to defer certain cash awards made under its executive compensation programs. Deferrals under the Plan that were earned and vested on or before December 31, 2004 are governed by a separate set of documents that set forth the preSection 409A terms of the Plan (the “Pre-409A Program”). The terms of the Plan that are applicable to deferrals that are subject to Section 409A, _i.e._ , generally, deferred amounts that are earned or vested after December 31, 2004 (the “409A Program”) are governed by this document. This document sets forth the 409A Program and is effective as of January 1, 2005 (the “Effective Date”). Except as otherwise provided herein, this document reflects the provisions in effect from and after January 1, 2005, and the rights and benefits of individuals who are Participants in the Plan from and after that date (and of those claiming through or on behalf of such individuals) shall be governed by the provisions of this document in the case of actions and events occurring on or after the Effective Date with respect to deferrals that are subject to the 409A Program. For purposes of the preceding sentence, the term “actions and events” shall include all distribution trigger events and dates. The rights and benefits with respect to persons who only participated in the Plan prior to January 1, 2005 shall be governed by the applicable provisions of the Pre-409A Program documents that were in effect at such time, and shall not be governed by the 409A Program documents. 
 
@@ -19546,9 +19517,7 @@ This document for the 409A Program was most recently restated effective as of Ja
 
 For federal income tax purposes, the Plan is intended to be a nonqualified deferred compensation plan that is unfunded and unsecured. For purposes of ERISA, the Plan is intended to be a plan described in Sections 201(2) , 301(a)(3) and 401(a)(1) of ERISA providing unfunded benefits to a select group of management or highly compensated employees. 
 
-1 
-
-### ARTICLE II – DEFINITIONS
+## ARTICLE II – DEFINITIONS
 
 When used in this Plan, the following underlined terms shall have the meanings set forth below unless a different meaning is plainly required by the context: 
 
@@ -19570,7 +19539,7 @@ The person or persons (including a trust or trusts) properly designated by a Par
 
 ### 2. 05 Bonus Compensation:
 
-Effective on or after May 21, 2010, an Eligible Executive’s adjusted annual incentive award under his or her Employer’s annual incentive plan or the Executive Incentive Compensation Plan, to the extent payable in U.S. dollars from an Employer’s U.S. payroll (or as otherwise payable, with respect to currency and payroll, and provided in Section 3.01(a) in connection with certain events). The Plan Administrator shall be entitled to specify on the Election Form applicable to a particular deferral election (or in other documentation applicable to such deferral election) whether and to what extent (if at all) amounts will be subtracted from a gross annual incentive award to arrive at an adjusted annual incentive award. Any such 2
+Effective on or after May 21, 2010, an Eligible Executive’s adjusted annual incentive award under his or her Employer’s annual incentive plan or the Executive Incentive Compensation Plan, to the extent payable in U.S. dollars from an Employer’s U.S. payroll (or as otherwise payable, with respect to currency and payroll, and provided in Section 3.01(a) in connection with certain events). The Plan Administrator shall be entitled to specify on the Election Form applicable to a particular deferral election (or in other documentation applicable to such deferral election) whether and to what extent (if at all) amounts will be subtracted from a gross annual incentive award to arrive at an adjusted annual incentive award. Any such 
 
 specifications shall be made in writing no later than the date on which such deferral election becomes irrevocable pursuant to Section 4.02, and any amount to be subtracted that is variable shall be permitted to be variable under Section 409A. Any changes in such specifications from those in effect on January 1, 2019 shall be subject to Section 7.06. 
 
@@ -19602,8 +19571,6 @@ The form prescribed by the Plan Administrator on which a Participant specifies t
 
 The term, Eligible Executive, shall have the meaning given to it in Section 3.01(a). 
 
-3 
-
 ### 2. 13 Employer:
 
 The Company and each division, subsidiary or affiliate of the Company (if any) that is currently designated as an Employer for purposes of this Plan by the Plan Administrator. An entity shall be an Employer hereunder only for the period that it is (i) so designated by the Plan Administrator, and (ii) a member of the PepsiCo Organization. Appendix Article A sets forth the list of the primary Employers as of January 20, 2022. 
@@ -19632,7 +19599,7 @@ Effective from and after January 1, 2011, the individuals identified in accordan
 
 - (3) A 1-percent owner of any member of the PepsiCo Organization having annual compensation of more than $150,000.
 
-For purposes of (1) above, no more than 50 employees identified in the order of their annual compensation shall be treated as officers. For purposes of this Section, annual compensation means compensation as defined in Treas. Reg. §1.415(c)-2(a), without regard to Treas. Reg. §§1.415(c)-2(d), 1.415(c)-2(e), and 1.415(c)-2(g). The Plan Administrator shall determine who is a Key Employee in accordance with Code Section 416(i) and the applicable regulations and other guidance of general applicability issued thereunder or in connection therewith (provided, that Code Section 416(i)(5) shall not apply in making such determination), 4
+For purposes of (1) above, no more than 50 employees identified in the order of their annual compensation shall be treated as officers. For purposes of this Section, annual compensation means compensation as defined in Treas. Reg. §1.415(c)-2(a), without regard to Treas. Reg. §§1.415(c)-2(d), 1.415(c)-2(e), and 1.415(c)-2(g). The Plan Administrator shall determine who is a Key Employee in accordance with Code Section 416(i) and the applicable regulations and other guidance of general applicability issued thereunder or in connection therewith (provided, that Code Section 416(i)(5) shall not apply in making such determination), 
 
 and provided further that the applicable year shall be determined in accordance with Section 409A and that any modification of the foregoing definition that applies under Section 409A shall be taken into account. 
 
@@ -19660,8 +19627,6 @@ The 52/53 week fiscal year of the Employer for which Bonus Compensation is calcu
 
 The PepsiCo Executive Income Deferral Program, the plan set forth herein and in the Pre-409A Program documents, as it may be amended and restated from time to time (subject to the limitations on amendment that are applicable hereunder and under the Pre-409A Program). 
 
-5 
-
 ### 2. 23 Plan Administrator:
 
 The Compensation Committee of the Board of Directors of the Company (Compensation Committee) or its delegate or delegates, which shall have the authority to administer the Plan as provided in Article VII. In addition, the Company’s Senior Vice President, Total Rewards (previously titled, the Senior Vice President, Compensation and Benefits), or if such position is vacant or eliminated, the person who is acting to fulfill the majority of the duties of the position (or plurality of the duties if no one is fulfilling a majority) as such duties existed immediately prior to the vacancy or the position elimination, is delegated the responsibility for the operational administration of the Plan, including the powers set forth in Section 7.03 and Article VIII. In turn, such Senior Vice President, has the authority to re-delegate operational responsibilities to other persons or parties. Accordingly, such Senior Vice President, has re-delegated certain operational responsibilities to the Recordkeeper. However, references in this document to the Plan Administrator shall be understood as referring to the Compensation Committee, such Senior Vice President, and those delegated by such Senior Vice President, other than the Recordkeeper. All delegations made under the authority granted by this Section are subject to Section 7.06. 
@@ -19682,13 +19647,13 @@ Any of the following activities engaged in, directly or indirectly, by a Partici
 
    - (b) The Participant, directly or indirectly (including through someone else acting on the Participant’s recommendation, suggestion, identification or advice), soliciting any PepsiCo Organization employee to leave the PepsiCo Organization’s employment or to accept any position with any other entity.
 
-   - (c) The Participant using or disclosing to anyone any confidential information regarding the PepsiCo Organization other than as necessary in his or her position with the PepsiCo Organization. Such confidential information shall include all nonpublic information the Participant acquired as a result of his or her positions with the PepsiCo Organization which might be of any value to a competitor of the PepsiCo Organization, or which might cause any economic loss or substantial embarrassment to the PepsiCo Organization or its customers, bottlers, distributors or suppliers if used or disclosed. Examples of such confidential information include non-public information about the PepsiCo Organization’s customers, suppliers, distributors and potential acquisition targets; its business operations and structure; its product lines, formulas and pricing; its processes, machines and inventions; its research and know-how; its financial data; and its plans and strategies. Notwithstanding anything contained in the Plan or in any other confidentiality provision to which the Participant may be subject as a result of the 6
+   - (c) The Participant using or disclosing to anyone any confidential information regarding the PepsiCo Organization other than as necessary in his or her position with the PepsiCo Organization. Such confidential information shall include all nonpublic information the Participant acquired as a result of his or her positions with the PepsiCo Organization which might be of any value to a competitor of the PepsiCo Organization, or which might cause any economic loss or substantial embarrassment to the PepsiCo Organization or its customers, bottlers, distributors or suppliers if used or disclosed. Examples of such confidential information include non-public information about the PepsiCo Organization’s customers, suppliers, distributors and potential acquisition targets; its business operations and structure; its product lines, formulas and pricing; its processes, machines and inventions; its research and know-how; its financial data; and its plans and strategies. Notwithstanding anything contained in the Plan or in any other confidentiality provision to which the Participant may be subject as a result of the
 
 Participant’s employment with the Company, nothing shall prohibit the Participant from, without notice to the Company, communicating with government agencies, providing information to government agencies, participating in government agency investigations, filing a complaint with government agencies, or testifying in government agency proceedings concerning any possible legal violations or from receiving any monetary award for information provided to a government agency. The Company nonetheless asserts and does not waive its attorney-client privilege over any information appropriately protected by the privilege. Further, notwithstanding any confidentiality provision to which the Participant may be subject, the Participant is hereby advised as follows pursuant to the Defend Trade Secrets Act: “An individual shall not be held criminally or civilly liable under any Federal or State trade secret law for the disclosure of a trade secret that (A) is made (i) in confidence to a Federal, State, or local government official, either directly or indirectly, or to an attorney; and (ii) solely for the purpose of reporting or investigating a suspected violation of law; or (B) is made in a complaint or other document filed in a lawsuit or other proceeding, if such filing is made under seal.  An individual who files a lawsuit for retaliation by an employer for reporting a suspected violation of law may disclose the trade secret to the attorney of the individual and use the trade secret information in the court proceeding, if the individual (A) files any document containing the trade secret under seal; and (B) does not disclose the trade secret, except pursuant to court order.” 
 
    - (d) The Participant engaging in any acts that are considered to be contrary to the PepsiCo Organization’s best interests, including violating the Company’s Code of Conduct, engaging in unlawful trading in the securities of the Company or of any other company based on information gained as a result of his or her employment with the PepsiCo Organization, or engaging in any other activity which constitutes gross misconduct.
 
-#### (e)     The Participant engaging in any activity that constitutes fraud.
+(e)     The Participant engaging in any activity that constitutes fraud.
 
 For purposes of this Section, “Covered Products” shall mean any product that falls into one or more of the following categories, so long as the PepsiCo Organization is producing, marketing, selling or licensing such product anywhere in the world – in-home and commercial beverage systems, carbon dioxide gas cylinders, carbon dioxide gas refills, consumables, ready to drink beverages, including without limitation carbonated soft drinks, tea, water, juices, juice drinks, juice products, sports drinks, coffee drinks and energy drinks; dairy products; snacks, including salty snacks, fruit and vegetable snacks, dips and spreads, sweet snacks, meat snacks, granola, nutrition and cereal bars, and cookies; hot cereals and ready-to-eat cereals; pancake mixes and pancake syrup; grain-based food products; pasta products; sports performance nutrition products, including without limitation, energy, protein, carbohydrate, nutrition and meal replacement chews, bars, powders, gels, drinks or drink mixes; or any product or service that the Participant had reason to know was under development by the PepsiCo Organization during the Participant’s employment with the PepsiCo Organization. 
 
@@ -19697,8 +19662,6 @@ For purposes of this Section, “Participation” shall be construed broadly to 
 ### 2. 27 Recordkeeper:
 
 For any designated period of time, the party that is delegated the responsibility, pursuant to the authority granted in the definition of Plan Administrator, to maintain the records of Participant Accounts, process Participant transactions and perform other duties in accordance with any procedures and rules established by the Plan Administrator. 
-
-7 
 
 ### 2. 28 Retirement:
 
@@ -19722,7 +19685,7 @@ A specific date selected by an Eligible Executive that triggers a lump sum payme
 
 ### 2. 33 Unforeseeable Emergency:
 
-A severe financial hardship to the Participant resulting from (a) an illness or accident of the Participant, the Participant’s spouse, the Participant’s Beneficiary or the Participant’s dependent (as defined in Code Section 152(a), without regard to Code Sections 152(b)(1) , 8
+A severe financial hardship to the Participant resulting from (a) an illness or accident of the Participant, the Participant’s spouse, the Participant’s Beneficiary or the Participant’s dependent (as defined in Code Section 152(a), without regard to Code Sections 152(b)(1) , 
 
 152(b)(2) and 152(d)(1) (B)); (b) loss of the Participant’s property due to casualty; or (c) any other similar extraordinary and unforeseeable circumstances arising as a result of events beyond the control of the Participant. The Recordkeeper shall determine the occurrence of an Unforeseeable Emergency in accordance with Treas. Reg. §1.409A-3(i)(3) and any guidelines established by the Plan Administrator. 
 
@@ -19734,13 +19697,11 @@ The United States, comprised of its 50 states, the District of Columbia, and its
 
 Each business day, as determined by the Recordkeeper, as of which Participant Accounts are valued in accordance with Plan procedures that are currently in effect. In accordance with procedures that may be adopted by the Plan Administrator, any current Valuation Date may be changed. 
 
-9 
-
-### ARTICLE III – ELIGIBILITY AND PARTICIPATION
+## ARTICLE III – ELIGIBILITY AND PARTICIPATION
 
 ### 3. 01 Eligibility to Participate:
 
-#### (a) In General.
+(a) In General.
 
 - (1) For Plan Years beginning on and after January 1, 2020 and for Performance Periods ending after December 31, 2019, subject to Paragraph (3) below, Section 3.05 and the election timing rules of Article IV, an Executive shall be eligible to defer compensation under the Plan if, as of the beginning of, and throughout the entirety of, the Deferral Window (as described in Section 4.02) related to an upcoming Plan Year and Performance Period, the Executive (i) is classified by the Employer as an Executive in a Leadership Group (“LG”) 2 or above position, (ii) had been employed by an Employer during at least a portion of each of the two Plan Years preceding the deferral election, (iii) earned total compensation from the Employers (including Base Compensation and Bonus Compensation) of more than $200,000 in each such Plan Year (as reflected in the books and records of the Employers), and (iv) has a reasonable expectation of earning more than $200,000 in total compensation (including Base Compensation and Bonus Compensation) in the Plan Year of the deferral election.
 
@@ -19780,13 +19741,13 @@ For purposes of Article IX (amendment and termination of the Plan), an Employer�
 
 For Plan Years beginning on and after January 1, 2020 and for Performance Periods ending after December 31, 2019, in the case of an Executive who is an officer within the meaning of Section 16 of the Securities Exchange Act of 1934 (“Section 16 Officer”), the Section 16 Officer’s eligibility shall be determined under the Plan’s provisions in effect as of January 1, 2019 (the “2019 Provisions”) and as provided in this Section 3.05. To provide for the eligibility of Section 16 Officers under the 2019 Provisions consistently with the Plan’s exemption under Section 4(a)(2) of the Securities Act of 1933 pursuant to Rule 506 of Regulation D, the Plan will comply with Rule 506(b), including by determining the Section 16 Officers’ accredited investor status using any basis permissible under Rule 506(b) (notwithstanding anything to the contrary in Section 3.01(a)(1) ). In addition, in the case of a Section 16 Officer who becomes newly eligible for the Plan under circumstances that qualify for the special 30day election period permitted by Treasury Regulation § 1.409A-2(a)(7) , the Section 16 Officer shall be entitled to make a deferral election for Base Compensation during a 30-day election period pursuant to the 2019 Provisions. 
 
-### ARTICLE IV – DEFERRAL OF COMPENSATION
+## ARTICLE IV – DEFERRAL OF COMPENSATION
 
 ### 4. 01 Deferral Election:
 
    - (a) Deferrals of Base Compensation. Effective on or after January 1, 2010, each Eligible Executive may make an election to defer under the Plan any whole percentage up to 75% of his or her Base Compensation in the manner described in Section 4.02. The Plan Administrator shall be entitled to specify on the Election Form applicable to a particular deferral election (or in other documentation applicable to such deferral election) a lower percentage limitation on the amount of Base Compensation that may be deferred pursuant to such deferral election. Any such specification shall be made in writing no later than the date on which such deferral election becomes irrevocable pursuant to Section 4.02. Any changes in such specification from that in effect on January 1, 2019 shall be subject to Section 7.06.
 
-#### (b)    Deferrals of Bonus Compensation.
+(b)    Deferrals of Bonus Compensation.
 
 - (1) General Rules. Effective on or after May 21, 2010, each Eligible Executive may make an election to defer under the Plan any whole percentage up to 100% of his or her Bonus Compensation in the manner described in Section 4.02. The Plan Administrator shall be entitled to specify on the Election Form applicable to a particular deferral election (or in other documentation applicable to such deferral election) a lower percentage limitation on the amount of Bonus Compensation that may be deferred pursuant to such deferral election. Any such specification shall be made in writing no later than the date on which such deferral election becomes irrevocable pursuant to Section 4.02. Any changes in such specification from that in effect on January 1, 2019 shall be subject to Section 7.06.
 
@@ -19800,17 +19761,17 @@ period under Section 4.03, the form of payment under Section 4.04, and any other
 
 ### 4. 02 Time and Manner of Deferral Election:
 
-#### (a) Deferrals of Base Compensation.
+(a) Deferrals of Base Compensation.
 
 - (1) In General. An Eligible Executive must make a deferral election for a Plan Year with respect to Base Compensation no later than December 31 of the year prior to the Plan Year in which the Base Compensation would otherwise be paid. If December 31(or an applicable earlier day) is not a business day, the deadline shall be the nearest preceding day that is a business day. Notwithstanding the prior two sentences, the Plan Administrator may adopt policies and procedures that encourage or require earlier submission of Election Forms, but in which case any requirement for the earlier submission of an Election Form may be waived (but not beyond the date specified by the first sentence of this subsection) by the Plan Administrator to prevent undue hardship for one or more Eligible Executives. Any changes in such policies or procedures or in established waiver practices from those applicable on January 1, 2019 shall be subject to Section 7.06.
 
 - (2) Mid-Year Elections for Plan Years Before 2020. For Plan Years ending before January 1, 2020, subject to the last sentence of Section 3.01(a)(2) and (for later Plan Years) Section 3.05, an individual who newly becomes an Eligible Executive will have 30 days from the date the individual becomes an Eligible Executive to make a deferral election with respect to Base Compensation that is earned for services performed after the election is received (the “30Day Election Period”). The 30-Day Election Period may be used to make an election for Base Compensation that otherwise would be paid in the Plan Year in which the individual becomes an Eligible Executive. In addition, the 30-Day Election Period may be used to make an election for Base Compensation that would otherwise be paid in the next Plan Year ( _i.e._ , the Plan Year following when the individual becomes an Eligible Executive), if the individual becomes an Eligible Executive not later than December 31 of a Plan Year. Thus, if a Base Compensation deferral election for a Plan Year is made in reliance on the 30-day rule, then the Plan Administrator shall apply the restriction that the election may only apply to Base Compensation earned for services performed after the date the election is received by the Recordkeeper.
 
-#### (b)    Deferrals of Bonus Compensation.
+(b)    Deferrals of Bonus Compensation.
 
 - (1) Performance Periods Ending After 2019. In the case of an Eligible Executive’s Bonus Compensation that relates to a Performance Period ending after December 31, 2019, an Eligible Executive must make a deferral election with respect to such Bonus Compensation no later than the last day of the Company’s fiscal year that ends just before such Performance Period. If the last day of such fiscal year is not a business day, the deadline shall be the nearest preceding day that is a business day.
 
-- (2) Performance Periods Ending Before 2019. In the case of an Eligible Executive’s Bonus Compensation that relates to a Performance Period ending before December 31, 2019, the Eligible Executive must make a deferral election with respect to his or her Bonus Compensation at least six months prior to the end of the Performance Period for which the applicable Bonus Compensation is paid, and this election will be the Eligible Executive’s bonus deferral election for the Plan Year to 14
+- (2) Performance Periods Ending Before 2019. In the case of an Eligible Executive’s Bonus Compensation that relates to a Performance Period ending before December 31, 2019, the Eligible Executive must make a deferral election with respect to his or her Bonus Compensation at least six months prior to the end of the Performance Period for which the applicable Bonus Compensation is paid, and this election will be the Eligible Executive’s bonus deferral election for the Plan Year to
 
 which the Performance Period relates. This applies to both continuing Eligible Executives and individuals who newly become Eligible Executives. Accordingly, if an individual becomes an Eligible Executive during a Plan Year as a result of a promotion and is eligible to defer Bonus Compensation under Section 4.01(b) for such Plan Year, such Eligible Executive must make a deferral election for Bonus Compensation that is earned for the Performance Period that relates to the Plan Year in which he or she is promoted at least six months prior to the end of the applicable Performance Period. 
 
@@ -19818,9 +19779,9 @@ Notwithstanding the provisions in Paragraphs (1) and (2) above, the Plan Adminis
 
    - (c) General Provisions. For purposes of Section 3.01 and this Section 4.02, the period of time to make the deferral election described under (a) and (b) above shall be referred to as the Deferral Window. A separate deferral election under (a) or (b) above must be made by an Eligible Executive for each category of a Plan Year’s compensation that is eligible for deferral. If a properly completed and executed Election Form is not actually received by the Recordkeeper (or, if authorized, the Plan Administrator) by the deadline applicable under Subsections (a) and (b) above, the Eligible Executive will be deemed to have elected not to defer any Base Compensation or Bonus Compensation, as the case may be, for the applicable Plan Year or the Performance Period that relates to the Plan Year, as applicable. Except as provided below in this Subsection, an election is irrevocable by the Eligible Employee once received and determined by the Plan Administrator to be properly completed (and such determination shall be made not later than the last date for making the election in question). The Plan Administrator, however, may cancel elections that have been received and accepted for a Plan Year up until the end of the day on the December 31 that precedes such Plan Year . Increases or decreases in the amount or percentage a Participant has elected to defer shall not be permitted during a Plan Year. Notwithstanding the foregoing, effective as of January 1, 2008, if a Participant receives a hardship distribution under a cash or deferred profit sharing plan that is sponsored by a member of the PepsiCo Organization and such plan requires that deferrals under such plan be suspended for a period of time following the hardship distribution, the Plan Administrator may cancel the Participant’s deferral election under this Plan so that no deferrals shall be made during such suspension period. If an election is cancelled because of a hardship distribution in accordance with the prior sentence, such cancellation shall permanently apply to the deferral election or elections for any Plan Year covered by such suspension period and the Participant will only be eligible to make a new deferral election for the Plan Year that begins after the end of the suspension period, and such new election shall be made in accordance with the rules of Sections 4.01 and 4.02.
 
-#### (d)    Beneficiaries.
+(d)    Beneficiaries.
 
-- (1) A Participant may designate on the Election Form (or in some other manner authorized by the Plan Administrator) one or more Beneficiaries to receive payment, in the event of his or her death, of the amounts credited to his or her Account; provided that, to be effective, any Beneficiary designation must be in writing, signed by the Participant, and must meet such other standards (including any requirement for spousal consent) as the Plan Administrator or Recordkeeper shall require from time to time. The Beneficiary designation must also be filed with the Recordkeeper (or the Plan Administrator for periods prior to June 3, 2002) prior to the Participant’s death. An incomplete Beneficiary designation, as determined by the Recordkeeper or Plan 15
+- (1) A Participant may designate on the Election Form (or in some other manner authorized by the Plan Administrator) one or more Beneficiaries to receive payment, in the event of his or her death, of the amounts credited to his or her Account; provided that, to be effective, any Beneficiary designation must be in writing, signed by the Participant, and must meet such other standards (including any requirement for spousal consent) as the Plan Administrator or Recordkeeper shall require from time to time. The Beneficiary designation must also be filed with the Recordkeeper (or the Plan Administrator for periods prior to June 3, 2002) prior to the Participant’s death. An incomplete Beneficiary designation, as determined by the Recordkeeper or Plan
 
 Administrator, shall be void and of no effect. In determining whether a Beneficiary designation that relates to the Plan is in effect, unrevoked designations that were received under the Pre-409A Program or prior to the Effective Date shall be considered. A Beneficiary designation of an individual by name remains in effect regardless of any change in the designated individual’s relationship to the Participant. Solely for periods prior to June 3, 2002, a Beneficiary designation solely by relationship (for example, a designation of “spouse,” that does not give the name of the spouse) shall designate whoever is the person in that relationship to the Participant at his or her death. However, any Beneficiary designation submitted to the Recordkeeper from and after June 3, 2002 that only specifies a Beneficiary by relationship shall not be considered an effective Beneficiary designation and shall be void and of no effect. If more than one Beneficiary is specified and the Participant fails to indicate the respective percentage applicable to two or more Beneficiaries, then each Beneficiary for whom a percentage is not designated will be entitled to an equal share of the portion of the Account (if any) for which percentages have not been designated. At any time, a Participant may change a Beneficiary designation for his or her Account in a writing that is signed by the Participant and filed with the Recordkeeper prior to the Participant’s death, and that meets such other standards as the Plan Administrator shall require from time to time. An individual who is otherwise a Beneficiary with respect to a Participant’s Account ceases to be a Beneficiary when all payments have been made from the Account. 
 
@@ -19870,9 +19831,7 @@ A Second Look Election will be void and payment will be made based on the Partic
 
    - (c) Plan Administrator’s Role. Each Participant has the sole responsibility to elect a Second Look Election by contacting the Recordkeeper (or, if authorized, the Plan Administrator) and to comply with the requirements of this Section. The Plan Administrator or the Recordkeeper may provide a notice of a Second Look Election opportunity to some or all Participants, but the Recordkeeper and Plan Administrator are under no obligation to provide such notice (or to provide it to all Participants, in the event a notice is provided only to some Participants). The Recordkeeper and the Plan Administrator have no discretion to waive or otherwise modify any requirement for a Second Look Election set forth in this Section or in Section 409A.
 
-19 
-
-### ARTICLE V – INTERESTS OF PARTICIPANTS
+## ARTICLE V – INTERESTS OF PARTICIPANTS
 
 ### 5. 01 Accounting for Participants’ Interests:
 
@@ -19886,7 +19845,7 @@ A Second Look Election will be void and payment will be made based on the Partic
 
    - (b) Phantom Investment Options. The basic phantom investment options offered under the Plan are as follows:
 
-- (1) Phantom PepsiCo Common Stock Fund. Participant Accounts invested in this phantom option are adjusted to reflect an investment in the PepsiCo Common Stock Fund, which is offered under the PepsiCo Savings Plan (or such similar plan as may be offered by the Company from time to time). An amount deferred or transferred into this option is converted to phantom units in the PepsiCo Common Stock Fund by dividing such amount by the NAV of the fund on the Valuation Date as of which the amount is treated as invested in this option by the Plan Administrator. A Participant’s interest in the Phantom PepsiCo Common Stock Fund is valued as of a Valuation Date (or a Distribution Valuation Date) by multiplying the number of phantom units credited to the Participant’s Account on such date by the NAV of a unit in the PepsiCo Common Stock Fund on such date. If shares of PepsiCo Common Stock change by reason of any stock split, stock dividend, recapitalization, merger, consolidation, spin-off, combination or exchange of shares or other any other corporate change treated as subject to this provision by the Plan Administrator, such equitable adjustment shall be made in the number and kind of phantom units credited to an Account or subaccount as the Plan Administrator may determine to be necessary or appropriate. In no event will shares of PepsiCo Common Stock actually be purchased or held under this Plan, and no Participant 20
+- (1) Phantom PepsiCo Common Stock Fund. Participant Accounts invested in this phantom option are adjusted to reflect an investment in the PepsiCo Common Stock Fund, which is offered under the PepsiCo Savings Plan (or such similar plan as may be offered by the Company from time to time). An amount deferred or transferred into this option is converted to phantom units in the PepsiCo Common Stock Fund by dividing such amount by the NAV of the fund on the Valuation Date as of which the amount is treated as invested in this option by the Plan Administrator. A Participant’s interest in the Phantom PepsiCo Common Stock Fund is valued as of a Valuation Date (or a Distribution Valuation Date) by multiplying the number of phantom units credited to the Participant’s Account on such date by the NAV of a unit in the PepsiCo Common Stock Fund on such date. If shares of PepsiCo Common Stock change by reason of any stock split, stock dividend, recapitalization, merger, consolidation, spin-off, combination or exchange of shares or other any other corporate change treated as subject to this provision by the Plan Administrator, such equitable adjustment shall be made in the number and kind of phantom units credited to an Account or subaccount as the Plan Administrator may determine to be necessary or appropriate. In no event will shares of PepsiCo Common Stock actually be purchased or held under this Plan, and no Participant
 
 shall have any rights as a shareholder of PepsiCo Common Stock on account of an interest in this phantom option. 
 
@@ -19898,7 +19857,7 @@ shall have any rights as a shareholder of PepsiCo Common Stock on account of an 
 
    - (a) Deferral Elections. With respect to any deferral election by a Participant, the Participant may use his or her Election Form to allocate the deferral in one percent increments among the phantom investment options then offered by the Plan Administrator. If an Election Form related to an original deferral election specifies phantom investment options for less than 100% of the Participant’s deferral, the Recordkeeper shall allocate the Participant’s deferrals to the Phantom AFR Fund to the extent necessary to provide for investment of 100% of the Participant’s deferral. If an Election Form related to an original deferral election specifies phantom investment options for more than 100% of the Participant’s deferral, the Recordkeeper shall prorate all of the Participant’s investment allocations to the extent necessary to reduce (after rounding to whole percents) the Participant’s aggregate investment percentages to 100%.
 
-   - (b) Fund Transfers. A Participant may reallocate previously deferred amounts in a Deferral Subaccount by properly completing and submitting a fund transfer form provided by the Plan Administrator or Recordkeeper and specifying, in increments permitted by the Plan Administrator, the reallocation of his or her Deferral Subaccount among the phantom investment options then offered by the Plan Administrator for this purpose. (The rules relating to non-paper formats for Election Forms shall also apply to the fund transfer form.) Effective as of January 1, 2020, the increments permitted by the Plan Administrator are whole percentages, whole shares or whole dollars, as specified in the fund transfer forms provided to Participants and authorized by the Plan Administrator. If a fund transfer form provides for investing less than or more than 100% of the Participant’s Deferral Subaccount, it will be void and disregarded. Any transfer form that is not void under the preceding sentence shall be effective as of the Valuation Date next occurring after its receipt by the Recordkeeper, but the Plan Administrator or Recordkeeper 21
+   - (b) Fund Transfers. A Participant may reallocate previously deferred amounts in a Deferral Subaccount by properly completing and submitting a fund transfer form provided by the Plan Administrator or Recordkeeper and specifying, in increments permitted by the Plan Administrator, the reallocation of his or her Deferral Subaccount among the phantom investment options then offered by the Plan Administrator for this purpose. (The rules relating to non-paper formats for Election Forms shall also apply to the fund transfer form.) Effective as of January 1, 2020, the increments permitted by the Plan Administrator are whole percentages, whole shares or whole dollars, as specified in the fund transfer forms provided to Participants and authorized by the Plan Administrator. If a fund transfer form provides for investing less than or more than 100% of the Participant’s Deferral Subaccount, it will be void and disregarded. Any transfer form that is not void under the preceding sentence shall be effective as of the Valuation Date next occurring after its receipt by the Recordkeeper, but the Plan Administrator or Recordkeeper
 
 may also specify a minimum number of days in advance of which such transfer form must be received in order for the form to become effective as of such next Valuation Date. If more than one fund transfer form is received on a timely basis, the form that the Plan Administrator or Recordkeeper determines to be the most recent shall be followed. 
 
@@ -19912,9 +19871,7 @@ A Participant’s interest in the value of his or her Account shall at all times
 
 Effective beginning with deferrals for Bonus Compensation for the 2006 Plan Year and deferrals for Base Compensation for the 2007 Plan Year, and notwithstanding any other provision of this Plan to the contrary, if the Plan Administrator determines that a Participant has engaged in Prohibited Misconduct at any time prior to the second anniversary of his or her Separation from Service, the Participant shall forfeit all current and future net earnings and gains that have been or will be credited to his or her Account under the provisions of Sections 5.01(b) and/or 6.08, and his or her Account balance shall be adjusted to reflect such forfeiture. Accordingly, a Participant who has engaged in Prohibited Misconduct during such period shall only be eligible to receive a distribution of the lesser of: (a) the aggregate amount of his or her Base Compensation and Bonus Compensation deferrals under this Plan that relate to elections made for and after the 2006 Plan Year for Bonus Compensation and the 2007 Plan Year for Base Compensation (the “Affected Deferrals”), or (b) the net value of the Participant’s Affected Deferrals as of the date the Plan Administrator determines that the Participant has engaged in Prohibited Misconduct. 
 
-22 
-
-### ARTICLE VI – DISTRIBUTIONS
+## ARTICLE VI – DISTRIBUTIONS
 
 ### 6. 01 General:
 
@@ -19932,7 +19889,7 @@ The following general rules shall apply for purposes of interpreting the provisi
 
    - (e) Section 6.06 (Distributions on Account of Disability) applies when a Participant becomes Disabled. If a Participant who becomes Disabled dies, Section 6.04 shall take precedence over Section 6.06 to the extent it would result in an earlier distribution of all or part of a Participant’s Account. If a Participant is entitled to receive or is receiving a distribution under Section 6.02, 6.03 or 6.05 at the time of his Disability, Section 6.06 shall take precedence over those sections to the extent Section 6.06 would result in an earlier distribution of all or part of a Participant’s Account.
 
-   - (f) Section 6.07 (Distributions on Account of Unforeseeable Emergency) applies when a Participant incurs an Unforeseeable Emergency prior to when a Participant’s Account is distributed under Sections 6.02 through 6.06. In this case, the provisions of Section 23
+   - (f) Section 6.07 (Distributions on Account of Unforeseeable Emergency) applies when a Participant incurs an Unforeseeable Emergency prior to when a Participant’s Account is distributed under Sections 6.02 through 6.06. In this case, the provisions of Section
 
 - 6. 07 shall take precedence over Sections 6.02 through 6.06 to the extent Section 6.07 would result in an earlier distribution of all or part of a Participant’s Account.
 
@@ -20174,8 +20131,6 @@ The Compensation Committee of the Board of Directors of the Company, or its dele
 
    - (b) This Section is subject to the same restrictions related to compliance with Section 409A that apply to Section 9.01. In accordance with these restrictions, the Company intends to have the maximum discretionary authority to terminate the Plan and make distributions in connection with a Change in Control (as defined in Section 409A), and the maximum flexibility with respect to how and to what extent to carry this out following a Change in Control (as defined in Section 409A) as is permissible under Section 409A. The previous sentence contains the exclusive terms under which a distribution may be made in connection with any change in control with respect to deferrals made under this 409A Program.
 
-37 
-
 ### ARTICLE X – MISCELLANEOUS
 
 ### 10. 01 Limitation on Participant’s Rights:
@@ -20218,39 +20173,33 @@ This Plan inures to the benefit of and is binding upon the parties hereto and th
 
 Whenever, in the Plan Administrator’s opinion, a Participant or Beneficiary entitled to receive any payment hereunder is under a legal disability or is incapacitated in any way so as to be unable to manage his or her financial affairs, the Plan Administrator may direct the Employer to make payments to such person or to the legal representative of such person for his or her benefit, or to apply the payment for the benefit of such person in such manner as the Plan Administrator considers advisable. Any payment in accordance with the provisions of this Section shall be a complete discharge of any liability for the making of such payment to the Participant or Beneficiary under the Plan. 
 
-39 
-
-### ARTICLE XI – SIGNATURE/AUTHENTICATION
+## ARTICLE XI – SIGNATURE/AUTHENTICATION
 
 The 409A Program was first adopted and approved by the Compensation Committee of the Company’s Board of Directors at the Compensation Committee’s duly authorized meeting on November 18, 2005. Pursuant to the direction and authorization of the Compensation Committee of the Company’s Board of Directors at the Compensation Committee’s duly authorized meeting on September 25,2019, this 409A Program document was amended and restated effective as of January 1, 2019. This document is again amended and restated effective as of January 1, 2022. 
 
-### PEPSICO, INC.
+## PEPSICO, INC.
 
 By: /s/ Ronald Schellekens Ronald Schellekens Executive Vice President and Chief Human Resources Officer Date: December 19, 2022 
 
-### LAW AND TAX DEPARTMENT APPROVAL:
+## LAW AND TAX DEPARTMENT APPROVAL:
 
 By:    /s/ Stacy Grindal Stacy Grindal Sr. Legal Director, Compensation and Benefits Counsel Date: December 9, 2022
 
 By: /s/ Christine Griff Christine Griff Vice President, Tax Counsel Tax Department Date: December 9, 2022
 
-40 
-
-### APPENDIX
+## APPENDIX
 
 The following Appendix articles modify particular terms of the Plan. Except as specifically modified in the Appendix, the foregoing main provisions of the Plan shall fully apply in determining the rights and benefits of Eligible Executives, Participants and Beneficiaries (and of any other individual claiming a benefit through or under the foregoing). In the event of a conflict between the Appendix and the foregoing main provisions of the Plan, the Appendix shall govern. 
 
-Appendix 
-
-### APPENDIX ARTICLE A - PARTICIPATING EMPLOYERS
+## APPENDIX ARTICLE A - PARTICIPATING EMPLOYERS
 
 The following members of the PepsiCo Organization have been designated as the primary Employers as of January 20, 2022: 
 
 PepsiCo, Inc. Bare Foods Co. Bottling Group, LLC C&I Leasing, Inc. CytoSport, Inc. FL Transportation Frito Lay North America, Inc. Frito Lay, Inc. Golden Grain Co. Grayhawk Leasing, LLC Health Warrior, Inc. Hillwood Bottling LLC New Bern Transport Corporation Pepsi Logistics Pepsi Northwest Beverages LLC PepsiCo Global Mobility PepsiCo Sales Inc. Pepsi-Cola Advertising & Marketing Pepsi-Cola Finance, LLC Pepsi-Cola Management & Admin Services Pepsi-Cola National Marketing, LLC Pepsi-Cola Sales & Dist, Inc. Pepsi-Cola Technical Ops, Inc. QTG Development, Inc. Quaker Manufacturing LLC Quaker Oats Company Quaker Sales & Distribution, Inc. Rolling Frito Lay Sales LLP SodaStream USA, Inc. Stacy's Pita Chip Company, Inc. SVC Equipment Co. SVC Logistics, Inc. SVC Manufacturing, Inc. The Gatorade Co. 
 
-A-1 
+## APPENDIX ARTICLE B – PBG AND PAS EXECUTIVES
 
-### APPENDIX ARTICLE B – PBG AND PAS EXECUTIVES
+   - B. 1 Purpose. The purpose of this Article is to provide for a “home plan rules” approach for employees who move between, or are newly hired by, a PepsiCo Business, a PBG Business or PAS Business following the merger of The Pepsi Bottling Group, Inc. and PepsiAmericas, Inc. into the Pepsi-Cola Metropolitan Company, Inc., a wholly owned subsidiary the Company, except as provided herein with respect to the deferral of Bonus Compensation under the Plan by PBG Executives and PAS Executives for the 2010 Plan Year. This Article B is effective as of the Effective Time.
 
    - B. 2 Definitions. The definitions listed below apply for purposes of this Article B. Any other defined term used herein shall have the meaning applied to that term in the main portion of the Plan document.
 
@@ -20276,7 +20225,7 @@ A-1
 
    - B. 3 Participating Employers. PBG Businesses and PAS Businesses are not Employers under the Plan, except with respect to:
 
-   - (a) Individuals who are hired by a PAS Business or PBG Business and who were Executives immediately before such date of hire; and B-1
+   - (a) Individuals who are hired by a PAS Business or PBG Business and who were Executives immediately before such date of hire; and
 
    - (b) PAS Executives and PBG Executives who elect to defer their Bonus Compensation under the Plan for the Plan Year beginning January 1, 2010 and later Plan Years.
 
@@ -20288,9 +20237,7 @@ A-1
 
    - B. 5 No Special Rights. Nothing in this Article is intended to override the provisions of Section 3.04 of the Plan or to otherwise confer any rights under the Plan not specifically authorized herein.
 
-B-2 
-
-### APPENDIX ARTICLE C – PARTICIPANTS AFFECTED BY JANUARY 20, 2022 TRANSACTION
+## APPENDIX ARTICLE C – PARTICIPANTS AFFECTED BY JANUARY 20, 2022 TRANSACTION
 
    - C. 1 Scope. This Article C provides for the termination and liquidation, in accordance with Treasury Regulation § 1.409A-3(j)(4) (ix)(B), of the portion of the 409A Program that relates to certain Participants who are affected by the “Closing” of the “Transaction” (as those terms are defined below). This Article is effective as of the Closing.
 
@@ -20308,11 +20255,7 @@ B-2
 
    - C. 4 Distributions. Provided the termination pursuant to Section C.3 above becomes irrevocable, and to carry out the liquidation of the Affected Participants’ entire interests, each Affected Participant will be paid the Participant’s entire unpaid interest under the 409A Program as a single lump sum as of January 1, 2024 and, in any case, not later than January 17, 2024 (and otherwise in full conformity with Treasury Regulation § 1.409A-3(j)(4) (ix)(B)). Such unpaid interest shall include, without limitation, any remaining installments or other distributions from the 409A Program that would otherwise be due and payable at a future date to (or with respect to) the Affected Participant. With respect to the January 1, 2024 distribution date, an Affected Participant’s remaining interest shall be valued in accordance with the 409A Program’s regular valuation rules for lump sum distributions on such date, as these rules are in effect on such date.
 
-C-1 
-
-### EXHIBIT 21
-
-### PEPSICO, INC. SUBSIDIARIES (as of December 31, 2022)
+## PEPSICO, INC. SUBSIDIARIES (as of December 31, 2022)
 
 <table>
   <thead>
@@ -20489,19 +20432,13 @@ C-1
   </tbody>
 </table>
 
-1 
-
 Blue Cloud Distribution of Michigan, Inc. Blue Cloud Distribution of Minnesota, Inc. Blue Cloud Distribution of Mississippi, Inc. Blue Cloud Distribution of Missouri, Inc. Blue Cloud Distribution of Montana, Inc. Blue Cloud Distribution of Nebraska, Inc. Blue Cloud Distribution of Nevada, Inc. Blue Cloud Distribution of New Hampshire, Inc. Blue Cloud Distribution of New Jersey, Inc. Blue Cloud Distribution of New Mexico, Inc. Blue Cloud Distribution of New York, Inc. Blue Cloud Distribution of North Carolina, Inc. Blue Cloud Distribution of North Dakota, Inc. Blue Cloud Distribution of Ohio, Inc. Blue Cloud Distribution of Oklahoma, Inc. Blue Cloud Distribution of Oregon, Inc. Blue Cloud Distribution of Pennsylvania, Inc. Blue Cloud Distribution of Rhode Island, Inc. Blue Cloud Distribution of South Carolina, Inc. Blue Cloud Distribution of South Dakota, Inc. Blue Cloud Distribution of Tennessee, Inc. Blue Cloud Distribution of Texas, Inc. Blue Cloud Distribution of Utah, Inc. Blue Cloud Distribution of Vermont, Inc. Blue Cloud Distribution of Virginia, Inc. Blue Cloud Distribution of Washington, Inc. Blue Cloud Distribution of Wisconsin, Inc. Blue Cloud Distribution, Inc. Blue Ridge Sales, LLC Bluebird Foods Limited Bluecan Holdings Unlimited Company Bokomo (Botswana) Proprietary Limited Bokomo Zambia Limited Boquitas Fiestas S.R.L. Boquitas Fiestas, LLC Bottling Group Financing, LLC Bottling Group Holdings, LLC Bottling Group, LLC Bronte Industries, Ltd BUG de Mexico, S.A. de C.V. C & I Leasing, Inc. Caroni Investments, LLC CB Manufacturing Company, Inc. CEME Holdings, LLC Centro-Mediterranea de Bebidas Carbonicas PepsiCo, S.L. 
 
-United States, Michigan United States, Minnesota United States, Mississippi United States, Missouri United States, Montana United States, Nebraska United States, Nevada United States, New Hampshire United States, New Jersey United States, New Mexico United States, New York United States, North Carolina United States, North Dakota United States, Ohio United States, Oklahoma United States, Oregon United States, Pennsylvania United States, Rhode Island United States, South Carolina United States, South Dakota United States, Tennessee United States, Texas United States, Utah United States, Vermont United States, Virginia United States, Washington United States, Wisconsin United States, Delaware United States, Delaware New Zealand Ireland Botswana Zambia Honduras United States, Delaware United States, Delaware United States, Delaware United States, Delaware United Kingdom Mexico United States, Maryland United States, Delaware United States, Delaware United States, Delaware Spain 2
-
-Ceres Fruit Juices (Pty) Ltd ChampBev, Inc. China Concentrate Holdings (Hong Kong) Limited Chipsy for Food Industries S.A.E. Chipsy International for Food Industries S.A.E. Chitos Internacional y Cia Ltda CMC Investment Company Cocina Autentica, Inc. Comercializadora CMC Investment y Compania Limitada Comercializadora Nacional SAS Ltda. Comercializadora PepsiCo Mexico, S de R.L. de C.V. Compania de Bebidas PepsiCo, S.L. Concentrate Holding Uruguay Pte. Ltd. Concentrate Manufacturing (Singapore) Pte. Ltd. Confiteria Alegro, S. de R.L. de C.V. Copper Beech International, LLC Corina Snacks Limited Corporativo Internacional Mexicano, S. de R.L. de C.V. CytoSport Holdings, Inc. CytoSport, Inc. Davlyn Realty Corporation Defosto Holdings Limited Desarrollo Inmobiliario Gamesa, S. de R.L. de C.V. Donon Holdings Limited Drinkfinity USA, Inc. Drinkstation Innovation Co., Ltd. Drinkstation Limited Drinkstation, Inc. Dutch Snacks Holding, S.A. de C.V. Duyvis Production B.V. Echo Bay Holdings, Inc. Elaboradora Argentina de Cereales S.R.L. Enter Logistica, LLC Environ at Inverrary Partnership Environ of Inverrary, Inc. EPIC Enterprises, Inc. Eridanus Investments S.à r.l Evercrisp Snack Productos de Chile S.A. Fabrica de Productos Alimenticios Rene y Cia S.C.A. Fabrica PepsiCo Mexicali, S. de R.L. de C.V. Fairlight International SRL Far East Bottlers (Hong Kong) Limited FL Transportation, Inc. FLI Andean, LLC FLI Colombia, LLC 
+United States, Michigan United States, Minnesota United States, Mississippi United States, Missouri United States, Montana United States, Nebraska United States, Nevada United States, New Hampshire United States, New Jersey United States, New Mexico United States, New York United States, North Carolina United States, North Dakota United States, Ohio United States, Oklahoma United States, Oregon United States, Pennsylvania United States, Rhode Island United States, South Carolina United States, South Dakota United States, Tennessee United States, Texas United States, Utah United States, Vermont United States, Virginia United States, Washington United States, Wisconsin United States, Delaware United States, Delaware New Zealand Ireland Botswana Zambia Honduras United States, Delaware United States, Delaware United States, Delaware United States, Delaware United Kingdom Mexico United States, Maryland United States, Delaware United States, Delaware United States, Delaware Spain 
 
 South Africa United States, California Hong Kong Egypt Egypt Guatemala Bermuda United States, Delaware Guatemala Colombia Mexico Spain Singapore Singapore Mexico United States, Delaware Cyprus Mexico United States, Delaware United States, California United States, Delaware Cyprus Mexico Cyprus United States, Delaware China Hong Kong United States, Delaware Mexico Netherlands United States, Delaware Argentina Russia United States, Florida United States, Florida United States, Massachusetts Luxembourg Chile Guatemala Mexico Barbados Hong Kong United States, Delaware United States, Delaware United States, Delaware 
 
 FLI Snacks Andean GP, LLC Food Concepts Pioneer Ltd. Forest Akers Nederland B.V. Forty-Six Peaks Holding, Inc. Four Bench Capital Ltd. Fovarosi Asvanyviz es Uditoipari Zartkoruen Mukodo Reszvenytarsasag Freshwater International B.V. Frito Lay de Guatemala y Compania Limitada Frito Lay Gida Sanayi Ve Ticaret Anonim Sirketi Frito Lay Poland Sp. z o.o. Frito Lay Sp. z o.o. Frito-Lay Australia Holdings Pty Limited Frito-Lay Dip Company, Inc. Frito-Lay Dominicana, S.A. Frito-Lay Global Investments B.V. Frito-Lay Investments B.V. Frito-Lay Manufacturing LLC Frito-Lay Netherlands Holding B.V. Frito-Lay North America, Inc. Frito-Lay Sales, Inc. Frito-Lay Trading Company (Europe) GmbH Frito-Lay Trading Company (Poland) GmbH Frito-Lay Trading Company GmbH Frito-Lay Trinidad Unlimited Frito-Lay, Inc. Fruko Mesrubat Sanayi Limited Sirketi Gambrinus Investments Limited Gamesa LLC Gamesa, S. de R.L. de C.V. Gas Natural de Merida, S. A. de C. V. Gatorade Puerto Rico Company GB Czech, LLC GB International, Inc. GB Russia LLC GB Slovak, LLC General Bottlers of Hungary, Inc. GMP Manufacturing, Inc. Golden Grain Company Goveh S.R.L. Grayhawk Leasing, LLC Green Hemlock International, LLC Grupo Frito Lay y Compania Limitada Grupo Gamesa, S. de R.L. de C.V. Grupo Sabritas, S. de R.L. de C.V. Gulkevichskiy Maslozavod, JSC 
-
-United States, Delaware Nigeria Netherlands United States, Delaware Bermuda Hungary Netherlands Guatemala Turkey Poland Poland Australia United States, Delaware Dominican Republic Netherlands Netherlands Russia Netherlands United States, Delaware United States, Delaware Switzerland Switzerland Switzerland Trinidad And Tobago United States, Delaware Turkey Cayman Islands United States, Delaware Mexico Mexico United States, Delaware United States, Delaware United States, Delaware United States, Delaware United States, Delaware United States, Delaware United States, California United States, California Peru United States, Delaware United States, Delaware Guatemala Mexico Mexico Russia 
 
 Hangzhou Baicaowei Corporate Management Consulting Co., Ltd. Hangzhou Haomusi Food Co., Ltd. Hangzhou Tao Dao Technology Co., Ltd. Health Warrior, Inc. Heathland, LP Helioscope Limited Hillbrook, Inc. Hillgrove Investments Holdings, Inc. Hillgrove, Inc. Hillwood Bottling, LLC Hogganfield Limited Partnership Holding Company "Opolie" JSC Homefinding Company of Texas Hudson Valley Insurance Company IC Equities, Inc. Inmobiliaria Interamericana, S.A. De C.V. Integrated Beverage Services (Bangladesh) Limited Integrated Foods & Beverages Pvt. Ltd. International Bottlers Management Co. LLC International KAS Aktiengesellschaft Inversiones Borneo S.R.L. Inversiones PFI Chile Limitada Inviting Foods Holdings, Inc. Inviting Foods LLC KAS Anorthosis S.à r.l KAS S.L. Kinvara, LLC Kungursky Molkombinat, JSC Larragana S.L. Latin American Holdings Ltd. Latin Foods International, LLC Lebedyansky Holdings, LLC Lebedyansky, LLC Limited Liability Company "Sandora" Linkbay Limited Lithuanian Snacks UAB Marbo d.o.o. Laktasi Marbo Product d.o.o. Beograd Matudis - Comercio de Produtos Alimentares, Limitada Matutano - Sociedade de Produtos Alimentares, Lda. Mid-America Improvement Corporation Mountainview Insurance Company, Inc. NCJV, LLC New Bern Transport Corporation New Century Beverage Company, LLC 
 
@@ -20710,8 +20647,6 @@ Uruguay Bermuda Puerto Rico United States, Wyoming United States, New Jersey Uni
 
 QTG Services, Inc. Quadrant - Amroq Beverages S.R.L. Quaker Development B.V. Quaker European Beverages, LLC Quaker European Investments B.V. Quaker Global Investments B.V. Quaker Holdings (UK) Limited Quaker Manufacturing, LLC Quaker Oats Asia, Inc. Quaker Oats Australia Pty Ltd Quaker Oats B.V. Quaker Oats Capital Corporation Quaker Oats Europe LLC Quaker Oats Europe, Inc. Quaker Oats Limited Quaker Sales & Distribution, Inc. Raptas Finance S.à r.l. Rare Fare Foods, LLC Rare Fare Holdings, Inc. Reading Industries, Ltd Real Estate Holdings, LLC Rolling Frito-Lay Sales, LP Rye Lake Capital Korlátolt Felelősségű Társaság Rye Lake Holdings Korlátolt Felelősségű Társaság S & T of Mississippi, Inc. Sabritas de Costa Rica, S. de R.L. Sabritas Snacks America Latina de Nicaragua y Cia, Ltda Sabritas y Cia. S en C de C.V. Sabritas, LLC Sabritas, S. de R.L. de C.V. Sakata Rice Snacks Australia Pty Ltd Sandora Holdings B.V. Saudi Snack Foods Company Limited Sea Eagle International SRL Seepoint Holdings Ltd. Senselet Food Processing PLC Senselet Holding B.V. Servicios Gamesa Puerto Rico, L.L.C. Servicios GBF, Sociedad de Responsabilidad Limitada Servicios GFLG y Compania Limitada Servicios SYC, S. de R.L. de C.V. Seven-Up Asia, Inc. Seven-Up Light B.V. Seven-Up Nederland B.V. Shanghai PepsiCo Snack Company Limited 
 
-United States, Delaware Romania Netherlands United States, Delaware Netherlands Netherlands United Kingdom United States, Delaware United States, Delaware Australia Netherlands United States, Delaware United States, Delaware United States, Delaware United Kingdom United States, Delaware Luxembourg United States, Delaware United States, Delaware United Kingdom Puerto Rico United States, Delaware Hungary Hungary United States, Mississippi Costa Rica Nicaragua El Salvador United States, Delaware Mexico Australia Netherlands Saudi Arabia Barbados Cyprus Ethiopia Netherlands Puerto Rico Honduras Guatemala El Salvador United States, Missouri Netherlands Netherlands China 
-
 <table>
   <thead>
     <tr>
@@ -20899,11 +20834,9 @@ United States, Delaware Romania Netherlands United States, Delaware Netherlands 
   </tbody>
 </table>
 
-Stratosphere Holdings (2018) Limited Streamfoods Ltd SVC Logistics, Inc. SVC Manufacturing, Inc. SVE Russia Holdings GmbH Tasman Finance S.à r.l TFL Holdings, LLC The Gatorade Company The Good Carb Food Company Ltd. The Pepsi Bottling Group (Canada), ULC The Quaker Oats Company The Smith's Snackfood Company Pty Limited Thomond Group Holdings Limited Thunderhorse, Inc. Tobago Snack Holdings, LLC Tropicana Alvalle S.L. Tropicana Europe N.V. Tropicana United Kingdom Limited Troya-Ultra LLC United Foods Companies Restaurantes S.A. VentureCo (Israel) Ltd Veurne Snack Foods BV Vitamin Brands Ltd. Walkers Group Limited Walkers Snack Foods Limited Walkers Snacks (Distribution) Limited Walkers Snacks Limited Whitman Corporation Whitman Insurance Co. Ltd. Wimm-Bill-Dann Beverages, JSC Wimm-Bill-Dann Brands Co. Ltd. Wimm-Bill-Dann Central Asia-Almaty, LLP Wimm-Bill-Dann Foods LLC Wimm-Bill-Dann Georgia Ltd. Wimm-Bill-Dann JSC Wimm-Bill-Dann Ukraine, PJSC Woodglen Holdings, Inc. 
-
 New Zealand United Kingdom United States, Delaware United States, Delaware Germany Luxembourg United States, Delaware United States, Delaware United Kingdom Canada United States, New Jersey Australia Hong Kong United States, Delaware United States, Delaware Spain Belgium United Kingdom Russia Brazil Israel Belgium United Kingdom United Kingdom United Kingdom United Kingdom United Kingdom United States, Delaware United States, Vermont Russia Russia Kazakhstan Russia Georgia Russia Ukraine United States, Delaware 
 
-### Consent of Independent Registered Public Accounting Firm
+## Consent of Independent Registered Public Accounting Firm
 
 To the Board of Directors PepsiCo, Inc.: 
 
@@ -20965,9 +20898,9 @@ We consent to the incorporation by reference in the registration statements and 
 
 New York, New York February 8, 2023 
 
-### POWER OF ATTORNEY
+## POWER OF ATTORNEY
 
-### KNOW ALL BY THESE PRESENTS
+## KNOW ALL BY THESE PRESENTS
 
 , that PepsiCo, Inc. (“PepsiCo”) and each other undersigned, an officer or director, or both, of PepsiCo, do hereby appoint David Flavell, Cynthia A. Nastanski and Heather A. Hammond, and each of them severally, its, his or her true and lawful attorney-in-fact to execute on behalf of PepsiCo and the undersigned the following documents and any and all amendments thereto (including post-effective amendments) deemed necessary or appropriate by any such attorney-infact:
 
@@ -21015,9 +20948,9 @@ Each of the undersigned hereby grants to each such attorney-in-fact full power a
 
 This Power of Attorney may be executed in counterparts and all such duly executed counterparts shall together constitute the same instrument. This Power of Attorney shall not revoke any powers of attorney previously executed by the undersigned. This Power of Attorney shall not be revoked by any subsequent power of attorney that the undersigned may execute, unless such subsequent power of attorney specifically provides that it revokes this Power of Attorney by referring to the date of the undersigned’s execution of this Power of Attorney. This Power of Attorney, unless earlier revoked by the undersigned in the manner set forth above, will be valid as to each attorney-in-fact until such time as such attorney-in-fact ceases to be an employee of PepsiCo. 
 
-### [REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+## [REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
 
-### IN WITNESS WHEREOF
+## IN WITNESS WHEREOF
 
 , each of the undersigned has executed this instrument on the date indicated opposite its, his or her name.
 
@@ -21218,9 +21151,9 @@ This Power of Attorney may be executed in counterparts and all such duly execute
   </tbody>
 </table>
 
-### CERTIFICATION
+## CERTIFICATION
 
-### I, **Ramon L. Laguarta,** certify that:
+## I, **Ramon L. Laguarta,** certify that:
 
 - 1. I have reviewed this annual report on Form 10-K of PepsiCo, Inc.;
 
@@ -21248,9 +21181,9 @@ This Power of Attorney may be executed in counterparts and all such duly execute
 
 Ramon L. Laguarta Chairman of the Board of Directors and Chief Executive Officer 
 
-### CERTIFICATION
+## CERTIFICATION
 
-### I, **Hugh F. Johnston,** certify that:
+## I, **Hugh F. Johnston,** certify that:
 
 - 1. I have reviewed this annual report on Form 10-K of PepsiCo, Inc.;
 
@@ -21278,7 +21211,7 @@ Date: February 8, 2023
 
 /s/ Hugh F. Johnston Hugh F. Johnston Chief Financial Officer 
 
-### CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+## CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
 
 In connection with the Annual Report of PepsiCo, Inc. (the “Corporation”) on Form 10-K for the fiscal year ended December 31, 2022 as filed with the Securities and Exchange Commission on the date hereof (the “Report”), I, Ramon L. Laguarta, Chairman of the Board of Directors and Chief Executive Officer of the Corporation, certify to my knowledge, pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (18 U.S.C. Section 1350), that: 
 
@@ -21290,7 +21223,7 @@ Date: February 8, 2023
 
 /s/ Ramon L. Laguarta Ramon L. Laguarta Chairman of the Board of Directors and Chief Executive Officer 
 
-### CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+## CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
 
 In connection with the Annual Report of PepsiCo, Inc. (the “Corporation”) on Form 10-K for the fiscal year ended December 31, 2022 as filed with the Securities and Exchange Commission on the date hereof (the “Report”), I, Hugh F. Johnston, Chief Financial Officer of the Corporation, certify to my knowledge, pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (18 U.S.C. Section 1350), that: 
 

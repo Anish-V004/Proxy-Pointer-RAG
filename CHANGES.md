@@ -132,6 +132,19 @@ Embedding AMD_2022_10K_a3f9...:  60%|██████    | 120/200 [chunk]
 
 ---
 
+## 9. LLM Generation Retry & Safety Handling (pp_rag_bot.py, mm_rag_bot.py)
+
+**Problem:** Re-ranking and synthesis LLM queries were failing directly on Gemini Free Tier due to the strict 15 RPM (requests per minute) rate limit. Additionally, when Gemini returned an empty/blocked response (finish reason `STOP` but no parts), calling `response.text` raised an `Invalid operation` exception.
+
+**Fix:** 
+1. Wrapped RAG model `_generate_content` calls in a custom retry handler using both explicit API retry delays and a capped exponential fallback (similar to the embedding retry logic).
+2. Added a validation guard that detects empty/partless candidate responses (finish reason 1 with empty parts) and raises a transient exception to trigger a retry.
+3. Added a `hasattr(response, "candidates")` check to maintain full compatibility with mock response objects in testing.
+
+**Applies to:** `pp_rag_bot.py` and `mm_rag_bot.py`.
+
+---
+
 ## Summary Table
 
 | # | Fix | Files Affected |
@@ -144,6 +157,7 @@ Embedding AMD_2022_10K_a3f9...:  60%|██████    | 120/200 [chunk]
 | 6 | Progress bars + `[idx/total]` logging | All 3 indexers |
 | 7 | Smarter rate-limit retry delay | `gemini_embeddings.py` |
 | 8 | Test support for hashed document IDs | `test_text_rag_integration.py` |
+| 9 | LLM generation retry & safety handling | `pp_rag_bot.py`, `mm_rag_bot.py` |
 
 ---
 

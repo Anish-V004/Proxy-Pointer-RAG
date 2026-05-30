@@ -2,7 +2,7 @@
 .env
 
 # Generated index
-data/index/
+# data/index/
 
 # Python
 __pycache__/

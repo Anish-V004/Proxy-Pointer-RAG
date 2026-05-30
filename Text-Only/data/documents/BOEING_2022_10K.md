@@ -1,6 +1,8 @@
 **==> picture [115 x 42] intentionally omitted <==**
 
-**UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549** **FORM 10-K**
+# UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549
+
+# FORM 10-K
 
 (Mark One) 
 
@@ -12,7 +14,7 @@ For the fiscal year ended December 31, 2022 or
 
 For the transition period from                          to Commission file number 1-442
 
-## THE BOEING COMPANY
+# THE BOEING COMPANY
 
 **(Exact name of registrant as specified in its charter)** 
 
@@ -40,15 +42,15 @@ As of June 30, 2022, there were 593,451,225 common shares outstanding held by no
 
 The number of shares of the registrant’s common stock outstanding as of January 20, 2023 was 598,239,585. 
 
-## DOCUMENTS INCORPORATED BY REFERENCE
+DOCUMENTS INCORPORATED BY REFERENCE
 
 Part III incorporates information by reference to the registrant’s definitive proxy statement, to be filed with the Securities and Exchange Commission within 120 days after the close of the fiscal year ended December 31, 2022. 
 
-## THE BOEING COMPANY
+THE BOEING COMPANY
 
-## Index to the Form 10-K
+Index to the Form 10-K
 
-## For the Fiscal Year Ended December 31, 2022
+For the Fiscal Year Ended December 31, 2022
 
 <table>
   <thead>
@@ -247,27 +249,27 @@ We are organized based on the products and services we offer. We operate in four
 
 - Boeing Capital (BCC).
 
-## Commercial Airplanes Segment
+### Commercial Airplanes Segment
 
 This segment develops, produces and markets commercial jet aircraft principally to the commercial airline industry worldwide. We are a leading producer of commercial aircraft and offer a family of commercial jetliners designed to meet a broad spectrum of global passenger and cargo requirements of airlines. This family of commercial jet aircraft in production includes the 737 narrow-body model and the 767, 777 and 787 widebody models. We ended production of the 747 wide-body model in 2022. Development continues on the 777X program and the 737-7 and 73710 derivatives. 
 
-## Defense, Space & Security Segment
+### Defense, Space & Security Segment
 
 This segment engages in the research, development, production and modification of manned and unmanned military aircraft and weapons systems for strike, surveillance and mobility, including fighter and trainer aircraft; vertical lift, including rotorcraft and tilt-rotor aircraft; and commercial derivative aircraft, including anti-submarine and tanker aircraft. In addition, this segment engages in the research, development, production and modification of the following products and related services: strategic defense and intelligence systems, including strategic missile and defense systems, command, control, communications, computers, intelligence, surveillance and reconnaissance (C4ISR), cyber and information solutions, and intelligence systems, satellite systems, including government and commercial satellites and space exploration. 
 
-## Global Services Segment
+### Global Services Segment
 
 This segment provides services to our commercial and defense customers worldwide. BGS sustains aerospace platforms and systems with a full spectrum of products and services, including supply chain and logistics management, engineering, maintenance and modifications, upgrades and conversions, spare parts, pilot and maintenance training systems and services, technical and maintenance documents, and data analytics and digital services. 
 
-## Boeing Capital Segment
+### Boeing Capital Segment
 
 BCC seeks to ensure that Boeing customers have the financing they need to buy and take delivery of their Boeing product, while managing overall financing exposure. BCC’s portfolio consists of equipment under operating leases, sales-type/finance leases, notes and other receivables, assets held for sale or re-lease and investments. 
 
-## Intellectual Property
+### Intellectual Property
 
 We own numerous patents and have licenses for the use of patents owned by others, which relate to our products and their manufacture. In addition to owning a large portfolio of intellectual property, we also license intellectual property to and from third parties. For example, the U.S. government has licenses in our patents that are developed in performance of government contracts, and it may use or authorize others to use the inventions covered by such patents for government purposes. Unpatented research, development and engineering skills, as well as certain trademarks, trade secrets and other intellectual property rights, also make an important contribution to our business. While our intellectual property rights in the aggregate are important to the operation of each of our businesses, we do not believe that our business would be materially affected by the expiration of any particular intellectual property right or termination of any particular intellectual property patent license agreement. 
 
-## Human Capital
+### Human Capital
 
 As of December 31, 2022 and 2021, Boeing’s total workforce was approximately 156,000 and 142,000 with 13% and 12% located outside of the U.S. 
 
@@ -327,11 +329,15 @@ As of December 31, 2022, our workforce included approximately 50,000 union membe
 
 Guided by our values, we are committed to creating a company where everyone is included and respected, and where we support each other in reaching our full potential. We are committed to diverse representation across all levels of our workforce to reflect the vibrant and thriving diversity of the communities in which we live and work. In June of 2022, we released our second Global Equity, Diversity and Inclusion report with our workforce composition. As of December 2021, our U.S. workforce was comprised of approximately 23% women, 33% U.S. racial and ethnic minorities and 15% U.S. veterans. We also support Business Resource Groups open to all employees with more than 15,000 participants across 170 chapters globally that focus on gender, race & ethnicity, generations, gender identity, sexual orientation, disability or veteran status. These groups help foster inclusion among all teammates, build awareness, recruit and retain a diverse workforce and support the company in successfully operating in a global, multicultural business environment. We are committed to releasing an annual Global Equity, Diversity and Inclusion report in 2023 which will be updated with the latest year’s information. Our 2022 report can be found on our website. 
 
+To attract and retain the best-qualified talent, we offer competitive benefits, including market-competitive compensation, healthcare, paid time off, parental leave, retirement benefits, tuition assistance, employee skills development, leadership development and rotation programs. In 2022, our voluntary resignation rate was approximately 4%. Additionally, we hired approximately 23,000 new employees in 2022 for critical skills and had an offer acceptance rate of 78%. 
+
 Employees are encouraged to provide feedback about their experience through ongoing employee engagement activities. Boeing actively listens to its employees via surveys ranging from pre-hire to exiting the company. These voluntary surveys provide aggregate trend reports for the company to address in real time and ensure Boeing maintains an employee-focused experience and culture. We also invest in rewarding performance and have established a multi-level recognition program for the purpose of acknowledging the achievements of excellent individual or team performance. 
+
+We are committed to supporting our employees’ continuous development of professional, technical and leadership skills through access to digital learning resources and through partnerships with leading professional/technical societies and organizations around the world. For 2022, Boeing employees completed approximately 5.8 million hours of learning. We offer the ability for our people to pursue degree programs, professional certificates and individual courses in strategic fields of study from more than 300 accredited colleges and universities, online and across the globe through our tuition assistance program. Over 9,000 Boeing employees leverage these programs every year. 
 
 Safety, quality, integrity and sustainability are at the core of how Boeing operates. We aspire to achieve zero workplace injuries and provide a safe, open and accountable work environment for our employees. Employees are also required on an annual basis to sign the Boeing Code of Conduct to reaffirm their commitment to do their work in a compliant and ethical manner. We provide several channels for all employees to speak up, ask for guidance and report concerns related to ethics or safety violations. We address employee concerns and take appropriate actions that uphold our Boeing values. 
 
-## Competition
+### Competition
 
 The commercial jet aircraft market and the airline industry remain extremely competitive. We face aggressive international competitors who are intent on increasing their market share, such as Airbus and entrants from China. We are focused on improving our products and processes and continuing cost reduction efforts. We intend to continue to compete with other aircraft manufacturers by providing customers with airplanes and services that deliver superior design, safety, efficiency and value to customers around the world. 
 
@@ -339,7 +345,7 @@ BDS faces strong competition primarily from Lockheed Martin Corporation, Northro
 
 The commercial and defense services markets are extremely challenging and are made up of many of the same strong U.S. and non-U.S. competitors facing BCA and BDS along with other competitors in those markets. BGS leverages our extensive services network offering products and services which span the life cycle of our defense and commercial aircraft programs: training, fleet services and logistics, maintenance and engineering, modifications and upgrades, as well as the daily cycle of gate-to-gate operations. BGS expects the market to remain highly competitive in 2023, and intends to grow market share by leveraging a high level of customer satisfaction and productivity. 
 
-## Regulatory Matters
+### Regulatory Matters
 
 Our businesses are heavily regulated in most of our markets. We work with numerous U.S. government agencies and entities, including but not limited to, all of the branches of the U.S. military, the National Aeronautics and Space Administration (NASA), the Federal Aviation Administration (FAA) and the Department of Homeland Security. Similar government authorities exist in our non-U.S. markets. 
 
@@ -351,31 +357,33 @@ _Environmental._ We are subject to various federal, state, local and non-U.S. la
 
 For additional information relating to environmental contingencies, see Note 13 to our Consolidated Financial Statements. 
 
-## Non-U.S. Sales
+_Non-U.S. Sales._ Our non-U.S. sales are subject to both U.S. and non-U.S. governmental regulations and procurement policies and practices, including regulations relating to import-export control, tariffs, investment, exchange controls, anti-corruption and repatriation of earnings. NonU.S. sales are also subject to varying currency, political and economic risks. 
 
-Our non-U.S. sales are subject to both U.S. and non-U.S. governmental regulations and procurement policies and practices, including regulations relating to import-export control, tariffs, investment, exchange controls, anti-corruption and repatriation of earnings. NonU.S. sales are also subject to varying currency, political and economic risks.
-
-## Raw Materials, Parts and Subassemblies
+### Raw Materials, Parts and Subassemblies
 
 We are highly dependent on the availability of essential materials, parts and subassemblies from our suppliers and subcontractors. The most important raw materials required for our aerospace products 
 
 are aluminum (sheet, plate, forgings and extrusions), titanium (sheet, plate, forgings and extrusions) and composites (including carbon and boron). Although alternative sources generally exist for these raw materials, qualification of the sources could take a year or more. During 2022, as a result of the Russia Ukraine war, we suspended purchasing titanium from Russia. This has not disrupted our operations as we have been able to use inventory on hand and identify alternative sources. Many major components and product equipment items are procured or subcontracted on a sole-source basis. We continue to work with a small number of sole-source suppliers to ensure continuity of supply for certain items. 
 
-**Suppliers**
+### Suppliers
 
 We are dependent upon the ability of a large number of U.S. and non-U.S. suppliers and subcontractors to meet performance specifications, quality standards and delivery schedules at our anticipated costs. While we maintain an extensive qualification and performance surveillance system to control risk associated with such reliance on third parties, failure of suppliers or subcontractors to meet commitments could adversely affect production schedules and program/contract profitability, thereby jeopardizing our ability to fulfill commitments to our customers. We are also dependent on the availability of energy sources, such as electricity, at affordable prices. 
 
-## Seasonality
+### Seasonality
 
-No material portion of our business is considered to be seasonal.
+No material portion of our business is considered to be seasonal. 
 
-## Executive Officers of the Registrant
+### Executive Officers of the Registrant
 
-See “Item 10. Directors, Executive Officers and Corporate Governance” in Part III.
+See “Item 10. Directors, Executive Officers and Corporate Governance” in Part III. 
 
-## Other Information
+### Other Information
 
-## Forward-Looking Statements
+Boeing was originally incorporated in the State of Washington in 1916 and reincorporated in Delaware in 1934. Our principal executive offices are located at 929 Long Bridge Drive, Arlington, Virginia 22202, and our telephone number is (703) 465-3500. 
+
+General information about us can be found at www.boeing.com. The information contained on or connected to our website is not incorporated by reference into this Annual Report on Form 10-K and should not be considered part of this or any other report filed with the Securities and Exchange Commission (SEC). Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q and Current Reports on Form 8-K, as well as any amendments to those reports, are available free of charge through our website as soon as reasonably practicable after we file them with, or furnish them to, the SEC. The SEC maintains a website at www.sec.gov that contains reports, proxy statements and other information regarding SEC registrants, including Boeing. 
+
+### Forward-Looking Statements
 
 This report, as well as our annual report to shareholders, quarterly reports and other filings we make with the SEC, press and earnings releases and other written and oral communications, contain “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. Words such as “may,” “should,” “expects,” “intends,” “projects,” “plans,” “believes,” “estimates,” “targets,” “anticipates” and similar expressions generally identify these forward-looking statements. Examples of forward-looking statements include statements relating to our future financial condition and operating results, as well as any other statement that does not directly relate to any historical or current fact. 
 
@@ -387,7 +395,7 @@ An investment in our common stock or debt securities involves risks and uncertai
 
 ## Risks Related to Our Business and Operations
 
-## We depend heavily on commercial airlines, subjecting us to unique risks
+### We depend heavily on commercial airlines, subjecting us to unique risks
 
 _Market conditions have a significant impact on demand for our commercial aircraft and related services._ The commercial aircraft market is predominantly driven by long-term trends in airline passenger and cargo traffic. The principal factors underlying long-term traffic growth are sustained economic growth and political stability both in developed and emerging markets. Demand for our commercial aircraft is further influenced by airline profitability, availability of aircraft financing, world trade policies, government-to-government relations, technological advances, price and other competitive factors, fuel prices, terrorism, pandemics, epidemics and environmental regulations. Historically, the airline industry has been cyclical and very competitive and has experienced significant profit swings and constant challenges to be more cost competitive. Significant deterioration in the global economic environment, the airline industry generally or the financial stability of one or more of our major customers could result in fewer new orders for aircraft or services, or could cause customers to seek to postpone or cancel contractual orders and/or payments to us, which could result in lower revenues, profitability and cash flows and a reduction in our contractual backlog. In addition, because our commercial aircraft backlog consists of aircraft scheduled for delivery over a period of several years, any of these macroeconomic, industry or customer impacts could unexpectedly affect deliveries over a long period. 
 
@@ -395,9 +403,9 @@ _We enter into firm fixed-price aircraft sales contracts with indexed price esca
 
 _We derive a significant portion of our revenues from a limited number of commercial airlines._ We can make no assurance that any customer will exercise purchase options, fulfill existing purchase commitments or purchase additional products or services from us. In addition, fleet decisions, airline consolidations or financial challenges involving any of our major commercial airline customers could significantly reduce our revenues and limit our opportunity to generate profits from those customers. 
 
-## Airlines also are experiencing increased fuel and other costs, and the global economy is experiencing high inflation.
+Airlines also are experiencing increased fuel and other costs, and the global economy is experiencing high inflation. 
 
-_**Our Commercial Airplanes business depends on our ability to maintain a healthy production system, ensure every airplane in our production system conforms to our exacting specifications, achieve planned production rate targets, successfully develop and certify new aircraft or new derivative aircraft, and meet or exceed stringent performance and reliability standards.**_
+### Our Commercial Airplanes business depends on our ability to maintain a healthy production system, ensure every airplane in our production system conforms to our exacting specifications, achieve planned production rate targets, successfully develop and certify new aircraft or new derivative aircraft, and meet or exceed stringent performance and reliability standards
 
 The commercial aircraft business is extremely complex, involving extensive coordination and integration with U.S and non-U.S. suppliers, highlyskilled labor performed by thousands of employees of ours and other partners, and stringent and evolving regulatory requirements and performance and reliability standards. The FAA has been working to implement safety reforms such as the 2018 FAA Reauthorization Act and the 2020 Aircraft Certification, Safety and Accountability Act (ACSAA). One of these, section 116 of the ACSAA prohibited the FAA from issuing a type certificate to aircraft after December 27, 2022 unless the aircraft’s flight crew alerting system met certain specifications. The Consolidated Appropriations Act, 2023 amended Section 116 of the ACSAA, such that applications for original or amended type certifications that were submitted to the FAA prior to December 27, 2020, including those of the 737-7 and 737-10, are no longer subject to the crew alerting specifications of Section 116. Additionally, beginning one year after the FAA issues the type certificate for the 737-10, any new 737 MAX aircraft must include certain safety enhancements to be issued an original airworthiness certification by the FAA. These enhancements are included in Boeing’s application for the certification for the 737-10, and the sufficiency of these enhancements will be determined by the FAA. Beginning three years after the issuance of a type certificate for the 737-10, all previously delivered 737 MAX aircraft must be retrofitted with these safety enhancements. As the holder of the type certificate, Boeing is required to bear any costs of these safety enhancement retrofits. We have provisioned for the estimated costs associated with the safety enhancements and do not expect those costs to be material. If we experience delays in achieving certification and/or incorporating safety enhancements, future revenues, cash flows and results of operations could be adversely impacted. Comparable agencies in other countries may adopt similar changes. To the extent the FAA or similar regulatory agencies outside the U.S. implement more stringent regulations, we may incur additional compliance costs. In addition, the introduction of new aircraft programs and/or derivatives, such as the 777X, 737-7 and 737-10, involves increased risks associated with meeting development, testing, certification and production schedules. 
 
@@ -409,11 +417,9 @@ commercial aircraft assembly facilities are delayed or create significant disrup
 
 _Operational challenges impacting the production system for one or more of our commercial aircraft programs could result in additional production delays and/or failure to meet customer demand for new aircraft, either of which would negatively impact our revenues and operating margins._ Our commercial aircraft production system is extremely complex. Operational issues, including delays or defects in supplier components, failure to meet internal performance plans, or delays or failures to achieve required regulatory approval, could result in additional out-of-sequence work and increased production costs, as well as delayed deliveries to customers, impacts to aircraft performance and/or increased warranty or fleet support costs. We and our suppliers are experiencing supply chain disruptions as a result of the lingering impacts of COVID-19, global supply chain constraints, and labor instability. We and our suppliers are also experiencing inflationary pressures. We continue to monitor the health and stability of the supply chain as we ramp up production. These factors have reduced overall productivity and adversely impacted our financial position, results of operations and cash flows. 
 
-## If our commercial aircraft fail to satisfy performance and reliability requirements and/or potentially required sustainability standards, we could face additional costs and/or lower revenues
+_If our commercial aircraft fail to satisfy performance and reliability requirements and/or potentially required sustainability standards, we could face additional costs and/or lower revenues._ Developing and manufacturing commercial aircraft that meet or exceed our performance and reliability standards and/or potentially required sustainability standards, as well as those of customers and regulatory agencies, can be costly and technologically challenging. These challenges are particularly significant with newer aircraft programs. Any failure of any Boeing aircraft to satisfy performance or reliability requirements could result in disruption to our operations, higher costs and/or lower revenues. 
 
-Developing and manufacturing commercial aircraft that meet or exceed our performance and reliability standards and/or potentially required sustainability standards, as well as those of customers and regulatory agencies, can be costly and technologically challenging. These challenges are particularly significant with newer aircraft programs. Any failure of any Boeing aircraft to satisfy performance or reliability requirements could result in disruption to our operations, higher costs and/or lower revenues.
-
-## Changes in levels of U.S. government defense spending or acquisition priorities could negatively impact our financial position and results of operations
+### Changes in levels of U.S. government defense spending or acquisition priorities could negatively impact our financial position and results of operations
 
 We derive a substantial portion of our revenue from the U.S. government, primarily from defense related programs with the United States Department of Defense (U.S. DoD). Levels of U.S. defense spending are very difficult to predict and may be impacted by numerous factors such as the evolving nature of the national security threat environment, U.S. national security strategy, U.S. foreign policy, the domestic political environment, macroeconomic conditions and the ability of the U.S. government to enact relevant legislation such as authorization and appropriations bills. 
 
@@ -423,15 +429,15 @@ There continues to be uncertainty with respect to future acquisition priorities 
 
 In addition, as a result of the significant ongoing uncertainty with respect to both U.S. defense spending and the evolving nature of the national security threat environment, we also expect the U.S. DoD to continue to emphasize affordability, innovation, cybersecurity and delivery of technical data and software in its procurement processes, including the implementation of cybersecurity compliance requirements on the Defense Industrial Base, for which the supply chain may not be fully prepared. We and our suppliers will need to continue to adjust successfully to these changing acquisition priorities and policies or our revenues and market share could be impacted. 
 
-_**Our ability to deliver products and services that satisfy customer requirements is heavily dependent on the performance and financial stability of our subcontractors and suppliers, as well as on the availability of highly skilled labor, raw materials and other components.**_
+### Our ability to deliver products and services that satisfy customer requirements is heavily dependent on the performance and financial stability of our subcontractors and suppliers, as well as on the availability of highly skilled labor, raw materials and other components
 
 We rely on other companies, including U.S. and non-U.S. subcontractors and suppliers, to provide and produce raw materials, integrated components and sub-assemblies, and production commodities and to perform some of the services that we provide to our customers. Many of our suppliers are experiencing inflationary pressures, as well as disruptions due to the lingering impacts of COVID-19, global supply chain constraints, and labor instability. If one or more of our suppliers or subcontractors continue to experience financial difficulties, delivery delays or other performance problems, we may be unable to meet commitments to our customers and our financial position, results of operations and cash flows may continue to be adversely impacted. In addition, if one or more of the raw materials on which we depend (such as aluminum, titanium or composites) becomes unavailable to us or our suppliers, or is available only at very high prices, we may be unable to deliver one or more of our products in a timely fashion or at budgeted costs. For example, we suspended purchasing titanium from Russia during 2022 as a result of the Russia Ukraine war. We believe we have sufficient material and parts to avoid production disruptions in the near-term, but future impacts to our production from disruptions in our supply chain are possible. In some instances, we depend upon a single source of supply. Any service disruption from one of these suppliers, either due to circumstances beyond the supplier’s control, such as geopolitical developments, or as a result of performance problems or financial difficulties, could have a material adverse effect on our ability to meet commitments to our customers or increase our operating costs. 
 
-## Competition within our markets and with respect to the products we sell may reduce our future contracts and sales
+### Competition within our markets and with respect to the products we sell may reduce our future contracts and sales
 
 The markets in which we operate are highly competitive and one or more of our competitors may have more extensive or more specialized engineering, manufacturing and marketing capabilities than we do in some areas. In our BCA business, we face aggressive international competition intent on increasing market share. In our BDS business, we anticipate that the effects of defense industry consolidation, shifting acquisition and budget priorities, and continued cost pressure at our U.S. DoD and non-U.S. customers will intensify competition for many of our BDS products. Our BGS segment faces competition from many of the same strong U.S. and non-U.S. competitors facing BCA and BDS. Furthermore, we are facing increased international competition and cross-border consolidation of competition, and U.S. procurement and compliance requirements that could limit our ability to be cost-competitive in the international market. There can be no assurance that we will be able to compete successfully against our current or future competitors or that the competitive pressures we face will not result in reduced revenues and market share. 
 
-## We derive a significant portion of our revenues from non-U.S. sales and are subject to the risks of doing business in other countries
+### We derive a significant portion of our revenues from non-U.S. sales and are subject to the risks of doing business in other countries
 
 In 2022, non-U.S. customers, which includes foreign military sales (FMS), accounted for approximately 41% of our revenues. We expect that non-U.S. sales will continue to account for a significant portion of our revenues for the foreseeable future. As a result, we are subject to risks of doing business internationally, including: 
 
@@ -457,9 +463,11 @@ In 2022, non-U.S. customers, which includes foreign military sales (FMS), accoun
 
 - compliance with a variety of non-U.S. laws, as well as U.S. laws affecting the activities of U.S. companies abroad; and 
 
-- unforeseen developments and conditions, including terrorism, war, epidemics and international tensions and conflicts.
+- unforeseen developments and conditions, including terrorism, war, epidemics and international tensions and conflicts. 
 
-## We use estimates and make assumptions in accounting for contracts and programs. Changes in our estimates and/or assumptions could adversely affect our future financial results
+While the impact of these factors is difficult to predict, any one or more of these factors could adversely affect our operations in the future. For example, since 2018, the U.S. and China have imposed tariffs on each other’s imports. Certain aircraft parts and components that Boeing procures are subject to these tariffs. We are mitigating import costs through Duty Drawback Customs procedures. Overall, the U.S.-China trade relationship remains stalled as economic and national security concerns continue to be a challenge. China is a significant market for commercial aircraft. Boeing has long-standing relationships with our Chinese customers, who represent a key component of our commercial aircraft backlog. For the 737 MAX, there is uncertainty regarding timing of resumption of deliveries in China which is still subject to final regulatory approvals. If we are unable to obtain additional orders from China in the future, our market share could be adversely affected. Furthermore, following Russia’s invasion of Ukraine, we suspended our operations in Russia due to sanctions and export controls, and the war has negatively impacted, and could continue to adversely impact, our business and financial results. Impacts from future potential deterioration in trade relations between the U.S. and one or more other countries, could have a material adverse impact on our financial position, results of operations and/or cash flows. 
+
+### We use estimates and make assumptions in accounting for contracts and programs. Changes in our estimates and/or assumptions could adversely affect our future financial results
 
 Contract and program accounting require judgment relative to assessing risks, estimating revenues and costs and making assumptions for schedule and technical issues. Due to the size and nature of many of our contracts and programs, the estimation of total revenues and cost at completion is complicated and subject to many variables. Assumptions have to be made regarding the length of time to complete the contract or program because costs also include expected increases in wages and employee benefits, material prices and allocated fixed costs. Incentives or penalties related to performance on contracts are considered in estimating sales and profit rates and are recorded when there is sufficient information for us to assess anticipated performance. Customer and supplier claims and assertions are also assessed and considered in estimating revenues, costs and profit rates. Estimates of future award fees are also included in revenues and profit rates. 
 
@@ -467,7 +475,7 @@ With respect to each of our commercial aircraft programs, inventoriable producti
 
 Because of the significance of the judgments and estimation processes described above, materially different revenues and profit amounts could be recorded if we used different assumptions, revised our estimates, or if the underlying circumstances were to change. Changes in underlying assumptions, circumstances or estimates may adversely affect future period financial performance. For additional information on our accounting policies for recognizing sales and profits, see our discussion under “Management’s Discussion and Analysis – Critical Accounting Policies & Estimates – Accounting for Long-term Contracts/Program Accounting” on pages 48 - 49 and Note 1 to our Consolidated Financial Statements on pages 59 - 69 of this Form 10-K. 
 
-## We may not realize the anticipated benefits of mergers, acquisitions, joint ventures/strategic alliances or divestitures
+### We may not realize the anticipated benefits of mergers, acquisitions, joint ventures/strategic alliances or divestitures
 
 As part of our business strategy, we may merge with or acquire businesses and/or form joint ventures and strategic alliances. Whether we realize the anticipated benefits from these acquisitions and related activities depends, in part, upon our ability to integrate the operations of the acquired business, the performance of the underlying product and service portfolio, and the performance of the management team and other personnel of the acquired operations. Accordingly, our financial results could be adversely affected by unanticipated performance issues, legacy liabilities, transaction-related charges, amortization of expenses related to intangibles, charges for impairment of long-term assets, credit 
 
@@ -485,9 +493,11 @@ _The U.S. government may modify, curtail or terminate one or more of our contrac
 
 _We are subject to U.S. government inquiries and investigations, including periodic audits of costs that we determine are reimbursable under U.S. government contracts._ U.S. government agencies, including the Defense Contract Audit Agency and the Defense Contract Management Agency, routinely audit government contractors. These agencies review our performance under contracts, cost structure and compliance with applicable laws, regulations and standards, as well as the adequacy of and our compliance with our internal control systems and policies. Any costs found to be misclassified or inaccurately allocated to a specific contract will be deemed non-reimbursable, and to the extent already reimbursed, must be refunded. Any inadequacies in our systems and policies could result in withholds on billed receivables, penalties and reduced future business. Furthermore, if any audit, inquiry or investigation uncovers improper or illegal activities, we could be subject to civil and criminal penalties and administrative sanctions, including termination of contracts, forfeiture of profits, suspension of payments, fines and suspension or debarment from doing business with the U.S. government. We also 
 
-could suffer reputational harm if allegations of impropriety were made against us, even if such allegations are later determined to be false.
+could suffer reputational harm if allegations of impropriety were made against us, even if such allegations are later determined to be false. 
 
 ### We enter into fixed-price contracts which could subject us to losses if we have cost overruns
+
+Our BDS and BGS defense businesses generated approximately 60% and 69% of their 2022 revenues from fixed-price contracts. While fixedprice contracts enable us to benefit from performance improvements, cost reductions and efficiencies, they also subject us to the risk of reduced margins or incurring losses if we are unable to achieve estimated costs and revenues. If our estimated costs exceed our estimated price, we recognize reach-forward losses which can significantly affect our reported results. For example, during the year ended December 31, 2022, BDS recorded additional losses on several fixed price development programs. We continue to experience near-term production disruptions and inefficiencies due to supplier disruption, labor instability and factory performance. These factors have contributed to significant earnings charges on a number of fixed-price development programs which are expected to adversely affect cash flows in future periods, and may result in future earnings charges and adverse cash flow effects. New programs could also have risk for reach-forward loss upon contract award and during the period of contract performance. The long term nature of many of our contracts makes the process of estimating costs and revenues on fixedprice contracts inherently risky. Fixed-price contracts often contain price incentives and penalties tied to performance, which can be difficult to estimate and have significant impacts on margins. In addition, some of our contracts have specific provisions relating to cost, schedule and performance. 
 
 Estimating costs to complete fixed-price development contracts is generally subject to more uncertainty than fixed-price production contracts. Many of these development programs have highly complex designs. In addition, technical or quality issues that arise during development could lead to schedule delays and higher costs to complete, which could result in a material charge or otherwise adversely affect our financial condition. Examples of significant BDS fixed-price development contracts include Commercial Crew, KC-46A Tanker, MQ-25, T-7A Red Hawk, VC-25B Presidential Aircraft, and commercial and military satellites. 
 
@@ -535,6 +545,8 @@ Finally, from time to time, in alignment with our sustainability priorities, we 
 
 ### We may be unable to obtain debt to fund our operations and contractual commitments at competitive rates, on commercially reasonable terms or in sufficient amounts
 
+We depend, in part, upon the issuance of debt to fund our operations and contractual commitments. In addition, our debt balances have increased significantly since 2019, driven primarily by impacts related to the 737 MAX grounding and the COVID-19 pandemic, and we expect to continue to actively manage our liquidity. As of December 31, 2022, our debt totaled $57.0 billion of which approximately $14.5 billion of principal payments on outstanding debt will become due over the next three years. In addition, as of December 31, 2022, our airplane financing commitments totaled $16.1 billion. Our increased debt balance resulted in downgrades to our credit ratings in 2020, and our ratings remained unchanged in 2022 and 2021. If we require additional funding in order to pay off existing debt, address further impacts to our business related to market developments, fund outstanding financing commitments or meet other business requirements, our market liquidity may not be sufficient. These risks will be particularly acute if we are subject to further credit rating downgrades. A number of factors could cause us to incur increased borrowing costs and to have greater difficulty accessing public and private markets for debt. These factors include disruptions or declines in the global capital markets and/or a decline in our financial performance, outlook or credit ratings and/or changes in demand for our products and services. The occurrence of any or all of these events may adversely affect our ability to fund our operations and contractual or financing commitments. 
+
 ### Substantial pension and other postretirement benefit obligations have a material impact on our earnings, shareholders’ equity and cash flows from operations, and could have significant adverse impacts in future periods
 
 Many of our employees have earned benefits under defined benefit pension plans. Potential pension contributions include both mandatory amounts required under the Employee Retirement Income Security Act and discretionary contributions to improve the plans' funded status. The extent of future contributions depends heavily on market factors such as the discount rate and the actual return on plan assets. We estimate future contributions to these plans using assumptions with respect to these and other items. Changes to those assumptions could have a significant effect on future contributions as well as on our annual pension costs and/or result in a significant change to shareholders' equity. For U.S. government contracts, we allocate pension costs to individual contracts based on U.S. Cost Accounting Standards which can also affect contract profitability. We also provide other postretirement benefits to certain of our employees, consisting principally of health care coverage for eligible retirees and qualifying dependents. Our estimates of future costs associated with these benefits are also subject to assumptions, including estimates of the level of medical cost increases. For a discussion regarding how our financial statements can be affected by pension and other postretirement plan accounting policies, see “Management's Discussion and Analysis – Critical Accounting Policies & Estimates – Pension Plans” on page 50 of this Form 10-K. Although under Generally Accepted Accounting Principles in the United States of America (GAAP) the timing of periodic pension and other postretirement benefit expense and plan contributions are not directly related, the key economic factors that affect GAAP expense would also likely affect the amount of cash or stock we would contribute to our plans. 
@@ -557,7 +569,7 @@ Approximately 50,000 employees, which constitute 32% of our total workforce, wer
 
 ## Item 1B. Unresolved Staff Comments
 
-## Not applicable
+Not applicable 
 
 ## Item 2. Properties
 
@@ -650,13 +662,13 @@ Currently, we are involved in a number of legal proceedings. For a discussion of
 
 ## Item 4. Mine Safety Disclosures
 
-## Not applicable
+Not applicable 
 
 ## PART II
 
 ## Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
 
-The principal market for our common stock is the New York Stock Exchange where it trades under the symbol BA. As of January 20, 2023, there were 88,322 shareholders of record.
+The principal market for our common stock is the New York Stock Exchange where it trades under the symbol BA. As of January 20, 2023, there were 88,322 shareholders of record. 
 
 ## Issuer Purchases of Equity Securities
 
@@ -854,6 +866,8 @@ _(Dollars in millions, except per share data)_
   </tbody>
 </table>
 
+> (1) These measures exclude certain components of pension and other postretirement benefit expense. See pages 45 - 47 for important information about these non-GAAP measures and reconciliations to the most directly comparable GAAP measures. 
+
 ## Revenues
 
 The following table summarizes Revenues: 
@@ -923,9 +937,11 @@ The following table summarizes Revenues:
 
 Revenues increased by $4,322 million in 2022 compared with 2021 driven by higher revenues at BCA and BGS, partially offset by lower revenues at BDS. BCA revenues increased by $6,374 million primarily driven by higher 737 and 787 deliveries. BGS revenues increased by $1,283 million primarily due to higher commercial services volume, partially offset by lower government services volume and performance. BDS revenues decreased by $3,378 million primarily due to charges on development programs, unfavorable performance across other defense programs, and lower P-8 and weapons volume. 
 
+Revenues increased by $4,128 million in 2021 compared with 2020 driven by higher revenues at BCA, BDS and BGS. BCA revenues increased by $3,331 million primarily driven by higher 737 MAX deliveries due to recertification and return to service in most jurisdictions and the absence of $498 million of 737 MAX customer considerations which reduced revenues in 2020, partially offset by lower 787 deliveries in 2021. BDS revenues increased by $283 million primarily from higher revenue on the 
+
 KC-46A Tanker program and lower charges in 2021. BGS revenues increased by $785 million primarily due to higher commercial and government services volume. 
 
-Revenues will continue to be significantly impacted until the global supply chain stabilizes, labor instability diminishes, and deliveries ramp up.
+Revenues will continue to be significantly impacted until the global supply chain stabilizes, labor instability diminishes, and deliveries ramp up. 
 
 ## Loss From Operations
 
@@ -1044,11 +1060,17 @@ The following table summarizes Loss from operations:
 
 - The FAS/CAS service cost adjustment represents the difference between the FAS pension and postretirement service costs calculated under GAAP and costs allocated to the business segments. 
 
+- **    Core operating loss is a non-GAAP measure that excludes the FAS/CAS service cost adjustment. See pages 45 - 47.
+
 Loss from operations increased by $645 million in 2022 compared with 2021. BDS had a loss from operations of $3,544 million compared with earnings of $1,544 million during 2021, primarily due to charges on development programs. BCA loss from operations decreased by $4,105 million primarily due to the absence in 2022 of the $3,460 million reach-forward loss taken on the 787 program in 2021, higher 737 deliveries and lower abnormal production costs, partially offset by higher research and development spending, charges related to the war in Ukraine and other period expenses. BGS earnings from operations increased by $710 million in 2022 compared with 2021 primarily due to higher commercial services volume and favorable mix, partially offset by lower government services performance. 
+
+Loss from operations decreased by $9,865 million in 2021 compared with 2020 primarily due to lower losses at BCA and higher earnings at BGS. BCA loss from operations decreased by $7,372 million primarily due to the absence of a $6,493 million reach-forward loss on the 777X program recorded in 2020, lower period expenses, lower 737 MAX customer considerations and higher 737 MAX deliveries, partially offset by a $3,460 million reach-forward loss on the 787 program in 2021. BGS earnings from operations increased by $1,567 million in 2021 compared with 2020 primarily due to charges incurred in 2020 as a result of the COVID-19 pandemic, as well as higher commercial services volume. 
 
 Core operating loss increased by $615 million in 2022 compared with 2021 and decreased by $10,075 million in 2021 compared with 2020 primarily due to changes in Segment operating loss as described above. 
 
-**Unallocated Items, Eliminations and Other** The most significant items included in Unallocated items, eliminations and other are shown in the following table: 
+### Unallocated Items, Eliminations and Other
+
+The most significant items included in Unallocated items, eliminations and other are shown in the following table:
 
 _(Dollars in millions)_ 
 
@@ -1170,9 +1192,9 @@ Net periodic pension benefit costs included in Loss from operations were as foll
 
 The pension FAS/CAS service cost adjustment recognized in Loss from operations in 2022 decreased by $33 million compared with 2021 and decreased by $142 million in 2021 compared with 2020 due to reductions in allocated pension cost year over year. Net periodic benefit cost included in Loss from operations in 2022 was largely consistent with 2021 and 2020. 
 
-For additional discussion related to Postretirement Plans, see Note 16 to our Consolidated Financial Statements.
+For additional discussion related to Postretirement Plans, see Note 16 to our Consolidated Financial Statements. 
 
-## Other Earnings Items
+### Other Earnings Items
 
 _(Dollars in millions)_ 
 
@@ -1263,7 +1285,7 @@ Interest and debt expense decreased by $149 million in 2022 primarily due to low
 
 In August 2022, the President signed into law the Inflation Reduction Act of 2022, which contained provisions effective January 1, 2023, including a 15% corporate minimum tax and a 1% excise tax on stock buybacks, both of which we do not expect to have a material impact on our results of operations, financial condition or cash flows. For additional discussion related to Income Taxes, see Note 4 to our Consolidated Financial Statements. 
 
-## Total Costs and Expenses (“Cost of Sales”)
+### Total Costs and Expenses (‘Cost of Sales’)
 
 Cost of sales, for both products and services, consists primarily of raw materials, parts, sub-assemblies, labor, overhead and subcontracting costs. Our BCA segment predominantly uses program accounting to account for cost of sales. Under program accounting, cost of sales for each commercial aircraft program equals the product of (i) revenue recognized in connection with customer deliveries and (ii) the estimated cost of sales percentage applicable to the total remaining program. For long-term contracts, the amount reported as cost of sales is recognized as incurred. Substantially all contracts at our BDS segment and certain contracts at our BGS segment are long-term contracts with the U.S. government and other customers that generally extend over several years. Cost of sales for commercial spare parts is recorded at average cost. 
 
@@ -1301,7 +1323,7 @@ Cost of sales increased by $3,837 million in 2022 compared with 2021, primarily 
 
 Cost of sales decreased by $4,574 million in 2021 compared with 2020, primarily due to higher earnings charges at BCA, BDS and BGS in 2020, partially offset by higher costs as a result of higher revenues in 2021 and the reach-forward loss on the 787 program. Cost of sales as a percentage of Revenues decreased in 2021 compared to 2020 primarily due to higher earnings charges at BCA and BGS in 2020 and higher revenues in 2021. 
 
-## Research and Development
+### Research and Development
 
 The following table summarizes our Research and development expense:
 
@@ -1448,9 +1470,9 @@ Contractual backlog of unfilled orders excludes purchase options, announced orde
 
 Unobligated backlog includes U.S. and non-U.S. government definitive contracts for which funding has not been authorized. The increase in unobligated backlog in 2022 was primarily due to contract awards, partially offset by reclassifications to contractual backlog related to BDS and BGS contracts. 
 
-## Additional Considerations
+### Additional Considerations
 
-## Global Trade
+### Global Trade
 
 We continually monitor the global trade environment in response to geopolitical economic developments, as well as changes in tariffs, trade agreements or sanctions that may impact the Company.
 
@@ -1460,19 +1482,19 @@ Beginning in June 2018, the U.S. Government imposed tariffs on steel and aluminu
 
 We are complying with all U.S. and other government export control restrictions and sanctions imposed on certain businesses and individuals in Russia. We continue to monitor and evaluate additional sanctions and export restrictions that may be imposed by the U.S. Government or other governments, 
 
-as well as any responses from Russia that could affect our supply chain, business partners or customers, for any additional impacts to our business.
+as well as any responses from Russia that could affect our supply chain, business partners or customers, for any additional impacts to our business. 
 
-## Segment Results of Operations and Financial Condition
+### Segment Results of Operations and Financial Condition
 
-## Commercial Airplanes
+### Commercial Airplanes
 
-## Business Environment and Trends
+#### Business Environment and Trends
 
-## Airline Industry Environment
+#### Airline Industry Environment
 
 See Overview to Management’s Discussion and Analysis of Financial Condition and Results of Operations for a discussion of the airline industry environment.
 
-## Industry Competitiveness
+#### Industry Competitiveness
 
 The industry continues to recover from the lingering effects of the COVID-19 pandemic. The commercial aircraft market and the airline industry both remain extremely competitive. While the impacts and responses have varied globally, the reduction of demand and disruption in production has adversely impacted most manufacturers in the commercial aircraft industry.
 
@@ -1480,7 +1502,7 @@ Continued access to global markets remains vital to our ability to fully realize
 
 We are focused on improving our products and services and continuing our business transformation efforts, which enhances our ability to compete and positions us for market recovery. We are also focused on taking actions to ensure that Boeing is not harmed by unfair subsidization of competitors. 
 
-## Results of Operations
+### Results of Operations
 
 <table>
   <thead>
@@ -1531,13 +1553,13 @@ We are focused on improving our products and services and continuing our busines
   </tbody>
 </table>
 
-## Revenues
+#### Revenues
 
-BCA revenues increased by $6,374 million in 2022 compared with 2021 primarily due to higher 737 and 787 deliveries in 2022.
+BCA revenues increased by $6,374 million in 2022 compared with 2021 primarily due to higher 737 and 787 deliveries in 2022. 
 
 BCA revenues increased by $3,331 million in 2021 compared with 2020 primarily due to higher 737 MAX deliveries driven by recertification and return to service in most jurisdictions and the absence of charges for 737 MAX customer considerations which reduced revenues in 2020, partially offset by lower 787 deliveries in 2021. 
 
-BCA deliveries, including intercompany deliveries, as of December 31 were as follows:
+BCA deliveries, including intercompany deliveries, as of December 31 were as follows: 
 
 <table>
   <thead>
@@ -1658,7 +1680,7 @@ BCA deliveries, including intercompany deliveries, as of December 31 were as fol
 
 * Intercompany deliveries identified by parentheses 
 
-## Loss From Operations
+#### Loss From Operations
 
 BCA loss from operations was $2,370 million in 2022 compared with $6,475 million in 2021 reflecting higher 737 deliveries and lower abnormal production costs, partially offset by higher research and development spending, charges related to the war in Ukraine and other period expenses. The 2021 loss also reflects a reach-forward loss on the 787 program of $3,460 million. Abnormal production costs in 2022 were $1,753 million, including $1,240 million related to the 787 program, $325 million related to the 777X program, and $188 million related to the 737 program. 
 
@@ -1666,13 +1688,13 @@ BCA loss from operations was $6,475 million in 2021 compared with $13,847 millio
 
 $2,567 million of abnormal production costs related to the 737 program, $623 million of severance cost, $498 million of 737 MAX customer considerations, $336 million related to 737NG frame fitting component repair costs and $270 million of abnormal production costs in the first half of 2020 from the temporary suspension of operations in response to COVID-19, partially offset by lower research and development spending. Lower 787 margins reflecting a reduction in the accounting quantity in the first quarter of 2020 also contributed to lower earnings. 
 
-## Backlog
+#### Backlog
 
 Our total backlog represents the estimated transaction prices on unsatisfied and partially satisfied performance obligations to our customers where we believe it is probable that we will collect the consideration due and where no contingencies remain before we and the customer are required to perform. Backlog does not include prospective orders where customer-controlled contingencies remain, such as the customer receiving approval from its board of directors, shareholders or government or completing financing arrangements. All such contingencies must be satisfied or have expired prior to recording a new firm order even if satisfying such conditions is highly probable. Backlog excludes options and BCC orders as well as orders where customers have the unilateral right to terminate. A number of our customers may have contractual remedies, including rights to reject individual airplane deliveries if the actual delivery date is significantly later than the contractual delivery date. We address customer claims and requests for other contractual relief as they arise. The value of orders in backlog is adjusted as changes to price and schedule are agreed to with customers and is reported in accordance with the requirements of ASC 606. 
 
 BCA total backlog of $329,824 million at December 31, 2022 increased from $296,882 million at December 31, 2021, reflecting new orders in excess of deliveries and price escalation, offset by order cancellations and by an increase in the value of existing orders that in our assessment do not meet the accounting requirements of ASC 606 for inclusion in backlog. Aircraft order cancellations during the year ended December 31, 2022 totaled $11,251 million and relate to 737 and 787 aircraft. The net ASC 606 adjustments for the year ended December 31, 2022 resulted in a decrease to backlog of $4,675 million primarily due to a net increase of 777X aircraft in the ASC 606 reserve, partially offset by net decreases in 737 and 787 aircraft in the ASC 606 reserve. ASC 606 adjustments include consideration of aircraft orders where a customer-controlled contingency may exist, as well as an assessment of whether the customer is committed to perform, impacts of geopolitical events or related sanctions, or whether it is probable that the customer will pay the full amount of consideration when it is due. If we remain unable to deliver 737 MAX aircraft in China for an extended period of time, and/or entry into service of the 777X, 737-7 and/or 737-10 is further delayed, we may experience reductions to backlog and/or significant order cancellations. 
 
-## Accounting Quantity
+#### Accounting Quantity
 
 The accounting quantity is our estimate of the quantity of airplanes that will be produced for delivery under existing and anticipated contracts. The determination of the accounting quantity is limited by the ability to make reasonably dependable estimates of the revenue and cost of existing and anticipated contracts. It is a key determinant of the gross margins we recognize on sales of individual airplanes throughout a program’s life. Estimation of each program’s accounting quantity takes into account several factors that are indicative of the demand for that program, including firm orders, letters of intent from prospective customers and market studies. We review our program accounting quantities quarterly.
 
@@ -1837,11 +1859,13 @@ The following table provides details of the accounting quantities and firm order
   </tbody>
 </table>
 
-† Aircraft ordered by BCC are identified in parentheses.
+† Aircraft ordered by BCC are identified in parentheses. 
 
-## Program Highlights
+#### Program Highlights
 
-**737 Program** The accounting quantity for the 737 program increased by 400 units during 2022 due to the program's normal progress of obtaining additional orders and delivering airplanes. 
+#### 737 Program
+
+The accounting quantity for the 737 program increased by 400 units during 2022 due to the program's normal progress of obtaining additional orders and delivering airplanes.
 
 We increased the production rate to 31 per month in 2022, and expect to implement further gradual production rate increases based on market demand and supply chain capacity. We expensed abnormal production costs of $188 million and $1,887 million during the years ended December 31, 2022 and 2021. 
 
@@ -1849,21 +1873,45 @@ Over 190 countries have approved the resumption of 737 MAX operations. The first
 
 We have approximately 250 aircraft in inventory as of December 31, 2022, including approximately 140 aircraft in inventory that are designated for customers in China. We are remarketing some of these aircraft to other customers. We anticipate delivering most of the aircraft in inventory by the end of 2024. In the event that we are unable to resume aircraft deliveries in China or remarket those aircraft and/or ramp up deliveries consistent with our assumptions, our expectation of delivery timing could be impacted. 
 
+The 737-7 and 737-10 models are currently going through FAA certification. The Consolidated Appropriations Act, 2023 amended Section 116 of the ACSAA, such that applications for original or amended type certifications that were submitted to the FAA prior to December 27, 2020, including those of the 737-7 and 737-10, are no longer subject to the crew alerting specifications of Section 116. Additionally, beginning one year after the FAA issues the type certificate for the 737-10, any new 737 MAX aircraft must include certain safety enhancements to be issued an original airworthiness certification by the FAA. These enhancements are included in Boeing’s application for the certification for the 737-10, and the sufficiency of these enhancements will be determined by the FAA. Beginning three years after the issuance of a type certificate for the 73710, all previously delivered 737 MAX aircraft must be retrofitted with these safety enhancements. As the holder of the type certificate, Boeing is required to bear any costs of these safety enhancement retrofits. We have provisioned for the estimated costs associated with the safety enhancements and do not expect those costs to be material. 
+
+We are following the lead of the FAA as we work through the certification process, and currently expect the 737-7 to be certified and delivered in 2023, and the 737-10 to begin FAA certification flight testing in 2023 with first delivery in in 2024. At December 31, 2022, we had 27 737-7 and 3 737-10 aircraft in inventory and 236 737-7 and 720 737-10 aircraft in backlog and have delivered a total of 1,033 737 MAX aircraft. If we experience delays in achieving certification and/or incorporating safety enhancements, future revenues, cash flows and results of operations could be adversely impacted. 
+
+See further discussion of the 737 MAX in Note 7 and Note 13 to our Consolidated Financial Statements _._ 
+
+#### 747 Program
+
+We completed production of the 747 in the fourth quarter of 2022 and delivery of the last aircraft is expected to occur in early 2023. Ending production of the 747 did not have a material impact on our financial position, results of operations or cash flows.
+
+#### 767 Program
+
+The accounting quantity for the 767 program increased by 24 units during 2022 due to the program's normal progress of obtaining additional orders and delivering airplanes. The 767 assembly line includes the commercial program and a derivative to support the KC-46A Tanker program. The commercial program has near break-even gross margins. We are currently producing at a combined rate of 3 aircraft per month.
+
+#### 777 and 777X Programs
+
+The accounting quantity for the 777 program increased by 40 units during 2022 due to the program's normal progress of obtaining additional orders and delivering airplanes. We are currently producing at a combined production rate of 3 per month for the 777/777X programs. The accounting quantity for the 777X program increased by 50 units during 2022 reflecting the launch of the 777X-8 freighter during the first quarter of 2022. First delivery of the 777X-8 freighter is expected in 2027.
+
 During the first quarter of 2022, we revised the estimated first delivery date of the 777X-9, previously expected in late 2023, and now expect it will occur in 2025, based on an updated assessment of the time required to meet certification requirements. We are working towards Type Inspection Authorization (TIA) which will enable us to begin FAA certification flight testing. The timing of TIA and certification will ultimately be determined by the regulators, and further determinations with respect to anticipated certification requirements could result in additional delays in entry into service and/or additional cost increases. 
 
 In April 2022, we decided to pause production of the 777X-9 during 2022 and 2023. We implemented the production pause during the second quarter of 2022, and it is expected to result in abnormal production costs of approximately $1.5 billion that are being expensed as incurred until 777X-9 production resumes. During the year ended December 31, 2022, $0.3 billion of abnormal costs were period expensed. 
 
 The 777X program had near break-even gross margins at December 31, 2022. The level of profitability on the 777X program will be subject to a number of factors. These factors include continued production disruption due to labor instability and supply chain disruption, customer negotiations, further production rate adjustments for the 777X or other commercial aircraft programs, contraction of the accounting quantity and potential risks associated with the testing program and the timing of aircraft certification. One or more of these factors could result in additional reach-forward losses on the 777X program in future periods. 
 
+#### 787 Program
+
+During the fourth quarter of 2022, we increased the accounting quantity for the 787 program by 100 units due to the program’s normal progress of obtaining additional orders and delivering aircraft. The increase in the accounting quantity improved the program’s profit margin.
+
+We received FAA authorization to resume delivery on July 28, 2022 and deliveries resumed in August. During 2022, we delivered 31 aircraft to customers. We continue to conduct inspections and rework on undelivered aircraft. During 2021, we delivered 14 aircraft between March and May 2021 prior to deliveries being paused in May 2021 due to production quality issues including in our supply chain. We have implemented changes in the production process designed to ensure that newly-built airplanes meet our specifications and do not require further inspections and rework. At December 31, 2022, and 2021, we had approximately 100 and 110 aircraft in inventory. Most of the aircraft in inventory at December 31, 2022 are expected to deliver by the end of 2024. 
+
 We are currently producing at low rates and expect to gradually return to 5 per month in 2023. In the third quarter of 2021, we determined that production rates below 5 per month represented abnormally low production rates and result in abnormal production costs. We also determined that the inspections and rework costs on inventoried aircraft are excessive and should also be accounted for as abnormal production costs that are required to be expensed as incurred. Cumulative abnormal costs recorded through December 31, 2022 totaled $1.7 billion. During the fourth quarter of 2022 we adjusted the total estimate of abnormal production costs up to $2.8 billion with most being incurred by the end of 2023. At December 31, 2021, we were expecting to incur approximately $2 billion of abnormal production costs on a cumulative basis. The increase was primarily driven by a decision in the fourth quarter of 2022 to slow down near-term production due to supply chain constraints and increased inspection and rework costs. We continue to work with customers and suppliers regarding timing of future deliveries and production rate changes. 
 
 During the fourth quarter of 2021, we recorded a loss of $3.5 billion on the program primarily due to the additional rework, as well as other actions required to resume 787 deliveries, taking longer than expected. These impacts have resulted in longer than expected delivery delays and associated customer considerations. 
 
-## Fleet Support
+#### Fleet Support
 
 We provide the operators of our commercial aircraft with assistance and services to facilitate efficient and safe airplane operation. Collectively known as fleet support services, these activities and services begin prior to airplane delivery and continue throughout the operational life of the airplane. They include flight and maintenance training, field service support, engineering services, information services and systems and technical data and documents. The costs for fleet support are expensed as incurred and have historically been approximately 1% of total consolidated costs of products and services.
 
-## Program Development
+#### Program Development
 
 The following chart summarizes the time horizon between go-ahead and planned initial delivery for major Commercial Airplanes derivatives and programs.
 
@@ -1886,21 +1934,21 @@ The development schedules shown above are subject to a number of uncertainties, 
 
 The development and ongoing production of commercial aircraft is extremely complex, involving extensive coordination and integration with suppliers and highly-skilled labor from employees and other partners. Meeting or exceeding our performance and reliability standards, as well as those of customers and regulators, can be costly and technologically challenging, such as the 787 production issues and associated rework. In addition, the introduction of new aircraft and derivatives, such as the 777X, 737-7 and 737-10, involves increased risks associated with meeting development, production and certification schedules. These challenges include increased global regulatory scrutiny of all development aircraft in the wake of the 737 MAX accidents. As a result, our ability to deliver aircraft on time, satisfy performance and reliability standards and achieve or maintain, as applicable, program profitability is subject to significant risks. Factors that could result in lower margins (or a material charge if an airplane program has or is determined to have reach-forward losses) include the following: changes to the program accounting quantity, customer and model mix, production costs and rates, changes to price escalation factors due to changes in the inflation rate or other economic indicators, performance or reliability issues involving completed aircraft, capital expenditures and other costs associated with increasing or adding new production capacity, learning curve, additional change incorporation, achieving anticipated cost reductions, the addition of regulatory requirements in connection with certification in one or more jurisdictions, flight test and certification schedules, costs, schedule and demand for new airplanes and derivatives and status of customer claims, supplier claims or assertions and other contractual negotiations. While we believe the cost and revenue estimates incorporated in the consolidated financial statements are appropriate, the technical complexity of our airplane programs creates financial risk as additional completion costs may become necessary or scheduled delivery dates could be extended, which could trigger termination provisions, order cancellations or other financially significant exposure. 
 
-## Defense, Space & Security
+### Defense, Space & Security
 
 ## Business Environment and Trends
 
-## United States Government Defense Environment Overview
+#### United States Government Defense Environment Overview
 
 The Consolidated Appropriations Act, 2023, enacted in December 2022, provided fiscal year 2023 (FY23) appropriations for government departments and agencies, including $817 billion for the U.S. DoD and $25.4 billion for NASA. The enacted FY23 appropriations included funding for Boeing’s major programs, including the F/A-18 Super Hornet, F-15EX, CH-47 Chinook, AH-64 Apache, V-22 Osprey, KC-46A Tanker, MQ-25, and the Space Launch System. The FY23 appropriations support F/A-18 production further into calendar year 2025. The FY23 appropriations did not include funding for additional P-8 aircraft. The P-8 program continues to pursue additional sales opportunities to extend production beyond 2024. 
 
 There is ongoing uncertainty with respect to program-level appropriations for the U.S. DoD, NASA and other government agencies for fiscal year 2024 and beyond. U.S. government discretionary spending, including defense spending, is likely to continue to be subject to pressure. Future budget cuts or investment priority changes, including changes associated with the authorizations and appropriations process, could result in reductions, cancellations and/or delays of existing contracts or programs. Any of these impacts could have a material effect on our results of operations, financial position and/or cash flows. 
 
-## Non-U.S. Defense Environment Overview
+#### Non-U.S. Defense Environment Overview
 
 The non-U.S. market continues to be driven by complex and evolving security challenges and the need to modernize aging equipment and inventories. BDS expects that it will continue to have a wide range of opportunities across Asia, Europe and the Middle East given the diverse regional threats. At the end of 2022, 28% of BDS backlog was attributable to non-U.S. customers.
 
-## Results of Operations
+#### Results of Operations
 
 <table>
   <thead>
@@ -2062,31 +2110,33 @@ Deliveries of new-build production units, including remanufactures and modificat
   </tbody>
 </table>
 
-## Revenues
+#### Revenues
 
 BDS revenues in 2022 decreased by $3,378 million compared with 2021 primarily due to charges on development programs. Unfavorable performance across other defense programs and lower P-8 and weapons volume also contributed to the decrease in revenue. Cumulative contract catch-up adjustments in 2022 were $1,858 million more unfavorable than the prior year largely due to charges on development programs. 
 
 BDS revenues in 2021 increased by $283 million compared with 2020 primarily due to higher revenue on the KC-46A Tanker program due to new orders for 27 aircraft received during the first quarter of 2021 and lower charges in 2021. This was partially offset by lower revenues on rotorcraft programs, Commercial Crew and VC-25B. Cumulative contract catch-up adjustments in 2021 were $56 million less unfavorable than the prior year, largely due to the lower charges described below. 
 
-## (Loss)/earnings From Operations
+#### (Loss)/earnings From Operations
+
+BDS loss from operations in 2022 of $3,544 million decreased by $5,088 million compared with earnings from operations of $1,544 million in 2021 primarily due to unfavorable impacts of cumulative contract catch-up adjustments ($4,284 million more unfavorable in 2022 than 2021). Volume and mix and higher research and development also contributed to the year over year earnings decline. Charges of fixed price development programs in 2022 included VC-25B ($1,452 million), KC-46A Tanker ($1,374 million), MQ-25 ($579 million), T-7A Red Hawk Production Options ($552 million), T-7A Red Hawk Engineering, Manufacturing and Development (EMD) ($203 million), and Commercial Crew ($288 million). These were partially offset by charges on the KC-46A Tanker ($402 million), VC-25B ($318 million), and Commercial Crew ($214 million) recognized in 2021. The net unfavorable cumulative contract catch-up adjustments represent losses incurred on these development and other programs. See further discussion of fixed-price contracts in Note 13 to our Consolidated Financial Statements. 
 
 BDS earnings from operations in 2021 of $1,544 million increased by $5 million compared with earnings from operations of $1,539 million in 2020 primarily due to less unfavorable impacts from cumulative contract catch-up adjustments, which improved $219 million from the prior year, largely due to lower KC-46A Tanker charges in 2021 compared to 2020 and other charges on development programs. The $219 million change in cumulative contract catch-up adjustments was offset primarily by lower volume and mix on rotorcraft programs and lower equity earnings for United Launch Alliance (ULA). During 2020, BDS recorded charges on KC-46A Tanker ($1,320 million) and VC-25B ($168 million). 
 
 BDS (loss)/earnings from operations includes our share of income from equity method investments of $13 million, $53 million and $141 million primarily from our ULA and non-U.S. joint ventures in 2022, 2021 and 2020, respectively. Earnings from our ULA joint venture increased in 2022, partially offset by losses on other operating investments. 
 
-## Backlog
+#### Backlog
 
-Total backlog of $54,373 million at December 31, 2022 was $5,455 million lower than December 31, 2021 due to the timing of awards and revenue recognized on contracts awarded in prior years.
+Total backlog of $54,373 million at December 31, 2022 was $5,455 million lower than December 31, 2021 due to the timing of awards and revenue recognized on contracts awarded in prior years. 
 
-## Additional Considerations
+#### Additional Considerations
 
 Our BDS business includes a variety of development programs which have complex design and technical challenges. Some of these programs have cost-type contracting arrangements. In these cases, the associated financial risks are primarily in reduced fees, lower profit rates or program cancellation if cost, schedule or technical performance issues arise. Examples of these programs include Ground-based Midcourse Defense, Proprietary and Space Launch System programs. 
 
 Some of our development programs are contracted on a fixed-price basis. Examples of significant fixed-price development programs include Commercial Crew, KC-46A Tanker, MQ-25, T-7A Red Hawk, VC-25B, and commercial and military satellites. A number of our ongoing fixed-price development programs have reach-forward losses. New programs could also have risk for reach-forward loss upon contract award and during the period of contract performance. Many development programs have highly complex designs. As technical or quality issues arise during development, we may experience schedule delays and cost impacts, which could increase our estimated cost to perform the work or reduce our estimated price, either of which could result in a material charge or otherwise adversely affect our financial condition. These programs are ongoing, and while we believe the cost and fee estimates incorporated in the financial statements are appropriate, the technical complexity of these programs creates financial risk as additional completion costs may become necessary or scheduled delivery dates could be extended, which could trigger termination provisions or other financially significant exposure. Risk remains that we may be required to record additional reach-forward losses in future periods. 
 
-## Global Services
+### Global Services
 
-## Business Environment and Trends
+#### Business Environment and Trends
 
 The aerospace markets we serve include parts distribution, logistics and other inventory services; maintenance, engineering and upgrades; training and professional services; and data analytics and digital services. During 2022, commercial services volume at BGS recovered to prepandemic levels. We expect BGS commercial revenues to remain strong in future quarters as the commercial airline industry continues to recover. 
 
@@ -2098,11 +2148,11 @@ expect U.S. growth to remain flat and non-U.S. fleets, led by Middle East and As
 
 BGS’ major customer, the U.S. government, remains subject to the spending limits and uncertainty described on page 35, which could restrict the execution of certain program activities and delay new programs or competitions. 
 
-## Industry Competitiveness
+#### Industry Competitiveness
 
 Aviation services is a competitive market with many domestic and international competitors. This market environment has resulted in intense pressures on pricing, and we expect these pressures to continue or intensify in the coming years. Continued access to global markets remains vital to our ability to fully realize our sales growth potential and long-term investment returns.
 
-## Results of Operations
+#### Results of Operations
 
 _(Dollars in millions)_ 
 
@@ -2149,29 +2199,33 @@ _(Dollars in millions)_
   </tbody>
 </table>
 
-## Revenues
+#### Revenues
 
 BGS revenues in 2022 increased by $1,283 million compared with 2021 primarily due to higher commercial services volume, partially offset by lower government services volume and performance. The decrease in government services volume is partly driven by the discontinuation of an engine distribution agreement in the second quarter of 2022. The net favorable impact of cumulative contract catch-up adjustments in 2022 was $137 million lower than the prior year. 
 
 BGS revenues in 2021 increased by $785 million compared with 2020 due to higher commercial and government services volume. The net favorable impact of cumulative contract catch-up adjustments in 2021 was $37 million lower than the prior year **.** 
 
-## Earnings From Operations
+#### Earnings From Operations
 
 BGS earnings from operations in 2022 increased by $710 million compared with 2021, primarily due to higher commercial services volume and favorable mix, partially offset by lower government services performance. The net unfavorable impact of cumulative contract catch-up adjustments in 2022 was $148 million worse than the net favorable impact in the prior year. 
 
 BGS earnings from operations in 2021 increased by $1,567 million compared with 2020, primarily due to charges incurred in 2020 driven by impacts of the COVID-19 pandemic as well as higher commercial services volume in 2021, partially offset by an inventory write-down of $220 million recognized in the fourth quarter of 2021 driven by revised cost estimates on certain customer contracts. Charges in 2020 included $531 million of inventory write-downs, $178 million of related impairments of distribution rights primarily driven by airlines’ decisions to retire certain aircraft, $398 million for higher expected credit losses primarily driven by customer liquidity issues, $115 million of contract termination and facility impairment charges, and $72 million of severance costs. The net favorable impact of cumulative contract catch-up adjustments in 2021 was $98 million lower than the prior year **.** 
 
-## Backlog
+#### Backlog
 
-## Boeing Capital
+BGS total backlog of $19,338 million at December 31, 2022 decreased by 6% from $20,496 million at December 31, 2021, primarily due to revenue recognized on contracts awarded in prior years. 
 
-## Business Environment and Trends
+### Boeing Capital
+
+#### Business Environment and Trends
 
 BCC’s gross customer financing and investment portfolio at December 31, 2022 totaled $1,549 million. A substantial portion of BCC’s portfolio is composed of customers that have less than investment-grade credit. BCC’s portfolio is also concentrated by varying degrees across Boeing aircraft product types, most notably 717 and 747-8 aircraft. 
 
+BCC provided customer financing of $96 million during 2022 and none during 2021. While we may be required to fund a number of new aircraft deliveries in 2023 and/or provide refinancing for existing bridge debt, we expect alternative financing will be available at reasonable prices from broad and globally diverse sources. 
+
 Aircraft values and lease rates are impacted by the number and type of aircraft that are currently out of service. Approximately 4,950 westernbuilt commercial jet aircraft (18.3% of current world fleet) were parked at the end of 2022, including both in-production and out-of-production aircraft types. Of these parked aircraft, a larger portion are expected to be retired compared to the pre-COVID-19 period, which directly impacts the Company in terms of number of new aircraft deliveries and financing opportunities, the ability of existing customers to meet current payment obligations and the value of aircraft in its portfolio. We continue to work closely with our customers to mitigate the risk. At the end of 2021 and 2020, 20.5% and 29.4% of the western-built commercial jet aircraft were parked. Aircraft valuations could decline if significant numbers of additional aircraft, particularly types with relatively few operators, are placed out of service. See Overview to Management’s Discussion and Analysis of Financial Condition and Results of Operations for a discussion of the airline industry environment. 
 
-## Results of Operations
+#### Results of Operations
 
 <table>
   <thead>
@@ -2204,11 +2258,11 @@ Aircraft values and lease rates are impacted by the number and type of aircraft 
   </tbody>
 </table>
 
-## Revenues
+#### Revenues
 
 BCC segment revenues consist principally of lease income from equipment under operating lease, interest income from financing receivables and notes, and other income. BCC’s revenues in 2022 decreased by $73 million compared with 2021 primarily due to lower gains on re-lease of assets. 
 
-## Earnings From Operations
+#### Earnings From Operations
 
 BCC’s earnings from operations is presented net of interest expense, provision for (recovery of) losses, asset impairment expense, depreciation on leased equipment and other operating expenses. In 2022, earnings from operations decreased by $77 million compared with 2021, primarily due to an increase in the allowance for losses on receivables as a result of the war in Ukraine and lower revenues. Earnings from operations in 2021 increased by $43 million compared with 2020 primarily due to higher revenues, lower provision for losses, and lower interest and asset impairment expenses. 
 
@@ -2287,9 +2341,9 @@ BCC’s customer financing and investment portfolio at December 31, 2022 decreas
 
 BCC enters into certain intercompany transactions, reflected in Unallocated items, eliminations and other, in the form of intercompany guarantees and other subsidies that mitigate the effects of certain credit quality or asset impairment issues on the BCC segment. 
 
-## Liquidity and Capital Resources
+### Liquidity and Capital Resources
 
-## Cash Flow Summary
+#### Cash Flow Summary
 
 <table>
   <thead>
@@ -2386,7 +2440,7 @@ BCC enters into certain intercompany transactions, reflected in Unallocated item
   </tbody>
 </table>
 
-### Operating Activities
+#### Operating Activities
 
 Net cash provided by operating activities was $3.5 billion during 2022, compared with net cash used by operating activities of $3.4 billion during 2021. The $6.9 billion improvement in cash provided by operating activities in 2022 is primarily driven by improved changes in assets and liabilities of $11.1 billion, partially offset by lower non-cash items of $3.4 billion and higher net loss of $0.8 billion. Changes in assets and liabilities for 2022 improved by $11.1 billion compared with 2021 primarily driven by favorable changes in Accrued liabilities ($6.6 billion), Accounts payable ($4.6 billion) and Inventories ($1.5 billion), partially offset by a decrease in Advances and progress billings ($2.4 billion) in 2022. The increase in Accrued liabilities is primarily driven by the accrued losses on BDS fixed-price development programs, lower payments to 737 MAX customers in 2022, and a $0.7 billion
 
@@ -2396,11 +2450,11 @@ The reduction in cash used by operating activities in 2021 compared with 2020 is
 
 At December 31, 2022 and 2021, Accounts payable included $2.5 billion and $2.3 billion payable to suppliers who have elected to participate in supply chain financing programs. Payables to suppliers who elected to participate in supply chain financing programs increased by $0.2 billion in 2022 and declined by $1.5 billion and $1.9 billion in 2021 and 2020. Supply chain financing is not material to our overall liquidity. The declines in 2021 and 2020 were primarily due to reductions in commercial purchases from suppliers. 
 
-### Investing Activities
+#### Investing Activities
 
 Cash provided by investing activities during 2022 was $4.4 billion, compared with cash provided by investing activities of $9.3 billion during 2021 and cash used by investing activities of $18.4 billion during 2020. The decrease in cash inflows in 2022 compared to 2021 is primarily due to $5.6 billion of net proceeds from investments compared to $9.8 billion in 2021. The increase in cash inflows in 2021 compared to 2020 is primarily due to $27.1 billion of higher net proceeds from investments. Capital expenditures totaled $1.2 billion in 2022, compared with $1.0 billion in 2021 and $1.3 billion in 2020. We expect capital expenditures in 2023 to be higher than in 2022.
 
-### Financing Activities
+#### Financing Activities
 
 Cash used by financing activities was $1.3 billion during 2022, compared with $5.6 billion during 2021 and cash provided of $35.0 billion in 2020. The decrease of $4.3 billion compared with 2021 primarily reflects higher net debt repayments in 2021. During 2021, debt repayments net of new borrowings were $5.6 billion, primarily due to $13.8 billion of repayments of our two-year delayed draw term loan credit agreement, partially offset by $9.8 billion of fixed rate senior notes issued in the first quarter of 2021. During the year ended December 31, 2020, new borrowings net of repayments were $36.3 billion, primarily due to $29.9 billion of fixed rate senior notes issued in 2020 and $13.8 billion of new borrowings under a two-year delayed draw term loan agreement entered into in the first quarter of 2020.
 
@@ -2408,7 +2462,7 @@ At December 31, 2022 and 2021 debt balances totaled $57.0 billion and $58.1 bill
 
 During the years ended December 31, 2022, 2021 and 2020, we did not repurchase any shares through our open market share repurchase program. Share repurchases under this program have been suspended since April 2019. In March 2020, the Board of Directors terminated its prior authorization to repurchase shares of the Company's outstanding common stock in the open market. We had 0.2 million, 0.3 million and 0.6 million shares transferred to us from employee tax withholdings in 2022, 2021 and 2020, respectively. In March 2020, we announced the suspension of our dividend until further notice. As a result, we did not pay any dividends in 2022 and 2021 compared with $1.2 billion paid in 2020. 
 
-## Capital Resources
+#### Capital Resources
 
 The following table summarizes certain cash requirements for known contractual and other obligations as of December 31, 2022, and the estimated timing thereof. See Note 12 for future operating lease payments. 
 
@@ -2482,11 +2536,11 @@ We have entered into various industrial participation agreements with certain cu
 
 totaling $24.8 billion that extend through 2034. Purchase order commitments associated with industrial participation agreements are included in purchase obligations. To be eligible for such a purchase order commitment from us, a non-U.S. supplier must have sufficient capability to meet our requirements and must be competitive in cost, quality and schedule. 
 
-## Off-Balance Sheet Arrangements
+### Off-Balance Sheet Arrangements
 
 We are a party to certain off-balance sheet arrangements including certain guarantees. For discussion of these arrangements, see Note 14 to our Consolidated Financial Statements.
 
-## Commercial Commitments
+### Commercial Commitments
 
 The following table summarizes our commercial commitments outstanding as of December 31, 2022. 
 
@@ -2547,21 +2601,21 @@ The following table summarizes our commercial commitments outstanding as of Dece
 
 Commercial aircraft financing commitments include commitments to provide financing related to aircraft on order, under option for deliveries or proposed as part of sales campaigns or refinancing with respect to delivered aircraft, based on estimated earliest potential funding dates. Customer financing commitments totaled $16.1 billion and $12.9 billion at December 31, 2022 and 2021. The increase relates to new financing commitments. We anticipate that we will not be required to fund a significant portion of our financing commitments as we continue to work with third party financiers to provide alternative financing to customers. Historically, we have not been required to fund significant amounts of outstanding commitments. However, there can be no assurances that we will not be required to fund greater amounts than historically required. See Note 13 to our Consolidated Financial Statements. 
 
-## Contingent Obligations
+### Contingent Obligations
 
-We have significant contingent obligations that arise in the ordinary course of business, which include the following:
+We have significant contingent obligations that arise in the ordinary course of business, which include the following: 
 
-### Legal
+#### Legal
 
 Various legal proceedings, claims and investigations are pending against us. Legal contingencies are discussed in Note 21 to our Consolidated Financial Statements.
 
-## Environmental Remediation
+#### Environmental Remediation
 
 We are involved with various environmental remediation activities and have recorded a liability of $752 million at December 31, 2022. For additional information, see Note 13 to our Consolidated Financial Statements.
 
-## Non-GAAP Measures
+### Non-GAAP Measures
 
-## Core Operating Loss, Core Operating Margin and Core Loss Per Share
+#### Core Operating Loss, Core Operating Margin and Core Loss Per Share
 
 Our Consolidated Financial Statements are prepared in accordance with GAAP which we supplement with certain non-GAAP financial information. These non-GAAP measures should not be considered in isolation or as a substitute for the related GAAP measures, and other companies may define such measures differently. We encourage investors to review our financial statements and publicly-filed reports in their entirety and not to rely on any single financial measure. Core operating earnings, core operating margin and core earnings per share exclude the FAS/CAS service cost adjustment. The FAS/ 
 
@@ -2571,7 +2625,7 @@ The Pension FAS/CAS service cost adjustments recognized in Loss from operations 
 
 Management uses core operating earnings, core operating margin and core earnings per share for purposes of evaluating and forecasting underlying business performance. Management believes these core earnings measures provide investors additional insights into operational performance as unallocated pension and other postretirement benefit cost primarily represent costs driven by market factors and costs not allocable to U.S. government contracts. 
 
-## Reconciliation of Non-GAAP Measures to GAAP Measures
+#### Reconciliation of Non-GAAP Measures to GAAP Measures
 
 The table below reconciles the non-GAAP financial measures of core operating loss, core operating margins and core loss per share with the most directly comparable GAAP financial measures of loss from operations, operating margins and diluted loss per share. 
 
@@ -2714,11 +2768,11 @@ _(Dollars in millions, except per share data)_
 
 > (2) Non-operating pension and postretirement expenses represent the components of net periodic benefit costs other than service cost. These expenses are included in Other income, net and are excluded from Core loss per share (non-GAAP). 
 
-> (3) The income tax impact is calculated using the U.S. corporate statutory tax rate.
+> (3) The income tax impact is calculated using the U.S. corporate statutory tax rate. 
 
-## Critical Accounting Policies & Estimates
+### Critical Accounting Policies & Estimates
 
-## Accounting for Long-term Contracts
+#### Accounting for Long-term Contracts
 
 Substantially all contracts at BDS and certain contracts at BGS are long-term contracts. Our long-term contracts typically represent a single distinct performance obligation due to the highly interdependent and interrelated nature of the underlying goods and/or services and the significant service of integration that we provide. 
 
@@ -2730,7 +2784,7 @@ Revenue and cost estimates for all significant long-term contract performance ob
 
 Due to the significance of judgment in the estimation process described above, it is likely that materially different earnings could be recorded if we used different assumptions or if the underlying circumstances were to change. Changes in underlying assumptions/estimates, internal and supplier performance, inflationary trends, or other circumstances may adversely or positively affect financial performance in future periods. If the combined gross margins for our profitable long-term contracts had been estimated to be higher or lower by 1% during 2022, it would have increased or decreased pre-tax income for the year by approximately $300 million. 
 
-## Program Accounting
+#### Program Accounting
 
 Program accounting requires the demonstrated ability to reliably estimate revenues, costs and gross profit margin for the defined program accounting quantity. A program consists of the estimated number of units (accounting quantity) of a product to be produced in a continuing, longterm production effort for 
 
@@ -2742,21 +2796,23 @@ To ensure reliability in our estimates, we employ a rigorous estimating process 
 
 The 767, 777X, and 787 programs had near break-even or single digit margins at December 31, 2022. Adverse changes to the revenue and/or cost estimates for these programs could result in earnings charges in future periods. 
 
-### 777X Program
+#### 777X Program
 
 The 777X program had near break-even gross margins at December 31, 2022. The level of profitability on the 777X program will be subject to a number of factors. These factors include continued production disruption due to labor instability and supply chain disruption, customer negotiations, further production rate adjustments for the 777X or other commercial aircraft programs, contraction of the accounting quantity and potential risks associated with the testing program and the timing of aircraft certification. One or more of these factors could result in additional reach-forward losses on the 777X program in future periods, which may be material.
 
-**787 Program** During the fourth quarter of 2021, we recorded a loss of $3.5 billion on the 787 program primarily due to rework driving longer delivery delays than were previously expected and associated customer considerations. During the fourth quarter of 2022, we increased the 787 program accounting quantity by 100 units due to the program’s normal progress of obtaining additional orders and delivering aircraft. The increase in the accounting quantity improved the program’s profit margin. 
+#### 787 Program
+
+During the fourth quarter of 2021, we recorded a loss of $3.5 billion on the 787 program primarily due to rework driving longer delivery delays than were previously expected and associated customer considerations. During the fourth quarter of 2022, we increased the 787 program accounting quantity by 100 units due to the program’s normal progress of obtaining additional orders and delivering aircraft. The increase in the accounting quantity improved the program’s profit margin.
 
 Our program revenue and cost assumptions reflect our current best estimate. However, if we are required to reduce the accounting quantity and/or production rates, experience further delivery delays, incur additional customer considerations, or experience other factors that result in lower margins, the 787 program could record additional losses in future periods, which may be material. 
 
-## Pension Plans
+#### Pension Plans
 
 Many of our employees have earned benefits under defined benefit pension plans. The majority of employees that had participated in defined benefit pension plans have transitioned to a company-funded defined contribution retirement savings plan. Accounting rules require an annual measurement of our projected obligation and plan assets. These measurements are based upon several assumptions, including the discount rate and the expected long-term rate of asset return. Future changes in assumptions or differences between actual and expected outcomes can significantly affect our future annual expense, projected benefit obligation and Shareholders’ equity. 
 
 The projected benefit obligation is sensitive to discount rates. The projected benefit obligation would decrease by $1,270 million or increase by $1,415 million if the discount rate increased or decreased by 25 basis points. A 25 basis point change in the discount rate would not have a significant impact on pension cost. However, net periodic pension cost is sensitive to changes in the expected long-term rate of asset return. A decrease or increase of 25 basis points in the expected long-term rate of asset return would have increased or decreased 2022 net periodic pension cost by $158 million. See Note 16 of the Notes to our Consolidated Financial Statements, which includes the discount rate and expected long-term rate of asset return assumptions for the last three years. 
 
-## Deferred Income Taxes – Valuation Allowance
+#### Deferred Income Taxes – Valuation Allowance
 
 The Company had deferred income tax assets of $12,301 million at December 31, 2022 that can be used in future years to offset taxable income and reduce income taxes payable. The Company had deferred income tax liabilities of $9,306 million at December 31, 2022 that will partially offset deferred income tax assets and result in higher taxable income in future years and increase income taxes payable. Tax law determines whether future reversals of temporary differences will result in taxable and deductible amounts that offset each other in future years. The particular years in which temporary differences result in taxable or deductible amounts generally are determined by the timing of the recovery of the related asset or settlement of the related liability. 
 
@@ -2768,7 +2824,7 @@ Deferred tax liabilities represent the assumed source of future taxable income a
 
 cannot be realized in 2022, partially offset by favorable pension remeasurement. Until the Company generates sustained levels of profitability, additional valuation allowances may have to be recorded with corresponding adverse impacts on earnings and/or other comprehensive income. 
 
-For additional information regarding income taxes, see Note 4 of the Notes to the Consolidated Financial Statements.
+For additional information regarding income taxes, see Note 4 of the Notes to the Consolidated Financial Statements. 
 
 ## Item 7A. Quantitative and Qualitative Disclosures About Market Risk
 
@@ -3132,7 +3188,7 @@ We are subject to commodity price risk relating to commodity purchase contracts 
   </tbody>
 </table>
 
-See Notes to the Consolidated Financial Statements on pages 59 - 114.
+See Notes to the Consolidated Financial Statements on pages 59 - 114. 
 
 ## The Boeing Company and Subsidiaries Consolidated Statements of Comprehensive Income
 
@@ -3311,7 +3367,7 @@ See Notes to the Consolidated Financial Statements on pages 59 - 114.
   </tbody>
 </table>
 
-See Notes to the Consolidated Financial Statements on pages 59 - 114.
+See Notes to the Consolidated Financial Statements on pages 59 - 114. 
 
 ## The Boeing Company and Subsidiaries Consolidated Statements of Financial Position
 
@@ -3570,7 +3626,7 @@ _(Dollars in millions, except per share data)_
   </tbody>
 </table>
 
-See Notes to the Consolidated Financial Statements on pages 59 - 114.
+See Notes to the Consolidated Financial Statements on pages 59 - 114. 
 
 ## The Boeing Company and Subsidiaries Consolidated Statements of Cash Flows
 
@@ -3973,7 +4029,7 @@ See Notes to the Consolidated Financial Statements on pages 59 - 114.
   </tbody>
 </table>
 
-See Notes to the Consolidated Financial Statements on pages 59 - 114.
+See Notes to the Consolidated Financial Statements on pages 59 - 114. 
 
 ## The Boeing Company and Subsidiaries Consolidated Statements of Equity
 
@@ -4244,7 +4300,7 @@ See Notes to the Consolidated Financial Statements on pages 59 - 114.
   </tbody>
 </table>
 
-See Notes to the Consolidated Financial Statements on pages 59 - 114.
+See Notes to the Consolidated Financial Statements on pages 59 - 114. 
 
 ## The Boeing Company and Subsidiaries Notes to the Consolidated Financial Statements Summary of Business Segment Data
 
@@ -4447,11 +4503,11 @@ See Notes to the Consolidated Financial Statements on pages 59 - 114.
   </tbody>
 </table>
 
-This information is an integral part of the Notes to the Consolidated Financial Statements. See Note 22 for further segment results.
+This information is an integral part of the Notes to the Consolidated Financial Statements. See Note 22 for further segment results. 
 
 ## The Boeing Company and Subsidiaries Notes to the Consolidated Financial Statements Years ended December 31, 2022, 2021 and 2020
 
-(Dollars in millions, except otherwise stated)
+_(Dollars in millions, except otherwise stated)_ 
 
 ## Note 1 – Summary of Significant Accounting Policies
 
@@ -4465,17 +4521,19 @@ The preparation of financial statements in conformity with U.S. generally accept
 
 ## Operating Cycle
 
-For classification of certain current assets and liabilities, we use the duration of the related contract or program as our operating cycle, which is generally longer than one year.
+For classification of certain current assets and liabilities, we use the duration of the related contract or program as our operating cycle, which is generally longer than one year. 
 
 ## Revenue and Related Cost Recognition
 
-### Commercial aircraft contracts
+## Commercial aircraft contracts
 
 The majority of our BCA segment revenue is derived from commercial aircraft contracts. For each contract, we determine the transaction price based on the consideration expected to be received. We allocate the transaction price to each commercial aircraft performance obligation based on relative standalone selling prices adjusted by an escalation formula as specified in the customer agreement. Revenue is recognized for each commercial aircraft performance obligation at the point in time when the aircraft is completed and accepted by the customer. We use program accounting to determine the amount reported as cost of sales.
 
 Payments for commercial aircraft sales are received in accordance with the customer agreement, which generally includes a deposit upon order and additional payments in accordance with a payment schedule, with the balance being due immediately prior to or at aircraft delivery. Advances and progress billings (contract liabilities) are normal and customary for commercial aircraft contracts and not considered a significant financing component as they are intended to protect us from the other party failing to adequately complete some or all of its obligations under the contract. 
 
-**Long-term contracts** Substantially all contracts at BDS and certain contracts at BGS are long-term contracts with the U.S. government and other customers that generally extend over several years. Products sales under long-term contracts primarily include fighter jets, rotorcraft, cybersecurity products, surveillance suites, advanced weapons, missile defense, military derivative aircraft, satellite systems and modification of commercial passenger aircraft to cargo freighters. Sales of services under long-term contracts primarily include support and maintenance agreements associated with our commercial and defense products and space travel on Commercial Crew. 
+## Long-term contracts
+
+Substantially all contracts at BDS and certain contracts at BGS are long-term contracts with the U.S. government and other customers that generally extend over several years. Products sales under long-term contracts primarily include fighter jets, rotorcraft, cybersecurity products, surveillance suites, advanced weapons, missile defense, military derivative aircraft, satellite systems and modification of commercial passenger aircraft to cargo freighters. Sales of services under long-term contracts primarily include support and maintenance agreements associated with our commercial and defense products and space travel on Commercial Crew.
 
 For each long-term contract, we determine the transaction price based on the consideration expected to be received. We allocate the transaction price to each distinct performance obligation to deliver a good or service, or a collection of goods and/or services, based on the relative standalone selling prices. A long-term contract will typically represent a single distinct performance obligation due to the highly interdependent and interrelated nature of the underlying goods and/or services and the significant service of integration that we provide. While the scope and price on certain long-term contracts may be modified over their life, the transaction price is based on current rights and obligations under the contract and does not include potential modifications until they are agreed upon with the customer. When applicable, a cumulative adjustment or separate recognition for the additional scope and price may result. Long-term contracts can be negotiated with a fixed price or a price in which we are reimbursed for costs incurred plus an agreed upon profit. The Federal Acquisition Regulations provide guidance on the types of cost that will be reimbursed in establishing the price for contracts with the U.S. government. Certain long-term contracts include in the transaction price variable consideration, such as incentive and award fees, if specified targets are achieved. The amount included in the transaction price represents the expected value, based on a weighted probability, or the most likely amount. 
 
@@ -4484,6 +4542,8 @@ Long-term contract revenue is recognized over the contract term (over time) as t
 The accounting for long-term contracts involves a judgmental process of estimating total sales, costs and profit for each performance obligation. Cost of sales is recognized as incurred. The amount reported as revenues is determined by adding a proportionate amount of the estimated profit to the amount reported as cost of sales. Recognizing revenue as costs are incurred provides an objective measure of progress on the longterm contract and thereby best depicts the extent of transfer of control to the customer. 
 
 For long-term contracts for which revenue is recognized over time, changes in estimated revenues, cost of sales and the related effect on operating income are recognized using a cumulative catch-up adjustment which recognizes in the current period the cumulative effect of the changes on current and prior periods based on a long-term contract’s percentage-of-completion. When the current estimates of total revenues and costs at completion for a long-term contract indicate a loss, a provision for the entire reach-forward loss on the long-term contract is recognized. 
+
+The table below reflects the impact of net cumulative catch-up adjustments for changes in estimated revenues and costs at completion across all long-term contracts including the impact to Loss from operations from increases in estimated losses on unexercised options for the years ended December 31: 
 
 <table>
   <thead>
@@ -4532,27 +4592,31 @@ For long-term contracts for which revenue is recognized over time, changes in es
   </tbody>
 </table>
 
+Significant adjustments during the three years ended December 31, 2022 included losses on VC-25B, KC-46A Tanker, MQ-25, Commercial Crew and T-7A Red Hawk programs. 
+
 Due to the significance of judgment in the estimation process, changes in underlying assumptions/estimates, internal and supplier performance, inflationary trends, or other circumstances may adversely or positively affect financial performance in future periods. 
 
 Payments under long-term contracts may be received before or after revenue is recognized. The U.S. government customer typically withholds payment of a small portion of the contract price until contract completion. Therefore, long-term contracts typically generate Unbilled receivables (contract assets) but may generate Advances and progress billings (contract liabilities). Long-term contract Unbilled receivables and Advances and progress billings are not considered a significant financing component because they are intended to protect either the customer or the Company in the event that some or all of the obligations under the contract are not completed. 
 
-### Commercial spare parts contracts
+## Commercial spare parts contracts
 
 Certain contracts at our BGS segment include sales of commercial spare parts. For each contract, we determine the transaction price based on the consideration expected to be received. The spare parts have discrete unit prices that represent fair value. We generally consider each spare part to be a separate performance obligation. Revenue is recognized for each commercial spare part performance obligation at the point in time of delivery to the customer. We may provide our customers with a right to return a commercial spare part where a customer may receive a full or partial refund, a credit applied to amounts owed, a different product in exchange, or any combination of these items. We consider the potential for customer returns in the estimated transaction price. The amount reported as cost of sales is recorded at average cost. Payments for commercial spare parts sales are typically received shortly after delivery.
 
-### Other service revenue contracts
+## Other service revenue contracts
 
 Certain contracts at our BGS segment are for sales of services to commercial customers including maintenance, training, data analytics and information-based services. We recognize revenue for these service performance obligations over time as the services are rendered. The method of measuring progress (such as straight-line or billable amount) varies depending upon which method best depicts the transfer of control to the customer based on the type of service performed. Cost of sales is recorded as incurred.
 
-### Concession sharing arrangements
+## Concession sharing arrangements
 
 We account for sales concessions to our customers in consideration of their purchase of products and services as a reduction of the transaction price and the revenue that is recognized for the related performance obligations. The sales concessions incurred may be partially reimbursed by certain suppliers in accordance with concession sharing arrangements. We record these reimbursements, which are presumed to represent reductions in the price of the vendor’s products or services, as a reduction in Cost of products.
 
-### Unbilled receivables and advances and progress billings
+## Unbilled receivables and advances and progress billings
 
 Unbilled receivables (contract assets) arise when the Company recognizes revenue for amounts which cannot yet be billed under terms of the contract with the customer. Advances and progress billings (contract liabilities) arise when the Company receives payments from customers in advance of recognizing revenue. The amount of Unbilled receivables or Advances and progress billings is determined for each contract.
 
-**Financial services revenue** We record financial services revenue associated with sales-type/finance leases, operating leases and loans in Sales of services on the Consolidated Statements of Operations. For sales-type leases, we recognize selling profit or loss at lease inception if collection of the lease payments is probable. For sales-type and direct finance leases, we record customer financing receivables at lease inception. A customer financing receivable is recorded at the aggregate of future minimum lease payments, estimated residual value of the leased equipment, and any deferred incremental direct costs less unearned income. Income is recognized over the life of the lease to approximate a level rate of return on the net investment. For notes receivable, we record customer financing receivables net of any unamortized discounts and deferred incremental direct costs. Interest income and amortization of any discounts are recorded ratably over the related term of the note. 
+## Financial services revenue
+
+We record financial services revenue associated with sales-type/finance leases, operating leases and loans in Sales of services on the Consolidated Statements of Operations. For sales-type leases, we recognize selling profit or loss at lease inception if collection of the lease payments is probable. For sales-type and direct finance leases, we record customer financing receivables at lease inception. A customer financing receivable is recorded at the aggregate of future minimum lease payments, estimated residual value of the leased equipment, and any deferred incremental direct costs less unearned income. Income is recognized over the life of the lease to approximate a level rate of return on the net investment. For notes receivable, we record customer financing receivables net of any unamortized discounts and deferred incremental direct costs. Interest income and amortization of any discounts are recorded ratably over the related term of the note.
 
 Income recognition is generally suspended for customer financing receivables that are uncollectible. We determine that a customer financing receivable is uncollectible when, based on current information and events, it is probable that we will be unable to collect amounts due according to the original contractual terms. We determine a customer financing receivable is past due when cash has not been received upon the due date specified in the contract. 
 
@@ -4562,7 +4626,13 @@ Residual values, which are reviewed periodically, represent the estimated amount
 
 For operating leases, revenue on leased aircraft and equipment is recorded on a straight-line basis over the term of the lease. Operating lease assets, included in Customer financing, net, are recorded at cost and depreciated to an estimated residual value using the straight-line method over the period that we project we will hold the asset. We periodically review our estimates of residual value and recognize forecasted changes by prospectively adjusting depreciation expense. We record assets held for sale at the lower of carrying value or fair value less costs to sell. We evaluate for impairment assets under operating leases when events or changes in circumstances indicate that the expected undiscounted cash flow from the asset may be less than the carrying value. When we determine that impairment is indicated for an asset, the amount of impairment expense recorded is the excess of the carrying value over the fair value of the asset. 
 
+## Reinsurance revenue
+
+Our wholly-owned insurance subsidiary, Astro Ltd., participates in a reinsurance pool for workers’ compensation. The member agreements and practices of the reinsurance pool minimize any participating members’ individual risk. Reinsurance revenues were $129, $126 and $129 during 2022, 2021 and 2020, respectively. Reinsurance costs related to premiums and claims paid to the reinsurance pool were $134, $129 and $136 during 2022, 2021 and 2020, respectively. Revenues and costs are presented net in Cost of sales in the Consolidated Statements of Operations.
+
 ## Research and Development
+
+Research and development includes costs incurred for experimentation, design and testing, as well as bid and proposal efforts related to government products and services, which are expensed as incurred unless the costs are related to certain contractual arrangements with customers. Costs that are incurred pursuant to such contractual arrangements are recorded over the period that revenue is recognized, consistent with our long-term contract accounting policy. We have certain research and development arrangements that meet the requirement for best efforts research and development accounting. Accordingly, the amounts funded by the customer are recognized as an offset to our research and development expense rather than as contract revenues. Research and development expense included bid and proposal costs of $217, $213 and $224 in 2022, 2021 and 2020, respectively. 
 
 ## Share-Based Compensation
 
@@ -4590,6 +4660,8 @@ We are subject to federal and state requirements for protection of the environme
 
 ## Cash and Cash Equivalents
 
+Cash and cash equivalents consist of highly liquid instruments, such as commercial paper, time deposits, and other money market instruments, which have original maturities of three months or less. We aggregate our cash balances by bank where conditions for right of set-off are met, and reclassify any negative balances, consisting mainly of uncleared checks, to Accounts payable. Negative balances reclassified to Accounts payable were $102 and $47 at December 31, 2022 and 2021. 
+
 ## Inventories
 
 Inventoried costs on commercial aircraft programs and long-term contracts include direct engineering, production and tooling and other nonrecurring costs, and applicable overhead, which includes fringe benefits, production related indirect and plant management salaries and plant services, not in excess of estimated net realizable value. To the extent a material amount of such costs are related to an abnormal event or are fixed costs not appropriately attributable to our programs or contracts, they are expensed in the current period rather than inventoried. Inventoried costs include amounts relating to programs and contracts with long-term production cycles, a portion of which is not expected to be realized within one year. Included in inventory for federal government contracts is an allocation of allowable costs related to manufacturing process reengineering. 
@@ -4614,13 +4686,15 @@ Property, plant and equipment are recorded at cost, including applicable constru
 
 Long-lived assets held for sale are stated at the lower of cost or fair value less cost to sell. Long-lived assets held for use are subject to an impairment assessment whenever events or changes in circumstances indicate that the carrying amount may not be recoverable. If the carrying value is no longer recoverable based upon the undiscounted future cash flows of the asset, the amount of the impairment is the difference between the carrying amount and the fair value of the asset. 
 
-**Leases** We determine if an arrangement is, or contains, a lease under which we are the lessee at the inception date. Operating lease assets are included in Other assets, with the related liabilities included in Accrued liabilities and Other long-term liabilities. Assets under finance leases, which primarily represent computer equipment, are included in Property, plant and equipment, net, with the related 
+## Leases
+
+We determine if an arrangement is, or contains, a lease under which we are the lessee at the inception date. Operating lease assets are included in Other assets, with the related liabilities included in Accrued liabilities and Other long-term liabilities. Assets under finance leases, which primarily represent computer equipment, are included in Property, plant and equipment, net, with the related
 
 liabilities included in Short-term debt and current portion of long-term debt and Long-term debt on the Consolidated Statements of Financial Position. 
 
 Operating lease assets represent our right to use an underlying asset for the lease term and lease liabilities represent our obligation to make lease payments arising from the lease. Operating lease assets and liabilities are recognized at the lease commencement date based on the estimated present value of lease payments over the lease term. We use our estimated incremental borrowing rate in determining the present value of lease payments. Variable components of the lease payments such as fair market value adjustments, utilities and maintenance costs are expensed as incurred and not included in determining the present value. Our lease terms include options to extend or terminate the lease when it is reasonably certain that we will exercise that option. Lease expense for operating leases is recognized on a straight-line basis over the lease term. 
 
-We have real property lease agreements with lease and non-lease components which are accounted for as a single lease component.
+We have real property lease agreements with lease and non-lease components which are accounted for as a single lease component. 
 
 ## Asset Retirement Obligations
 
@@ -4684,7 +4758,7 @@ We provide guarantees to certain commercial aircraft customers which include com
 
 ## Supplier Penalties
 
-We record an accrual for supplier penalties when an event occurs that makes it probable we will incur a supplier penalty and the amount is reasonably estimable.
+We record an accrual for supplier penalties when an event occurs that makes it probable we will incur a supplier penalty and the amount is reasonably estimable. 
 
 ## Guarantees
 
@@ -5477,9 +5551,15 @@ The Company’s deferred income tax assets of $12,301 can be used in future year
 
 In the fourth quarter of 2020 and throughout 2021 and 2022, the Company was in a three-year cumulative pre-tax loss position. We also normalized earnings and other comprehensive income (OCI) for certain non-recurring items and reached a normalized three-year cumulative loss position in 2021. Adjustments to normalize earnings included non-recurring items for certain 737 MAX expenses, an agreement with the Department of Justice, severance costs and remeasurement gains and losses from the annual remeasurement of pension and other postretirement benefit obligations. For purposes of assessing the recoverability of deferred tax assets, the Company determined that it could not include future projected earnings in the analysis due to recent history of losses. 
 
+As of December 31, 2022 and 2021, the Company has recorded valuation allowances of $3,162 and $2,423 primarily for certain federal deferred tax assets, as well as for certain federal and state net operating loss and tax credit carryforwards. To measure the valuation allowance, the Company estimated in what year each of its deferred tax assets and liabilities would reverse using systematic and logical methods to estimate the reversal patterns. Based on these methods, deferred tax liabilities are assumed to reverse and generate taxable income over the next 5 to 10 years while deferred tax assets related to pension and other postretirement benefit obligations are assumed to reverse and generate tax deductions over the next 15 to 20 years. The valuation allowance primarily results from not having sufficient income from deferred tax liability reversals in the appropriate future periods to support the realization of deferred tax assets. 
+
+The increase in the valuation allowance during 2022 is primarily due to tax credits and other carryforwards generated in 2022 that cannot be realized in 2022. During 2022, the Company increased the valuation allowance by $739. This reflects a tax expense of $1,199 recorded in continuing operations and an increase of $18 related to the associated federal benefit of state impacts. This was partially offset by a tax benefit of $478 included in OCI primarily due to the net actuarial gains that resulted from the annual remeasurement of pension assets and liabilities. 
+
 Until the Company generates sustained levels of profitability, additional valuation allowances may have to be recorded with corresponding adverse impacts on earnings and/or OCI. 
 
 The Tax Cuts and Jobs Act (TCJA) one-time repatriation tax and Global Intangible Low Tax Income liabilities effectively taxed the undistributed earnings previously deferred from U.S. income taxes. We have not provided for deferred income taxes on the undistributed earnings from certain non-U.S. subsidiaries because such earnings are considered to be indefinitely reinvested. If such earnings were to be distributed, any deferred income taxes would not be significant. 
+
+As of December 31, 2022 and 2021, the amounts accrued for the payment of income tax-related interest and penalties included in the Consolidated Statements of Financial Position were not significant. The amounts of interest included in the Consolidated Statements of Operations were not significant for 2022, 2021 and 2020. 
 
 A reconciliation of the beginning and ending amount of unrecognized tax benefits is as follows: 
 
@@ -5631,9 +5711,7 @@ Accounts receivable at December 31 consisted of the following:
   </tbody>
 </table>
 
-> (1) Includes foreign military sales through the U.S. government 
-
-> (2) Excludes U.S. government contracts
+> (1) Includes foreign military sales through the U.S. government > (2) Excludes U.S. government contracts
 
 ## Note 6 – Allowances for Losses on Financial Assets
 
@@ -5801,9 +5879,9 @@ Inventories at December 31 consisted of the following:
   </tbody>
 </table>
 
-> (1) Capitalized precontract costs at December 31, 2022 includes amounts related to KC-46A Tanker, Commercial Crew, and T-7 Production Options. See Note 13.
+> (1) Capitalized precontract costs at December 31, 2022 includes amounts related to KC-46A Tanker, Commercial Crew, and T-7 Production Options. See Note 13. 
 
-**Commercial Aircraft Programs**
+## Commercial Aircraft Programs
 
 The decrease in commercial aircraft programs inventory during 2022 reflects a decrease in 737 and 787 inventory, offset by growth in 777X inventory. Commercial aircraft programs inventory includes approximately 250 737 aircraft and 100 787 aircraft at December 31, 2022 as compared with 335 737 aircraft and 110 787 aircraft at December 31, 2021. 
 
@@ -5813,9 +5891,11 @@ At December 31, 2022 and 2021, commercial aircraft programs inventory included t
 
 deferred production costs, and $3,774 and $3,521 of unamortized tooling and other non-recurring costs. In April 2022, we decided to pause production of the 777X-9 during 2022 and 2023. The production pause is resulting in abnormal production costs that are being expensed as incurred until 777X-9 production resumes. We expensed abnormal production costs of $325 during the year ended December 31, 2022. The 777X program has near break-even margins at December 31, 2022. 
 
+During the fourth quarter of 2021, we determined that estimated costs to complete the 787 program plus costs already included in 787 inventory exceed estimated revenues from the program. The resulting reach-forward loss of $3,460 was recorded as a reduction to deferred production costs. At December 31, 2022 and 2021, commercial aircraft programs inventory included the following amounts related to the 787 program: deferred production costs of $12,689 and $11,693, $1,831 and $1,907 of supplier advances, and $1,722 and $1,815 of unamortized tooling and other non-recurring costs. At December 31, 2022, $9,881 of 787 deferred production costs, unamortized tooling and other non-recurring costs are expected to be recovered from units included in the program accounting quantity that have firm orders, and $4,530 is expected to be recovered from units included in the program accounting quantity that represent expected future orders. We are currently producing at abnormally low rates resulting in abnormal production costs that are being expensed as incurred. We expensed abnormal production costs of $1,240 and $468 during the years ended December 31, 2022 and 2021. 
+
 Commercial aircraft programs inventory included amounts credited in cash or other consideration (early issue sales consideration) to airline customers totaling $3,586 and $3,290 at December 31, 2022 and 2021. 
 
-**Note 8 – Contracts with Customers**
+## Note 8 – Contracts with Customers
 
 Unbilled receivables increased from $8,620 at December 31, 2021 to $8,634 at December 31, 2022, primarily driven by revenue recognized in excess of billings at BGS, partially offset by billings in excess of revenue recognized at BDS. 
 
@@ -5901,6 +5981,8 @@ The following table summarizes our contract assets under long-term contracts tha
     </tr>
   </tbody>
 </table>
+
+Unbilled receivables related to commercial customer incentives expected to be collected after one year were $117 and $131 at December 31, 2022 and 2021. Unbilled receivables related to claims are items that we believe are earned, but are subject to uncertainty concerning their determination or ultimate realization. 
 
 ## Note 9 – Customer Financing
 
@@ -6014,6 +6096,10 @@ The components of investment in sales-type/finance leases at December 31 were as
   </tbody>
 </table>
 
+At December 31, 2022 and 2021, $405 and $378 were determined to be uncollectible financing receivables and placed on non-accrual status. The increase in allowance for losses on receivables during the year ended December 31, 2022 was primarily due to impacts of the war in Ukraine. Customer financing interest income received for the years ended December 31, 2022 and 2021 was $13 and $18. 
+
+There were no past due customer financing receivables as of December 31, 2022. 
+
 Our financing receivable balances at December 31, 2022 by internal credit rating category and year of origination consisted of the following: 
 
 <table>
@@ -6085,7 +6171,7 @@ Our financing receivable balances at December 31, 2022 by internal credit rating
 
 At December 31, 2022, our allowance for losses related to receivables with ratings of CCC, B, BB and BBB. We applied default rates that averaged 100.0%, 31.5%, 2.9% and 0.1%, respectively, to the exposure associated with those receivables. 
 
-**Customer Financing Exposure**
+## Customer Financing Exposure
 
 The majority of our customer financing portfolio is concentrated in the following aircraft models at December 31: 
 
@@ -6166,6 +6252,10 @@ Impairment charges related to customer financing operating lease assets for the 
     </tr>
   </tbody>
 </table>
+
+Lease income recorded in Revenue on the Consolidated Statements of Operations for the years ended December 31, 2022 and 2021 included $69 and $54 from sales-type/finance leases, and $65 and $68 from operating leases. Profit at the commencement of sales-type leases was recorded in revenue for the years ended December 31, 2022 and 2021 in the amount of $28 and $78. 
+
+As of December 31, 2022, undiscounted cash flows for notes receivable, sales-type/finance and operating leases over the next five years and thereafter are as follows: 
 
 <table>
   <thead>
@@ -6270,9 +6360,9 @@ Impairment charges related to customer financing operating lease assets for the 
   </tbody>
 </table>
 
-At December 31, 2022 and December 31, 2021, unguaranteed residual values were $86 and $110. Guaranteed residual values at December 31, 2022 were not significant.
+At December 31, 2022 and December 31, 2021, unguaranteed residual values were $86 and $110. Guaranteed residual values at December 31, 2022 were not significant. 
 
-**Note 10 – Property, Plant and Equipment**
+## Note 10 – Property, Plant and Equipment
 
 Property, plant and equipment at December 31 consisted of the following: 
 
@@ -6341,7 +6431,7 @@ Depreciation expense was $1,396, $1,488 and $1,533 for 2022, 2021 and 2020, resp
 
 During 2022 and 2021, we acquired $101 and $46 of property, plant and equipment through non-cash investing and financing transactions. Accounts payable related to purchases of property, plant and equipment were $396 and $295 for the years ended December 31, 2022 and 2021. 
 
-**Note 11 – Investments**
+## Note 11 – Investments
 
 Our investments, which are recorded in Short-term and other investments or Investments, consisted of the following at December 31: 
 
@@ -6393,7 +6483,7 @@ Our investments, which are recorded in Short-term and other investments or Inves
 
 Allowance for losses on available for sale debt instruments are assessed quarterly. All instruments are considered investment grade and we have not recognized an allowance for credit losses as of December 31, 2022. 
 
-**Equity Method Investments**
+## Equity Method Investments
 
 Our equity method investments consisted of the following at December 31: 
 
@@ -6564,9 +6654,11 @@ Maturities of operating lease liabilities for the next five years are as follows
   </tbody>
 </table>
 
+As of December 31, 2022, we have entered into leases that have not yet commenced of $420, primarily for a maintenance, repair and overhaul hangar that will support military aircraft programs. These leases will commence in 2023 with lease terms of 3 years to 25 years. 
+
 ## Note 13 – Liabilities, Commitments and Contingencies
 
-### Accrued Liabilities
+## Accrued Liabilities
 
 Accrued liabilities at December 31 consisted of the following: 
 
@@ -6655,7 +6747,7 @@ Accrued liabilities at December 31 consisted of the following:
   </tbody>
 </table>
 
-### 737 MAX Grounding
+## 737 MAX Grounding
 
 The following table summarizes changes in the 737 MAX customer concessions and other considerations liability during 2022 and 2021. 
 
@@ -6698,7 +6790,7 @@ The following table summarizes changes in the 737 MAX customer concessions and o
 
 The liability balance of $1.9 billion at December 31, 2022 includes $1.6 billion of contracted customer concessions and other liabilities and $0.3 billion that remains subject to negotiation with customers. The contracted amount includes $0.8 billion expected to be liquidated by lower customer delivery payments, $0.7 billion expected to be paid in cash and $0.1 billion in other concessions. Of the cash payments to customers, we expect to pay $0.1 billion in 2023 and the remaining $0.6 billion in future years. The type of consideration to be provided for the remaining $0.3 billion will depend on the outcomes of negotiations with customers. 
 
-**Environmental**
+## Environmental
 
 The following table summarizes environmental remediation activity during the years ended December 31, 2022 and 2021. 
 
@@ -6741,7 +6833,7 @@ The following table summarizes environmental remediation activity during the yea
 
 The liabilities recorded represent our best estimate or the low end of a range of reasonably possible costs expected to be incurred to remediate sites, including operation and maintenance over periods of up to 30 years. It is reasonably possible that we may incur charges that exceed these recorded amounts because of regulatory agency orders and directives, changes in laws and/or regulations, higher than expected costs and/or the discovery of new or additional contamination. As part of our estimating process, we develop a range of reasonably possible alternate scenarios that includes the high end of a range of reasonably possible cost estimates for all remediation sites for which we have sufficient information based on our experience and existing laws and regulations. There are some potential remediation obligations where the costs of remediation cannot be reasonably estimated. At December 31, 2022 and 2021, the high end of the estimated range of reasonably possible remediation costs exceeded our recorded liabilities by $1,058 and $1,094. 
 
-**Product Warranties**
+## Product Warranties
 
 The following table summarizes product warranty activity recorded during the years ended December 31, 2022 and 2021. 
 
@@ -6787,13 +6879,13 @@ The following table summarizes product warranty activity recorded during the yea
   </tbody>
 </table>
 
-### Commercial Aircraft Trade-In Commitments
+## Commercial Aircraft Trade-In Commitments
 
 In conjunction with signing definitive agreements for the sale of new aircraft, we have entered into trade-in commitments with certain customers that give them the right to trade in used aircraft at a specified price. The probability that trade-in commitments will be exercised is determined by using both quantitative information from valuation sources and qualitative information from other sources. The probability of exercise is assessed quarterly, or as events trigger a change, and takes into consideration the current economic and airline industry environments. Trade-in commitments, which can be terminated by mutual consent with the customer, may be exercised only during the period specified in the agreement and require advance notice by the customer. 
 
 Trade-in commitment agreements at December 31, 2022 have expiration dates from 2023 through 2029. At December 31, 2022 and 2021, total contractual trade-in commitments were $1,117 and $612. As of December 31, 2022 and 2021, we estimated that it was probable we would be obligated to perform on certain of these commitments with net amounts payable to customers totaling $286 and $283, and the fair value of the related trade-in aircraft was $286 and $283. 
 
-### Financing Commitments
+## Financing Commitments
 
 Financing commitments related to aircraft on order, including options and those proposed in sales campaigns, and refinancing of delivered aircraft, totaled $16,105 and $12,905 as of December 31, 2022 and 2021. The estimated earliest potential funding dates for these commitments as of December 31, 2022 are as follows: 
 
@@ -6842,19 +6934,19 @@ Financing commitments related to aircraft on order, including options and those 
 
 As of December 31, 2022, all of these financing commitments relate to customers we believe have less than investment-grade credit. We have concluded that no reserve for future potential losses is required for these financing commitments based upon the terms, such as collateralization and interest rates, under which funding would be provided. 
 
-**Other Financial Commitments**
+## Other Financial Commitments
 
-We have financial commitments to make additional capital contributions totaling $270 related to certain joint ventures over the next five years.
+We have financial commitments to make additional capital contributions totaling $270 related to certain joint ventures over the next five years. 
 
-### Standby Letters of Credit and Surety Bonds
+## Standby Letters of Credit and Surety Bonds
 
 We have entered into standby letters of credit and surety bonds with financial institutions primarily relating to the guarantee of our future performance on certain contracts and security agreements. Contingent liabilities on outstanding letters of credit agreements and surety bonds aggregated approximately $5,070 and $3,634 as of December 31, 2022 and 2021. 
 
-**Company Owned Life Insurance**
+## Company Owned Life Insurance
 
 McDonnell Douglas Corporation insured its executives with Company Owned Life Insurance (COLI), which are life insurance policies with a cash surrender value. Although we do not use COLI currently, these obligations from the merger with McDonnell Douglas are still a commitment at this time. We have loans in place to cover costs paid or incurred to carry the underlying life insurance policies. As of December 31, 2022 and 2021, the cash surrender value was $376 and $374 and the total loans were $346 and $360. As we have the right to offset the loans against the cash surrender value of the policies, we present the net asset in Other assets on the Consolidated Statements of Financial Position as of December 31, 2022 and 2021. 
 
-**Government Assistance**
+## Government Assistance
 
 In 2022, we adopted Accounting Standards Update (ASU) 2021-10, _Government Assistance (Topic 832)_ , which requires certain disclosures for those government assistance transactions for which we have applied a grant accounting model. Certain states and localities in which we operate offer or have offered various business incentives related to investment and/or job creation. 
 
@@ -6864,35 +6956,41 @@ inventory, over the useful life of the Property, plant and equipment extending t
 
 We are eligible to claim tax refunds from the State of Missouri and City of Irving, Texas primarily related to job creation and retention through 2031. During 2022, we received $30 in cash and recorded a benefit of $21 in Cost of sales. At December 31, 2022, Other current assets includes receivables of $20. As of December 31, 2022, $56 of refunds, plus interest, is subject to clawback if we fail to meet certain conditions, including employment levels. 
 
+We are eligible to claim cash grants through 2032 of up to $62, related to operations in Queensland, Australia. During 2022, $7 cash was received and recorded as a benefit in Cost of Sales. At December 31, 2022, $4 is subject to clawback if we fail to meet certain conditions, including employment levels. 
+
 Industrial Revenue Bonds (IRB) issued by St. Louis County were used to finance the purchase and/or construction of real and personal property at our St. Louis site. Tax benefits associated with IRBs include a twelve-year property tax abatement and sales tax exemption from St. Louis County. We record these properties on our Consolidated Statements of Financial Position. We have also purchased the IRBs and therefore are the bondholders as well as the borrower/lessee of the properties purchased with the IRB proceeds. The liabilities and IRB assets are equal and are reported net in the Consolidated Statements of Financial Position. As of December 31, 2022 and 2021, the assets and liabilities associated with the IRBs were $271. 
 
-**Recoverable Costs on Government Contracts**
+## Recoverable Costs on Government Contracts
 
 Our final incurred costs for each year are subject to audit and review for allowability by the U.S. government, which can result in payment demands related to costs they believe should be disallowed. We work with the U.S. government to assess the merits of claims and where appropriate reserve for amounts disputed. If we are unable to satisfactorily resolve disputed costs, we could be required to record an earnings charge and/or provide refunds to the U.S. government. 
 
-**Fixed-Price Contracts**
+## Fixed-Price Contracts
 
 Substantially all contracts at BDS and the majority of contracts at BGS Government are long-term contracts. Long-term contracts that are contracted on a fixed-price basis could result in losses in future periods. Certain of the fixed-price contracts are for the development of new products, services and related technologies. This development work scope is inherently uncertain and subject to significant variability in estimates of the cost and time required to complete the work by us and our suppliers. The operational and technical complexities of fixed-price development contracts create financial risk, which could trigger additional earnings charges, termination provisions, order cancellations, or other financially significant exposure. 
 
+## VC-25B Presidential Aircraft
+
 The Company’s firm fixed-price contract for the Engineering, Manufacturing, and Development (EMD) effort on the U.S. Air Force’s (USAF) VC25B Presidential Aircraft, commonly known as Air Force One, is a $4.3 billion program to develop and modify two 747-8 commercial aircraft. During the year ended December 31, 2022, we increased the reach-forward loss on the contract by $1,452 primarily driven by increases to cost estimates associated with factory modification labor and support engineering resources due to labor instability and inefficiencies that we now estimate will persist longer than previously anticipated, higher supplier cost estimates based on ongoing supplier negotiations and higher levels of engineering design changes due to technical requirements which are driving increased rework and schedule delays. Risk remains that we may record additional losses in future periods. 
 
-**KC-46A Tanker**
+## KC-46A Tanker
 
 In 2011, we were awarded a contract from the USAF to design, develop, manufacture, and deliver four next generation aerial refueling tankers as well as priced options for 13 annual production lots totaling 179 aircraft. This EMD contract is a fixed-price incentive fee contract and involves highly complex designs and systems integration. Since 2016, the USAF has authorized eight low rate initial production (LRIP) lots for a total of 109 aircraft. The EMD contract and authorized LRIP lots total approximately $21 billion as of December 31, 2022. As of December 31, 2022, we had approximately $209 of capitalized precontract costs and $292 of potential termination liabilities to suppliers related to unexercised future lots. 
 
 During the year ended December 31, 2022, we increased the reach-forward loss on the KC-46A Tanker program by $1,374 primarily reflecting higher production and supply chain costs partially driven by labor instability and supply chain disruption, most of which was recorded during the third quarter of 2022. The increase in production costs was primarily driven by factory unit time performance expectations that assume continued production disruption due to labor instability and supply chain disruption. Factory unit time estimates also reflect reduced benefits from prior investments in productivity enablers and higher factory unit time to produce aircraft for the remaining life of the program. The current year losses also reflect increased estimated change incorporation costs for flight test aircraft as well as schedule delays to complete the Remote Vision System. Risk remains that we may record additional losses in future periods. 
 
-**MQ-25**
+## MQ-25
 
 In the third quarter of 2018, we were awarded the MQ-25 EMD contract by the U.S. Navy. The contract is a fixed-price contract that now includes development and delivery of seven aircraft and test articles at a contract price of $890. In connection with winning the competition, we recognized a reach-forward loss of $291 in the third quarter of 2018. During the year ended December 31, 2022, we increased the MQ-25 reachforward loss by $579 primarily driven by higher than anticipated costs to manufacture the EMD units reflecting recent performance which is resulting in additional factory resources and increased engineering costs to address design and supplier quality issues. We also increased costs associated with engineering design challenges, additional testing and certification activities, and flight test support. Risk remains that we may record additional losses in future periods. 
 
-**T-7A Red Hawk EMD Contract & Production Options**
+## T-7A Red Hawk EMD Contract & Production Options
 
 In 2018, we were awarded the T-7A Red Hawk program. The EMD portion of the contract is a $860 fixed-price contract and includes five aircraft and seven simulators. During the year ended December 31, 2022, we recorded earnings charges of $203 related to the T-7A Red Hawk fixedprice EMD contract, which has a reach-forward loss at December 31, 2022. Current year losses were primarily due to supply chain and hardware qualification issues, as well as schedule delays in achieving Military Flight Release and additional cost growth to resolve technical issues and other engineering design changes identified during 2022. EMD aircraft flight testing is now estimated to start in 2023. 
 
 The production portion of the contract includes 11 production lots for aircraft and related services. In 2018, we recorded a loss of $400 associated with the 11 production lots and associated support options for 346 T-7A Red Hawk aircraft that we believe are probable of being exercised. The first production and support contract option is expected to be exercised in 2024. We increased the estimated reach-forward loss by $552 during the year ended December 31, 2022 primarily driven by ongoing supply chain negotiations (which are impacted by supply chain constraints and inflationary pressures), and design revisions, as well as an increase in the number of expected units in the initial production lots. Risk remains that we may record additional losses in future periods. At December 31, 2022, we had approximately $56 of capitalized precontract costs and $283 of potential termination liabilities to suppliers related to future production lots. 
 
-### Commercial Crew
+## Commercial Crew
+
+NASA has contracted us to design and build the CST-100 Starliner spacecraft to transport crews to the International Space Station. During the second quarter of 2022 we successfully completed the uncrewed Orbital Flight Test. A crewed flight test is now expected to be completed in 2023. During the year ended December 31, 2022, we increased the reach-forward loss by $288 primarily reflecting increases to estimated costs related to completing the crewed flight tests and revised schedules for both the crewed flight test and three post certification missions. Most of this increase was recorded in the third quarter of 2022, primarily driven by timing of the three future post certification missions which are now assumed to be completed by 2026 based on NASA’s revised launch plans. We had previously assumed that the post certification missions would be completed by 2024. Risk remains that we may record additional losses in future periods. At December 31, 2022, we had approximately $180 of capitalized precontract costs and $159 of potential termination liabilities to suppliers related to unauthorized future missions. 
 
 ## Note 14 – Arrangements with Off-Balance Sheet Risk
 
@@ -6947,19 +7045,25 @@ The following table provides quantitative data regarding our third party guarant
   </tbody>
 </table>
 
-**Contingent Repurchase Commitments** In conjunction with signing a definitive agreement for the sale of commercial aircraft, we have entered into contingent repurchase commitments with certain customers wherein we agree to repurchase the sold aircraft at a specified price, generally 10 to 15 years after delivery. Our repurchase of the aircraft is contingent upon entering into a mutually acceptable agreement for the sale of additional new aircraft in the future. The commercial aircraft repurchase price specified in contingent repurchase commitments is generally lower than the expected fair value at the specified repurchase date. Estimated proceeds from collateral/recourse in the table above represent the lower of the contracted repurchase price or the expected fair value of each aircraft at the specified repurchase date. 
+## Contingent Repurchase Commitments
+
+In conjunction with signing a definitive agreement for the sale of commercial aircraft, we have entered into contingent repurchase commitments with certain customers wherein we agree to repurchase the sold aircraft at a specified price, generally 10 to 15 years after delivery. Our repurchase of the aircraft is contingent upon entering into a mutually acceptable agreement for the sale of additional new aircraft in the future. The commercial aircraft repurchase price specified in contingent repurchase commitments is generally lower than the expected fair value at the specified repurchase date. Estimated proceeds from collateral/recourse in the table above represent the lower of the contracted repurchase price or the expected fair value of each aircraft at the specified repurchase date.
 
 If a future sale agreement is reached and a customer elects to exercise its right under a contingent repurchase commitment, the contingent repurchase commitment becomes a trade-in commitment. Our historical experience is that contingent repurchase commitments infrequently become trade-in commitments. 
 
-**Credit Guarantees** We have issued credit guarantees where we are obligated to make payments to a guaranteed party in the event that the original lessee or debtor does not make payments or perform certain specified services. Generally, these guarantees have been extended on behalf of guaranteed parties with less than investment-grade credit and are collateralized by certain assets. Current outstanding credit guarantees expire through 2036. 
+## Credit Guarantees
+
+We have issued credit guarantees where we are obligated to make payments to a guaranteed party in the event that the original lessee or debtor does not make payments or perform certain specified services. Generally, these guarantees have been extended on behalf of guaranteed parties with less than investment-grade credit and are collateralized by certain assets. Current outstanding credit guarantees expire through 2036.
 
 ## Other Indemnifications
 
 In conjunction with our sales of Electron Dynamic Devices, Inc. and Rocketdyne Propulsion and Power businesses and our BCA facilities in Wichita, Kansas and Tulsa and McAlester, Oklahoma, we agreed to indemnify, for an indefinite period, the buyers for costs relating to pre-closing environmental conditions and certain other items. We are unable to assess the potential number of future claims that may be asserted under these indemnifications, nor the amounts thereof (if any). As a result, we cannot estimate the maximum potential amount of future payments under these indemnities and therefore, no liability has been recorded. To the extent that claims have been made under these indemnities and/or are probable and reasonably estimable, liabilities associated with these indemnities are included in the environmental liability disclosure in Note 13.
 
-**Note 15 – Debt**
+## Note 15 – Debt
 
 In the third quarter of 2022, we entered into a $5,800 364-day revolving credit agreement expiring in August 2023, a $3,000 three-year revolving credit agreement expiring in August 2025, and amended our $3,200 five-year revolving credit agreement, which expires in October 2024, primarily to incorporate a LIBOR successor rate. The 364-day credit facility has a one-year term out option which allows us to extend the maturity of any borrowings one year beyond the aforementioned expiration date. As of December 31, 2022, we had $12,000 currently available under credit line agreements. We continue to be in full compliance with all covenants contained in our debt or credit facility agreements. 
+
+Interest incurred, including amounts capitalized, was $2,650, $2,790 and $2,280 for the years ended December 31, 2022, 2021 and 2020, respectively. Interest expense recorded by BCC is reflected as Boeing Capital interest expense on our Consolidated Statements of Operations. Total Company interest payments were $2,572, $2,583 and $1,925 for the years ended December 31, 2022, 2021 and 2020, respectively. 
 
 Short-term debt and current portion of long-term debt at December 31 consisted of the following: 
 
@@ -7682,7 +7786,7 @@ The accumulated benefit obligation (ABO) for all pension plans was $54,481 and $
   </tbody>
 </table>
 
-### Assumptions
+## Assumptions
 
 The following assumptions, which are the weighted average for all plans, are used to calculate the benefit obligation at December 31 of each year and the net periodic benefit cost for the subsequent year. 
 
@@ -7784,9 +7888,11 @@ Assumed health care cost trend rates were as follows:
   </tbody>
 </table>
 
-### Plan Assets
+## Plan Assets
 
-**Investment Strategy** The overall objective of our pension assets is to earn a rate of return over time to satisfy the benefit obligations of the pension plans and to maintain sufficient liquidity to pay benefits and address other cash requirements of the pension fund. Specific investment objectives for our long-term investment strategy include reducing the volatility of pension assets relative to pension liabilities, achieving a competitive total investment return, achieving diversification between and within asset classes and managing other risks. Investment objectives for each asset class are determined based on specific risks and investment opportunities identified. 
+## Investment Strategy
+
+The overall objective of our pension assets is to earn a rate of return over time to satisfy the benefit obligations of the pension plans and to maintain sufficient liquidity to pay benefits and address other cash requirements of the pension fund. Specific investment objectives for our long-term investment strategy include reducing the volatility of pension assets relative to pension liabilities, achieving a competitive total investment return, achieving diversification between and within asset classes and managing other risks. Investment objectives for each asset class are determined based on specific risks and investment opportunities identified.
 
 We periodically update our long-term, strategic asset allocations. We use various analytics to determine the optimal asset mix and consider plan liability characteristics, liquidity characteristics, funding requirements, expected rates of return and the distribution of returns. A key element of our strategy is to de-risk the plan as the funded status of the plan increases. During 2022, the funded status of the plans increased as compared to 2021, and additional assets were reallocated to fixed income. The changes in the asset allocation are reflected in the table below. We identify investment benchmarks to evaluate performance for the asset classes in the strategic asset allocation that are market-based and investable where possible. Actual allocations to each asset class vary from target allocations due to periodic investment strategy changes, market value fluctuations, the length of time it takes to fully implement investment allocation positions, and the timing of benefit payments and contributions. Short-term investments and exchange-traded derivatives are used to rebalance the actual asset allocation to the target asset allocation. The asset allocation is monitored and rebalanced frequently. The actual and target allocations by asset class for the pension assets at December 31 were as follows: 
 
@@ -7865,7 +7971,15 @@ market exposure of a security or an index, transfer value-added performance betw
 
 As a percentage of total pension assets, derivative net notional amounts were 37.1% and 33.4% for fixed income, including to-be-announced mortgage-backed securities and treasury forwards, and (5.6%) and (5.4%) for global equity and commodities at December 31, 2022 and 2021. 
 
-**Risk Management** In managing the pension assets, we review and manage risk associated with funded status risk, interest rate risk, market risk, counterparty risk, liquidity risk and operational risk. Liability matching and asset class diversification are central to our risk management approach and are integral to the overall investment strategy. Further, asset classes are constructed to achieve diversification by investment strategy, by investment manager, by industry or sector and by holding. Investment manager guidelines for publicly traded assets are specified and are monitored regularly through the custodian. Credit parameters for counterparties have been established for managers permitted to trade over-the-counter derivatives. Valuation is governed through several types of procedures, including reviews of manager valuation policies, custodian valuation processes, pricing vendor practices, pricing reconciliation and periodic, security-specific valuation testing. 
+In November 2020, the Company elected to contribute $3,000 of our common stock to the pension fund. An independent fiduciary was retained to manage and liquidate the stock over time at its discretion. Plan assets included $1,782 and $1,883 of our common stock as of December 31, 2022 and 2021. 
+
+## Risk Management
+
+In managing the pension assets, we review and manage risk associated with funded status risk, interest rate risk, market risk, counterparty risk, liquidity risk and operational risk. Liability matching and asset class diversification are central to our risk management approach and are integral to the overall investment strategy. Further, asset classes are constructed to achieve diversification by investment strategy, by investment manager, by industry or sector and by holding. Investment manager guidelines for publicly traded assets are specified and are monitored regularly through the custodian. Credit parameters for counterparties have been established for managers permitted to trade over-the-counter derivatives. Valuation is governed through several types of procedures, including reviews of manager valuation policies, custodian valuation processes, pricing vendor practices, pricing reconciliation and periodic, security-specific valuation testing.
+
+## Fair Value Measurements
+
+The following table presents our plan assets using the fair value hierarchy as of December 31, 2022 and 2021. The fair value hierarchy has three levels based on the reliability of the inputs used to determine fair value. Level 1 refers to fair values determined based on quoted prices in active markets for identical assets. Level 2 refers to fair values estimated using significant other observable inputs and Level 3 includes fair values estimated using significant unobservable inputs.
 
 <table>
   <thead>
@@ -8618,15 +8732,21 @@ The following tables summarizes the changes of Level 3 assets, reconciled by ass
 
 For the year ended December 31, 2022, the changes in unrealized gains/(losses) for Level 3 assets still held at December 31, 2022 were ($16) for corporate fixed income securities, ($11) for mortgage backed and asset backed fixed income securities, ($14) for municipal fixed income securities, and ($1) for real asset securities. For the year ended December 31, 2021, the changes in unrealized gains/(losses) for Level 3 assets still held at December 31, 2021 were ($1) for mortgage backed and asset backed fixed income securities and ($8) for sovereign. 
 
-**OPB Plan Assets** The majority of OPB plan assets are invested in a balanced index fund which is comprised of approximately 60% equities and 40% debt securities. The index fund is valued using a 
+## OPB Plan Assets
 
-market approach based on the quoted market price of an identical instrument (Level 1). The expected rate of return on these assets does not have a material effect on the net periodic benefit cost.
+The majority of OPB plan assets are invested in a balanced index fund which is comprised of approximately 60% equities and 40% debt securities. The index fund is valued using a
 
-### Cash Flows
+market approach based on the quoted market price of an identical instrument (Level 1). The expected rate of return on these assets does not have a material effect on the net periodic benefit cost. 
 
-**Contributions** Required pension contributions under the Employee Retirement Income Security Act (ERISA), as well as rules governing funding of our non-US pension plans, are not expected to be significant in 2023. During the fourth quarter of 2020, we contributed $3,000 in common stock to the pension fund. We do not expect to make discretionary contributions to our pension plans in 2023. 
+## Cash Flows
 
-**Estimated Future Benefit Payments** The table below reflects the total pension benefits expected to be paid from the plans or from our assets, including both our share of the benefit cost and the participants’ share of the cost, which is funded by participant contributions. OPB payments reflect our portion only. 
+## Contributions
+
+Required pension contributions under the Employee Retirement Income Security Act (ERISA), as well as rules governing funding of our non-US pension plans, are not expected to be significant in 2023. During the fourth quarter of 2020, we contributed $3,000 in common stock to the pension fund. We do not expect to make discretionary contributions to our pension plans in 2023.
+
+## Estimated Future Benefit Payments
+
+The table below reflects the total pension benefits expected to be paid from the plans or from our assets, including both our share of the benefit cost and the participants’ share of the cost, which is funded by participant contributions. OPB payments reflect our portion only.
 
 <table>
   <thead>
@@ -8733,19 +8853,19 @@ market approach based on the quoted market price of an identical instrument (Lev
   </tbody>
 </table>
 
-### Termination Provisions
+## Termination Provisions
 
 Certain of the pension plans provide that, in the event there is a change in control of the Company which is not approved by the Board of Directors and the plans are terminated within five years thereafter, the assets in the plan first will be used to provide the level of retirement benefits required by ERISA, and then any surplus will be used to fund a trust to continue present and future payments under the postretirement medical and life insurance benefits in our group insurance benefit programs. 
 
 Should we terminate certain pension plans under conditions in which the plan’s assets exceed that plan’s obligations, the U.S. government will be entitled to a fair allocation of any of the plan’s assets based on plan contributions that were reimbursed under U.S. government contracts. 
 
-**Defined Contribution Plans**
+## Defined Contribution Plans
 
 We provide certain defined contribution plans to all eligible employees. The principal plans are the Company-sponsored 401(k) plans. The expense for these defined contribution plans was $1,260, $1,268 and $1,351 in 2022, 2021 and 2020, respectively. 
 
-### Note 17 – Share-Based Compensation and Other Compensation Arrangements
+## Note 17 – Share-Based Compensation and Other Compensation Arrangements
 
-**Share-Based Compensation**
+## Share-Based Compensation
 
 Our 2003 Incentive Stock Plan, as amended and restated, permits awards of incentive and non-qualified stock options, stock appreciation rights, restricted stock or units, performance shares, performance restricted stock or units, performance units and other stock and cash-based awards to our employees, officers, directors, consultants, and independent contractors. The aggregate number of shares of our stock authorized for issuance under the plan is 87,000,000. 
 
@@ -8780,11 +8900,13 @@ Share-based plans expense is primarily included in Total costs and expenses and 
   </tbody>
 </table>
 
-### Stock Options
+## Stock Options
 
 Options have been granted to our executive officers that are scheduled to vest and become exercisable three years after the grant date and expire ten years after the grant date. If an executive terminates employment because of retirement, layoff, disability, or death, the executive (or beneficiary) may receive some or all of their stock options depending on certain age and service conditions. The fair values of the stock options granted were estimated using a Monte-Carlo simulation model using the assumptions presented below. The model includes no expected dividend yield. 
 
 On February 16, 2022, we granted 348,769 premium-priced stock options to our executive officers as part of our long-term incentive program. These stock options have an exercise price equal to 120% of the fair market value of our stock on the date of grant. If certain performance measures are met, the exercise price is reduced to 110% of the grant date fair market value of our stock. 
+
+On February 17, 2021, we granted 342,986 premium-priced stock options to our executive officers as part of our long-term incentive program. These stock options have an exercise price equal to 120% of the fair market value of our stock on the date of grant. During 2021, we also granted 148,322 stock options to certain executives to encourage retention or to award various achievements, of which 40,322 had an exercise price equal to 120% of the fair market value of our stock on the date of grant, and the remaining 108,000 had an exercise price equal to the fair market value on the date of grant. The grant date fair market values of these awards were not significant. 
 
 <table>
   <thead>
@@ -8890,9 +9012,11 @@ Stock option activity for the year ended December 31, 2022 was as follows:
 
 The total intrinsic value of options exercised during the years ended December 31, 2022, 2021 and 2020 was $75, $84 and $90, with a related tax benefit of $17, $19 and $32, respectively. At December 31, 2022, there was $23 of total unrecognized compensation cost related to options which is expected to be recognized over a weighted average period of 1.9 years. No options vested during the years ended December 31, 2022, 2021 and 2020. 
 
-**Restricted Stock Units**
+## Restricted Stock Units
 
 In February 2022, 2021 and 2020, we granted to our executives 1,804,541, 980,077 and 325,108 restricted stock units (RSUs) as part of our long-term incentive program with grant date fair values of $217.48, $215.70 and 319.04 per unit, respectively. On July 29, 2022, we also granted 2,568,112 RSUs with a grant date fair value of $157.69 per unit as part of our long-term incentive program, accelerating awards planned for 2023 to retain executives. The RSUs granted under this program will generally vest and settle in common stock (on a one-for-one basis) on the third anniversary of the grant date. If an executive terminates employment because of retirement, layoff, disability, or death, the executive (or beneficiary) may receive some or all of their stock units depending on certain age and service conditions. In all other cases, the RSUs will not vest and all rights to the stock units will terminate. These RSUs are labeled executive long-term incentive program in the table below. 
+
+In December 2020, we granted to our employees (excluding executives and certain union-represented employees), a one-time grant of 5,163,425 RSUs with a grant date fair value of $233.00 per unit. The RSUs granted under this program will vest and settle in common stock (on a one-for-one basis) on the third anniversary of the grant date. If an employee terminates employment because of retirement, layoff, disability or death, the employee (or beneficiary) may receive a proration of stock units based on active employment during the three-year service period. In all other cases, the RSUs will not vest and all rights to the stock units will terminate. These RSUs are labeled employee long-term incentive program in the table below. 
 
 In addition to RSUs awarded under our long-term incentive programs, we granted RSUs to certain executives and employees to encourage retention or to reward various achievements. These RSUs are labeled other RSUs in the table below. 
 
@@ -8973,7 +9097,7 @@ RSU activity for the year ended December 31, 2022 was as follows:
   </tbody>
 </table>
 
-### Performance-Based Restricted Stock Units
+## Performance-Based Restricted Stock Units
 
 Performance-Based Restricted Stock Units (PBRSUs) are stock units that pay out based on the Company’s total shareholder return (TSR) as compared to a group of peer companies over a three-year period. The award payout can range from 0% to 200% of the initial PBRSU grant. The PBRSUs granted under this program will vest at the payout amount and settle in common stock (on a one-for-one basis) on the third anniversary of the grant date. If an executive terminates employment because of retirement, layoff, disability or death, the employee (or beneficiary) remains eligible under the award and, if the award is earned, will receive a proration of stock units based on active employment during the three-year service period. In all other cases, the PBRSUs will not vest and all rights to the stock units will terminate. 
 
@@ -9048,23 +9172,23 @@ In February 2020, we granted to our executives 290,202 PBRSUs as part of our lon
 
 - **(1) ** Represents adjustment to 0% payout for units granted in 2019. 
 
-### Performance Awards
+## Performance Awards
 
 During 2020, we granted Performance Awards to our executives, which are cash units that pay out based on the achievement of long-term financial goals at the end of a three-year period. Each unit had an initial value of $100 dollars. The Compensation Committee has the discretion to pay these awards in cash, stock or a combination of both after the three-year performance period. As of December 31, 2022 these performance awards have expired with a payout of $0. 
 
-**Deferred Compensation**
+## Deferred Compensation
 
 The Company has deferred compensation plans which permit certain employees and executives to defer a portion of their salary, bonus, certain other incentive awards and retirement contributions. Participants can diversify these amounts among 23 investment funds including a Boeing stock unit account. 
 
 Total (income)/expense related to deferred compensation was ($117), $126 and $93 in 2022, 2021 and 2020, respectively. As of December 31, 2022 and 2021, the deferred compensation liability which is being marked to market was $1,499 and $1,703. 
 
-**Note 18 – Shareholders’ Equity**
+## Note 18 – Shareholders’ Equity
 
 On December 17, 2018, the Board approved a repurchase plan for up to $20,000 of common stock. In March 2020, the Board of Directors terminated its prior authorization to repurchase shares under this plan. 
 
-As of December 31, 2022 and 2021, there were 1,200,000,000 shares of common stock and 20,000,000 shares of preferred stock authorized. No preferred stock has been issued.
+As of December 31, 2022 and 2021, there were 1,200,000,000 shares of common stock and 20,000,000 shares of preferred stock authorized. No preferred stock has been issued. 
 
-**Changes in Share Balances**
+## Changes in Share Balances
 
 The following table shows changes in each class of shares: 
 
@@ -9147,7 +9271,7 @@ The following table shows changes in each class of shares:
   </tbody>
 </table>
 
-### Accumulated Other Comprehensive Loss
+## Accumulated Other Comprehensive Loss
 
 Changes in Accumulated other comprehensive loss (AOCI) by component for the years ended December 31, 2022, 2021 and 2020 were as follows: 
 
@@ -9344,19 +9468,19 @@ Changes in Accumulated other comprehensive loss (AOCI) by component for the year
 
 - (3) Primarily related to amortization of actuarial losses for the years ended December 31, 2022, 2021 and 2020 totaling $791, $1,155 and $917 (net of tax of ($11), ($8) and ($52)), respectively. These are included in the net periodic pension cost. See Note 16.
 
-- (4)    Included losses of $39 (net of tax of ($11)) from cash flow hedges reclassified to Other income, net because the forecasted transactions are probable of not occurring.
+- (4) Included losses of $39 (net of tax of ($11)) from cash flow hedges reclassified to Other income, net because the forecasted transactions are probable of not occurring.
 
-### Note 19 – Derivative Financial Instruments
+## Note 19 – Derivative Financial Instruments
 
-**Cash Flow Hedges**
+## Cash Flow Hedges
 
 Our cash flow hedges include foreign currency forward contracts, commodity swaps and commodity purchase contracts. We use foreign currency forward contracts to manage currency risk associated with certain transactions, specifically forecasted sales and purchases made in foreign currencies. Our foreign currency contracts hedge forecasted transactions through 2031. We use commodity derivatives, such as fixedprice purchase commitments and swaps to hedge against potentially unfavorable price changes for commodities used in production. Our commodity contracts hedge forecasted transactions through 2029. 
 
-**Derivative Instruments Not Receiving Hedge Accounting Treatment**
+## Derivative Instruments Not Receiving Hedge Accounting Treatment
 
 We have entered into agreements to purchase and sell aluminum to address long-term strategic sourcing objectives and non-U.S. business requirements. These agreements are derivative instruments for accounting purposes. The quantities of aluminum in these agreements offset and are priced at prevailing market prices. We also hold certain foreign currency forward contracts and commodity swaps which do not qualify for hedge accounting treatment. 
 
-**Notional Amounts and Fair Values**
+## Notional Amounts and Fair Values
 
 The notional amounts and fair values of derivative instruments in the Consolidated Statements of Financial Position as of December 31 were as follows: 
 
@@ -9560,7 +9684,7 @@ Based on our portfolio of cash flow hedges, we expect to reclassify gains of $14
 
 We have derivative instruments with credit-risk-related contingent features. If we default on our five-year credit facility, our derivative counterparties could require settlement for foreign exchange and certain commodity contracts with original maturities of at least five years. The fair value of those contracts in a net liability position at December 31, 2022 was $33. For other particular commodity contracts, our counterparties could require collateral posted in an amount determined by our credit ratings. At December 31, 2022, there was no collateral posted related to our derivatives. 
 
-**Note 20 – Fair Value Measurements**
+## Note 20 – Fair Value Measurements
 
 The fair value hierarchy has three levels based on the reliability of the inputs used to determine fair value. Level 1 refers to fair values determined based on quoted prices in active markets for identical assets. Level 2 refers to fair values estimated using significant other observable inputs, and Level 3 includes fair values estimated using significant unobservable inputs. The following table presents our assets and liabilities that are measured at fair value on a recurring basis and are categorized using the fair value hierarchy. 
 
@@ -9923,7 +10047,7 @@ For Level 3 assets that were measured at fair value on a nonrecurring basis duri
 
 > (2) The negative amount represents the sum, for all aircraft subject to fair value measurement, of all downward adjustments based on consideration of individual aircraft attributes and condition. The positive amount represents the sum of all such upward adjustments. 
 
-### Fair Value Disclosures
+## Fair Value Disclosures
 
 The fair values and related carrying values of financial instruments that are not required to be remeasured at fair value on the Consolidated Statements of Financial Position at December 31 were as follows: 
 
@@ -10068,7 +10192,7 @@ The fair values and related carrying values of financial instruments that are no
 
 The fair values of notes receivable are estimated with discounted cash flow analysis using interest rates currently offered on loans with similar terms to borrowers of similar credit quality. The fair value of our debt that is traded in the secondary market is classified as Level 2 and is based on current market yields. For our debt that is not traded in the secondary market, the fair value is classified as Level 2 and is based on our indicative borrowing cost derived from dealer quotes or discounted cash flows. The fair values of our debt classified as Level 3 are based on discounted cash flow models using the implied yield from similar securities. With regard to other financial instruments with off-balance sheet risk, it is not practicable to estimate the fair value of our indemnifications and financing commitments because the amount and timing of those arrangements are uncertain. Items not included in the above disclosures include cash, restricted cash, time deposits and other deposits, commercial paper, money market funds, Accounts receivable, Unbilled receivables, Other current assets, Accounts payable and long-term payables. The carrying values of those items, as reflected in the Consolidated Statements of Financial Position, approximate their fair value at December 31, 2022 and 2021. The fair value of assets and liabilities whose carrying value approximates fair value is determined using Level 2 inputs, with the exception of cash (Level 1). 
 
-**Note 21 – Legal Proceedings**
+## Note 21 – Legal Proceedings
 
 Various legal proceedings, claims and investigations related to products, contracts, employment and other matters are pending against us. 
 
@@ -10078,7 +10202,9 @@ based upon current information, that the outcome of any such legal proceeding, c
 
 Multiple legal actions have been filed against us as a result of the October 29, 2018 accident of Lion Air Flight 610 and the March 10, 2019 accident of Ethiopian Airlines Flight 302. During 2021, we entered into (i) a Deferred Prosecution Agreement with the U.S. Department of Justice that resolved the Department of Justice’s previously disclosed investigation into us regarding the evaluation of the 737 MAX by the Federal Aviation Administration (FAA) as well as (ii) a proposed settlement with plaintiffs in a shareholder derivative lawsuit that resulted in the Company receiving $219 in the second quarter of 2022. In September 2022, we settled a previously disclosed investigation by the Securities and Exchange Commission related to the 737 MAX accidents and consented to a civil penalty, which resulted in an earnings charge of $200 that was paid in October 2022. We cannot reasonably estimate a range of loss, if any, not covered by available insurance that we may incur as a result of any remaining pending lawsuits or other matters related to the accidents and the 737 MAX. 
 
-**Note 22 – Segment and Revenue Information**
+During 2019, we entered into agreements with Embraer S.A. (Embraer) to establish joint ventures that included the commercial aircraft and services operations of Embraer, of which we were expected to acquire an 80 percent ownership stake for $4,200, as well as a joint venture to promote and develop new markets for the C-390 Millennium. In 2020, we exercised our contractual right to terminate these agreements based on Embraer’s failure to meet certain required closing conditions. Embraer has disputed our right to terminate the agreements, and the dispute is currently in arbitration. We cannot reasonably estimate a range of loss, if any, that may result from the arbitration, which we currently expect to be completed in late 2023 or early 2024. 
+
+## Note 22 – Segment and Revenue Information
 
 Our primary profitability measurements to review a segment’s operating results are Earnings/(loss) from operations and operating margins. We operate in four reportable segments: BCA, BDS, BGS and BCC. All other activities fall within Unallocated items, eliminations and other. See page 58 for the Summary of Business Segment Data, which is an integral part of this note. 
 
@@ -10474,19 +10600,19 @@ BGS revenues consisted of the following:
   </tbody>
 </table>
 
-> (1) Includes revenues earned from foreign military sales through the U.S. government.
+> (1) Includes revenues earned from foreign military sales through the U.S. government. 
 
-### Earnings in Equity Method Investments
+## Earnings in Equity Method Investments
 
 For the year ended December 31, 2022, our share of income from equity method investments was $56, primarily driven by investments held in Unallocated items, eliminations and other. For the years ended December 31, 2021 and 2020, our share of income from equity method investments was $40 and $86, primarily in our BDS segment. 
 
-**Backlog**
+## Backlog
 
 Our total backlog includes contracts that we and our customers are committed to perform. The value in backlog represents the estimated transaction prices on performance obligations to our customers for which work remains to be performed. Backlog is converted into revenue, primarily based on the cost incurred or at delivery and acceptance of products, depending on the applicable revenue recognition model. 
 
 Our backlog at December 31, 2022 was $404,381. We expect approximately 17% to be converted to revenue through 2023 and approximately 71% through 2026, with the remainder thereafter. There is significant uncertainty regarding the timing of when backlog will convert into revenue due to timing of 787 deliveries from inventory, timing of 737 MAX delivery resumption in China, timing of entry into service of the 777X, 737-7 and/or 737-10, and the lingering effects of the COVID-19 pandemic. 
 
-**Unallocated Items, Eliminations and other**
+## Unallocated Items, Eliminations and other
 
 Unallocated items, eliminations and other include common internal services that support Boeing’s global business operations, intercompany guarantees provided to BCC and eliminations of certain sales between segments. Such sales include aircraft sold to our BCC segment that are leased by BCC to customers and considered transferred to the BCC segment. We generally allocate costs to business segments based on the U.S. federal cost accounting standards. Components of Unallocated items, eliminations and other (expense)/income are shown in the following table. 
 
@@ -10593,11 +10719,11 @@ Unallocated items, eliminations and other include common internal services that 
   </tbody>
 </table>
 
-### Pension and Other Postretirement Benefit Expense
+## Pension and Other Postretirement Benefit Expense
 
 Pension costs, comprising GAAP service and prior service costs, are allocated to BCA and the commercial operations at BGS. Pension costs are allocated to BDS and BGS businesses supporting government customers using U.S. Government Cost Accounting Standards (CAS), which employ different actuarial assumptions and accounting conventions than GAAP. These costs are allocable to government contracts. Other postretirement benefit costs are allocated to business segments based on CAS, which is generally based on benefits paid. FAS/CAS service cost adjustment represents the difference between the Financial Accounting Standards (FAS) pension and postretirement service costs calculated under GAAP and costs allocated to the business segments. Non-operating pension and postretirement expenses represent the components of net periodic benefit costs other than service cost. These expenses are included in Other income, net. 
 
-### Assets
+## Assets
 
 Segment assets are summarized in the table below. 
 
@@ -10658,7 +10784,7 @@ Segment assets are summarized in the table below.
 
 Assets included in Unallocated items, eliminations and other primarily consist of Cash and cash equivalents, Short-term and other investments, tax assets, capitalized interest, and assets managed centrally on behalf of the four principal business segments and intercompany eliminations. 
 
-**Capital Expenditures**
+## Capital Expenditures
 
 <table>
   <thead>
@@ -10723,9 +10849,9 @@ Assets included in Unallocated items, eliminations and other primarily consist o
   </tbody>
 </table>
 
-Capital expenditures for Unallocated items, eliminations and other relate primarily to assets managed centrally on behalf of the four principal business segments.
+Capital expenditures for Unallocated items, eliminations and other relate primarily to assets managed centrally on behalf of the four principal business segments. 
 
-### Depreciation and Amortization
+## Depreciation and Amortization
 
 <table>
   <thead>
@@ -10820,7 +10946,7 @@ As more fully described in Notes 1 and 13 to the consolidated financial statemen
 
 Given the complexities of certain of the Company’s fixed-price development contracts, including the KC-46A Tanker, Commercial Crew, United States Air Force VC-25B Presidential Aircraft, T-7A Redhawk, and MQ-25 contracts, the limited amount of historical data available in certain instances and significant judgments necessary to estimate future costs at completion, auditing these estimates involved extensive audit effort, a high degree of auditor judgment, and required audit professionals with specialized industry experience. 
 
-_How the Critical Audit Matter Was Addressed in the Audit_
+### How the Critical Audit Matter Was Addressed in the Audit
 
 Our audit procedures related to the cost estimates for the KC-46A Tanker, Commercial Crew, United States Air Force VC-25B Presidential Aircraft, T-7A Redhawk, and MQ-25 fixed-price development contracts included the following, among others: 
 
@@ -10842,13 +10968,13 @@ developed independent expectations of reasonable outcomes using, in part, the pr
 
 - We tested the effectiveness of internal controls including, those over the review of significant judgments made and assumptions used to develop key estimates, key data used in developing the estimates and the mathematical extrapolation of such data. 
 
-### Program Accounting Estimates for the 777X Program — Refer to Notes 1, 7, and 22 to the financial statements
+## Program Accounting Estimates for the 777X Program — Refer to Notes 1, 7, and 22 to the financial statements
 
-_Critical Audit Matter Description_
+### Critical Audit Matter Description
 
 The introduction of new aircraft programs involves increased risk associated with meeting development, certification and production schedules. The Company uses program accounting to compute cost of sales and margin for each commercial airplane sold. The use of program accounting requires estimating and demonstrating customer demand for the number of units included in the program (program accounting quantity) and estimating the sales and costs over the expected life of each program. In particular, estimating the sales and costs associated with the initial program accounting quantity and the unsold units within the program accounting quantity involve measurement uncertainty resulting in a range of reasonable outcomes. Additionally, the level of effort to meet regulatory requirements and achieve certification may be challenging to predict, including potential delays in the timing of entry into service and corresponding increases in estimated costs. Changes to the revenue and cost estimates related to the program accounting quantity or regulatory requirements to achieve certification could occur, resulting in lower margins or material reach-forward losses. Auditing the estimated revenues and costs for the 777X program involved extensive audit effort, a high degree of auditor judgment, and required audit professionals with specialized industry experience. 
 
-_How the Critical Audit Matter Was Addressed in the Audit_
+### How the Critical Audit Matter Was Addressed in the Audit
 
 Our audit procedures related to the estimated revenues and costs for the anticipated 777X initial program accounting quantity included the following, among others: 
 
@@ -10868,13 +10994,13 @@ Our audit procedures related to the estimated revenues and costs for the anticip
 
 - We tested the effectiveness of internal controls, including those over the review of significant judgments made and assumptions used to develop key estimates, key data used in developing the estimates and the mathematical extrapolation of such data. 
 
-### Program Accounting Revenue Estimates for the 787 Program — Refer to Notes 1, 7, and 22 to the financial statements
+## Program Accounting Revenue Estimates for the 787 Program — Refer to Notes 1, 7, and 22 to the financial statements
 
-_Critical Audit Matter Description_
+### Critical Audit Matter Description
 
 Production quality issues and supply chain disruption for the 787 program have resulted in increased risk associated with forecasted revenue estimates primarily due to the difficulty in assessing the value of consideration expected to be provided to customers as a result of delivery delays. The Company uses program accounting to compute cost of sales and margin for each commercial airplane sold. The use of program accounting requires estimating the revenue expected to be earned upon delivery of the aircraft included in the program’s accounting quantity. While the 787 program resumed deliveries in 2022, the forecasted delivery schedule and the value of the consideration expected to be provided to customers for delivery delays continue to be key factors that affect estimated revenue. There is estimation uncertainty related to the revenue forecasts of aircraft which have reached or are expected to reach a delivery delay period that provides the customer with a contractual termination right. Changes to the expected delivery schedule could result in additional consideration to customers. This could result in lower margins or material reach-forward losses. Auditing the estimated revenues for the 787 program involved extensive audit effort, a high degree of auditor judgment, and required professionals with specialized industry experience. 
 
-_How the Critical Audit Matter Was Addressed in the Audit_
+### How the Critical Audit Matter Was Addressed in the Audit
 
 Our audit procedures related to the estimated revenues for the 787 program included the following, among others: 
 
@@ -10894,57 +11020,55 @@ We have served as the Company's auditor since at least 1934; however, an earlier
 
 ## REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
 
-## To the shareholders and the Board of Directors of The Boeing Company
+To the shareholders and the Board of Directors of The Boeing Company 
 
-**Opinion on Internal Control over Financial Reporting**
+## Opinion on Internal Control over Financial Reporting
 
 We have audited the internal control over financial reporting of The Boeing Company and subsidiaries (the “Company”) as of December 31, 2022, based on criteria established in _Internal Control_ — _Integrated Framework (2013_ ) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO). In our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of December 31, 2022, based on criteria established in _Internal Control_ — _Integrated Framework (2013) _ issued by COSO. 
 
 We have also audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated financial statements as of and for the year ended December 31, 2022 of the Company, and our report dated January 27, 2023 expressed an unqualified opinion on those financial statements. 
 
-**Basis for Opinion**
+## Basis for Opinion
 
 The Company’s management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting, included in the accompanying Management’s Report on Internal Control Over Financial Reporting. Our responsibility is to express an opinion on the Company’s internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
 
 We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects. Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, testing and evaluating the design and operating effectiveness of internal control based on the assessed risk, and performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion. 
 
-**Definition and Limitations of Internal Control over Financial Reporting**
+## Definition and Limitations of Internal Control over Financial Reporting
 
 A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the financial statements. 
 
 Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
 
-/s/ Deloitte & Touche LLP 
-
-## Chicago, Illinois January 27, 2023
+/s/ Deloitte & Touche LLP Chicago, Illinois January 27, 2023
 
 ## Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
 
-None.
+   - None. 
 
-### Item 9A. Controls and Procedures
+## Item 9A. Controls and Procedures
 
-   - (a) Evaluation of Disclosure Controls and Procedures.
+### (a) Evaluation of Disclosure Controls and Procedures.
 
 Our Chief Executive Officer and Chief Financial Officer have evaluated our disclosure controls and procedures as of December 31, 2022 and have concluded that these disclosure controls and procedures are effective to ensure that information required to be disclosed by us in the reports that we file or submit under the Securities Exchange Act of 1934 is recorded, processed, summarized and reported within the time periods specified in the Securities and Exchange Commission’s rules and forms and is accumulated and communicated to our management, including the Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure. 
 
-   - (b) Management’s Report on Internal Control Over Financial Reporting.
+### (b) Management’s Report on Internal Control Over Financial Reporting.
 
 Our management is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Exchange Act Rules 13a-15(f). Our management conducted an evaluation of the effectiveness of our internal control over financial reporting based on the framework in Internal Control – Integrated Framework (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission. Based on this evaluation under the framework in Internal Control – Integrated Framework, our management concluded that our internal control over financial reporting was effective as of December 31, 2022. 
 
 Our internal control over financial reporting as of December 31, 2022, has been audited by Deloitte & Touche LLP, an independent registered public accounting firm, as stated in their report which is included in Item 8 of this report and is incorporated by reference herein. 
 
-   - (c) Changes in Internal Controls Over Financial Reporting.
+### (c) Changes in Internal Controls Over Financial Reporting.
 
 There were no changes in our internal control over financial reporting that occurred during the fourth quarter of 2022 that have materially affected or are reasonably likely to materially affect our internal control over financial reporting. 
 
-**Item 9B. Other Information**
+## Item 9B. Other Information
 
-None.
+   - None. 
 
-**Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections**
+## Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
 
-None.
+   - None. 
 
 ## Part III
 
@@ -11431,7 +11555,7 @@ The information required by this item will be included under the captions “Com
 
 ## Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
 
-**Equity Compensation Plan Information**
+### Equity Compensation Plan Information
 
 Our equity compensation plans approved by our shareholders provide for the issuance of common stock to officers and other employees, directors and consultants. The following table sets forth information regarding outstanding options and units, and shares available for future issuance under these plans as of December 31, 2022: 
 
@@ -11514,7 +11638,7 @@ For further information, see Note 17 to our Consolidated Financial Statements.
 
 The additional information required by this item will be included under the caption “Stock Ownership Information” in the 2023 Proxy Statement, and that information is incorporated by reference herein. 
 
-**Item 13. Certain Relationships and Related Transactions, and Director Independence**
+## Item 13. Certain Relationships and Related Transactions, and Director Independence
 
 The information required by this item will be included under the captions “Related Person Transactions” and “Director Independence” in the 2023 Proxy Statement, and that information is incorporated by reference herein. 
 
@@ -11522,23 +11646,23 @@ The information required by this item will be included under the captions “Rel
 
 Our independent registered public accounting firm is Deloitte & Touche LLP (PCAOB ID No. 34). 
 
-The information required by this item will be included under the caption “Independent Auditor Fees” in the 2023 Proxy Statement, and that information is incorporated by reference herein.
+The information required by this item will be included under the caption “Independent Auditor Fees” in the 2023 Proxy Statement, and that information is incorporated by reference herein. 
 
 ## PART IV
 
 ## Item 15. Exhibits and Financial Statement Schedules
 
-### - (a) List of documents filed as part of this report:
+   - (a) List of documents filed as part of this report:
 
-**1. Financial Statements**
+### 1. Financial Statements
 
-Our consolidated financial statements are as set forth under Item 8 of this report on Form 10-K.
+Our consolidated financial statements are as set forth under Item 8 of this report on Form 10-K. 
 
-**2. Financial Statement Schedules**
+### 2. Financial Statement Schedules
 
-All schedules are omitted because they are not applicable, not required or the information is included in the consolidated financial statements.
+All schedules are omitted because they are not applicable, not required or the information is included in the consolidated financial statements. 
 
-**3. Exhibits**
+### 3. Exhibits
 
 <table>
   <thead>
@@ -11983,15 +12107,15 @@ All schedules are omitted because they are not applicable, not required or the i
 
 In accordance with Item 601(b)(4) (iii)(A) of Regulation S-K, copies of certain instruments defining the rights of holders of long-term debt of the Company are not filed herewith. Pursuant to this regulation, we hereby agree to furnish a copy of any such instrument to the SEC upon request. 
 
-**Item 16. Form 10-K Summary**
+## Item 16. Form 10-K Summary
 
-None.
+   - None. 
 
 ## Signatures
 
 Pursuant to the requirements of Section 13 of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized, on January 27, 2023. 
 
-**THE BOEING COMPANY**
+## THE BOEING COMPANY
 
    - (Registrant) By:
 
@@ -12040,7 +12164,7 @@ Pursuant to the requirements of the Securities Exchange Act of 1934, this report
 
 THIS DOCUMENT CONSTITUTES PART OF A PROSPECTUS COVERING SECURITIES THAT HAVE BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED. 
 
-**Exhibit 10.13** 
+## Exhibit 10.13
 
 **THE BOEING COMPANY EXECUTIVE SUPPLEMENTAL SAVINGS PLAN**
 
@@ -12467,7 +12591,7 @@ The Boeing Company Executive Supplemental Savings Plan provides four separate co
 
       - (iv) DCP Accounts, which are the recordkeeping accounts established for Participants who participated in the Deferred Compensation Plan for Employees of The Boeing Company, which was frozen December 31, 2018 and merged into this Plan effective January 1, 2022.
 
-_Plan History_
+### Plan History
 
 The Plan (originally named, the Supplemental Benefit Plan for Employees of The Boeing Company) (the “Plan”) was originally established effective January 1, 1978, by The Boeing Company. 
 
@@ -12475,7 +12599,7 @@ The Plan has been amended and restated from time to time since its original effe
 
 As of January 1, 2022, the Plan was amended and restated to (A) reflect the merger of the Deferred Compensation Plan for Employees of The Boeing Company with and into the Plan, (B) eliminate Restoration SSP+ Company Contributions and Executive SSP+ Company Contributions, (C) add a new Restoration True-Up Contribution, Incentive Matching Contribution and Company Non-Elective Contribution, (D) simplify the mid-year enrollment provisions in the Participant Deferral component of the Plan, and (E) make certain other changes. Effective January 1, 2022 (or as otherwise stated herein), the Plan is now again amended and restated to (i) incorporate Amendments 1 and 2 to the January 1, 2022 restatement dated December 10, 2021, (ii) reflect the March enrollment window for Cash Incentive Deferrals, and (iii) clarify or update certain definitions and administrative aspects of the Plan. 
 
-_Plan Status_
+### Plan Status
 
 The Plan is a nonqualified deferred compensation plan subject to Code section 409A. It is also intended that the Plan shall be, in part, an excess benefit plan as defined in section 3(36) of the Employee Retirement Income Security Act of 1974, as amended (ERISA), to the extent benefits are paid in excess of the limits imposed by Code section 415. To the extent any part of the Plan is not an excess benefit plan, it is intended that the Plan is an unfunded plan maintained primarily for the purpose of providing deferred compensation to a select group of management or highly compensated employees under sections 201(2) , 301(a)(3) , and 401(a)(1) of ERISA. 
 
@@ -12491,51 +12615,51 @@ The Plan is a nonqualified deferred compensation plan subject to Code section 40
 
    - (c) the Executive Benefit Account (consisting of Company Non-Elective Contributions, DC SERP Contributions and for periods prior to January 1, 2022, the Executive SSP+ Company Contributions); and
 
-- (d)    the DCP Account (consisting of DCP Deferrals and DCP Match made to the DCP prior to January 1, 2019).
+   - (d) the DCP Account (consisting of DCP Deferrals and DCP Match made to the DCP prior to January 1, 2019).
 
 ### 2. 2    Administrator
 
-“Administrator” means the Employee Benefit Plans Committee of The Boeing Company.
+“Administrator” means the Employee Benefit Plans Committee of The Boeing Company. 
 
-**2.3    Affiliate or Subsidiary**
+### 2. 3    Affiliate or Subsidiary
 
 “Affiliate” or “Subsidiary” means a member of a controlled group of corporations (as defined in Code section 1563(a), determined without regard to Code sections 1563(a)(4) and (e)(3) (c)), a group of trades or businesses (whether incorporated or not) which are under common control within the meaning of Code section 414(c), or an affiliated service group (as defined in Code sections 414(m) or 414(o)), in each case of which The Boeing Company is a part. 
 
-**2.4    Authorized Period of Absence**
+### 2. 4    Authorized Period of Absence
 
-“Authorized Period of Absence” means a leave of absence approved by the Company.
+“Authorized Period of Absence” means a leave of absence approved by the Company. 
 
-**2.5    Base Pay**
+### 2. 5    Base Pay
 
 “Base Pay” means an Employee’s base pay (salary) from the Company. For clarity, this is the same as an Employee’s “Compensation” as such term is defined under the Boeing 401(k), but determined (A) without regard to the limitation on such compensation under Code section 401(a)(17) and (B) prior to any deferrals of compensation made hereunder. Notwithstanding anything herein to the contrary, Base Pay does not include amounts earned while an Employee is represented by a union with a collective bargaining agreement covering such Employee that does not provide for participation in the Plan. 
 
 In no event will Base Pay include payments under any incentive compensation or performance award plan, without regard to whether they are included in the definition of “Compensation” under the Boeing 401(k). 
 
-**2.6    Base Pay Deferrals**
+### 2. 6    Base Pay Deferrals
 
-“Base Pay Deferrals” means deferrals of Base Pay that are made pursuant to Section 3.1(A).
+“Base Pay Deferrals” means deferrals of Base Pay that are made pursuant to Section 3.1(A). 
 
-**2.7    Base Pay Rate**
+### 2. 7    Base Pay Rate
 
-“Base Pay Rate” means an Employee’s annual rate of Base Pay.
+“Base Pay Rate” means an Employee’s annual rate of Base Pay. 
 
-**2.8    Beneficiary**
+### 2. 8    Beneficiary
 
 “Beneficiary” means the person or persons designated by a Participant to receive distributions from the Plan upon the Participant’s death, in accordance with the rules established by the Administrator. If no effective designation is on file, then the Beneficiary shall be the person or persons designated by a Participant under the Boeing 401(k) to receive any benefit payable from the Boeing 401(k) upon the death of the Participant. If no effective designation is on file under this Plan or the Boeing 401(k), or if the designated beneficiary does not survive the Participant, then the default beneficiary rules stated in the Boeing 401(k) will apply to determine the Beneficiary under the Plan. A Beneficiary may disclaim his or her benefit in accordance with the rules established by the Administrator, and in the case of an effective disclaimer, the Participant’s designation of such individual will be treated as ineffective and the rules described above for an ineffective beneficiary designation will apply. 
 
-**2.9    Board of Directors**
+### 2. 9    Board of Directors
 
-“Board of Directors” means the board of directors of The Boeing Company.
+“Board of Directors” means the board of directors of The Boeing Company. 
 
-**2.10    Boeing 401(k)**
+### 2. 10    Boeing 401(k)
 
-“Boeing 401(k)” means The Boeing Company 401(k) Retirement Plan, as amended.
+“Boeing 401(k)” means The Boeing Company 401(k) Retirement Plan, as amended. 
 
-**2.11    BSS Plan**
+### 2. 11    BSS Plan
 
-“BSS Plan” means the BSS Retirement Plan, as amended.
+“BSS Plan” means the BSS Retirement Plan, as amended. 
 
-**2.12    Cash Incentive**
+### 2. 12    Cash Incentive
 
 “Cash Incentive” means the amount awarded to the Participant under The Boeing Company Elected Officer Annual Incentive Plan or The Boeing Company Annual Incentive Plan (formerly the Incentive Compensation Plan for Employees of The Boeing Company and Subsidiaries). 
 
@@ -12543,175 +12667,175 @@ Cash Incentive deferred by the Participant under Article III will be deemed to h
 
 Cash Incentive that is paid after a Participant’s termination of employment from the Controlled Group will remain subject to the Participant’s deferral election under Article III if it has become irrevocable under Section 3.3(c) as of the Participant’s termination 
 
-date, but will not be counted for purposes of calculating the Company Non-Elective Contribution under Article IV.
+date, but will not be counted for purposes of calculating the Company Non-Elective Contribution under Article IV. 
 
-**2.13    Cash Incentive Deferrals**
+### 2. 13    Cash Incentive Deferrals
 
-“Cash Incentive Deferrals” means deferrals of Cash Incentive that are made pursuant to Section 3.1(A).
+“Cash Incentive Deferrals” means deferrals of Cash Incentive that are made pursuant to Section 3.1(A). 
 
-**2.14    Code**
+### 2. 14    Code
 
 “Code” means the Internal Revenue Code of 1986, as amended. Any reference to a specific provision of the Code includes any successor provision thereto and the regulations and rulings promulgated thereunder. 
 
-**2.15    Company**
+### 2. 15    Company
 
 “Company” means The Boeing Company, its successors in interest, and any Affiliate or Subsidiary that has adopted this Plan with the consent of The Boeing Company. An Affiliate or Subsidiary is deemed to have adopted this Plan, and The Boeing Company is deemed to have consented to such adoption, if the Affiliate or Subsidiary (a) participates in the Boeing 401(k) and (b) is not an excluded employer for purposes of this Plan. A list of excluded employers, as updated from time to time, is attached hereto as Appendix A. 
 
-**2.16    Company Contributions**
+### 2. 16    Company Contributions
 
 “Company Contributions” mean Restoration Matching Contributions, Restoration True-Up Contributions, Company NonElective Contributions, Incentive Matching Contributions, and DC SERP Contributions. For periods prior to January 1, 2022, Company Contributions also included Restoration SSP+ Company Contributions and Executive SSP+ Company Contributions. 
 
-**2.17    Company Non-Elective Contributions**
+### 2. 17    Company Non-Elective Contributions
 
-“Company Non-Elective Contributions” mean the contributions allocated pursuant to Section 4.4.
+“Company Non-Elective Contributions” mean the contributions allocated pursuant to Section 4.4. 
 
-**2.18    Compensation**
+### 2. 18    Compensation
 
-“Compensation” means a Participant’s Base Pay, Cash Incentive, and Performance Awards, if any.
+“Compensation” means a Participant’s Base Pay, Cash Incentive, and Performance Awards, if any. 
 
-**2.19    Compensation Committee**
+### 2. 19    Compensation Committee
 
-“Compensation Committee” means the Compensation Committee of the Board of Directors.
+“Compensation Committee” means the Compensation Committee of the Board of Directors. 
 
-**2.20    Contribution Credit**
+### 2. 20    Contribution Credit
 
-“Contribution Credit” means the applicable percentage used to compute an eligible Participant’s DC SERP Contributions under Section 4.5.
+“Contribution Credit” means the applicable percentage used to compute an eligible Participant’s DC SERP Contributions under Section 4.5. 
 
-**2.21    Controlled Group**
+### 2. 21    Controlled Group
 
-“Controlled Group” means the Company and any Affiliate or Subsidiary.
+“Controlled Group” means the Company and any Affiliate or Subsidiary. 
 
-**2.22    DC SERP Contributions**
+### 2. 22    DC SERP Contributions
 
-“DC SERP Contributions” means the contributions allocated pursuant to Section 4.5.
+“DC SERP Contributions” means the contributions allocated pursuant to Section 4.5. 
 
-**2.23    Deferral Election**
+### 2. 23    Deferral Election
 
 “Deferral Election” means the elections made by an Eligible Employee to defer a portion of his or her eligible Compensation in accordance with Article III, including any Restoration Deferral Election and any Extra Deferral Election. 
 
-**2.24    DCP**
+### 2. 24    DCP
 
-“DCP” means the Deferred Compensation Plan for Employees of The Boeing Company, which was merged into this Plan effective January 1, 2022.
+“DCP” means the Deferred Compensation Plan for Employees of The Boeing Company, which was merged into this Plan effective January 1, 2022. 
 
-**2.25    DCP Deferrals**
+### 2. 25    DCP Deferrals
 
-“DCP Deferrals” mean the portion of a Participant’s Base Pay, Cash Incentive, or Performance Awards, if any, that he or she elected to defer on a pre-tax basis under the DCP prior to January 1, 2019.
+“DCP Deferrals” mean the portion of a Participant’s Base Pay, Cash Incentive, or Performance Awards, if any, that he or she elected to defer on a pre-tax basis under the DCP prior to January 1, 2019. 
 
-**2.26    DCP Matching Contributions**
+### 2. 26    DCP Matching Contributions
 
-“DCP Matching Contributions” mean the matching contributions that were previously made under the DCP.
+“DCP Matching Contributions” mean the matching contributions that were previously made under the DCP. 
 
-**2.27    Earnings Credits**
+### 2. 27    Earnings Credits
 
-“Earnings Credits” means the adjustment to a Participant’s Account under Section 7.2, which may be positive or negative.
+“Earnings Credits” means the adjustment to a Participant’s Account under Section 7.2, which may be positive or negative. 
 
-**2.28    Election Period**
+### 2. 28    Election Period
 
 “Election Period” means the period or periods established by the Administrator during which an eligible Employee may submit Deferral Elections, all in accordance with such timing and other requirements as the Administrator may establish and, in all cases, the applicable rules under Code section 409A. In no event will (a) an annual Election Period for Participant Deferrals other than Cash Incentive Deferrals expire later than December 31 of the Plan Year in which the election is made, (b) an annual Election Period for Cash Incentive Deferrals expire later than March 30 of the Plan Year to which the election relates (or such other date that is immediately prior to the date that the related Cash Incentive has become “readily ascertainable” as determined in accordance with Treas. Regs. Section 1.409A-2(a)(8) ), and/or (c) a mid-year Election Period expire more than thirty (30) days after the Employee first becomes eligible to participate in the Plan. 
 
-**2.29    Eligibility Determination Date**
+### 2. 29    Eligibility Determination Date
 
 “Eligibility Determination Date” means (a) for purposes of Participant Deferrals other than Cash Incentive Deferrals with respect to any Plan Year, the November 1 of the preceding Plan Year (or such other date as determined by the Administrator with respect to any Employee(s); provided that such determination complies with the requirements of Code section 409A), (b) for purposes of Cash Incentive Deferrals made with respect to any Cash Incentive earned in any Plan Year beginning on and after January 1, 2023, the March 1 of the Plan Year to which the Deferral Election relates (or such other date as 
 
 determined by the Administrator with respect to any Employee(s); provided that such determination complies with the requirements of Code section 409A), and (c) for purposes of the definition of “Newly Eligible,” the date an Eligible Employee is hired or rehired into the status of an Eligible Employee. For the 2022 Plan Year, November 1, 2021 was used as the default Eligibility Determination Date for all 2022 full Plan Year Deferral Elections. 
 
-**2.30    Eligible Employee**
+### 2. 30    Eligible Employee
 
 “Eligible Employee” means, with respect to any Plan Year (or portion of a Plan Year, in the case of a mid-year enrollment) if applicable, an individual who is an Employee and is paid on a U.S. dollar-based payroll as of the Eligibility Determination Date, and who has satisfied any additional requirements to make Extra Deferrals under Section 3.1(A) or 3.2, to make Restoration Deferrals under Section 3.1(B) or 3.2, to receive allocations of Restoration Matching Contributions under Section 4.1, to receive allocations of Restoration True-Up Contributions under Section 4.2, to receive allocations of Incentive Matching Contributions under Section 4.3, to receive allocations of Company Non-Elective Contributions under Section 4.4, and/or to receive allocations of DC SERP Contributions under Section 4.5, in each case, if any and to the extent applicable. 
 
 Notwithstanding the foregoing or anything herein: (i) an Employee is an Eligible Employee only if the Employee is eligible for the Boeing 401(k), and is not eligible for The Boeing Company Supplemental Savings Plan and (ii) an Employee shall not be considered an Eligible Employee hereunder if the Administrator has excluded his or her employer from participation in the Plan. A list of excluded employers, as updated from time to time, is attached hereto as Appendix A. 
 
-**2.31    Employee**
+### 2. 31    Employee
 
 “Employee” means any person who is employed by any member of the Controlled Group, is designated as a common law employee on such member’s payroll, and is assigned by such member to the US Executive Payroll. 
 
-**2.32    Extra Deferrals**
+### 2. 32    Extra Deferrals
 
 “Extra Deferrals” means any Base Pay Deferral, Cash Incentive Deferral or Vested Performance Award Deferral that a Participant elects to defer on a pre-tax basis in accordance with Section 3.1(A) and, to the extent applicable, Section 3.2(A). 
 
-**2.33    Executive SSP+ Company Contributions**
+### 2. 33    Executive SSP+ Company Contributions
 
-“Executive SSP+ Company Contributions” means the historic Executive SSP+ Company Contributions that were credited to a Participant’s Account with respect to periods prior to January 1, 2022.
+“Executive SSP+ Company Contributions” means the historic Executive SSP+ Company Contributions that were credited to a Participant’s Account with respect to periods prior to January 1, 2022. 
 
-**2.34    Incentive Matching Contributions**
+### 2. 34    Incentive Matching Contributions
 
-“Incentive Matching Contributions” mean the contributions allocated pursuant to Section 4.3.
+“Incentive Matching Contributions” mean the contributions allocated pursuant to Section 4.3. 
 
-**2.35    Newly Eligible**
+### 2. 35    Newly Eligible
 
 “Newly Eligible” means an individual who (i) is hired or rehired as an Employee, (ii) was not eligible to participate in the Plan or in a deferred compensation plan that is aggregated 
 
 with the Plan under the aggregation rules of Code section 409A (including The Boeing Company Supplemental Savings Plan), other than the crediting of earnings, within the 24-month period immediately preceding the Eligibility Determination Date (or, has taken a full distribution of his or her interest in such plan), and (iii) is paid on a U.S. dollar-based payroll as of the Eligibility Determination Date. 
 
-**2.36    Participant**
+### 2. 36    Participant
 
 “Participant” means an Eligible Employee who has elected to defer Compensation or who is eligible to receive a Company Contribution hereunder, or for purposes of Articles V through X, an Employee or former Employee who has amounts credited to his or her Account. 
 
-**2.37    Participant Deferrals**
+### 2. 37    Participant Deferrals
 
-“Participant Deferrals” mean Extra Deferrals and Restoration Deferrals.
+“Participant Deferrals” mean Extra Deferrals and Restoration Deferrals. 
 
-**2.38    Performance Awards**
+### 2. 38    Performance Awards
 
 “Performance Awards” means any award designated as such under The Boeing Company’s 2003 Incentive Stock Plan and any successor or other long-term equity incentive plan that may be maintained by The Boeing Company from time to time. 
 
-**2.39    Plan**
+### 2. 39    Plan
 
-“Plan” means The Boeing Company Executive Supplemental Savings Plan as herein set forth, together with any amendments that may be adopted from time to time.
+“Plan” means The Boeing Company Executive Supplemental Savings Plan as herein set forth, together with any amendments that may be adopted from time to time. 
 
-**2.40    Plan Year**
+### 2. 40    Plan Year
 
-“Plan Year” means the calendar year.
+“Plan Year” means the calendar year. 
 
-**2.41    PVP**
+### 2. 41    PVP
 
-“PVP” means The Pension Value Plan for Employees of The Boeing Company, as amended.
+“PVP” means The Pension Value Plan for Employees of The Boeing Company, as amended. 
 
-**2.42    Restoration Deferrals**
+### 2. 42    Restoration Deferrals
 
 “Restoration Deferrals” means the portion of a Participant’s Compensation, if any, that he or she elects to defer on a pre-tax basis under this Plan in accordance with Section 3.1(B) and, to the extent applicable, Section 3.2. 
 
-**2.43    Restoration Matching Contributions**
+### 2. 43    Restoration Matching Contributions
 
-“Restoration Matching Contributions” means the amount credited to a Participant’s Account under Section 4.1.
+“Restoration Matching Contributions” means the amount credited to a Participant’s Account under Section 4.1. 
 
-**2.44    Restoration SSP+ Company Contributions**
+### 2. 44    Restoration SSP+ Company Contributions
 
 “Restoration SSP+ Company Contributions” means the historic Restoration SSP+ Company Contributions that were credited to a Participant’s Account with respect to periods prior to January 1, 2022. 
 
-**2.45    Restoration True-Up Contributions**
+### 2. 45    Restoration True-Up Contributions
 
-“Restoration True-Up Contributions” means the contributions allocated pursuant to Section 4.2.
+“Restoration True-Up Contributions” means the contributions allocated pursuant to Section 4.2. 
 
-**2.46    Separation from Service**
+### 2. 46    Separation from Service
 
 “Separation from Service” or “Separates from Service” means an Employee’s death, retirement or termination of employment from the Controlled Group within the meaning of Code section 409A. For purposes of determining whether a Separation from Service has occurred, Affiliates and Subsidiaries are defined by using the language “at least 80 percent” to define the controlled group under Code section 1563(a) in lieu of the 50 percent default rule stated in Treasury Regulation section 1.409A-1(h)(3) . 
 
 A Separation from Service is deemed to include a reasonably anticipated permanent reduction in the level of services performed by an Employee to less than 50 percent of the average level of services performed by the Employee during the immediately preceding 36-month period. 
 
-**2.47    Service**
+### 2. 47    Service
 
 “Service” means the Participant’s years of service with the Controlled Group, determined in the same manner as the service time calculation under the Boeing Service Awards Program procedure, in completed whole years. 
 
-**2.48    Specified Employee**
+### 2. 48    Specified Employee
 
 “Specified Employee” means an Employee who is a “specified employee” within the meaning of Code section 409A. Specified Employee status is determined on the last day of the prior Plan Year, to take effect as of April 1 of the Plan Year for a 12-month period. Notwithstanding the foregoing, Specified Employees shall be determined by including the employees who are reasonably determined to be the 75 top-paid officers of the Controlled Group as of the determination date, rather than the 50 top-paid officers as provided under Code section 416(i)(1) (A), to the extent permitted under Code section 409A. 
 
-**2.49    Unforeseeable Emergency**
+### 2. 49    Unforeseeable Emergency
 
-“Unforeseeable Emergency” means “unforeseeable emergency” within the meaning of Code section 409A, as determined by the Administrator.
+“Unforeseeable Emergency” means “unforeseeable emergency” within the meaning of Code section 409A, as determined by the Administrator. 
 
-**2.50    US Executive Payroll**
+### 2. 50    US Executive Payroll
 
 “US Executive Payroll” means the executive designation of level EL, EV or ED at the Company (prior to August 15, 2022, the executive designation of level E-1 to E-5 at the Company). The US Executive Payroll was previously called the “E-Series Payroll.” 
 
-**2.51    Vested Performance Award Deferrals**
+### 2. 51    Vested Performance Award Deferrals
 
-## “Vested Performance Award Deferrals” means deferrals of Performance Awards under Section 3.1(A).
+“Vested Performance Award Deferrals” means deferrals of Performance Awards under Section 3.1(A). 
 
-## ARTICLE III Participant Deferrals
+### ARTICLE III Participant Deferrals
 
-### 3. 1    Annual Participation and Deferrals – Eligibility
+## 3. 1    Annual Participation and Deferrals – Eligibility
 
 The Plan provides Eligible Employees with two ways to defer Compensation on a pre-tax basis– the Extra Deferral component and the Restoration Deferral component. Only Eligible Employees will be permitted to participate. 
 
@@ -12723,7 +12847,7 @@ An individual is an Eligible Employee for purposes of making an Extra Deferral E
 
 An Eligible Employee may elect to defer up to the following as Extra Deferrals: (i) in the case of Base Pay Deferrals, 50% of his or her Base Pay payable in the Plan Year to which the Deferral Election applies, (ii) in the case of Cash Incentive Deferrals, 100% of his or her Cash Incentive earned in the Plan Year to which the Deferral Election relates (even if payable in a subsequent Plan Year), and/or (iii) in the case of Vested Performance Award Deferrals, 100% of his or her Performance Awards granted in the Plan Year to which the Deferral Election applies, which grant generally covers the next three (3) Plan Years (even if payable in a subsequent Plan Year), if any. For clarity, Extra Deferrals will be made without regard to the Code section 401(a)(17) and 415(c) limitations. 
 
-Extra Deferrals will be credited to the Participant’s Account on the date the Compensation would otherwise be payable, or as soon thereafter as administratively feasible.
+Extra Deferrals will be credited to the Participant’s Account on the date the Compensation would otherwise be payable, or as soon thereafter as administratively feasible. 
 
 #### (B)    Restoration Deferral Component
 
@@ -12753,13 +12877,13 @@ Extra Deferral Elections with respect to Base Pay, Cash Incentive and Performanc
 
 Eligible Employees may make new Deferral Elections for each succeeding Plan Year. An Eligible Employee’s Deferral Election will be “evergreen” – it will carry-over from Plan Year to Plan Year (or from a partial Plan Year to the subsequent Plan Year in the case of a mid-year enrollment) unless it is changed or cancelled in accordance with rules established by the Administrator or as otherwise provided in this Plan. 
 
-   - (B) Distribution Elections
+#### (B)    Distribution Elections
 
 Deferral Elections will include an option to elect the form and timing of distribution with regard to the Participant Deferrals, as described in Article VI, as applicable. 
 
-Any election made as to the form and timing of distribution with respect to Restoration Deferrals will apply to the Participant’s entire Restoration Account.
+Any election made as to the form and timing of distribution with respect to Restoration Deferrals will apply to the Participant’s entire Restoration Account. 
 
-   - (C) Timing, Irrevocability and Cancellation of Elections
+#### (C) Timing, Irrevocability and Cancellation of Elections
 
 In general, Deferral Elections must be filed during the applicable Election Period. 
 
@@ -12775,25 +12899,25 @@ Once Deferral Elections become irrevocable they generally may not be modified wi
 
 If an Employee ceases to be an Eligible Employee (e.g., due to a reclassification as other than US Executive Payroll or Separation from Service) prior to the date that any Deferral Election (including any evergreen election) has become irrevocable as described in this subsection (C), then any such Deferral Election shall be cancelled as of the date such Deferral Election would have become irrevocable if the Employee had remained an Eligible Employee. 
 
-See Section 3.4 for a limited exception to the general rule on the irrevocability of Deferral Elections, in the event of Unforeseeable Emergency.
+See Section 3.4 for a limited exception to the general rule on the irrevocability of Deferral Elections, in the event of Unforeseeable Emergency. 
 
-   - (D) No Mid-Year Elections
+#### (D)    No Mid-Year Elections
 
 Except as provided in this Article III, an Employee who becomes Newly Eligible during a Plan Year (including as a result of a salary increase) will not be eligible to make Participant Deferrals during such Plan Year. 
 
-**3.4    Cancellation of Deferral Election Due to Unforeseeable Emergency**
+### 3. 4    Cancellation of Deferral Election Due to Unforeseeable Emergency
 
 Notwithstanding the irrevocability rule described in Section 3.3, a Participant will be permitted to cancel an existing Deferral Election with regard to a Plan Year during that Plan Year if the Participant incurs an Unforeseeable Emergency, as determined by the Administrator. 
 
 If a Participant has elected and received a distribution due to an Unforeseeable Emergency under Section 6.1(I), the Participant will be deemed to have elected to cancel his or her Deferral Election(s) that relate to Base Pay for the remainder of the applicable Plan Year. 
 
-**3.5    Crediting of Deferrals to Account**
+### 3. 5    Crediting of Deferrals to Account
 
 In all cases, Participant Deferrals will be credited to the Participant’s Account on the date the Compensation would otherwise have been payable, or as soon thereafter as administratively feasible. 
 
-### ARTICLE IV Company Contributions
+## ARTICLE IV Company Contributions
 
-**4.1    Restoration Matching Contributions**
+### 4. 1    Restoration Matching Contributions
 
 A Participant who defers Base Pay pursuant to a Restoration Deferral Election under Section 3.3 will be credited with a Restoration Matching Contribution from the Company related to such Restoration Deferrals. This Restoration Matching Contribution will equal a percentage (determined based on the matching contribution formula applicable to the Participant under the Boeing 401(k) for the Plan Year) of the Participant’s Restoration Deferrals for the Plan Year. 
 
@@ -12801,9 +12925,9 @@ Restoration Matching Contributions under this Plan apply only to Participant Def
 
 An Eligible Employee must make a timely Restoration Deferral Election, as described in Section 3.3, to become eligible to participate in the Restoration Matching Contribution component of the Plan. Distribution elections are discussed in Article VI. 
 
-Restoration Matching Contributions will be credited to the Participant’s Account on the date that the underlying Restoration Deferrals are credited to the Participant’s Account.
+Restoration Matching Contributions will be credited to the Participant’s Account on the date that the underlying Restoration Deferrals are credited to the Participant’s Account. 
 
-**4.2    Restoration True-Up Contributions**
+### 4. 2    Restoration True-Up Contributions
 
 The Company may make a Restoration True-Up Contribution to this Plan on behalf of certain Eligible Employees. The Restoration True-Up Contribution, if any, will be equal to the true-up matching contribution calculated as described in the Boeing 401(k) with respect to the Plan Year (provided that, if the Eligible Employee’s contributions to the Boeing 401(k) were stopped due to Code limits, then the portion of the Plan Year prior to the date the contributions were stopped shall be treated as if it were the Plan Year for purposes of such calculation) _minus_ the amount of the true-up matching contribution that is actually made to the Boeing 401(k), if any, as determined by the Committee in its sole discretion; provided that, no Restoration True-Up Contribution will be made if the Employee terminates from employment prior to the last business day of the Plan Year for any reason other than retirement (for this purpose, after attaining age 55 with 10 years of service or after attaining age 62 with 1 year of service), disability (for this purpose, meaning the Eligible Employee is determined to be disabled by the Social Security Administration), layoff, or death. 
 
@@ -12813,7 +12937,7 @@ An Eligible Employee for purposes of this Section 4.2 need not make (or be eligi
 
 The Restoration True-Up Contribution, if any, will be credited to the Participant’s Account on the date that true-up matching contributions are made to the Boeing 401(k), or as soon as thereafter administratively feasible. 
 
-**4.3    Incentive Matching Contributions**
+### 4. 3    Incentive Matching Contributions
 
 Subject to the conditions of this Section 4.3, a Participant who makes Cash Incentive Deferrals under Section 3.3 will be credited with an Incentive Matching Contribution from the Company related to such Cash Incentive Deferrals. This Incentive Matching Contribution will equal a percentage (determined based on the matching contribution formula applicable to the Participant under the Boeing 401(k) for the Plan Year) of the Participant’s Cash Incentive Deferrals for the Plan Year. 
 
@@ -12823,7 +12947,7 @@ Incentive Matching Contributions will be credited to the Participant’s Account
 
 Notwithstanding the foregoing, no Incentive Matching Contribution will be made with respect to any Cash Incentive that is paid (or, but for the Participant’s Cash Incentive Deferral election, would be paid) after the date the Participant terminates from employment. 
 
-**4.4    Company Non-Elective Contributions (Component of the Executive Benefit)**
+### 4. 4    Company Non-Elective Contributions (Component of the Executive Benefit)
 
 The Company may make Company Non-Elective Contributions to this Plan with respect to a Plan Year on behalf of certain Eligible Employees in an amount and subject to the terms and conditions determined by the Compensation Committee or its delegates. 
 
@@ -12833,9 +12957,9 @@ An Eligible Employee for purposes of this Section 4.4 need not make (or be eligi
 
 A Company Non-Elective Contribution will be credited to the Eligible Employee’s Account on the date the related nonelective contribution is made to the Boeing 401(k) (if any) or on the date otherwise determined by the Compensation Committee or its delegates, or, in each case, as soon thereafter as administratively feasible. 
 
-#### 4. 5    DC SERP Contributions (Component of the Executive Benefit)
+### 4. 5    DC SERP Contributions (Component of the Executive Benefit)
 
-   - (A) Eligibility
+### (A)    Eligibility
 
 An Employee is eligible to receive DC SERP Contributions with respect to a Plan Year for so long as he or she satisfies the conditions in either (i) or (ii) below. Notwithstanding anything herein to the contrary, no DC SERP Contributions will be made for: (i) any elected officer on or after January 1, 2020, or (ii) any Employee who is hired or promoted onto the US Executive Payroll on or after January 1, 2020. 
 
@@ -12849,9 +12973,9 @@ An Employee satisfies the conditions in this subsection (i) if:
 
    - (c) The Employee is not an elected officer of the Company, and
 
-- (d)    The Employee is ineligible to accrue benefits under any defined benefit plan maintained by the Controlled Group.
+   - (d) The Employee is ineligible to accrue benefits under any defined benefit plan maintained by the Controlled Group.
 
-      - (ii) _Hired Before January 1, 2009_
+#### ## (ii) Hired Before January 1, 2009
 
 An Employee satisfies the conditions in this subsection (ii) if: 
 
@@ -12875,19 +12999,19 @@ For this purpose, an Employee’s period of employment with ULA or USA will be c
 
 An individual who became a “group-acquired employee” after September 30, 2008 and before January 1, 2009 will be deemed to have been hired on or after January 1, 2009, for purposes of determining eligibility to receive a contribution for periods on and after January 1, 2009. No contribution will be paid prior to January 1, 2009. For this purpose, a “group-acquired employee” refers to an employee of the Company who became such as an immediate or ultimate result of a merger to which the Company was a party, or of the acquisition by the Company of all or part of the assets, businesses or capital stock of another corporation or firm. 
 
-   - (B) DC SERP Participation
+#### (B)    DC SERP Participation
 
-An Eligible Employee will be a Participant in the DC SERP for the period(s), if any, that the Employee satisfies the eligibility conditions in Section 4.5(A).
+An Eligible Employee will be a Participant in the DC SERP for the period(s), if any, that the Employee satisfies the eligibility conditions in Section 4.5(A). 
 
 #### (C)    DC SERP Contributions
 
-##### Each Participant eligible for DC SERP Contributions shall be entitled to contributions under this Plan as described below.
+Each Participant eligible for DC SERP Contributions shall be entitled to contributions under this Plan as described below. 
 
-      - (i) _Payroll Contributions_
+#### ## (i) Payroll Contributions
 
-Contributions will be credited to the Participant’s Account on the date the Base Pay and Cash Incentive otherwise would be payable, or as soon thereafter as administratively feasible.
+Contributions will be credited to the Participant’s Account on the date the Base Pay and Cash Incentive otherwise would be payable, or as soon thereafter as administratively feasible. 
 
-   - (a) Hired Between January 1, 2009 and December 31, 2019
+#### (a)    Hired Between January 1, 2009 and December 31, 2019
 
 A Participant described in Section 4.5(A)(i) (Hired Between January 1, 2009 and December 31, 2019) will receive a DC SERP contribution equal to a Contribution Credit times the sum of the Participant’s Base Pay and Cash Incentive, for each applicable pay period. The Contribution Credit for a pay period is determined by the Participant’s level as of such pay period as follows: 
 
@@ -12897,7 +13021,7 @@ A Participant described in Section 4.5(A)(i) (Hired Between January 1, 2009 and 
 
 If a Participant changes levels during a pay period, the Participant’s level as in effect on the last day of the pay period will apply. For purposes of calculating the DC SERP contribution, a Participant’s Base Pay and Cash Incentive will be counted solely to the extent that (1) the Participant is on the US Executive Payroll during the applicable pay period or (2) such Cash Incentive is paid after a Participant’s termination of employment from the Controlled Group but on or before such Participant receives his or her final regular paycheck. 
 
-   - (b) Hired Before January 1, 2009
+#### (b)    Hired Before January 1, 2009
 
 A Participant described in Section 4.5(A)(ii) (Hired Before January 1, 2009) will receive a DC SERP contribution equal to a Contribution Credit times the sum of the Participant’s Base Pay and Cash Incentive, for each applicable pay period. For purposes of calculating the DC SERP contribution, a Participant’s Base Pay and Cash Incentive will be counted solely to the extent that (1) the Participant is on the US Executive Payroll during the applicable pay period or (2) such Cash Incentive is paid after a Participant’s termination of employment from the Controlled Group but on or before such Participant receives his or her final regular paycheck. 
 
@@ -12925,25 +13049,25 @@ This amount will be credited to the Participant’s Account as of the date of fi
 
 A Participant who has received a one-time contribution under this Section upon promotion to a level of EL or EV (referred to as level E-1, E-2, or E-3 prior to August 15, 2022), will be ineligible for any further contributions under this subsection (C)(ii). 
 
-### ARTICLE V Vesting and Forfeiture Rules
+## ARTICLE V Vesting and Forfeiture Rules
 
-**5.1    Vesting**
+### 5. 1    Vesting
 
 This Article V describes the vesting and forfeiture rules applicable to certain benefits under the Plan. In addition to the rules set forth in this Article V, see Section 7.4 regarding missing participants and improper credits, Section 10.2 regarding antiassignment, Section 10.3 regarding the unfunded nature of this Plan, and Appendix B for forfeiture rules applicable to the DCP Account. 
 
-**5.2    Extra Deferral Vesting**
+### 5. 2    Extra Deferral Vesting
 
-A Participant’s interest in his or her Extra Deferral Account will be 100% vested at all times.
+A Participant’s interest in his or her Extra Deferral Account will be 100% vested at all times. 
 
-**5.3    Restoration Vesting**
+### 5. 3    Restoration Vesting
 
-A Participant’s interest in his or her Restoration Account will be 100% vested at all times.
+A Participant’s interest in his or her Restoration Account will be 100% vested at all times. 
 
-**5.4    Executive Benefit Vesting**
+### 5. 4    Executive Benefit Vesting
 
-Subject to Section 5.5 and Section 5.6, a Participant’s interest in his or her Executive Benefit Account will be 100% vested at all times.
+Subject to Section 5.5 and Section 5.6, a Participant’s interest in his or her Executive Benefit Account will be 100% vested at all times. 
 
-**5.5    Executive SSP+ Company Contribution Forfeiture Rules**
+### 5. 5    Executive SSP+ Company Contribution Forfeiture Rules
 
 The Administrator may determine, in its sole discretion, that a Participant will forfeit any part or all of the portion of his or her legacy Executive SSP+ Company Contribution Account that is attributable to Executive SSP+ Company Contributions made on and after January 1, 2017, if any of the following circumstances occur while employed by the Controlled Group or within five (5) years after termination of such employment: 
 
@@ -12963,7 +13087,7 @@ To the extent the Participant has already received or commenced payment of such 
 
 In addition, the Administrator will, in all appropriate circumstances, require reimbursement of any Executive SSP+ Company Contribution Account attributable to Executive SSP+ Company Contributions made on and after January 1, 2017, which are attributable to an incentive award that the Controlled Group seeks to recover under the clawback provision of any plan providing Cash Incentive. 
 
-**5.6    DC SERP Vesting**
+### 5. 6    DC SERP Vesting
 
 No payments shall be made from a Participant’s DC SERP Account except to the extent such Participant is vested in his or her DC SERP Account. 
 
@@ -12977,9 +13101,9 @@ A Participant described in Section 4.5(A)(i) (Hired Between January 1, 2009 and 
 
       - (iii) The Participant is laid off from a position at level EL or EV (referred to as level E-1, E-2, or E-3 prior to August 15, 2022]), and is eligible for benefits under The Boeing Company Executive Layoff Benefits Plan.
 
-See subsection (C) below for additional vesting rules for these Participants based on age and Service.
+See subsection (C) below for additional vesting rules for these Participants based on age and Service. 
 
-   - (B) General DC SERP Vesting Rule for Participants Hired Before January 1, 2009
+#### (B)    General DC SERP Vesting Rule for Participants Hired Before January 1, 2009
 
 A Participant described in Section 4.5(A)(ii) (Hired Before January 1, 2009) will vest 100% in his or her DC SERP Account component covered under this subsection (B) on the date the Participant satisfies the conditions in any of (i), (ii) or (iii) below. 
 
@@ -13003,17 +13127,17 @@ This Participant will vest ratably in the portion of his or her DC SERP Account 
 
 for each consecutive month that the Participant is on the US Executive Payroll at a level of EL or EV (referred to as level E-1, E-2, or E-3 prior to August 15, 2022), starting with the date on which the Participant was first promoted to the US Executive Payroll at a level of EL or EV (referred to as level E-1, E-2, or E-3 prior to August 15, 2022). This pro rata vesting rule is not intended to preclude the acceleration of vesting under subsections (A)(ii) (death) or (iii) (layoff) above, if applicable. 
 
-   - (D) Authorized Period of Absence
+#### (D) Authorized Period of Absence
 
 For purposes of this Section, an Authorized Period of Absence from the US Executive Payroll will count as a period on the US Executive Payroll, and an Authorized Period of Absence from a position at level EL or EV (referred to as level E-1, E-2, or E-3 prior to August 15, 2022) will count as a period at these levels. 
 
 If an Employee ceases to be at the applicable level for any reason other than an Authorized Period of Absence, and the Employee later returns to a position at the applicable level, these non-consecutive periods of service will not be aggregated for purposes of determining whether the 36-consecutive month requirement has been met. 
 
-   - (E) Transfers to and from ULA and USA
+#### (E) Transfers to and from ULA and USA
 
 For purposes of computing vesting for a Participant who transfers employment directly from the Controlled Group to ULA or USA, uninterrupted service at ULA or USA as an executive in a position at a comparable level will be credited toward the 36 consecutive months requirements described herein, provided that the Participant transfers directly from the US Executive Payroll (or a position at level EL or EV (referred to as level E-1, E-2, or E-3 prior to August 15, 2022), if applicable) at the Controlled Group to comparable executive status at ULA or USA, as applicable. ULA and USA service will not be credited toward vesting under this Plan for any period following the Participant’s removal from this executive status. For purposes of computing vesting for a participant who transfers employment directly from ULA or USA to the Controlled Group, uninterrupted service at ULA or USA as an executive at a position comparable to the US Executive Payroll (or a position at level EL or EV (referred to as level E-1, E-2, or E-3 prior to August 15, 2022), if applicable) will be credited toward the 36 consecutive months requirements described herein, provided that the Participant transfers directly from this executive status at ULA or USA to a position at a comparable level at the Controlled Group. ULA and USA service will not be credited toward vesting under this Plan for any period prior to the Participant’s attainment of this executive status at ULA or USA, as applicable. 
 
-   - (F) Impact of Separation from Service/Transfer
+#### (F)    Impact of Separation from Service/Transfer
 
       - (i) Payroll Contributions. If a Participant Separates from Service (other than due to an Authorized Period of Absence) or transfers off of the US Executive Payroll (or a position at level EL or EV (referred to as level E-1, E-2, or E-3 prior to August 15, 2022), if applicable) _before_ becoming 100% vested in the payroll contribution portion of his or her DC SERP Account described in Section 4.5(C)(i)(A) and/or (i)(B), as applicable, the Participant will forfeit all rights to the nonvested portion of his or her DC SERP Account attributable to the period prior to his or her Separation
 
@@ -13025,7 +13149,7 @@ from Service or transfer. To the extent any benefit under this Plan becomes vest
 
 See Section 7.4 regarding missing participants and improper credits, Section 10.2 regarding anti-assignment, and Section 10.3 regarding the unfunded nature of this Plan. Any amounts forfeited hereunder will not later be reinstated. 
 
-**5.7    DC SERP Forfeiture Rules**
+### 5. 7    DC SERP Forfeiture Rules
 
 The Administrator may determine, in its sole discretion, that a Participant will forfeit any part or all of his or her DC SERP Account if any of the following circumstances occur while employed by the Controlled Group or within five (5) years after termination of such employment: 
 
@@ -13045,11 +13169,11 @@ To the extent the Participant has already received or commenced payment of his o
 
 In addition, the Administrator will, in all appropriate circumstances, require forfeiture or reimbursement of any portion of a DC SERP Account attributable to an incentive award that the Controlled Group seeks to recover under the clawback provision of any plan providing Cash Incentive. 
 
-### ARTICLE VI Distributions
+## ARTICLE VI Distributions
 
-#### 6. 1    Form and Timing of Distribution
+### 6. 1    Form and Timing of Distribution
 
-   - (A) Extra Deferral Account
+#### (A)    Extra Deferral Account
 
 A Participant may elect the form and timing of distribution with regard to his or her Extra Deferral Account as described below, subject to the cash-out rule in subsection (E) below. This distribution election must be made at the same time the Participant makes his or her first Extra Deferral Election. 
 
@@ -13059,7 +13183,7 @@ Notwithstanding anything herein to the contrary, to the extent the Participant h
 
 A Participant may change a distribution election (or deemed distribution election) with respect to his or her entire Extra Deferral Account after the initial Extra Deferral Election is made (or deemed made), to the extent permitted and in accordance with the conditions stated under subsection (F) below. 
 
-   - (B) Restoration Account
+#### (B)    Restoration Account
 
 A Participant may elect the form and timing of distribution with regard to his or her Restoration Account as described below, subject to the cash-out rule in subsection (E) below. This distribution election must be made at the same time the Participant makes his or her first Restoration Deferral Election or, if earlier, during the enrollment period immediately preceding the first year with respect to which the Participant receives a Company contribution to his or her Restoration Account. Any election made as to the form and timing of distribution will apply to the Participant’s entire Restoration Account, including the Restoration True-Up Contributions and the Restoration SSP+ Company Contributions made for Plan Years prior to January 1, 2022, if any. 
 
@@ -13067,31 +13191,31 @@ If a Participant fails to make a timely election with regard to the _timing_ of 
 
 A Participant may change a distribution election (or deemed distribution election) with respect to his or her entire Restoration Account after the initial Restoration Deferral Election is made (or deemed made), to the extent permitted and in accordance with the conditions stated under subsection (F) below. 
 
-   - (C) Executive Benefit Account
+#### (C)    Executive Benefit Account
 
 No initial distribution elections are permitted or required with regard to a Participant’s Executive Benefit Account, to which is credited Company Non-Elective Contributions, Executive SSP+ Company Contributions and DC SERP Contributions. Rather, a Participant is deemed to have elected to receive his or her Executive Benefit Account in a lump sum, payable in January of the first Plan Year following Separation from Service (subject to subsection (H)). 
 
 A Participant may change his or her deemed distribution election with respect to his or her Executive Benefit Account to the extent permitted and in accordance with the conditions stated under subsection (F) below. 
 
-##### (D) Timing and Form of Distribution
+#### (D) Timing and Form of Distribution
 
-      - (i) Lump Sum Distribution
+#### (i)    Lump Sum Distribution
 
 The lump sum distribution option is a single lump sum payment that will be made in the later of: (i) January of the first Plan Year following Separation from Service, or (ii) January of the first Plan Year following the Participant’s attainment of a specified age (subject to subsection (E) below), as elected by the Participant under this Section 6.1 (in each case subject to subsection (H) below). Except as otherwise provided in subsection (H) below, the amount of such distribution will equal the value of the Participant’s Account as of the first business day of January of the Plan Year of payment (or such other distribution valuation date as is specified by the Administrator), and no additional interest or earnings will be credited thereafter. 
 
-      - (ii) Installment Payment
+#### (ii) Installment Payment
 
 The installment payment option is a series of annual installment payments for a period between 2 and 15 years, as elected by the Participant under this Section 6.1. Annual installment payments, if elected, will begin in the later of: (i) January of the first Plan Year following Separation from Service, or (ii) January of the first Plan Year following the Participant’s attainment of a specified age (subject to (E) below), as elected by the Participant under this Section 6.1 (in each case subject to subsection (H) below). Payments will continue to be made each January thereafter until the full amount of the benefit has been paid. 
 
 The amount payable to the Participant each year shall be computed by dividing the balance in the Account (or the applicable portion of the Account) as of the first business day of January of the Plan Year in which payment is to be made (or such other distribution valuation date as is specified by the Administrator) by the number of years remaining in the distribution period. No additional earnings or interest will be credited to a Participant’s account with respect to an installment payment after the valuation date used to determine the amount of such payment. See 
 
-Section 6.1(E) below for application of the cash-out rule to installment payments.
+Section 6.1(E) below for application of the cash-out rule to installment payments. 
 
-   - (E) Cash-outs
+#### (E)    Cash-outs
 
 Notwithstanding the foregoing, subject to the six-month delay in payment for Specified Employees under subsection (H), if a Participant has elected to receive installments and his or her remaining Account balance is $10,000 or less upon any scheduled payment date (excluding the balance of the DCP Account), the entire remaining balance will be paid as one final installment payment at that time. 
 
-   - (F) Changes to Distribution Election or Deemed Election
+#### (F)    Changes to Distribution Election or Deemed Election
 
 A Participant may change a distribution election (or deemed election) after the initial distribution election becomes effective (or deemed effective) only once with regard to each of the following subaccounts: the Participant’s Restoration Account, Executive Benefit Account, Extra Deferral Account, and DCP Account (Deferrals) and DCP Account (Match). 
 
@@ -13105,15 +13229,15 @@ To the extent any such changes would defer commencement of any portion of the Pa
 
       - (iii) The new distribution election must provide for an additional deferral period of at least 5 years beyond the original distribution date.
 
-In no event can installment payments be changed or revoked once they have begun. In all cases, payments will be made in January (subject to subsection (H)).
+In no event can installment payments be changed or revoked once they have begun. In all cases, payments will be made in January (subject to subsection (H)). 
 
-   - (G) Distributions At Age 70½
+#### (G)    Distributions At Age 70½
 
 Payment of benefits under this Plan will begin no later than the first January following the calendar year in which the Participant both attains (or would have attained) age 70½ and is Separated from Service. Payment of benefits for Participants actively employed beyond age 70½ will begin no later than the first 
 
-January following the calendar year in which the Participant Separates from Service. Subject to subsection (D), any election made by a Participant to the contrary will not be effective.
+January following the calendar year in which the Participant Separates from Service. Subject to subsection (D), any election made by a Participant to the contrary will not be effective. 
 
-   - (H) Specified Employees
+#### (H)    Specified Employees
 
 Notwithstanding anything to the contrary under this Article VI, a Specified Employee will not receive any distribution under this Plan during the six-month period immediately following his or her Separation from Service. 
 
@@ -13131,25 +13255,25 @@ For payments occurring other than in January, the amount of the distribution wil
 
 In the event of a Specified Employee’s death during the six-month waiting period, the waiting period will cease to apply. The Specified Employee’s benefits will be distributed in accordance with Section 6.2 (Death Benefits) below. 
 
-      - (I) Distribution Due to Unforeseeable Emergency
+#### (I)    Distribution Due to Unforeseeable Emergency
 
 A Participant or Beneficiary may elect to receive a distribution of all or a portion of his or her Extra Deferral Account, Restoration Account, Executive Benefit Account (other than the portion attributable to DC SERP Contributions), and DCP Account, regardless of whether benefit payments have commenced, to the extent that the Participant or Beneficiary incurs an Unforeseeable Emergency. A Participant or Beneficiary may not receive a distribution of his or her DC SERP Account solely in the event of an Unforeseeable Emergency, even if fully vested. 
 
 The amount of the distribution will be limited to the amount reasonably necessary to satisfy the emergency need, including any taxes or penalties reasonably anticipated to result from the distribution, as determined by the Administrator. 
 
-**6.2    Death Benefits**
+### 6. 2    Death Benefits
 
 If a Participant dies before his or her entire Account has been distributed, the remaining balance will be distributed to his or her Beneficiary in accordance with the Participant’s election or deemed election as to form and timing filed with the Administrator with regard to such Account(s). Distributions to the Beneficiary will be made at the same time (or as soon as administratively feasible following the Company’s receipt of a notice of the Participant’s death) and in the same form as the payment that otherwise would have been made to the Participant. 
 
 If a Beneficiary dies after the Participant, but before receiving the payment of all amounts due hereunder, then the unpaid amounts will be paid to the individual(s) designated (in accordance with the rules established by the Administrator) by the Beneficiary as his or her beneficiary(ies), or if no such designation has been made (or if such individual(s) do(es) not survive to receive payment), then such unpaid amounts will be paid to the Beneficiary’s estate, in a single lump sum, as soon as administratively feasible after the Beneficiary’s death. 
 
-**6.3    Rehires and Authorized Periods of Absence/Reduced Level of Services**
+### 6. 3    Rehires and Authorized Periods of Absence/Reduced Level of Services
 
 This Section 6.3 addresses the form and timing of payment for a Participant who is rehired by the Company following a Separation from Service, or who remains employed after a Separation from Service has occurred (for example, due to an extended Authorized Period of Absence or due to reduced level of services). 
 
 In the event that a Participant forfeits a nonvested DC SERP Account upon a Separation from Service, this benefit will not be restored upon rehire. This rule applies regardless of whether the Participant satisfies the vesting criteria under Section 5.5 following rehire. 
 
-   - (A) After Commencing Benefits
+#### (A) After Commencing Benefits
 
 This subsection (A) applies to a Participant who has received or begun receiving benefits under the Plan because he or she has experienced a Separation from Service and has attained the specified age (if applicable). 
 
@@ -13159,7 +13283,7 @@ Participant Deferrals made and Company Contributions received attributable to pe
 
       - (ii) Authorized Period of Absence/Reduced Level of Services. To the extent a Participant made additional Participant Deferrals or received additional Company Contributions while on an Authorized Period of Absence or during a period of a reduced level of services that constituted a Separation from Service under Code section 409A, such Participant Deferrals made and Company Contributions received (to the extent vested) will be distributed in January of the first Plan Year following the year in which they are made, in accordance with the Participant’s earlier distribution election or deemed election. This is because the Participant has already satisfied the conditions for payment under Section 6.1(D); namely, he or she has attained the specified age and has experienced a Separation from Service attributable to such Participant Deferrals made and contributions received.
 
-   - (B) Before Commencing Benefits
+#### (B)    Before Commencing Benefits
 
 This subsection (B) applies to a Participant who has not begun receiving benefits under the Plan. 
 
@@ -13171,9 +13295,9 @@ The Participant’s New Account will remain subject to the Participant’s earli
 
 distribution election selected benefits in the form of a lump sum (or installments) payable in January following attainment of a specified age under Section 6.1(D), then any Participant Deferrals made and contributions received during an Authorized Period of Absence or a period of a reduced level of services will be payable as a lump sum (or installments, if so elected) in January following the year in which he or she attains the specified age. This result will not change in the event that the Participant attains the specified age while on an Authorized Period of Absence or during a period of a reduced level of services, but resumes (or increases his or her level of) services before benefits actually begin. 
 
-### ARTICLE VII Accounts
+## ARTICLE VII Accounts
 
-**7.1    Participant Accounts**
+### 7. 1    Participant Accounts
 
 The Administrator will establish and maintain an Account for each Participant, for each period of employment. Solely for this purpose, a period of employment will be treated as commencing upon a Participant’s eligibility for the Plan (following hire or rehire as applicable) and ending with his or her Separation from Service. 
 
@@ -13181,35 +13305,35 @@ Each Account will be credited with Participant Deferrals and Company Contributio
 
 In connection with the January 1, 2019 amendment and restatement of the Plan, there was a one-time transfer of certain Restoration Benefit sub-accounts of certain participants from the Plan to The Boeing Company Supplemental Savings Plan (the “SSP”) such that the opening account balances of such participants in the SSP on January 1, 2019 was equal to the closing balance of such participants’ Restoration Accounts in the Plan on December 31, 2018. The affected participants were: (A) each Employee (as defined in the SSP) who was an Eligible Employee (as defined in the SSP) on January 1, 2019, and was a participant in the Restoration Benefit of the Plan prior to 2019 and (B) each other current or former Employee (as defined in the SSP) who was not as of January 1, 2019 and had never been on the US Executive Payroll (as such term is defined in the Plan). 
 
-**7.2    Earnings Credits**
+### 7. 2    Earnings Credits
 
 A Participant’s Account(s) will be credited, at the Participant’s (or, if applicable, Beneficiary’s) election, with earnings under one or more of the following, as the individual elects and subject to any rules or limitations as may be imposed by the Administrator: (i) the Interest Fund method, (ii) the Boeing Stock Fund method, or (iii) the Other Investment Funds method, each as described below. In the absence of an election the Interest Fund method will be used. 
 
-   - (A) Interest Fund Method
+#### (A)    Interest Fund Method
 
 Under this method, a Participant’s Interest Fund method sub-account shall be adjusted daily in accordance with changes in the unit value of the sub-account to reflect interest, based on the Participant’s sub-account balance. 
 
 Interest will be calculated for each Plan Year as the mean between the high and low (during the first eleven months of the preceding Plan Year) of yields on AA-rated industrial bonds as reported by Moody’s Investors Service, Inc., rounded to the nearest ¼th of one percent. Participants will be notified annually of the established interest rate. 
 
-   - (B) Boeing Stock Fund Method
+#### (B)    Boeing Stock Fund Method
 
 Under this method, a Participant’s Boeing Stock Fund sub-account will be credited (or charged) with units, which units will be valued (and adjusted in value for expenses, income, gains and losses thereon) in the same manner as units in the Boeing Stock Fund under the Boeing 401(k), pursuant to an election by the Participant to have the Participant’s sub-account credited as though the Participant had elected to invest in such fund in such increments as the Participant will direct 
 
 in accordance with rules established by the Administrator or its delegates. The number of units shall be recorded in the Participant’s Boeing Stock Fund sub-account for bookkeeping purposes only, and shall not represent an actual ownership interest in the common stock of The Boeing Company or in the Boeing Stock Fund under the Boeing 401(k). The number of stock units in a sub-account shall be appropriately adjusted to reflect stock splits, stock dividends, and other like adjustments in the common stock of The Boeing Company as is reflected in the Boeing Stock Fund under the Boeing 401(k). 
 
-   - (C) Other Investment Funds Method
+#### (C)    Other Investment Funds Method
 
 Under this method, a Participant may choose to diversify his or her Other Investment Funds sub-account by electing that it be credited (or charged) with the expenses, income, gains and losses on investment funds similar to those offered under the Boeing 401(k) (excluding the Boeing Stock Fund and Stable Value Fund offered thereunder) as designated by the Administrator from time to time, pursuant to an election by the Participant to have the Participant’s sub-account credited as though the Participant had elected to invest in such funds in such increments as the Participant will direct in accordance with rules established by the Administrator or its delegates; provided that the Administrator may disregard such elections in its discretion. 
 
 Earnings credits to a Participant’s Account(s) may be subject to valuation adjustments in accordance with the procedures established by the Administrator; provided, in no event will the portion of a Participant’s Account(s) that has been distributed as of the time a valuation adjustment is made be subject to such valuation adjustment. 
 
-**7.3    Investment Election Changes and Restrictions**
+### 7. 3    Investment Election Changes and Restrictions
 
 A Participant may change how future additions to his or her Account(s) are deemed invested anytime during the Plan Year subject to the Administrator’s rules and restrictions. The Participant may also transfer any portion of his or her sub-accounts from one investment fund to another on a daily basis, provided that a Participant may not transfer funds from one investment fund to another and back on the same day. 
 
 In addition, transfers cannot be made into the Boeing Stock Fund for 30 calendar days after transferring funds out of the Boeing Stock Fund. This restriction applies regardless of the number of units or the dollar value of the transfer. However, the Participant may continue to direct future additions into the Boeing Stock Fund and make transfers out of this investment fund at any time, subject to insider trading rules. 
 
-**7.4    Missing Participants and Improper Credits**
+### 7. 4    Missing Participants and Improper Credits
 
 A Participant’s Account may be forfeited or reduced upon the occurrence of one of the following events, even if 100% vested: 
 
@@ -13295,8 +13419,6 @@ Any notice or filing required or permitted to be given under the Plan shall be s
 
 This Appendix A may be updated by the Administrator from time to time without the need for a formal amendment to the Plan. 
 
-A-1 
-
 ## APPENDIX B Deferred Compensation Plan for Employees of The Boeing Company
 
 The provisions of this Appendix B apply to DCP Accounts and individuals who were participants in the DCP as of December 31, 2021. In the event of a conflict between this Appendix B and the other provisions of the Plan, the provisions in this Appendix B shall control. 
@@ -13305,17 +13427,15 @@ No DCP Deferrals were made to the DCP with respect to Base Pay earned and paid o
 
 Effective with respect to amounts deferred on or after January 1, 2006 (including amounts for which Deferral Elections were made prior to January 1, 2006) the Company no longer provided any DCP Matching Contributions on any DCP Deferrals into a Boeing Stock Fund account; provided that in the case of DCP Deferrals that were the subject of a deferral election into a Boeing Stock Fund account made prior to January 1, 2005, the Company continued to match such DCP Deferrals of Boeing Stock Units and Performance Share Awards that are not yet vested (upon vesting) and such DCP Deferrals of 2005 Annual Incentive Awards that were paid in 2006. To the extent that the Company previously a DCP Matching Contribution with respect to all or part of any amounts previously deferred under the DCP, each such DCP Matching Contribution was deferred together with the Deferral to which it relates, and is subject to all of the Participant elections (including default elections) with respect to such Deferral. 
 
-- 1. Forfeiture and Reinstatement of Matching Contributions
+#### 1.    Forfeiture and Reinstatement of Matching Contributions
 
    - (A) Any DCP Matching Contribution shall be canceled and forfeited if the Participant Separates from Service for any reason other than retirement under a retirement plan sponsored by the Company, disability as determined by the Company, layoff, or death. The forfeited DCP Matching Contribution (and any Earnings Credits that would have accrued but for the forfeiture) will be reinstated upon rehire, only where (i) the Participant’s Separation from Service occurred while the Participant was on an Authorized Period of Absence or due to a reasonably anticipated permanent reduction in the level of services performed by the Participant to less than 50 percent of the average level of services performed by the Participant during the immediately preceding 36-month period, and (ii) the Participant’s Separation from Service was deemed a Separation from Service under Code section 409A or the terms of this Plan (i.e., the Participant did not incur a termination of employment with the Controlled Group).
 
    - (B) Reinstatement of the Participant’s forfeited benefits will occur upon (i) return to active employment with the Company within the Authorized Period of Absence, (ii) termination of the Authorized Period of Absence or period of a reduced level of services due to retirement under a plan sponsored by the Company, disability as determined by the Company, layoff or death, or (iii) the Participant’s return to active employment at a level of services that is 50 percent or more of the average level of services performed by the Participant prior to his or her prior deemed Separation from Service due to a reduction in services. Such reinstated benefits will remain subject to the forfeiture provisions of the first sentence of section 1(A) the payment timing rules under Section 3(A) hereof.
 
-- 2. DCP Deferrals Eligible for Diversification
+#### 2.    DCP Deferrals Eligible for Diversification
 
 The following DCP Deferrals are eligible for investment diversification: 
-
-B-1 
 
    - (A) DCP Deferrals of Base Pay (once earned);
 
@@ -13329,27 +13449,27 @@ B-1
 
    - (F) In the case of a Participant whose termination of employment occurred on or before December 31, 2005, any DCP Matching Contributions credited to the Participant’s Accounts on or before January 3, 2006 (the next business day the Exchange is open); and
 
-   - (G) Performance Awards.
+#### (G)    Performance Awards.
 
 Performance Shares that were unvested as of December 31, 2005, and deferred into the Boeing Stock Fund account shall not be eligible for diversification, even upon vesting. DCP Matching contributions (except as described in (F) above) also shall not be eligible for diversification. Amounts eligible for diversification are sometimes referred to as “transferable amounts” and amounts not eligible for diversification are sometimes referred to as “nontransferable amounts.” 
 
-- 3. Form and Timing of Distribution.
+### 3.    Form and Timing of Distribution.
 
-   - (A) General Rule
+#### (A)    General Rule
 
 A Participant in the DCP was permitted to elect the form and timing of distribution with regard to his or her entire Account as described in subsections 6.1(D)(i) and 6.1(D)(ii). This distribution election was required to be made at the same time the Participant made his or her Deferral Election. 
 
 In the event that no distribution option was elected, the Participant is deemed to have elected to receive a single lump sum payable in January of the first Plan Year following the Participant’s Separation from Service. 
 
-   - (B) Changes to Distribution Election
+#### (B)    Changes to Distribution Election
 
 A Participant may change a distribution election with regard to his or her entire Account only to the extent permitted by Section 6.1(F) of the Plan. 
 
-   - (C) Separate Election for Matching Contributions
+#### (C)    Separate Election for Matching Contributions
 
 Notwithstanding the foregoing subsections (A) and (B), Participants who terminate employment on or after January 1, 2006, were permitted to make a separate election under subsection (A) above as to the time and form of distribution of (i) the Participant’s Company Matching Contributions and (ii) the balance of the Participant’s Plan Account. Such a Participant may also make a separate one-time distribution election change under subsection (B) above with respect to each such separate election under this subsection (C). 
 
-   - (D) Separate Election for Annual Installments B-2
+#### (D)    Separate Election for Annual Installments
 
 If a Participant makes a separate election under subsection (C)(ii) above to receive the balance of the Participant’s DCP Account in annual installment payments, the Participant may further elect to receive either: 
 
@@ -13357,19 +13477,25 @@ If a Participant makes a separate election under subsection (C)(ii) above to rec
 
       - (ii) A prorated payment of all the funds in the Participant’s Account each year.
 
-   - (E) Distributions At Age 70 ½ See Section 6.1(G) of the Plan.
+#### (E)    Distributions At Age 70 ½
 
-   - (F) Specified Employees See Section 6.1(H) of the Plan.
+See Section 6.1(G) of the Plan. 
 
-   - (G) Distribution Due to Unforeseeable Emergency See Section 6.1(I) of the Plan.
+#### (F)    Specified Employees
 
-   - (H) Death Benefits
+See Section 6.1(H) of the Plan. 
+
+#### (G)    Distribution Due to Unforeseeable Emergency
+
+See Section 6.1(I) of the Plan. 
+
+#### (H)    Death Benefits
 
 If a Participant only has a DCP Account under this Plan, then the Participant’s beneficiary designation made under the DCP prior to January 1, 2022 will apply hereunder, unless and until changed by the Participant in accordance with the terms of the Plan. If a Participant has both a DCP Account and another Account under the Plan, then the Participant’s beneficiary designation under the DCP will become null and void as of January 1, 2022, and such Participant who wishes to designate a Beneficiary must make a new beneficiary designation in accordance with the terms of the Plan. 
 
-- 4. Rehires See Section 6.3 of the Plan.
+#### 4.    Rehires
 
-B-3 
+See Section 6.3 of the Plan. 
 
 ## EXHIBIT 21
 
@@ -13462,7 +13588,7 @@ In accordance with Item 601(b)(21) of Regulation S-K, the company has omitted fr
 
 ## EXHIBIT 23
 
-### CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+## CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
 
 We consent to the incorporation by reference in Registration Statement Nos. 33-25332, 33-31434, 33-43854, 33-58798, 33-52773, 333-16363, 333-26867, 333-32461, 333-32491, 333-32499, 333-32567, 333-41920, 333-54234, 333-73252, 333-107677, 333-140837, 333-156403, 333160752, 333-163637, 333-195777, 333-228097, 333-252770, and 333-268762 on Form S-8 and Registration Statement Nos. 333-240300, 333249827, and 333-250000 on Form S-3 of our reports dated January 27, 2023, relating to the financial statements of The Boeing Company and the effectiveness of The Boeing Company's internal control over financial reporting appearing in this Annual Report on Form 10-K for the year ended December 31, 2022. 
 
@@ -13470,7 +13596,7 @@ We consent to the incorporation by reference in Registration Statement Nos. 33-2
 
 ## EXHIBIT 31.1
 
-### CERTIFICATION PURSUANT TO RULE 13a-14 OF THE SECURITIES EXCHANGE ACT OF 1934, AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
+## CERTIFICATION PURSUANT TO RULE 13a-14 OF THE SECURITIES EXCHANGE ACT OF 1934, AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
 
 I, David L. Calhoun, certify that: 
 
@@ -13502,7 +13628,7 @@ David L. Calhoun President and Chief Executive Officer and Director
 
 ## EXHIBIT 31.2
 
-### CERTIFICATION PURSUANT TO RULE 13a-14 OF THE SECURITIES EXCHANGE ACT OF 1934, AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
+## CERTIFICATION PURSUANT TO RULE 13a-14 OF THE SECURITIES EXCHANGE ACT OF 1934, AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
 
 I, Brian J. West, certify that: 
 
@@ -13536,7 +13662,7 @@ Executive Vice President and Chief Financial Officer
 
 ## EXHIBIT 32.1
 
-### CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+## CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
 
 In connection with the Annual Report of The Boeing Company (the “Company”) on Form 10-K for the period ending December 31, 2022, as filed with the Securities and Exchange Commission on the date hereof (the “Report”), I, David L. Calhoun, President and Chief Executive Officer and Director of the Company, certify, pursuant to 18 U.S.C. § 1350, as adopted pursuant to § 906 of the Sarbanes-Oxley Act of 2002, that: 
 
@@ -13550,7 +13676,7 @@ David L. Calhoun President and Chief Executive Officer and Director January 27, 
 
 ## EXHIBIT 32.2
 
-### CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+## CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
 
 In connection with the Annual Report of The Boeing Company (the “Company”) on Form 10-K for the period ending December 31, 2022, as filed with the Securities and Exchange Commission on the date hereof (the “Report”), I, Brian J. West, Executive Vice President and Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. § 1350, as adopted pursuant to § 906 of the Sarbanes-Oxley Act of 2002, that: 
 

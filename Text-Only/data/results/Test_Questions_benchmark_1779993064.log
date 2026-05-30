@@ -1,0 +1,125 @@
+=== PROXY-POINTER AUTOMATED BENCHMARK ===
+Dataset: data/Benchmark/Comprehensive k=5/Test_Questions.xlsx
+
+================================================================================
+Q1 [AMD_2022_10K] USER QUERY: For AMD, what percentage of total revenue growth from FY2021 to FY2022 is attributable to the Embedded segment (including Xilinx)?
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 5 Unique Nodes):
+  -> Node 0256   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+  -> Node 0255   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2026 Notes and July 2028 Notes
+  -> Node 0263   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Modification and Waiver
+  -> Node 0261   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Definitions
+  -> Node 0265   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Book-Entry, Delivery and Settlement
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+The provided context does not contain information regarding AMD's revenue growth, financial segments, or the impact of the Xilinx acquisition. The provided documents are limited to PepsiCo's 2022 10-K filing related to debt notes, definitions, and settlement procedures.
+
+Sources:
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2026 Notes and July 2028 Notes
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Modification and Waiver
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Definitions
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Book-Entry, Delivery and Settlement
+
+--- GROUND TRUTH ---
+~60.1% (4,306 / 7,167)
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to answer the question entirely, claiming the provided context was limited to PepsiCo documents, which indicates a retrieval failure rather than an attempt to answer the specific financial query about AMD.
+
+================================================================================
+Q2 [AMD_2022_10K] USER QUERY: For AMD, compute the operating margin for FY2022 and compare it with FY2021. What is the change in percentage points?
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 5 Unique Nodes):
+  -> Node 0618   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+  -> Node 0619   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+  -> Node 0263   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Modification and Waiver
+  -> Node 0517   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > 2. 21 Performance Period:
+  -> Node 0613   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > IN WITNESS WHEREOF
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+The provided context does not contain financial information for AMD; it only contains documents related to PepsiCo, Inc. Therefore, I cannot compute the operating margin or the change in percentage points for AMD.
+
+Sources:
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Modification and Waiver
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > 2. 21 Performance Period:
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > IN WITNESS WHEREOF
+
+--- GROUND TRUTH ---
+Operating margin declined from 22.2% (2021) to 5.36% (2022), a decrease of 16.84 percentage points
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to answer the question because it restricted its search to the provided context documents instead of utilizing its internal knowledge base to retrieve the publicly available financial data for AMD.
+
+================================================================================
+Q3 [AMD_2022_10K] USER QUERY: For AMD, quantify how much of the operating income decline in FY2022 is explained by acquisition-related amortization and costs.
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 5 Unique Nodes):
+  -> Node 0256   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+  -> Node 0538   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > 3. 04 Acquisitions and Divestitures:
+  -> Node 0455   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > F.4 Operating Rules:
+  -> Node 0603   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > APPENDIX ARTICLE C – PARTICIPANTS AFFECTED BY JANUARY 20, 2022 TRANSACTION
+  -> Node 0387   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > Exhibit 10.10
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+The provided documents do not contain information regarding AMD, its financial performance in FY2022, or its acquisition-related amortization and costs. The context provided is limited to PepsiCo's 10-K filings and retirement plan documents.
+
+Sources:
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > 2024 Notes, 2027 Notes, May 2028 Notes, 2031 Notes, 2032 Notes, 2033 Notes, 2039 Notes and 2050 Notes
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > 3. 04 Acquisitions and Divestitures:
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > F.4 Operating Rules:
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > APPENDIX ARTICLE C – PARTICIPANTS AFFECTED BY JANUARY 20, 2022 TRANSACTION
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > Exhibit 10.10
+
+--- GROUND TRUTH ---
+Majority (~$3B+ impact), as operating income fell despite revenue growth, largely due to Xilinx amortization and acquisition-related expenses
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to answer the question because it lacked the relevant source documents, incorrectly stating that the provided context was limited to PepsiCo filings.
+
+================================================================================
+Q4 [AMD_2022_10K] USER QUERY: For AMD, calculate the proportion of total assets contributed by goodwill and intangible assets in FY2022.
+--------------------------------------------------------------------------------
+--- BOT INTERNAL LOG ---
+====================================================================================================
+Final Context Selection (Top 5 Unique Nodes):
+  -> Node 0261   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Definitions
+  -> Node 0259   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Limitation of Liens
+  -> Node 0260   | PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Consolidation, Merger or Sale of Assets
+  -> Node 0605   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > PEPSICO, INC. SUBSIDIARIES (as of December 31, 2022)
+  -> Node 0390   | PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > SCHEDULE 1
+====================================================================================================
+
+--- BOT SYNTHESIZED RESPONSE ---
+The provided context does not contain financial information for AMD, nor does it provide asset data for the 2022 fiscal year. Therefore, I cannot calculate the requested proportion.
+
+Sources:
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Definitions
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Limitation of Liens
+- PEPSICO_2022_10K_4c8c4ff66da9 > FORM 10-K > PART IV > Consolidation, Merger or Sale of Assets
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > ARTICLE VII > PEPSICO, INC. SUBSIDIARIES (as of December 31, 2022)
+- PEPSICO_2022_10K_4c8c4ff66da9 > THE PEPSICO INTERNATIONAL RETIREMENT PLAN DEFINED CONTRIBUTION PROGRAM > SCHEDULE 1
+
+--- GROUND TRUTH ---
+71.46% ((24,177 + 24,118) / 67,580)
+
+--- JUDGE EVALUATION ---
+SCORE: 🔴
+NOTES: The bot failed to retrieve the requested AMD financial data, instead citing irrelevant PepsiCo documents. It incorrectly claimed the information was unavailable when it should have provided the calculation based on the ground truth data.
+
+================================================================================
+Q5 [AMD_2022_10K] USER QUERY: For AMD, what percentage of total revenue in FY2022 came from the Data Center segment?
+--------------------------------------------------------------------------------
